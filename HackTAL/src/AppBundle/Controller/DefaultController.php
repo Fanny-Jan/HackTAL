@@ -3,6 +3,7 @@
 namespace AppBundle\Controller;
 
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
+use StanfordTagger\POSTagger;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 
@@ -53,26 +54,28 @@ class DefaultController extends Controller
         }
 
 
-        $pos = new \StanfordTagger\POSTagger();
+        $pos = new POSTagger();
         $pos->setModel('../vendor/patrickschur/stanford-postagger-full-2016-10-31/models/french.tagger');
         $pos->setJarArchive('../vendor/patrickschur/stanford-postagger-full-2016-10-31/stanford-postagger.jar');
 
         foreach ($dataFR as $key => $value) {
 //            $test = explode(' ',$pos->tag($value['text']));
-            $keywords[] = preg_split("/[_]+|[\s,]+/", $pos->tag($value['text']));
+            $keywords[] = $pos->tag($value['text']);
         }
+        var_dump($keywords);
+        die();
         $k = 0;
 
         foreach ($keywords as $values) {
 
-            for ($i = 0; $i < count($values); $i = $i + 2) {
+            for ($i = 0; $i < count($values) -1; $i = $i + 2) {
                 $j = $i + 1;
                 $array[$k][$values[$i]] = $values[$j];
             }
             $k++;
         }
 
-        var_dump($array);
+        var_dump($keywords);
         die();
         // replace this example code with whatever you need
         return $this->render('default/index.html.twig');

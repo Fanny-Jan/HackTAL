@@ -1,0 +1,95 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "De passage sur Paris pour passer des concours, l'appartement de Maëlle était situé idéalement, très confortable et calme. L'hôte est très accueillante et très arrangeante. L'appartement est super, pour un séjour au cœur de Paris.",
+            "name": "Jennifer",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "L'appartement de Maelle correspond bien à l'annonce, cosy, très bonne literie, calme pourtant juste a côté de bars et restaurants ( au nord, et l'appartement est plein sud).A 10 minutes de Notre Dame et a côté du Panthéon à pieds . Je recommande vraiment cet appartements .",
+            "name": "France",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Quartier vivant à proximité du panthéon et de notre dame. L appartement est tres bien isolé du bruit des bars entourant la place. Très propre, lit confortable. Ne pas hésiter, très bon choix pour un séjour parisien authentique",
+            "name": "Ronan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "La description correspond parfaitement aux lieux, le quartier est vraiment bien, l'emplacement est idéal. L'appartement est idéal si vous cherchez uniquement un endroit où dormir quelques jours, je pense qu'on doit s'y sentir un peu à l'étroit plus longtemps. Néanmoins, je recommande vivement ce logement. Très bon séjour !",
+            "name": "Alexis",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Il me semble que la propriétaire le décrit comme un 'nid douillet' et ça lui correspond parfaitement. Tout y est très confortable, le lit notamment, et très propre. Le quartier est top, très vivant. On a eu peur au début parce que l appartement est pratiquement au-dessus d'un bar, mais il donne du coté opposé et en fermant la porte de l'étage on a pu dormir au calme avec les fenetres ouvertes vendredi/samedi et dimanche soir.",
+            "name": "Maxime",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "We would highly recommend this place to anyone! The area was younger and hip, and Maelle was very kind and considerate. The place was beautiful!",
+            "name": "Karissa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Maelle's place is great. Is centrally located in the Quartier Latin, at walkable distance from Saint Etienne, Notre Dame, Luxemburg Gardens, and even the Louvre. There are many restaurants in the area, and Maelle was kind enough to give us a list (map included) of her recommended places for eating, having drinks, etc. I highly recommend this place!",
+            "name": "Manuel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Maelle's apartment is great. Very centrally located, being close to the metro, bars and cafes. It's cosy and feels very homely. I'd stay again if going to Paris.",
+            "name": "Samantha",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Maelle's flat is located in a great area and safe at night. The Pantheon is right around the corner, and Notre Dame is just a quick walk down the hill. The metros are also very close and convenient to take the metro or the RER. There are bars and restaurants right beside the flat, so you don't have to go very far if you are hungry. The supermarket is also close, and the flat has a fridge for when you want to save a bit of money or eat in. Maelle is very responsive when you have questions and because I had never been to Paris, I had a few and she was very helpful and kind. Her friend Sonia was also helpful and extremely friendly. I would definitely stay there again and recommend to anyone.\n+ Plus",
+            "name": "Rebecca",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "p_emplacement": "rate_me",
+    "averageRanking": 5.0,
+    "nbReviews": 9,
+    "communication": 5.0,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 5.0,
+    "p_proprete": "rate_me",
+    "arrivee": 5.0,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 10,
+    "qualite-prix": 5.0
+}

@@ -1,0 +1,503 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Propriétaire super sympa , appart très agréable à refaire",
+            "name": "Laurence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Accueil détaillé et chaleureux L'appartement est tout confort Le quartier est très sympa !!! Et l'emplacement permet une nuit au calme. Nous avons passé un excellent séjour",
+            "name": "Frederique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Passionnée par sa ville, Nathalie pourra facilement vous aider à trouver et découvrir les pépites de Marseille. L' appartement est tout a fait conforme aux photos proposées sur l'annonce, confortable et est bien placé, il permet d'accéder aux principaux sites touristiques à pied (Vieux port, Mucem...) ou en transport en commun (Notre Dame de la Garde, plage...) Le séjour chez Nathalie est un lieu que nous recommandons pour toutes les personnes souhaitant découvrir Marseille en toute tranquillité, grâce notamment aux nombreux conseils avisés de notre hôte.\n+ Plus",
+            "name": "Ludovic",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement très agréable idéalement situé dans un quartier pittoresque de marseille à proximité du mucem et du vieux port. L hôte est une personne charmante et bienveillante dont les conseils sont précieux.",
+            "name": "Kahil",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Nous avons passé un week-end extraordinaire à Marseille à commencer par l accueil convivial et sympathique de Nathalie. Elle a pris le temps de nous informer de toutes les activités possible sur la ville. L'appartement est refait à neuf, très bien équipé et calme. Nous le recommandons vivement.",
+            "name": "OLivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Accueil on ne peut plus chaleureux de Nathalie et son mari qui malgré notre heure d'arrivée très tardive ont pris le temps de nous conseiller sur les lieux à visiter. Que dire de l'appartement si ce n'est qu'il est idéalement situé dans une rue calme, qu'il est neuf, très confortable et très propre et on ne peut mieux équipé. De nombreux produits de base sont à notre disposition... on se croirait à la maison... et avec même un petit déjeuner d'accueil. Un appartement à réserver sans aucune hésitation. Merci encore Nathalie.",
+            "name": "Florian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement idéalement situé au coeur du panier. Nathalie à pris le temps de nous accueillir et de nous donner des conseils pour la visite de marseille. L'appartement est très propre et est décoré avec beaucoup de goût. Nous avons passé un merveilleux séjour. Merci pour tout",
+            "name": "Karine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Tout est parfaitement propre et neuf dans cet appartement idéalement situé à Marseille.",
+            "name": "Kane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Logement très bien situé dans une rue très calme. Appartement très propre et très bien équipé, rien ne manque. Nathalie nous a très bien accueillis et renseignés sur tout les lieux à visiter. Nous avons passés un excellent séjour !",
+            "name": "Justine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Super appartement, très propre, moderne et confortable. Super quartier, vivant et très central. Super accueil de Nathalie, disponible et bienveillante, qui nous a donné plein de conseils balades et restaurants. On a adoré notre séjour à MARSEILLE. On reviendra !",
+            "name": "Katelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Appartement conforme à l'annonce. Nathalie est un hôte très agréable et en vraie Marseillaise nous dit tout ce qu'il ne faut pas manquer dans cette superbe ville. Mieux que le routard... N'hésitez pas à louer ce petit appartement très bien agencé, très propre et avec tout ce qu'il faut. A conseiller un maximum.",
+            "name": "Nathalie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Ce petit logement cosy et moderne a été élaboré avec goût. Il est très propre et très bien situé. Nathalie m'a très bien accueillis et a pris le temps de tout m'expliquer, des sites a visiter. Elle met a notre disposition tout un dossier très détaillé de tout ce qu'il faut faire ou visiter, afin de ne pas se sentir perdu. J'ai passé un magnifique week-end. J'ai trouvé mon pied à terre à Marseille pour mes prochaines escapades. Merci beaucoup Nathalie. A bientôt.",
+            "name": "Rachida",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Ce logement est idéal si vous désirez passer quelques jours à Marseille. Il est idéalement placé, en plein cœur du panier et à 2min à pied du vieux Port. Nathalie est une hôte très accueillante! Le logement est en tous points conforme aux descriptions. Je n'hésiterai pas à y séjourner à nouveau.",
+            "name": "Camille",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Trés bon séjours passé chez Nathalie. Appartement cosy et bien équipé. Proximité restaurants et transports. Disponibilité et trés bonne accueil de Nathalie. Utilisateur pour des déplacements professionnel, je laisse rarement de commentaires mais cet appartement justifie de donner une bonne note.",
+            "name": "Haroun",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Logement conforme à nos attentes. Très bien situé, dans une rue calme tout en étant en plein centre de Marseille. Le quartier du Panier est vraiment plein de charme. La propriétaire nous a très bien accueillis et a pris le temps de nous renseigner sur les sites à visiter. Elle a constitué tout un dossier très détaillé (itinéraire au départ de l'appartement, temps en minutes pour les musées, commerces, restaurants...). Tous les produits de première nécessité étaient fournis pour nous dépanner avant d'aller faire des courses (notamment de quoi prendre un petit déjeuner avec beurre, confiture, biscottes, croissants, pains au chocolat, café, thé). Séjour très apprécié. Nous recommandons ce logement !\n+ Plus",
+            "name": "Elsa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Nathalie a tout prévu. Il y a une fiche explicative pour chaque appareil, une liste des commerces, restaurants dans les environs, les transports en commun...etc... L'appartement est bien situé, au calme dans un quartier pittoresque, très proche du Vieux Port. Le logement est très confortable et très bien entretenu. Je le recommande.",
+            "name": "Nathalie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Une super hôte qui nous a accueillit parfaitement.",
+            "name": "Guilhem",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Le séjour chez Nathalie était très bien : l'appartement proposé était impeccable et correspondait parfaitement aux prestations décrites. Nathalie nous a réservé un accueil très chaleureux en plus de toute la documentation proposée pour les visites de Marseille et des environs. Je recommande donc chaleureusement son appartement et n'hésiterais pas à y revenir pour un prochain séjour à Marseille.",
+            "name": "Marie Helene",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Le logement de Nathalie est simplement SUPER: tout est neuf et fonctionnel, la literie confortable, tous les électroménagers sont présents (micro-onde, grille-pain, aspirateur, sèche-cheveux, télé avec chaînes étrangères, etc...), la connexion wifi est impeccable et de plus il y a TOUS les produits de base (pour le nettoyage et aussi alimentaires!). Nous avons trouvé des produits tels que beurre, confiture, huile, sel, pâtes, jus, café, sucre, biscottes, bref tout ce qui pouvait nous servir à peine arrivés! De plus, le quartier est très tranquille, mais en même temps plein de boutiques très sympathiques et donc vivant, et surtout très près de TOUT: commerces, transports et centre!!! En somme, nous avons été ravis et nous recommandons cet appartement vivement! Encore merci et... sûrement à la prochaine!!!!\n+ Plus",
+            "name": "Cinzia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Très bon séjour dans ce petit appartement très bien équipé et parfaitement situé. Tout est à disposition, l'hôte donne également beaucoup de conseils à l'arrivée pour que l'on découvre Marseille De La meilleure des manières. Les photos sont conformes à l'état de l'appartement, il est en état quasi neuf. Merci pour le séjour !",
+            "name": "Sonia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Logement agréable très bien situé au calme aménagé avec goût d'une propreté exemplaire. Rien ne manque les croissants pour le petit déjeuner, les chocolats de Noel.....Bravo à Nathalie elle est formidable et Marseillaise dans l'âme, ponctuelle, arrangeante. Je recommande cet appartement sans aucune hésitation vous ne serez pas déçu.",
+            "name": "Agnès",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "L'appartemene de Nathalie est parfait : décoré avec goût, confortable, très bien placé au coeur du panier et derrière le vieux port. Tout à fait conforme aux photos. Nathalie et son mari sont aussi vraiment très gentils et ravis de partager leur amour de Marseille. Ils mettent à disposition toute une documentation sur Marseille, les lieux et les événements qui permet de tout savoir tres rapidement. A recommander !",
+            "name": "Karine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "appartement aménagé avec beaucoup de soin, dans les moindres détails pour le confort des locataires. excellente isolation phonique et la rue semble très calme, pas de vis à vis. et les gâteaux d'accueil sont excellents !!!!",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Des hôtes parfait, qui connaissent leur ville avec une convivialité chaleureuse. Je recommande avec ferveur !",
+            "name": "Boris",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Très bon séjour. Je le conseille vivement!",
+            "name": "Alan & Morgane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Tout c'est très bien passé, arrivée, accueil, logement.",
+            "name": "Paulette",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Très beau séjour à Marseille, chaleureusement accueillis par Nathalie qui nous a donné plein de judicieux conseils de visite. Le logement est vraiment agréable,fonctionnel,très propre et soigné,en plus d'être idéalement situé. A refaire sans hésiter!",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "accueil chaleureux ,description sur internet correspondant fidelement a la location, quartier ancien agreable en pleine restauration .",
+            "name": "Beatrice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Très bon accueil de la part de Nathalie. Son appartement est impeccable et très bien équipé. Dans un quartier super. Elle nous a donné de précieux conseils bien utiles. Je recommande cet appartement",
+            "name": "Maud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Nous avons passé un excellent séjour à Marseille, en grande partie grâce à l'appartement ! Entre les prestations de l'appartement ( localisation, équipements), les attentions et les conseils avisés de Nathalie, nous ne pouvons que recommander aux prochaines personnes de le choisir ! Il est parfait surtout pour 2 !",
+            "name": "Fabrice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Accueil chaleureux de Nathalie et de Pierre qui nous ont accueilli dans leur très sympathique appartement! Emplacement idéal dans le quartier du Panier, qui permet de rayonner partout dans Marseille...l'appartement est quant à lui d'une propreté absolue et en tout point conforme aux photos! Nous ne manquerons pas de recommander cette adresse et avons réellement apprécié le sourire et la gentillesse marseillaise de nos hôtes!",
+            "name": "Anne-Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Appartement très confortable avec tous les équipements fonctionnels d'excellente qualité. L'hôte nous a chaleureusement accueillis et conseillés sur les visites touristiques avec de nombreuses suggestions bien documentées. L'emplacement idéal en plein cœur du panier facilite les visites.",
+            "name": "Olivia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Excellent accueil de la part de Nathalie ( y compris boisson fraîche à notre arrivée !!! ) qui est un véritable guide touristique L appartement est très bien situé à 5 min du vieux port et des transports ( bus, métro, tram et navette maritime ) Il est très bien équipé et l on y manque de rien ! A recommander les yeux fermés !!!",
+            "name": "Pascal",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Excellent accueil nathalie nous a donné de tres bons conseils pour un excellent sejour .Nathalie est une hôte très chaleureuse souriante et serviable. L'appartement est entierement conforme aux photos du site il est tres cosy fonctionnel et propre .Tout etait à notre disposition ( seche cheveux fer à lisser machine a laver cafetiere lave vaiselle...) Concernant l'emplacement rien à dire le quartier est extrêmement sympa et est à proximité de tout les points centraux de marseille Si vous decidez de sejourner sur marseille je vous conseille cet appartement croyez moi vous ne serez pas deçus.\n+ Plus",
+            "name": "Hawa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Excellente hôte, très sympathique et très serviable. Nathalie est à la fois très chaleureuse et très professionnelle. Elle nous a très bien accueillis dans son très bel appartement. Elle nous a beaucoup conseillé sur toutes les opportunités touristiques à Marseille. Elle très bien à jour. Super organisée. L'appartement aussi est magnifique, neuf et très bien pensé. On y trouve absolument tout ce dont on peut avoir dans un appart, et en plus neuf et en très bon état. L'emplacement aussi est parfait! Merci pour ce reposant séjour. Abdellatif, Amadou, et Khalid.\n+ Plus",
+            "name": "Abdellatif",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Nathalie est très sympathique et très accueillante. Elle fait tout pour que le séjour se déroule au mieux et est très disponible à l'arrivée et pendant le séjour. Elle met à disposition des infos et des documents pour faciliter notre séjour à Marseille. L'appartement est situé dans le vieux quartier du Panier, très pittoresque et proche du Vieux Port. Il a été refait à neuf et est très bien équipé et agréable à vivre.",
+            "name": "Pascale",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Appartement agréable et fonctionnel, situe dans un quartier animé mais dans une rue très calme! Propreté irréprochable et accueil chaleureux ; je recommande vivement et j'y retournerai sûrement !",
+            "name": "Hélène",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Nathalie a été très acceuillante et souriante . Elle nous a même attendu Dans le quartier lors de notre arrivée sur Marseille . Elle a décrit précisément où nous pouvions nous rendre pour visiter la ville . Tout était parfait",
+            "name": "Laetitia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Tout était parfait! L'appartement est très confortable, bien aménagé avec goût, rien ne manque et surtout il est très bien situé : à la fois au cœur d'un quartier vivant et en même temps dans une rue au calme olympien. Merci infiniment à Nathalie qui est aux petits soins et à l'écoute de ses hôtes (conseils détaillés pour les visites et sorties). Nous sommes enchantées de cette escapade marseillaise...",
+            "name": "Françoise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Acceuil chaleureux, tout est organisé pour profiter au mieux de l'appartement qui correspond à ce qui est décrit. Situé dans le panier à 2 pas du Mucem et du port.",
+            "name": "Victor",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Superbe adresse! l'appartement est extrêmement bien situé pour découvrir la ville : au pied du vieux port, proche du MuCEM, des commerces de la Joliette, des transports en commun ... il est vraiment comme le descriptif : accueillant, très calme, fonctionnel, très propre et décoré avec beaucoup de goût et de soin, un grand merci à Nathalie pour son accueil (bien que nous arrivions très tard), ses conseils judicieux sur la ville et d'avoir pensé à notre premier petit déjeuner! nous y sommes restés 4 jours, c'est trop peu pour découvrir cette belle ville, nous y retournerons avec plaisir et recommandons ce logement sincèrement!\n+ Plus",
+            "name": "Fabienne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Accueil parfait, appartement correspondant à la description et très bien entretenu, localisation idéale. Merci à Nathalie ! Nous reviendrons avec grand plaisir et sans hésiter une seconde.",
+            "name": "Yasmina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Un grand merci à Nathalie pour son accueil ses conseils et son amabilité. De plus, venir m'attendre devant la gare et être arrangeante pour mon départ est fort sympathique de sa part ! L'appartement est très bien agencé et très confortable ! De même, sa proximité du vieux port et de toutes commodités m'a permis de passer un agréable séjour avec mon compagnon ! Je recommande ce jolie appartement à toute personne souhaitant séjourner à Marseille! Encore une fois, merci Nathalie, je me ferai un plaisir de revenir chez vous !",
+            "name": "Zoubida",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Appartement idéalement situé et conforme aux photos et à nos attentes. Très bien équipé, il ne manque rien ! Nathalie est de bon conseil et fait tout pour vous faire vous sentir bien à Marseille ! Nous y retournerons sans aucun doute...",
+            "name": "Laurent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Nous avons passé un séjour très agréable à Marseille notamment grâce à cet appartement idéalement situé à 5mm du Vieux port et de la Place des Pistoles, coeur du quartier du Panier. Nous avons pu profiter des équipements de ce logement (Nathalie a pensé à tout) très fonctionnel, propre et entièrement refait à neuf, la literie est également de très bonne qualité. Enfin, merci à notre hôte, Nathalie, très accueillante et toujours disponible. A conseiller vivement.",
+            "name": "Muriel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Nathalie est une hôte remarquable par sa disponibilité et sa gentillesse. En effet, nous avons pu arriver et quitter l'appartement aux heures qui nous convenaient; Nathalie nous avait très clairement indiqué le chemin jusqu'à l'appartement et en arrivant, un assiette de délicieuses friandises nous attendait ! Nos hôtes nous ont aussi donné des conseils de vive voix en prenant le temps de nous accueillir. Tout ce qui est nécessaire (équipement et informations touristiques personnalisées) est à disposition des locataires. L'appartement est entièrement neuf et tenu très propre, amplement équipé, très soigneusement décoré dans un esprit provençal moderne, et idéalement situé. L'atout majeur est le silence de la rue: aucun bruit ni dans l'immeuble ni dans cette petite rue du panier. Je recommande très vivement cette adresse très accessible depuis la gare, à deux pas des lieux les plus attrayants de Marseille. Séjournant régulièrement dans cette ville, je trouve que c'est le quartier le plus agréable pour un séjour touristique, un lieu à la fois vivant et tranquille.\n+ Plus",
+            "name": "V",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Nous avons été très bien accueillis par Nathalie et nous avons passé un superbe séjour à Marseille. Nathalie est flexible, souriante et aux petits soins. Elle se préoccupe de la satisfaction de ses hôtes. L'appartement est conforme au descriptif et aux photos. C'est un petit nid douillet, confortable et charmant, une très belle rénovation récente, à la fois moderne et fonctionnelle. Tout y est bien pensé. Très bien équipé : il ne manque rien. Etat neuf. Très propre. L'appartement est particulièrement bien placé, dans le quartier du Panier, et à 10min à pieds du Vieux Port, du Mucem, et du nouveau quartier des Docks. Situé au 1er étage, l'appartement reste lumineux. Calme. Aucun vis à vis. Supermarché à 5 min à pieds. Nous recommandons vivement cet appartement, et nous y reviendrons avec grand plaisir lors d'un prochain séjour !\n+ Plus",
+            "name": "Yvan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Nous avons passés un agréable séjour chez Nathalie et son époux. Avec en prime le comité d'accueil à la sortie du métro. L'appartement est charmant et correspond en tout point à sa description. Nathalie est une hôte très prévoyante et vous trouverez à disposition de quoi s'informer sur sa ville afin de la découvrir au mieux. L'emplacement est parfait.",
+            "name": "Amandine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Un très bon accueil de la part de Nathalie, souriante et attentionnée. L'appartement est très propre et vient d'être restauré avec goût. Il donne sur une rue tout à fait calme. Le quartier du Panier est très vivant. Un seul bémol : la connexion très aléatoire à Internet. Une excellente adresse que je recommande chaleureusement.",
+            "name": "Jc",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Nathalie et son mari sont absolument charmants - Avec l'accent du sud en prime ! En plus de conseils sur leur ville, ils étaient très disponible et très gentils. L'appartement est refait à neuf, tout équipé et idéalement placé dans le quartier du panier. Tout est fait pour que votre séjour soit le plus agréable possible ! Je ne peux que recommander chaudement ce logement - qui sera mon point de chute pour tout passage dans la cité phocéenne !",
+            "name": "Marine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Nathalie a été très flexible pour s’ajuster à mes heures d’arrivée et de départ. J’ai particulièrement apprécié le temps qu’elle a pris pour me permettre de me déplacer efficacement dans Marseille. Mon séjour a été enrichi par ses conseils en lien avec mes goûts et intérêts. De plus, il y a de la documentation sur les attraits touristiques à la disposition des invités dans le studio. L’appartement est aussi joli que sur les photos du site. Il est bien équipé et confortable. L’immeuble est calme. J’ai adoré l’ambiance du quartier (restos, brocantes, créateurs, etc.). L’appartement est très bien situé pour profiter de la ville à pieds. Nathalie et son conjoint sont des hôtes généreux et attentionnés. Je garde un excellent souvenir de mon séjour chez eux.\n+ Plus",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Très belle accueil de Nathalie. Elle nous a tout expliquer le fonctionnement des appareils, les bons restaurants, quoi visiter, les transports en plus de nous laisser un cartable avec tout les détails requis pour y passer un beau séjour. Le logement tel que décrit et très propre. Très bon matelas. Produits de base, café, thé etc. Très bien situé et proche de toutes les attractions, qui sont accessibles pour la plupart à pieds. Quartier tranquille à 2 minutes du port et 10 minutes de la gare à pied. Nous recommandons très fortement. Merci pour tout Serge et Johanne\n+ Plus",
+            "name": "Serge",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Great central location, thank you Nathalie for the allocated time.",
+            "name": "Téva",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "The host canceled this reservation 43 days before arrival. This is an automated posting.",
+            "name": "Saïd",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "A lovely little flat in a very central spot. Quiet and no traffic noise and everything very new and clean in the flat. If I had to give a negative, it would only be that there are lots of stairs: Marseille has many ups and downs and this flat is situated high up in the old harbour area, so it would be difficult for anyone with mobility problems. Other than that, you will love the area and Nathalie is very welcoming and full of information.",
+            "name": "Nancy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The T2 Coeur Panier apartment is exactly as pictured. It is a small apartment but very well laid out, with a lot of closet space. The bed and sofa bed were comfortable and the street was quite for sleeping. The kitchen was well equipped. The toilet seat broke while we were there (at the location of one of the screws). We told the host about it - we offered to pay half because we had enjoyed our stay. The host became irate and accused us of breaking it and lying and demanded that we pay the full amount. (My plumber said clearly the screw was too tight and that nothing we could have done caused the break! )\n+ Plus",
+            "name": "Jacqueline",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Excellent location, clean apartment, clear communication, and friendly!",
+            "name": "Ashley",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "A superbly furnished apartment in a great part of Marseille. Nathalie was very welcoming and simply a great host!",
+            "name": "James",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "We really enjoyed our stay at Nathalie's apartment: its located in the heart of the old city with easy access to all must-see things in Marseille. Nathalie was extremely communicative and provided many useful recommendations. The apartment is very cozy and has everything you need.",
+            "name": "Evgeny",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The apartment is exactly as represented in the photographs and I would highly recommend it. It was very clean and well maintained. I was alone and very comfortable on my 3 night stay. There is a full kitchen if you like to cook (I confess, I did not). Natalie was very helpful, meeting me part way from the metro to show me the way to the flat and before that explaining the shuttle service from the airport.",
+            "name": "Catriona",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Our first time in Marseilles and me and my boyfriend both fell in love with the City, or what we saw of it! Will definitely be back next year!",
+            "name": "Rosie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 5.0,
+    "nbReviews": 61,
+    "communication": 5.0,
+    "emplacement": 5.0,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 18,
+    "qualite-prix": 5.0
+}

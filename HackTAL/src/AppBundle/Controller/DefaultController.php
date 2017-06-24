@@ -13,9 +13,55 @@ class DefaultController extends Controller
      */
     public function indexAction(Request $request)
     {
+        //séparation des comments
+        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/12.json';
+        $save = file_get_contents($path);
+        $savedData = json_decode($save, true);
+
+        $j = 0;
+        for ($i = 0; $i < count($savedData['reviews']); $i++) {
+            if ($savedData['reviews'][$i]['lang'] == 'french') {
+                $dataFR[$j]['text'] = $savedData['reviews'][$i]['text'];
+                $dataFR[$j]['name'] = $savedData['reviews'][$i]['name'];
+                $dataFR[$j]['date'] = $savedData['reviews'][$i]['date'];
+                $j++;
+            }
+            if ($savedData['reviews'][$i]['lang'] == 'english') {
+                $dataEN[$j]['text'] = $savedData['reviews'][$i]['text'];
+                $dataEN[$j]['name'] = $savedData['reviews'][$i]['name'];
+                $dataEN[$j]['date'] = $savedData['reviews'][$i]['date'];
+                $j++;
+            }
+        }
+
+        $word = [
+            'mais',
+            'par contre',
+            'néanmoins',
+        ];
+
+        $pos = new \StanfordTagger\POSTagger();
+        $pos->setModel('../vendor/patrickschur/stanford-postagger-full-2016-10-31/models/french.tagger');
+        $pos->setJarArchive('../vendor/patrickschur/stanford-postagger-full-2016-10-31/stanford-postagger.jar');
+
+        foreach ($dataFR as $key => $value) {
+//            $test = explode(' ',$pos->tag($value['text']));
+            $keywords[] = preg_split("/[_]+|[\s,]+/", $pos->tag($value['text']));
+        }
+        $k = 0;
+
+        foreach ($keywords as $values) {
+
+            for ($i = 0; $i < count($values); $i = $i + 2) {
+                $j = $i + 1;
+                $array[$k][$values[$i]] = $values[$j];
+            }
+            $k++;
+        }
+
+        var_dump($array);
+        die();
         // replace this example code with whatever you need
-        return $this->render('AppBundle::index.html.twig', [
-            'base_dir' => realpath($this->getParameter('kernel.root_dir').'/..').DIRECTORY_SEPARATOR,
-        ]);
+        return $this->render('default/index.html.twig');
     }
 }

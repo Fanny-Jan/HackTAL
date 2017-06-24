@@ -1,0 +1,87 @@
+{
+    "precision": 4.0,
+    "reviews": [
+        {
+            "text": "Bien que peu cher, ce logement n'est vraiment pas recommandable. L'appartement sent la cigarette et le ménage est sommaire. Les éléments indiqués dans la description ne sont pas présents. La literie grince.",
+            "name": "So",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Il faut savoir qu'il n'y a pas de drap plat entre le drap housse et la couverture molletonnée, ce qui n'est pas très hygiénique. Je conseillerais donc aux futurs voyageurs d'arriver avec un sac à viande. L'hygiène est d'ailleurs le gros point faible de l'appartement. La brosse des WC est immonde, un tas d'autres choses sont sales, moisies...",
+            "name": "Pascale",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Points positifs: Caroline a été très arrangeante pour le check in, et son appartement est bien situé. Points négatifs: très déçue par l'absence de télé bien que mentionnée dans l'annonce, pas de volets, la lumière du jour vous réveillera très tôt, en plus d'un lit grinçant. et vendredi soir, veille de mon départ, c'est le tapage nocturne jusqu'à 2h du matin: une discothèque au bas de l'immeuble! je ne recommande pas.",
+            "name": "Samira",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "De passage sur lille après y avoir habite 3 ans. Un super appartement où l'on se sent chez nous, proche de toutes les plus belles parties de lille. Un accueil sympa. Merci !",
+            "name": "Alexia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Un rapport qualité prix super, et des personnes très arrangeante quand aux Check in / check out",
+            "name": "Amé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "The comunnication with Caroline and her partner was good and they were flexible with respect to check-in and check-out. The place was nice and located in a lively area I would recommend to stay at Caroline's flat. Many thanks again!",
+            "name": "Rodolfo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Caroline's husband checked me in and was very welcoming and friendly. The flat has basic kitchen and bathroom facilities, and is well located near busy bars and loud nightlife if you're looking for a late night out!",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "I had a great stay at carolines place. The communication was excellent, it was very easy to check in and out. Caroline and her boyfriend edi were very accomodating and went out of their way to assist me with any questions or requests I had. The apartment was a good size. I was staying by myself and the living area was very spacious. It is up some steep stairs which arent an issue unless you struggle with steps. Overall really enjoyed my stay :)",
+            "name": "Rosie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The place is in the gangsta part of the city, I guess, so it might be loud in the evening. But it's cheap and pretty much acceptable.",
+            "name": "Mariia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 3.0,
+    "averageRanking": 3.5,
+    "nbReviews": 9,
+    "communication": 4.5,
+    "emplacement": 4.5,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 64,
+    "qualite-prix": 4.0
+}

@@ -1,0 +1,567 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Logement bien situé près de la place Castellane, et proche du métro et du tram 3. Le confort est assez rudimentaire, mezzanine avec un matelas placé à même le sol sur une natte, l'escalier pour monter à la mezzanine est difficile à descendre (pas de rampe). Le studio est fonctionnel, mais bruyant. Il faisait chaud (week-end de l'Ascension) et le vélux ouvert laisse rentrer le bruit du cours Lieutaud. Dommage que la porte de la salle d'eau avec WC ne ferme pas bien.",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "L'appartement est bas de plafond par endroit, notamment la douche : déconseillé aux personnes de plus d'1,85m. À part cela, l'appartement est très bien situé, à proximité des 2 lignes de métro et pas trop loin à pied de la Plaine et du Vieux-Port. Accueil et disponibilité d'Isaline impeccables.",
+            "name": "Étienne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement petit mais conforme aux descriptifs donné sur le site, très très bon rapport qualité prix",
+            "name": "Frédéric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Petit appartement sympa dans le centre ville. Isaline est toujours là si besoin.",
+            "name": "Ricardo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "le studio est très fonctionnel et parfaitement situé à deux pas du métro Castellane. Le logement est au calme. Isaline a été très accueillante. Je recommande",
+            "name": "Clement",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Appartement d'accès compliqué ( surtout avec des bagages) et pas conçu pour 2 personnes. Uniquement concevable pour dormir et rien de plus. Il faudrait absolument installer un lavabo.",
+            "name": "Veyrier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Petit studio tranquille, un petit nid douillet pour se reposer entre deux randonnées dans les calanques.",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Bien pour court séjour, ne pas etre trop grand (ca peut faire mal a la tete :)",
+            "name": "Alexandre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "En plein centre de Marseille et facile d'accès, avec Isaline très réactive, un plus à ne pas négliger.",
+            "name": "Eric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Hôte très agréable et réactive aux messages. Super accueil. Appartement idéal pour un court séjour, très bien placé !",
+            "name": "Laetitia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Idéalement situé, pratique pour des déplacements professionnels. L'appartement reste assez petit mais conviendra parfaitement à une personne seule.",
+            "name": "Sebastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Studio propre et bien équipé. Très bien pour une nuit. Un velux nous a permis de voir le ciel bleu, simplement dommage qu'il n'y ait pas une fenêtre pour profiter du soleil pendant le petit déjeuner. Merci à Isaline de nous avoir accueilli si tard dans la nuit !",
+            "name": "Sandrine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Très bon accueil. Etant à Marseille pour raisons professionnelles,nous sommes peu restés dans l'appartement. Hôte très accueillante et sympathique. Seul bémol, le plafond de l'étage est assez bas...",
+            "name": "Patry",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Isaline a été très patiente car j'ai eu pas mal de retard, heureusement qu'elle habite dans l'immeuble.",
+            "name": "Franck",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Super accueil, logement très pratique et conforme à la description. Très propre, tout équipé et bien placé. Niquel pour dépanner ou un court séjour. Merci à Isaline !",
+            "name": "Lucie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Appartement bien situé, sous les toits, correctement équipé et très propre.",
+            "name": "Jade",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Hôte trés agreable et appartement tout en originalité...",
+            "name": "Laura",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Super petit studio, pratique et propre. C'était parfait !",
+            "name": "Damien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Séjour très agréable dans le studio d'Isaline. L'appartement était très propre et bien aménagé. Quelques points négatifs néanmoins: un quartier bruyant, l'absence de vasque dans la sdb et un matelas très rudimentaire. Il a fait très chaud dans l'appartement (qui se trouve sous les toits de l'immeuble) mais deux ventilateurs nous ont permis de supporter la chaleur. Isaline a facilité notre arrivée et fut très arrangeante et accueillante ! Un logement parfait pour un court séjour et sans voiture (difficultés pour se garer dans le quartier).",
+            "name": "Camille",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Isaline était très gentille et arrangeante, l'appartement est tout petit mais avec tout le confort. Je recommande pour un week-end :)",
+            "name": "Catherine-Clara",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Le studio correspond parfaitement aux photos et au descriptif, il est bien situé et convient très bien pour un petit séjour à Marseille. L'accueil d'Isaline a été parfait, avec quelques bonbons et 2 cannettes de coca au frais. Très propre avec tout l'équipement nécessaire et même plus! Je recommande sans hésiter !",
+            "name": "Clarisse",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Le lieu est très fidèle au descriptif aussi bien en terme de agencement que de situation géographique. Un très bon séjour",
+            "name": "Nabila",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Isaline m'a très bien accueilli; une bouteille d'eau minérale et deux cannettes de soda étaient dans le réfrigérateur, ainsi que quelques friandises sur la petite table, délicate attention :) Concernant la localisation, l'appartement est idéalement situé en plein centre ville (gare Saint-Charles, Vieux Port, place Castellane, ...) donc pas besoin d'utiliser la voiture. La mezzanine est pleine de charme bien que le volume du studio soit restreint mais on s'y fait vite. Le seul petit bémol est que le studio est situé sous les toits et donc en période de forte chaleur, difficile de trouver le sommeil, donc un climatiseur adapté au volume serait le bienvenu :)\n+ Plus",
+            "name": "Fouad",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Très agréable séjour chez Isaline ! Elle s'est montrée très disponible pour le check-in et check-out et nous a proposé des conseils pour visiter la ville. Le studio est agréable, les ventilateurs ont été très chouette surprise par cette chaleur, et l'emplacement est top ! Merci !",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Le logement est exactement comme sur les photos, un peu petit mais très propre et il y a tout ce qu'il faut! Isaline et son père ont été très agréables et disponibles. Bien situé car très proche des transports en commun et la Basilique Notre Dame de la Garde ainsi que le Vieux Port sont accessibles à pied.",
+            "name": "Myriam",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Très central et fonctionnel, contact facile, je recommande!",
+            "name": "Micky",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Venu sur Marseille pour un court séjour de 3 jours le logement a parfaitement correspondu a nos attentes avec tout le nécessaire pour la cuisine et pour dormir. La description de l'annonce reflète totalement la réalité, le logement étant idéalement situé, à proximité du vieux port, commerces etc. Nous avons été très bien accueillis également par le frère d'Isaline ainsi que son papa ; de plus ils résident dans le même immeubles et sont facilement joignables. Je recommande vivement :)",
+            "name": "Noémie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Le studio correspond à la description et est extrêmement bien situé pour se déplacer dans Marseille.Isaline s' est montrée très disponible .J ai passé un très bon séjour.",
+            "name": "Jean-Michel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Très agréable séjour de 2 nuitées Très arrangeante pour l'heure d'arrivée/de départ, Isaline était de plus très disponible pour nos éventuelles questions ! Nous recommandons +++",
+            "name": "Mehdi",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Bon accueil. Petit plus: une bouteille d'eau fraîche nous attendait dans le frigo à notre arrivée. Propriétaire très arrangeante sur les horaires d'arrivée et de départ. Habite dans l'immeuble donc disponible en cas de besoin. Appartement très bien situé à proximité des commerces et de la place Castellane (métro + bus + tramway). Situé à 2 stations de métro de la gare Saint-Charles et proche du vieux-port. Convient plutôt pour les cours séjours (2 nuits): matelas posé sur le sol (mezzanine), étroit pour deux personnes. Contient tous les produits de base: serviettes, torchon, liquide vaisselle, etc. Séjour satisfaisant.\n+ Plus",
+            "name": "Jeremy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Isaline est un hôte très sympathique. Le logement est très agréable et très bien placé. Nous avons passé un très agréable séjour. Je recommande fortement.",
+            "name": "Maya",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Ma fille et moi, avons logé chez Isaline, du 30 juillet au 4 août. Ses mails démontrent qu'elle est pleine de bonne volonté et essaye de faire au mieux, mais on aurait aimé savoir d'avance que ce n'est pas un VRAI LIT comme c'est ENONCE, mais juste UN MATELAS ( et encore PETIT POUR 2 PERSONNES). La mezzanine nécessitait un coup de chiffon car assez poussièreuse: (la pièce principale et la douche, agréables et plus propres). Au réveil, difficile de ne pas faire de bruit en marchant sur le parquet en bois: Nous avons eu de la peine à bien dormir, car le studio est très chaud, malgré les deux ventilateurs.\n+ Plus",
+            "name": "Suzy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Appartement super bien situé dans le quartier de castellane à Marseille. Possibilité de se balader dans la ville à pied. Seul point négatif l'appartement dispose d'une fenêtre dans le toit donc été chaud lol mais si non c'était bien avec tous les produits de base. Comme indiqué sur l'annonce",
+            "name": "Oswy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "L'appartement d'Isaline est charmant, bien situé et les ventilateurs permette aisément de nous faire oublier la chaleur. Isaline est dispo pour tout conseil, ce qui est bien pratique pour optimiser votre séjour. :) Si je reviens a Marseille, je ne passerais pas mon temps a chercher une autre annonce, le rapport qualité-prix et très bon",
+            "name": "Vianney",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Super petit studio sous les toits de Marseille. Il est idéalement situé: les 2 stations de métro à proximité, supermarché, boulangerie... Hôtes tres accueillants et contact facile, je recommande!",
+            "name": "Lise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Le lieu est très sympa et propre, la propriétaire et sa famille habitent dans le même immeuble donc c'est super en cas de problèmes, la seule note négative c'est que le studio est pratiquement sous les toits et malgré l'isolement et le ventilateur qui à tourné toutes les nuits, il y à une chaleur vraiment énorme...",
+            "name": "Robert",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Studio propre et très bien placé. Idéal pour visiter Marseille (Vieux port, plage, etc...) et ses alentours (Cassis, La Ciotat). Même si Isaline n'a pas pu se libérer pour nous recevoir, elle est restée tout au long de notre séjour joignable par téléphone. Merci encore au papa de nous avoir accueuili et pour les ventilos en cette période de chaleur ;-)",
+            "name": "Marie-France",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "L'appartement est fidèle à la description, petit mais fonctionnel et propre. Bien que donnant sur un boulevard il reste très calme, attention toutefois aux périodes de fortes chaleurs car il fait vite assez chaud sous les toits ! Isaline est très agréable et reste présente et joignable en cas de besoin",
+            "name": "David",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Très bon accueil d'isaline, appartement fonctionnel et bien situé.",
+            "name": "Chloé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Isaline m'a dès le départ conseillée sur les principaux sites à visiter et comment s'y rendre. Elle a été arrangeante pour les heures de départ et d'arrivée. Elle et son père ont toujours été à l'écoute. L'appartement est fonctionnel et contient tout le nécessaire pour passer une bonne semaine. Il suffit juste de poser et vider ses valises dans le placard. Il est situé à 5min à pied de la place castellane où se trouvent les bus le métro et bientôt le tram. A 15 min à pied on peut accéder aux rues commerçantes et au vieux port. Le seul hic c'est qu'il se trouve sur un boulevard mais on s'y fait et le soir la circulation est calme.\n+ Plus",
+            "name": "Malika",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Séjour bien sympathique à Marseille dans l'appartement d'Isaline, qui nous a accueillie avec chaleur. Arrangeante et à l'écoute, elle nous a permis de découvrir la ville grâce à ses conseils. Appartement bien situé et calme, un peu étriqué mais très fonctionnel et agréable.",
+            "name": "Tiphaine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Nous avons été bien accueillis par Isaline et le logement était propre! Le studio, qui est très petit, manque vraiment de confort: le wifi est faible, le lit se résume à un matelas de petit taille (inférieur à 140cm) posé à même le sol, il n'y a pas de duvet (seulement des draps) et le chauffe-eau ne suffit même pas pour 2 douches successives. De plus la rambarde de la mezzanine est bancale ce qui peut être dangeureux... En un mot: hôte charmante mais studio à éviter si vous êtes plus que 1 personne!",
+            "name": "Philia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Jai pensé que j'étais au Ritz pour un moment! Bcp profitez en Marseille.",
+            "name": "Zayd",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Séjour très plaisant. L'appartement était bien équipé et propre. Isaline était sympa et serviable. Elle a répondu à toutes nos questions et plus encore. L'appartement est près du vieux port et à 30 minutes de transport de la plage.",
+            "name": "Karine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Merci monsieur Pouzat pour votre disponibilité.Apt très bien situé",
+            "name": "Elisabeth",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Appartement est représentatif de la description. Bien situé dans la ville. Isaline était toujours disponible pour répondre à nos questions. Bref, je recommande cet appartement.",
+            "name": "Marc-Andre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Isaline est très gentille, nous a donné plein de conseils sur les endroits les meilleures à visiter et elle a restée toujours à notre disposition pour toutes nos questions. Appartement très bien placé, proche au vieux port, au centre ville et à la mer. Appartement petit mais bien organisé, parfait pour quelques jours de vacances à Marseille.",
+            "name": "Marta",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Very Nice experience, the apartment is very comfortable and well located, isaline and her father, that welcomed me, are very kind!!! A five star experience in the heart of Marseille",
+            "name": "Giuseppe",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "My cousin and I stayed at Isaline'a studio for one night and found it quite satisfactory. It's only a short walk to the vieux port/lido, so well situated. The studio itself was fine for 2 people although the bed is a small double mattress on the floor, but that didn't bother us. The only negative really was that Isaline only told us at 10pm the night before that checkout would be at 11am..and we had planned to go out in town that night, which had to be cut short. But apart from that, Isaline was a welcoming host (and accomodating when we ended up arriving later than expected) and I would recommend her studio.\n+ Plus",
+            "name": "Annick",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "The studio is clean, pretty, cozy and within walking distance to the port and the city centre. Isaline is extremely welcoming and helpful. 100% recommendable.",
+            "name": "Manuel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The host canceled this reservation 66 days before arrival. This is an automated posting.",
+            "name": "Sergio",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Isaline's place is fantastic! Great communication. Compact space with everything we needed. Central location, close to bus to calanques. We recommend this place!",
+            "name": "Marie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "The apartment was very clean and tidy! its a little bit tiny for a couple but it was ok for a few nights. very well equipped, they even Let 2 coca colas and candys on the apartment for us. The negative: the WiFi connection was really really bad :/ and if you are tall you wont fit in the shower",
+            "name": "Gonzalo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "It's a very nice & clean place/ flat. Isaline is a great and nice host",
+            "name": "Laya",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Isaline was very responsive for email and text. While we never met in person (her father received us and showed us the apartment) I felt very welcomed and it was nice to know her father lived in the same building in case of emergency. The apartment is in a terrific neighborhood, walkable to the city center. The bed itself was comfortable and the space is cosy and perfect for a 1-2 people.",
+            "name": "David",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Isaline and here Dad were good hosts. Isaline communicated very well and I had a great stay. The apt was perfect for what I needed. Thanks!",
+            "name": "Avinash",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "The apartment was very cozy. Great location in the city.",
+            "name": "Samuel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Perfect location, cozy room, a bit tiny for a couple, but ok for a few nights. Mezanine floor is very romantic! Isaline and her family are very friendly and easy to get on with. We had a great experience staying with Isaline, feeling like locals in Marsielle. Would definately recommend for a solo traveller or a couple.",
+            "name": "Tatiana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The apartment is small but cosy and it's ideal for a solo traveller. The location is very convenient, only 5 minutes from the metro station. I made a last minute reservation and got a quick reply. I certainly recommend Isaline's place.",
+            "name": "Andrea",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Isaline replied v quickly to our questions at all stages & made the whole process very straightforward & was v welcoming. The location is indeed v convenient for metro & old town. Be aware that if you have a LOT of luggage then the lift is v v small & there are about 5 flights of stairs to climb...",
+            "name": "Craig",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "It was great staying at Isalines room. It was clean and quite though it was very central. Near at the station and near the port. It was perfect for us to stay there to see the important things. We didn't met Isaline, but her father, who gave us the keys because we came late. Thank you for the nice place to sleep we would totally recommend that!",
+            "name": "Paulina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Isaline was a really nice and helpful host, super quick to respond. The place was small but really nice, everything we needed and an within walking distance to the station or the centre of the city. The place is perfectly clean, and has a few cooking essentials like oil and salt which were greatly appreciated :)",
+            "name": "Lucy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "A nice little apartment in the 5th floor attic of the building. I don't think anyone else lives up there! It's very quiet. Isaline let us leave our bags in her apartment on the 3rd floor as we got in too early to check in. The kitchen is small but has everything you need, including a coffee machine. Internet was good. Location is excellent, close to Castellane and only a 15 minute walk to the port and to Noailles. Very good value.",
+            "name": "Natalie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "The flat is in a good location, just three stops from the train station and within walking distance from the port. Isaline was very nice and helpful and she lives in the same building so check-in, check-out etc. is really easy. The flat was quite hot despite the two fans and it could have been cleaner - it was quite dusty. But overall this is a great little studio for a night or two in Marseille.",
+            "name": "Sanna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "The apartment was clean upon arrival. Small and simple, good for 1-2 people. The location was excellent as it was only a short walk after a 10 min. metro ride from the train station. I did not get to meet Isaline, but she was very fast on replying to my inquiries, and her father was a wonderful help to show me where to go in Marseille.",
+            "name": "John",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Really little, but cosy appartament. Nice window on the roof with looking at the sky. Very friendly owner, who also recommended us nice restaurant and helped to travel in Marseille.",
+            "name": "Grigory",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Isaline is a nice host, adjusting to your times. The studio is very located, very practical and was very good for my needs. Little shops, cafés and a supermarket are close by. I felt like a person from Marseille",
+            "name": "Angela",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Isaline was a great host. Very nice and welcoming. The place is small but nice and there were two fans that made our stay so much nicer!! Also there's a coffee pot with coffee and Isaline left us cold waters, which were really nice to have. Overall great experience! And good location.",
+            "name": "Erin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Such a helpful and friendly goats. The apartment was exactly as described and I felt safe, cosy and at home! I will be back I am so happy! Also my first time using Airbnb so it was a great first stay!!! AAA+!",
+            "name": "Erin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "averageRanking": 4.5,
+    "nbReviews": 69,
+    "communication": 5.0,
+    "emplacement": 4.5,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 40,
+    "qualite-prix": 4.5
+}

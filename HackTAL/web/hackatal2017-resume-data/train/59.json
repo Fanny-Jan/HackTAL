@@ -1,0 +1,1007 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Appartement à proximité de tout le véhicule n as pas bougée du week-end, table de massage et un plus !!dommage des fenêtres ne se fermes pas décoration sympathique.",
+            "name": "Laura",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Bon emplacement très proche de la Cité médiévale! Pas cher et Patricia est vraiment sympa elle nous a offert le café, nous avons eu de belles discussions!",
+            "name": "Axelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Proximité et accessibilité piétonne à la cité parfaite. Stationnement facile dans le quartier. Appartement original, accueillant. Couchage très correct. Pas d'odeur de tabac. Disponibilité de Patricia, et facilité pour la restitution clés. Logement conforme à l'annonce.",
+            "name": "Emmanuel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Appartement très bien situé, très bon accueil mais le logement n'est pas très bien tenu (propreté et équipement) et les fenêtres ne se ferment pas (il peut donc y faire froid).",
+            "name": "Sebastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Logement conforme au descriptif. L'emplacement de l'appartement est idéal, aussi bien pour la visite de la cité que de la ville basse, le parking étant très facile au pied de l'immeuble, cela permet de ne pas se servir de sa voiture pendant le séjour. L 'accueil de Patricia est très chaleureux.",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Hôte très accueillante, appart pratique, un peu plus loin de la cité que ce à quoi nous nous attendions (compter 10 minutes à pied) mais séjour très agréable et rapport qualité prix imbattable sur Carcassonne, on recommande!",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Très jolie petit apartement reste dans son ju avec un emplacement stratégique la literie et les serviettes sont assez propre je met un petit bemol sur la propreté du frigo et des sols ainsi viellesse des casseroles et sur la poussière ambiante sinon nous avons passez un agréable weekend dans ce logement je le recommande quand même",
+            "name": "Jerome",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Patricia et très sympa. L'appart et très cosy et la déco est atypique, une bonne surprise. Le quartier et calme. Il ce situe au centre ville, prés du canal (ambiance champêtre) , la cité et a cinq minutes a pieds. De plus, Patricia a de très bonne adresses, on mange super bien et pas chere a deux minutes (Le Brassens = familial et bonne franquette, et A l’œil= cuisine au feu de bois, un délisse pour les carnivore! ) Dans l'ensemble pour un weekend en couple ou entre copine c'est un bon délire a ce faire. PS: demander pour la fresque !",
+            "name": "Zoé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Patricia est disponible. Déjà signalé dans d'autres commentaires il manque un rideau de douche. Emplacement a 10 mn a pied de la cité. Parking en bas de l'appartement bien commode. Idéal pour un court sejour.",
+            "name": "Stephane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Charmant appartement, joliment décoré, à 10 min à pied de la cité médiéval. Patricia nous donne des infos pour le séjour, ballade, sortie , restau, c'est pratique ! Un vrai guide touristique . Merci encore . A une prochaine fois .",
+            "name": "Sebastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Patricia s'est montrée très accueillante. Un plateau sur la table de la cuisine est fourni de documentation sur Carcassonne ; Patricia m'a indiqué des lieux à ne pas manquer et conseillé des bons restaurants. Je suis arrivée en transport avant ma famille de cyclistes. Patricia nous a spontanément proposé un local disponible où nous avons pu mettre les vélos. L'appartement est fidèle à la description, charmant avec ses tomettes au sol agréables pour marcher pieds nus en cette saison, très bien équipé. Il est super bien localisé entre la ville moderne typique et la cité. Il y a un parc très agréable à proximité face à la cité où l'on peut pique niquer. Le seul bémol de notre séjour chez Patricia a été le bruit du voisinage la nuit. Bien que la musique ait été arrêtée après notre intervention, en cette saison, je recommanderai cet appartement plutôt à des adultes. Par rapport à un ancien commentaire que j'avais lu sur le site, je précise que les toilettes ont une porte qui ferme ! Nous avons passé un excellent séjour chez Patricia dont j'ai particulièrement apprécié la personnalité.\n+ Plus",
+            "name": "Laurence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Un accueil chaleureux de Patricia. L'appartement est dans un environnement calme ( nous avons dormi les fenêtres ouvertes) l'appartement est correct pour un passage mais un peu sombre pour y rester pendant un long séjour. L'appartement est bien situé pour visiter le fort et le centre ville",
+            "name": "Samuel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Parfait pour une courte escale à Carcassonne . Hébergement idéalement placé entre ville et Cité médiévale . Très bon accueil et très bon conseils notamment pour les restos : ne pas rater \" Le Brassens \" juste à côté ( délicieux , très bon marché et que des produits naturels )",
+            "name": "Bernard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Le logement est conforme aux photos et à la description. Nous avons été accueilli par une autre personne très charmante. C'est un logement idéalement placé, tout proche de la cité médiévale. Nous le recommandons.",
+            "name": "Margaux",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Bien accueilli par Patricia L'appartement est bien situé. Parking juste a coté. Cité et centre ville facilement accessibles a pied Rue et immeuble calme lors du séjour. Présence d'une table de massage dans le séjour pas précisée dans l'annonce et qui donne une ambiance particulière a l'appartement Un rideau de douche s'impose dans la salle de bain",
+            "name": "Vincent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Nous avons été très bien accueillis par Patricia et l'appartement, décoré avec originalité, est confortable et situé à peine à 500 m de la cité. Seul bémol : des voisins (très) bruyants au-dessus pendant les deux nuits du week-end...",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Appartement spacieux, pratique et très bien situé.",
+            "name": "Alphonse Et Agathe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Très bon séjour chez patricia ! La décoration est détonnante et originale. idéalement situé entre le centre ville et la Cité",
+            "name": "Thomas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Patricia est sympatique mais cela ne fais pas tout ! Son appartement est très vieillissant, sale et mal entretenue ! Tout ou presque est cassé ou délabré (volets cassés, fenêtre qui ne ferment pas, matelas affaissé, une porte manquante qui gît dans la cage d'escaliers, vitre fendu...). Très forte odeur de tabac froid à l'intérieur ! A 57€ la nuit pour deux, je qualifierais ça de VOL surtout quand Patricia se permet de prendre 7€ de frais pour le ménage ! (Poils dans la douche qui n'a pas de rideau, joints pourri, crasse dans le coin cuisine, tache de moisissure dans le salon ~1m2 qui aurait mystérieusement apparu dans les derniers jours mais où l'on retrouve des champignons noirs dessus...).Bref fuyez ! Il faut arrêter tous de faire les gentils dans les commentaires car cet appartement est bel et bien sale et malsain !\n+ Plus",
+            "name": "Camille",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Bon accueil de Patricia. Logement très bien situé. Le nécessaire y était. Déco original.",
+            "name": "Annick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Hôte cordial et aimable. L'appartement était propre et bien équipé. Aspects à améliorer, les volets et les fenêtres ne ferment pas trop bien et il manque un rideau dans la douche.",
+            "name": "Juan Pablo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Nous avons été ravis de notre séjour. Accueil chaleureux de Patricia qui se rend disponible si besoin et nous a conseillé sur des restos. L'appartement est idéalement placé entre le château et la ville, au calme, spacieux et cosy.",
+            "name": "Emmanuelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Très bon accueil de la part de Patricia. Le logement est, en effet, très bien situé. L'appartement situé au 1er étage d'un immeuble ne nous a pas semblé conforme à la description et pour des raisons personnelles, nous n'avons pu y rester. Une grande déception de devoir quitter les lieux dans la demie heure suivant notre arrivée et de devoir payer - en plus- un hôtel. Cependant, Patricia s'est montrée très correcte et compréhensive face à notre départ et nous a remboursé les deux nuits que nous aurions dû passer chez elle. Nous espérons qu'elle a pris en compte nos remarques et que le nécessaire sera fait afin d'accueillir - dans de bonnes conditions - les futurs et prochains voyageurs !\n+ Plus",
+            "name": "Vanessa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Malgré notre retard (de deux heures) Patricia nous a chaleureusement accueilli dans son superbe appartement. Un lieu de rêve pour les amoureux, intime, à deux pas de la cité. Patricia nous à guidé vers un restaurant où nous nous sommes régalé ! Excellent séjour, à reproduire au même endroit sans hésitation !",
+            "name": "Soph",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "L'appartement est bien situé (proche de la cité médiévale et du centre-ville de Carcassonne) et correspond bien aux photos. Patricia était un peu pressée lorsqu'elle nous a accueillis, mais tout en restant agréable. Elle nous a conseillé quelques restaurants, nous en avons testé un fort sympathique (l'oeil). Seul petit bémol : il ne restait plus de café, petite vérification à ne pas oublier ;) ! Merci et bonne continuation !",
+            "name": "Laetitia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Patricia est très sympa. son appartement est agencé et meublé avec gout et originalité, a 200m de la cité, très bonne adresse.",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Nous avons eu un bon accueil de la part de Patricia.A notre arrivée dans Carcassonne(21h)nous étions un peu égaré Patricia est venu gentiment à notre rencontre.Patricia nous a donné de bon conseil adresse de restaurants,le marché qui a lieu le samedi matin a 5mn à pied ect... L'appartement correspond au descriptif,très facile pour se garer,proche de la cité et du centre ville.Nous sommes restés deux nuits les voisins du dessus sont très bruyants: musique,parlent fort,aucune discrétion quand il marche on avait l'impression qu'ils faisaient tomber des objets sur le parquet ect...vendredi soir tapage nocturne jusqu'à 1h du matin,samedi soir jusqu'à 4h du matin difficile de dormir...Dommage çà a un peu gâché notre séjour.\n+ Plus",
+            "name": "Maurice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Patricia est très accueillante, son appartement est très original et bien situe entre la Cite et Bastide dans une rue tranquille.",
+            "name": "Alfonso",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Logement parfaitement situé, proche de la ville basse et de la ville haute. Logement atypique mais vraiment génial, tout etait parfait. Écoutez les conseils de Patricia, ils valent le coup ! Bref parfait... par contre prévoir les allumettes pour les 250 bougies de l'appart :) (nous on avit oublié :(",
+            "name": "Christian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Appartement très sympa, bien situés et une hôte accueillante. Très bien !",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Patricia est une hôte exemplaire ! Son accueil nous a tout de suite permis de nous mettre à l'aise et Patricia fut très chaleureuse comme une vieille amie de longue date. Malheureusement nous n'avons que passé qu'une nuit car nous n'avons fait qu'une étape à Carcassonne. Nous reviendrons certainement un jour ! Merci de nous avoir si bien reçu et conseillé pour les petites visite/",
+            "name": "Dao",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Patricia nous a accueilli avec chaleur et efficacité dans son adorable et très propre appartement idéalement situé entre cité médiévale et centre ville moderne. Une excellente expérience, donc.",
+            "name": "Claire",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Notre hôte nous a bien reçu et nous a indiqué des restos sympa dans lequel on a bien mangé Le feu d artifice été magnifique et impressionnant Merci pour cet expérience a faire au moins une fois une famille du Tarn",
+            "name": "Magali",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Nous avons été bien accueilli et la chambre est à un emplacement parfait pour accéder à la cité médiévale, profiter de la ville et accéder aux berges de l'Aude. Les conseils de Patricia et les documents sur la région sont utiles. Le service de table est agréable(complet pour les verres avec choix de verre à pied, nous avons apprécié et une essoreuse à salade ) et agréable à utiliser avec même de la vaisselle plus robuste,pratique pour les enfants. L'appartement est propre. L'immeuble est chargé d'histoire et mixte entre des parties anciennes et les parties de vie neuves de qualité (salle d'eau) ou bien rénovée (chambre). La décoration du salon est conforme à la photo. Nous avons passé un bon séjour.\n+ Plus",
+            "name": "Mélanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Patricia est une hotesse agreable et qui sait vous recevoir.L'appartement se trouve a 2 pas de la cité avec en prime des places gratuites de parking .Cependant l'appartement meriterait quelques ameliorations ( pas de rideau de douche,matériel de cuisine à revoir,et une odeur de tabac persistante dans l'appartement )",
+            "name": "Jacques",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Très bel appartement, bien placé dans carcassone donc très pratique avec des places de parking juste en face. Je recommande Patricia est très sympathique.",
+            "name": "Eva",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Bon accueil de notre hôte, très arrangeante sur les horaires d'arrivée et de départ. Appart très bien situé dans la ville. Déco originale mais pas forcément fonctionnelle : une ou 2 patères et des étagères dans la salle de bain et dans l'entrée seraient bienvenues ; une table de massage et un paravent qui prennent bcp de place et qui ne sont pas forcément indispensables... Dommage aussi que l'odeur de tabac froid y soit persistante.",
+            "name": "Edwige",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Patricia est très arrangeante, disponible et avenante. L'appartement était conforme aux photos et à ce que nous souhaitions. Il est fonctionnel et dispose de tout le nécessaire. C'est un lieu plein de charme et surtout très propre. Nous étions a à peine 10 minutes de la cité de Carcassonne et tout près du magnifique canal du midi !! Merci beaucoup Patricia pour ta disponibilité et ton accueil. A bientôt j'espère.",
+            "name": "Chida",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Vraiment très bien situé ! Nous avons pu voir la Cité et la vieille ville à pied. Patricia a été très accueillante. L'appartement est bien équipé. Il est facile de se garer dans la rue ou les rues voisines gratuitement.",
+            "name": "Emilie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Super week-end dans l'appartement de Patricia, idéalement placé entre la Cité et le Port du canal du midi. Il se situe à côté du vieux pont. Les photos sont très fidèles, l'appartement bien rénové. Il est en effet possible de se garer gratuitement à proximité. Et Patricia est très arrangeante quant aux horaires ! Un très bon rapport qualité / Prix !",
+            "name": "Vincent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Merci à Patricia pour son accueil et sa disponibilité. Patricia a été très arrangeante pendant notre séjour. L'appartement correspond aux photos. Il est à quelques minutes de la citadelle, du centre ville et de l'Aude. Il y a un parking gratuit à proximité. Très bon séjour !",
+            "name": "Carole",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Merci Patricia pour l'accueil attentionné et les conseils avisés. Alice et Leo.",
+            "name": "Léo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Patricia est disponible et arrangeante. Le jour du départ, aucune réservation n'étant prévue pour le soir même, nous avons pu rester jusqu'en début d'après midi dans le logement. Merci !",
+            "name": "Joana",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Location qui a correspondu pleinement à nos attentes. Patricia fut accueillante et disponible. L'appartement se situe idéalement entre la Cité et le centre de la ville nouvelle.",
+            "name": "Simon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "L'appartement était comme sur les photos. Patricia est une personne très accueillante et très arrangeante, notamment pour les horaires, nous devions arriver plus tôt et elle s'est arrangé pour être là en temps et en heure, ce qui fût très agréable. De plus, la situation est idéale, entre la cité et le centre-ville. Très bon séjour globalement.",
+            "name": "Zarina Baptiste",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Appartement très proche de la cité, donc idéalement situé. Quelques rénovations en cours, donc un peu d'indulgence. L'hôte est de bon conseil et très serviable, nous avons rendu l'appart en milieu d'après-midi c'était très appréciable.",
+            "name": "Sylvie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Patricia a été très sympa et le logement correspond bien aux photos mise en ligne avec une déco super original. La chambre est très confortable.",
+            "name": "Emilie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Patricia vous accueille dans l' appartement de sa grand mère , restauré avec beaucoup de personnalité , très sympa , ambiance zen , agréable. Patricia est une personne très chaleureuse , beaucoup d honnêteté et d' humilité , une âme vraie qui touche profondément . Vous serez ( à pieds ) à 200m de la Cité et 5 mn du centre Bastide. De plus votre voiture sera garée devant la porte et ceci gratuitement !! exceptionnel en plein centre et dans une petite rue au calme !! l' appartement vaste , bonne literie , grande cuisine , salle de douche neuve. quelques améliorations sont en cours d' être réalisées ( telle la pose d' une plaque chauffante et d' une paroi vitrée dans la pour la douche . Je vous conseille vivement cette location très bien située ! Sachez qu' en dehors des restaurants de la Cité ( attention aux attrapes touristes ) , Carcassonne n'est pas une ville très animée le soir après 22h , et que là encore , Patricia ouvre le soir un petit établissement au pied de votre location où vous pourrez boire un verre en toute simplicité dans une ambiance familiale où se retrouve commerçants du quartier et amis pour de petites soirées à thème tel un bœuf musical ....ambiance loundge... mais à minuit tout ce joli monde va au dodo ! donc votre soirée sera ensoleillée mais votre sommeil respecté !! Je vous conseille vivement d' aller voir Patricia , si vous voulez visiter cette belle ville. Patricia met aussi à votre disposition toute sorte de produits de première nécessité ( huile, café , sel poivre ,gel douche , papier toilette....ect ) ce qui est encore un avantage certain ! Que demander de plus ! rien , allez y allez y....exceptionnel ! Merci Patricia.\n+ Plus",
+            "name": "Gisele",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Patricia est un amour ! L appartement es t très bien situé et la literie au top",
+            "name": "Audrey",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Appartement bien placé à proximité de la cité et de la bastide mais bruyant la nuit, peu fonctionnel (absence de rideau de douche, pas de porte à la chambre, fenêtres ferment mal, etc)",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Patricia nous a accueilli avec beaucoup de gentillesse. L'intérieur correspond bien au descriptif. Le logement est idéalement situé par rapport à la cité de Carcassonne. Nous la remercions pour les bonnes adresses des restaurants , nous avons très bien mangé.",
+            "name": "Jerome",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Très bel accueil et très bien situé entre la cité et le centre ville",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Patricia est une hôtesse très gentille. Elle est très arrangeante, agréable, et c’était un plaisir d’échanger avec elle. En ce qui concerne l’appartement, il correspond assez bien aux photos. Il est très basique, mais il y a le nécessaire. Ayant voyagé avec mes parents, je dirais qu’un peu plus de confort serait le bienvenu pour des personnes retraitées, même s’ils ont apprécié le séjour. Mais c’est un logement fonctionnel, très bien situé, et très original. Merci Patricia !",
+            "name": "Audrey",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "apartement proche de la Bastide et de la Cité",
+            "name": "Stef",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Un logement parfait -- tout ce dont trois personnes ont besoin, un lit confortable et une location magnifique, au coeur de Carcassonne. Patricia était une hôtesse chaleureuse qui nous a répondu rapidement et qui nous a accueilli dès que nous sommes arrivés à Carcassonne. Des vacances merveilleux!",
+            "name": "Daniel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "L'appartement est comme trouve dans la description. L'emplacement est centralement. Patricia nous a accueille trés poli. La communication avec Patricia etait très bien en avant et pendant le séjour. Il y a une atmosphère agréable dans l'appartement et tous en a besoin. volontiers à nouveau.",
+            "name": "Sven-Ingo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Très bon accueil par une propriétaire sympathique. L'appartement, très propre, bien équipé et original, est idéalement situé entre la cité et la bastide. A recommander sans hésiter!",
+            "name": "Nathalie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Nous avons très bien été accueillis dans ce joli appartement. Très bien placé, nous avons pu profiter de la ville durant tout notre séjour. L'arrivée et le départ se sont très bien déroulés. Nous vous conseillons ce superbe endroit pour un week-end ou si vous avez de la chance une semaine!!",
+            "name": "Angelina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Super appart très bien situé pour visiter la cité. Patricia est une hôte vraiment gentille . Elle s'est très bien occupée de notre confort et a été très flexible quant à notre heure d arrivée! Appart très propre! Je recommande à tous ce très bel appart originalement décoré! Sylvie",
+            "name": "Sylvie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Superbe citytrip dans la ville de Carcassonne, avec ses remparts, ses ruelles piétonnières et l'accueil chaleureux offert par mon hôte Patricia. A travers ses conseils gastronomiques et culturelles, j'ai passé un excellent séjour. L'appart est super bien situé, calme et très facile d'accès. Je le recommande fortement. Benoît",
+            "name": "Benoît",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Notre séjour à Carcassonne a été sublime grâce à Patricia et sa gentillesse. Elle a tout fait pour que nous soyons dans un petit cocon, son appartement est charmant, douillet et possède toutes les facilités: cuisine équipée, salle de bain impeccable draps et serviettes (URL HIDDEN) est également très bien situé, 5 min de la gare et face à l'arrêt de bus, sans parler du Dôme qui vous offre un paysage typique du sud. Patricia possède et loue également un magnifique loft au rez de chaussée pour petit séjour sexy et sensuel pour les amoureux ou des soirées à thème. C'est une personne chaleureuse et douce qui a répondu à toutes nos attentes, grande souplesse pour les heures d'arrivées, tjs disponible en cas de besoin! Merci Patricia pour cet accueil qui a sublimé nos petit séjour dans votre sud :)) A très vite xxx\n+ Plus",
+            "name": "Afsaneh",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Un séjour très agréable du fait de la situation géographique de l'appartement qui est au centre de Carcassonne tout en étant à deux pas des remparts. Mais également et surtout grâce à l'accueil de Patricia qui est une personne très agréable, attentionnée et arrangeante sur les horaires.",
+            "name": "Eric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Lq ns sommes arrives, la chaudiere ne marchait pas, ce qui veut dire pas d'eau chaude et pas de chauffage. :-(. Patricia a immediatement appele qq'un pr la reparer mais sans succes. Elle ns a alors gentiment reserve une petite chambre ds un petit hotel du centre ville (pas super mais bien situe). Son appart avait l'air tres bien sinon. Pour une prochaine fois peut-etre... :-)",
+            "name": "Rod",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "l'appartement correspondait exactement à ce à quoi nous nous attendions. La chambre est très agréable. En outre, il y avait une table de massage, les huiles utiles au soin étaient également présentes, un régal garanti pour vos compagnes! Il n'y avait effectivement pas encore de plaque de cuisson mais Patricia a trouvé rapidement une solution alternative qui nous a amplement suffit (réchaud au gaz). Je rajouterai que la position du lieu est tout simplement parfaite. nous sommes arrivé de l'aéroport à l'appartement en moins de vingt minutes gràce à un shuttle (5€ le voyage) organisé pour les décollages/atterissages à Carcassonne. en sortant de la maison, à gauche l'on trouve le pont vieux qui mène à la cité midiévale; à droite l'on a le centre ville. la ville est très agréable à découvrir, 4 jours n'ont pas été de trop, dans un climat tout à fait relaxant. je recommande sans hésiter le séjour et la visite de Carcassonne.\n+ Plus",
+            "name": "Braye",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Super acceuil. Patricia est venu nous chercher près de l'info tourisme. Elle est pleine d'attentions pour ses invités. Appart. très bien situé près de la Cité avec stationnement gratuit tout juste en bas de l'appart. Décoration agréable et qui sort de l'ordinaire. Merci Patricia, on a passé un bon moment.",
+            "name": "Jacques",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Patricia est une hôte très dévouée : nous sommes arrivés en retard de 2h et n'avions aucun moyen pour la joindre. À notre arrivée, nous avons pu lui téléphoner et elle est venue nous rejoindre en 25 minutes. Elle nous a demandé une caution de 150€ en chèque ou en espèces. C'est la première fois que nous avions cette procédure avec AIRBNB, nous avons été un peu surpris. Nous avons compris pourquoi par la suite; la veille, elle avait eu des bris par d'autres locataires. Elle nous a remis le montant à notre départ. Malheureusement, le frigo avait été endommagé la veille de notre arrivée (la porte n'avait plus de vis, donc ne tenait plus fermée, ce qui le rendait inutilisable). Aussi, il n'y a pas de four ni de plaque, seulement un four micro-ondes. Dommage, c'est bien pratique de pouvoir cuisiner lorsqu'on loue un appart au complet... surtout lorsqu'il est écrit que celui-ci est tout équipé! (mais il y a un bon petit resto en haut de la rue, tenu par une dame hyper sympathique) Selon l'annonce, il devait y avoir l'internet, mais nous n'avons pas eu accès. Peut-être est-ce seulement un oubli de Patricia (et aussi le nôtre, puisque nous le l'avons pas demandé). Le lit est très confo, la salle de bain spacieuse. L'appartement est situé à un emplacement idéal, à 2 minutes de marche de la cité médiévale et à environ 7-8 minutes de la ville. En somme, nous avons été très satisfaits et recommandons cet appartement! :)\n+ Plus",
+            "name": "Madeleine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "The host canceled this reservation the day before arrival. This is an automated posting.",
+            "name": "Alexis",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Mauvais accueil Très déçu",
+            "name": "Sadok",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "We had a lovely stay in Patricia's appartment. It is perfectly situated in between the cite (ramparts) and the old town. Both at easy walking distance. Parking across the road is for free. Patrica thank you for your warm welcome!",
+            "name": "Martine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "That place was clean and had a lot on character. The location was good being between the castle and the city center.",
+            "name": "Umesh",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "We stayed at Patricia’s apartment in Carcassonne for one night. It is very convenient to the Castle. 500 meter walk across the river. We had no problem contact Partricia on our arrival and she showed us the apartment and provided information on restaurants in the local area. The apartment has all the facilities outlined and is a pleasant place to stay. The décor is interesting and I am sure will be photograph you will keep from your visit to Carcassonne. Parking is available in the street. We found parking relatively close and in the evening were able to relocate the car to outside the apartment. All up a good place to stay if visiting Carcassonne to see the castle.\n+ Plus",
+            "name": "Gary",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Great location but lacking essentials. Walking distance to the old town. If you plan on using the kitchen it is stocked with the absolute minimums. No pepper, Paper towels or towels of any kind, no real cutting board etc. Would recommend for a night if you are planning on having dinner out, cooking was a real challenge.",
+            "name": "Hugo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Great location between the old and new towns of Carcassonne. 15 minutes walk up to the Cité and 10 minutes walk to the centre of the new town (mini supermarket, bakery, other shops, etc.). Plenty of places to get food locally, for a range of budgets (we had couscous at le Brassens on the same road as the appartment, and there is also a pizza kiosk if you are tired and don't want to cook or eat out). Communication was good and Patricia was helpful on arrival, providing directions and information for our visit. Patricia was cleaning when we arrived and the flat was clean. Flat was fine for our basic needs (out sightseeing most of the time). We only cooked one proper meal there and the facilities were basic but adequate. Not much cutlery so would have been a problem if there had been more of us. We mostly just used the kitchen for breakfast - there is a filter coffee machine. Shower was fine in terms of water pressure and temperature, but lacks a curtain - just accept that water will go everywhere, then wipe it up afterwards! We had some difficulties with the old windows and shutters - there was one that we could not get to close securely at all, so we did not feel completely secure. The screen door to the bedroom is also missing one panel - not a problem if there are only 2 of you, but would be if using the living room as a bedroom too. It was a little noisy at times due to the thin walls - we could hear people on the stairs or playing music in other appartments. I don't think they were being particularly loud, it was the nature of the building. The bedroom was rather dark - lots of little lights which might be nice for providing atmosphere but are not enough if you want to read or for packing your stuff. There is a car park opposite which is quite busy but we had no difficulty finding a space, so was convenient. Overall OK for a short stay, and was clean, but the building and flat are a bit run down. I would neither recommend nor say to avoid - weigh up the pros and cons and decide for yourselves.\n+ Plus",
+            "name": "Keziah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "We were late because it took a while to get the hired car sorted and then the GPS Took us all round the place before it worked properly . Patricia said she would be there till 4 pm and it looked like we would be late . I called and she waited for us to arrive . It was a bit rushed when we met as she probably had to go but it worked out fine and we kept in touch by email",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Excelente ubicación",
+            "name": "Hector & Luci",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Great location right next to the old bridge to the Cité, but within 5 mins walk of the middle of the town. Free parking right outside. It's a quirky apartment perfectly equipped for a short stay and Patricia was lovely.",
+            "name": "Charles",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "This Airbnb was really well located in Carcassonne and seemed clean (though it wasn't as well lit as in pictures). The decor was pretty unusual, but it seemed to be equipped with all you would need, though we didn't use the kitchenette ourselves. Unfortunately our stay was affected initially by the fact that there was some confusion regarding our date of arrival - this wasn't a major issue, as Patricia was very apologetic and the flat was quickly prepared. More significant for our one night stay was a very loud party in the apartment below between 2 and 4 am. It wasn't clear who was responsible for this (possibly a separate AirBnB booking?) and it may have been a complete one-off. Hopefully neither of these issues would affect other guests, but they obviously affected our perceptions of the stay!\n+ Plus",
+            "name": "Jack",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Patricia's apartment was really cool and in a great area. Just a 10 minuto wall from Cite de Carcassonne. She was super accommodating with our arrival time and her host even gave us a few recommendations. We would definitely book with Patricia if we return. Thanks, Patricia!",
+            "name": "Zachary + Zoila",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Patricia made us feel welcome. Very close to the fortress and downtown. Make sure to go to the restaurant Patricia recommends. The Cassoulet is very good. As for the apartment, it does not have any of the modern conveniences - like a wash machine or kitchen appliances - per its description - but if you don't mind that, it's a decent location for the price.",
+            "name": "Douglas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "House was in an excellent location for visiting Carcassonne's La Cite. Accommodation was satisfactory and carparkng free in the street was great. Address was not clear on website so found it difficult to find.",
+            "name": "Alison",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Very good Experience, easy communicaton (in French), very close location between old and \"new\" town. Good guidance from Patricia on where to go and what to do with kids.",
+            "name": "Achim",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "We pass by carcasonne on Road trip, the apartment is very close to castle about 10min walk. very vintage style apartment and Patricia lives next door so very convenient to communicate. The only thing is she can't speak English so maybe a little bit hard for us to understand.",
+            "name": "Cherry",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Compact 1BR apartment, rather rustic as one would expect in a very old building in central Carcassonne, directly below the ancient citadel. It was 35 degrees Celsisus and warm overnight but by managing the west-facing shutters and using the powerful fan provided we slept comfortably. The decor is bordello-chic, rather quirky and ad hoc, but pleasant overall. Parking is a challenge (as one would expect in a very narrow street in a very old part of town) but Patricia gave us her parking spot on arrival which helped - we walked everywhere after that so as not to lose our place. The apartment is perhaps 100 m metres or so from the main pedestrian bridge leading to the castle area - perhaps 500 m total until you are in the expansive castle grounds. Note there are little stores, but no big supermarket in easy walking distance so if staying for several days you may wish to do your grocery shop before you arrive. All the tourist entertainment, shopping and cuisine options you want are inside the castle which is massive and very well-developed as a destination. Pay attention to when the English tours of the inner castle are offered - only a couple each day and only in the middle of the day - none in the late afternoon/evening or early morning (which was the only time we had). They seem to be very popular so book in advance if you can. However even without being able to join one of these inner sanctum tours the rest of huge castle complex is an incredible experience in itself in so many ways that it was well worth the visit. Language difficulties meant getting the Internet password correct took some time - but we wrote it out in English on a card to be left on the kitchen table for future guests.\n+ Plus",
+            "name": "Carol",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "A very nice and great appartment in the center of Carcassonne. Very clean and Patricia is very kind and hospitable. Thanks for all!",
+            "name": "Hetty",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Patricia was very helpful in ensuring that we got to Carcassone before the July 14th festivities, which were truly amazing - I've never seen fireworks like that anywhere else. The pictures are also accurate of the place, and it was very close to the castle site.",
+            "name": "Brian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Good location and heaps of free parking in the local area. Host was great even though we were delayed on our arrival and it inconvenienced her.",
+            "name": "Craig",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "We were welcomed by a friend of Patricia's. However, prior to our arrival Patricia provided updates and information about the closure of centre ville Carcassonne, because of La Tour. We were greeted at the entrance of the apartment and shown the space. The apartment is in a lovely and eclectic old building. Everything about the listing was accurate.",
+            "name": "Donald",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "nicely furnished appartment, very nice contact person, close to medieval town",
+            "name": "Raphael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Patricia was very flexible and met us to give us the keys and show us around the place. The apartment was in a great location between the old town and the newer city. The place is pretty quirky and would have been more enjoyable if there hadn't been a massage table in the corner with massage lotions and oils. Somewhat strange. But if you're looking for a convenient base to explore Carcassonne this is a good option.",
+            "name": "Aleksis",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Patricia was very welcoming and her place was exactly as it looked in the pictures. It was comfortable and very convenient to everything in Carcassonne. I felt that this was great value for money.",
+            "name": "Simon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "ENGLISH/SUOMI I spent 2 nights chez Patricia with a friend, the dates well chosen, because the day after some renovation was ment to be done. The apartment is big and decorative details just like shown on the photos. Bathroom was recently renovated and even if the floors are really worn with the time, and so were the volets (which we do not have in Finland anyway, so never mind them!) the most important is that everything was absolutely very, very clean. For my liking the bed could have been a bit softer, but more importantly big enough for two. In the bedroom you could smell that someone had smoked inside, but even if I do not smoke, it was allrightish. The road was not much traficated and the location was fantastic in regards the old town. Also there is a cozy balcony facing to a fench instead of neighbours right opposite, which was a plus. Calm otherwise, but the upstears neighbours had the music too loud on Saturday night. Earplugs were my saviour once again. The kitchen had all equipment needed for cooking, yet we always ate in the old town where we found wonderful restaurants. Absolutelu worth the price!!! Just compare all around the city; you can hardly find even a tiny room with 40!. Patricia was a most warm hostess and we spent some time just chatting with her before continuing our trip. MERCI, PATRICIA! Vietin 2 päivää ystäväni kanssa Patrician tilavassa kaksiossa. Kylpyhuone on täysin remontoitu kivoin kaakelein ja vaikka lattiat on kovin kuluneet ja ikkunaluukut rikkinäiset (niitähän Suomessa ei edes ole), tärkeintä on, että koko asunto oli todella puhdas! Sänky hieman kova, mutta jokuhan tykkää. Tilava kahdelle. Makkarissa aisti, että osa vieraista tupakoi sisällä. Parveke oli hiljaiselle kadulle, eikä vastapäätä ollut ikkunoita. Minä tarvitsin korvatulpat yläkerran naapurin musiikintäyteiseen yöhön, mutta sain nukuttua. Hintaansa nähden erinomainen valinta pariksi yöksi kun tutustut Carcassonin upeaan vanhaan kaupunkiin, jonne on todella lyhyt kävelymatka. Siellä myös ruokailimme aina, vaikka keittiössä oli kaikki tykötarpeet oliiviöljyä myöten kokkaamista ajatellen. SUOSITTELEN!\n+ Plus",
+            "name": "Tuula",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Well equipped apartment within walking distance of both the Cite and Bastide. Patricia met us with the keys and it was all very convenient.",
+            "name": "Nick",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "A neat little apartment in an old (norm for Carcassone) building. Good location and friendly host.",
+            "name": "Rui",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The size of the flat is big, but it is a little dirty and dark.",
+            "name": "Yaoyao",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "The location was great being so close to the active thriving city and yet also close to the bridge to walk to the castle and its village. The castle is fascinating and beautifully preserved. Lots of gorgeous places for lunch with 3 courses. My little French and Patricias little English made communication fun and added to the experience. Patricia is very happy and helpful and responds quickly to any queries.",
+            "name": "Lynne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Gran apartamento y perfectamente situado",
+            "name": "Marta",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "We didn't stay because I confused the dates when I booked the flat and the next day was already booked. Patricia didn't give me the money back.",
+            "name": "Juli",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Patricia was waiting for us to arrive and made us very welcome to her apartment. Our discussion dealt with parking, restaurants, food shops and points of interest for tourists. There were brochures to help us, and we quickly learned that we could see everything we wanted on foot. It is an apartment in he old part of town and has all the atmosphere of being in the centre of activities.",
+            "name": "Colin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Loved the apartment and location. Patricia was very welcoming and helped us with suggestions for restaurants, shops, etc.",
+            "name": "Martin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Convenient and funky place to stay in Carcassonne. Good value for money.",
+            "name": "Billy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "We had a great experience at DeLa Cite apartment. Patricia was there to meet us and hand over the keys.She explained everything to us and gave recommendations for restaurants in the area. The apartment was clean and had everything we needed for a pleasant stay. The bathroom had just been renovated and was great, a bit difficult keeping the water in the shower tray without a curtain but no real problem.The street was quiet but very close to the castle and all forms of transport. We were able to park just outside our apartment so this made things very easy for us. We would have loved another night but Patricia was booked , however she did offer us other accommodation but as we were not bothered about moving all of our stuff we decided to move on. I would recommend Patricia's place for its location and wonderful theatrical experience.\n+ Plus",
+            "name": "Robyn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Lovely place, quirky and comfortable and a great location. Patricia let us leave our bags with her after checkpout, which was really helpful.",
+            "name": "Wendy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Patricia is a very efficient, warm and attentive hostess and very quick to attend to any request. The apartment was very clean, extremely well situated, a walk to everywhere and with great street parking nearby, plenty of hot water and a sunny aspect. Different can best describe the apartment and probably not for a first time traveler, cigarette smoke was apparent, possibly coming from next door, lack of lighting in the bedroom and the massage table, why? In the sitting room, was a tad off putting. Linen, crockery and cookware is all very basic and not in the best condition and could be a lot better equipped. There was a lot of noise from above.This was our first Airbnb so we didn't really know what to expect. We stayed five days and after initial misgivings learned to feel very at home here. Not for the fussy or feint hearted but if you are up for something different try it.\n+ Plus",
+            "name": "Charles",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Easy to find and centrally located, Patricia was there to welcome us when we arrived. Apartment was spacious and clean. Although the dreamy set up of the apartment is not for everyone, we felt comfortable and relaxed there.",
+            "name": "Gregor",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "We arrived and could not make contact with Patricia for around an hour. Once she did arrive we were shown our apartment and while it was clean I did not feel comfortable staying there with my girlfriend and booked into a hotel. Patricia seemed friendly but I wouldn't recommend.",
+            "name": "Ross",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "The first problem that we encountered was that the address that we were given was incorrect as you can see in my message history with Patricia. The street name she sent was Gorges Brassens which does not exist. The correct street is \"Georges Brassens\". If you do not type the correct address the GPS cannot find it. We somehow found it after speaking to several locals. The building was broken down, looked vacant, and was in a seedy part of town. My fiancée said \"this can't be the place\". It looked as though the building should be condemned. Patricia was not there upon our arrival and so I called her. She arrived and lead us up the stairs to the first floor. The stairway was dark, incredibly dirty and the steps were a mix of tile and wood that were unsafe. As Patricia opened the door an extremely strong odor of cigarette smoke just about knocked us over. It was not a recent smell but a smell that told you the owners were heavy smokers and they lived there when it was not rented, possibly for a massage business. My Fiancee is asthmatic and I'm allergic to cigarette smoke so we knew there was no way we could stay there. The photos on the advertisement in no way depicted the actual condition of the entire apartment which was rundown and dirty. I told Patricia about the photos and she said they were a little old. The small area that held the toilet was so small that when you sit down you can't shut the door. In the corner of the living area was a \"massage table\". I asked Patricia what that was for and she said after a long day couples can give each other a massage. I know that Airbnb cannot go to the listings but this apartment was very unsafe and was not accurately depicted. The place was so dark that photos could not be taken. Thank you for your attention.\n+ Plus",
+            "name": "Steven",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "We had a pleasant stay at Patricia's in carcassonne. The bed is a bit hard and we both woke up with slightly stiff backs next day, also there is also no shower curtain so quite alot of water goes over the bathroom floor even if the shower head is positioned at an angle. However, the apartment is really pretty with it's traditional features and the location is brilliant as it's right in the centre: 3mins from tourist info, 10-15mins from the fort town. Patricia was also good at responding asap to any queries. Overall, worth the money and would stay again! :)\n+ Plus",
+            "name": "Lucy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Patricia was so welcoming and accommodating. She was understanding of our travel difficulties.",
+            "name": "Andrew",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Patricia is very warm and friendly and is open to any request. She is in the process of renovating the bathroom in the flat which will make it a lot more comfortable. The flat has all the basics one needs, the location is very good- close to shops and restaurants and in walking distance to the castle.",
+            "name": "Ashley",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "I would recommend booking this if you speak French. If not, it is a bit of a challenge. The apartment is very well located, midway between the station and the medieval city ( 15 minutes walk to both) but check in was a challenge as there is no address provided, so I had to ask for that, and directions, which were in French. Patricia did not mention that she owns the bar downstairs, so when arrived at the address, we did not know which apartment to go to. Otherwise it was fine, reasonably clean, and well located.",
+            "name": "Sue",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Patricia's apartment is ideally situated for easy access to la cite and the Bastide. It is spacious and imaginatively decorated. There is no AC but even on the hottest day, all that was needed end was a fan. She accepts smokers but I, a non smoker, detected no Odor in the apartment. It was clean and the bed was comfortable. Patricia is a sweetheart. I pulled a tendon when I was there and Patricia and her friend Leticia treated me like a family member. She is a warm hearted good person with a creative flair. This apartment is not modern. It is a second floor and climbing the stairs you won't expect much but it is a lovely haven and the decor is creative and fun and charming. You won't find a lovelier hostess than Patricia. (If you don't speak French, she will patiently pull out (SENSITIVE CONTENTS HIDDEN) translate).\n+ Plus",
+            "name": "Carolyn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Patricia greeted me very pleasantly on my arrival and the apartment was delightful - in a decidedly eccentric way. There is a massage table behind the screen, for example. It is also one of the most sexily romantic Airbnb places I have stayed in; sadly I was traveling on business and alone. And it IS very close to the old city; indeed it's 100 metres or so from one of the great views of it.",
+            "name": "Robert",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Patricia's flat was lovely, clean and comfortable. She was easy to communicate with and very friendly. I'd recommend her flat and would stay again!",
+            "name": "Alyshea",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Patrica met us right on time - great location - walking distance to the old city - very unique flat - near shopping and restaurants.",
+            "name": "Nicole",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Great location, and Patricia was able to be very flexible with our check-in time!",
+            "name": "Neil",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Patricia's apartment is absolutely in the perfect location to see the best of Carcassonne in a couple of days. Is it minutes walk to the Cite which you can see from the end of the street (the best place to view it by night in fact), but also convenient for the Bastide, with lots of nice bakeries, bars, etc nearby. Patricia was great - recommended a lovely restaurant to us with amazing steak cooked over a log fire, and their house wines were some of the best I had all trip (Restaurant L'Oeil). She was also very flexible and met us earlier than planned due to our bad timing! The apartment itself was what you'd expect from the photos - eclectic! Some beautiful items of classical furniture and some modern and indeed, a massage table! Beautiful balcony off the living room. Great wifi connection, and everything we needed in the kitchen for breakfasts (we didn't cook otherwise). The bed was comfy though a couple more pillows might have been welcome. The only downside I could mention would be that the shower is an adventure without a shower curtain - I felt really awful for flooding the bathroom but it was impossible not to do so! All in all, a good experience, though I think that if you are after a very quiet place to spend a lot of time in, this would not be the flat for you.\n+ Plus",
+            "name": "Anna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Patricia welcomed us warmly; apartment was clean, corresponding to the photos. Well-equipped kitchen, coffee and sugar available.",
+            "name": "Simon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Because we decided the last moment we wanted to stay a night in Carcassonne, we found Patricia's lovely apartment. It was no problem at such short notice and only for 1 night. From her apartment it's a 15 min walk to the old citadel. After visiting this part of the city, we decided to have a nice steak at the restaurant she recommended (and we got a discount for being her Patricia's guests :-) The only thing is that when we wanted to get some sleep, the neighbors decided to throw a party. Fortunately we were tired enough to sleep through the music...\n+ Plus",
+            "name": "Anke",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Patricia was a lovely host, very friendly and helpful. The apartment was in the perfect location only a short walk from the old walled city and a short walk from Place Carnot and the centre of town. The apartment itself was quirkly decorated, clean and had all the amenities. We had a fantastic time and would stay there again if we were ever in Carcassonne",
+            "name": "Aiko",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "When we arrived in Carcassonne, we did a send a message to Patricia when we were on our way. She did reply very fast she was waiting for us. The appartement is located in the best location if you want to visit both the old and new center, in walking distance from all important locations you can see in the area. The appartement is a little bit old and had a bit of a strange smell, as if the previous guests had been smoking here. You will find some surprises in the room that will most likely make you smile: a statue in a hidden corner, many lights in the bedroom to enhance the mood and a massage table when you need to relax after a long day of walking. Patricia did share some local tips and gave two cards from local restaurants telling we would receive a discount when we would go there. The place is very spacious and easily hosts 3 people.\n+ Plus",
+            "name": "Stijn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Everything was perfect. Patricia was super helpful and nice, giving us advice and explaining us everything we needed. We checked in a little bit earlier and checked out a bit later and she was super cool about it. The place is comfortable and really close to both the medieval city and the center of the town.",
+            "name": "Graciela",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Patricia is a very gracious and accommodating host and the apartment is superbly located, and is quite comfortable to stay in. There are always those small things that could make our stay more pleasurable, like the small balcony door that I couldn't open or the fact there is no shower curtain. A little more updating of amenities would make it the perfect place for a stay in Carcassonne, but we certainly got our money's worth.",
+            "name": "Inga",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Great host we called ahead with our bad French and she was there waiting. And switched the central heating on - bliss for those that hate the cold.",
+            "name": "Laurie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "great location :) for this price !",
+            "name": "Vincent",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2014"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.0,
+    "averageRanking": 4.0,
+    "nbReviews": 124,
+    "communication": 4.5,
+    "emplacement": 4.5,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 59,
+    "qualite-prix": 4.0
+}

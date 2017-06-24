@@ -1,0 +1,95 @@
+{
+    "precision": 4.0,
+    "reviews": [
+        {
+            "text": "Logement en cours de rénovation. Les chambres ont été aménagées avec des lits et matelas de qualité moyenne. Le plus ennuyeux est qu'il y a un gros manque d'hygiène et de propreté. Impossible de manger dans la cuisine car pas de vaisselle pour petit déjeuner et tout est gras et non nettoyé par les étudiants qui y vivent à l'année. La salle de bain, WC non nettoyés, ni le sol de la chambre (impossible de marcher pied nu sans avoir les pieds sales). Sinon Alex marc est un jeune homme très sympa et très accueillant. Mais il ne faut pas vouloir se faire de l'argent en louant n'importe quoi sans respect! La bombe Fébreeze qui parfume la chambre et les draps ne fait pas tout !\n+ Plus",
+            "name": "Valerie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Super ambiance, Axel est un hôte très sympa et bon délire (même si t'as pris cher au jeu musical aha). Ça serait avec plaisir de vous revoir avec tes locataires. Il est très disponible et à l'écoute. Malheureusement la chambre n'était pas propre. (Sûrement du fait que des airs bnb venaient de partir?!) Au plaisir pelo ! :p",
+            "name": "Coralie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "L'hôte était absent pour nous accueillir et injoignable. La chambre et la salle de bain sont correctes.",
+            "name": "Tanguy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Le logement est correcte, les autres locataires sont très sympathiques. Très bon rapport qualité prix.",
+            "name": "Eric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Sejour parfait ! Tres belle acceuille ! Ces assez spatieux et le jeu de carte je vous le conseil",
+            "name": "Mickael",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The flat mates were very nice and they did as much as possible to make us feel confortamble, but the room was not ready when we arrive and part of the house was in construction.",
+            "name": "Albert",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Axel was a great host. He was very helpful and friendly. Great value for money",
+            "name": "Dudley",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "As we came quite late I could not reach Axel on the phone. Fortunately, he managed to inform his housemate who took care of us.",
+            "name": "Ján",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Cheap and cheerful. (Free vine)",
+            "name": "Dmitry",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Thanx a lot Axel!! You are really cool guy , who help us a lot )) it was fun time to spent in Roubaix ;)))",
+            "name": "Artem",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 2.5,
+    "averageRanking": 3.5,
+    "nbReviews": 10,
+    "communication": 4.0,
+    "emplacement": 3.5,
+    "arrivee": 4.0,
+    "resume": "",
+    "id": 63,
+    "qualite-prix": 3.5
+}

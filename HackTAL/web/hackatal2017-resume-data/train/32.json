@@ -1,0 +1,159 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Excellent accueil, appartement propre, literie impeccable, et super bien situé, je recommande",
+            "name": "Catherine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Idéalement placé, l'appartement permet d'accéder au centre ville en quelques minutes seulement donc très pratique. De plus Mme Dahmani est sympathique, flexible et offre le meilleur possible à ses hôtes.",
+            "name": "Matthieu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Le studio est idéal et pratique pour deux. Bon rapport qualité prix et l'hôte a été arrangeante pour récupérer les clefs.",
+            "name": "Manon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement bien situé, confortable. pour un court séjour à 2. Dah était très gentille et arrangeante Merci :)",
+            "name": "Lucie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement conforme à la description et très bien situé dans lyon sur une place assez calme. Très bien pour une nuit ou deux !",
+            "name": "Lise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Logement central, bien situé à 3 min du métro Croix Paquet et de l'hotel de ville. Apparement le quartier peut devenir assez bruyant la nuit, mais je n'ai rien entendu car je dors avec des boules Quiés. A savoir: 5e etage sans ascenseur ! L'appartement est grand pour un studio, mais il y a peu de place pour ranger ses affaires. La propreté generale laissait à désirer mais les draps étaient propres ! La proprietaire est gentille et arrangeante. Tres bien pour 1 nuit vu le prix !",
+            "name": "Fabrice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "La proximité (en plein centre de lyon) reste le plus gros avantage de cet appartement. Il est assez bien agencé et peu bruyant, nous avons bien dormi. Nous avons été bien reçues, draps propres, serviettes à disposition et gentillesse de la propriétaire surtout ! Malheureusement l'appartement était sale et surtout la cuisine (nous avons dû laver le micro-ondes pour pouvoir l'utiliser) et là salle de bain en mauvais état (siège de toilettes pas fixé, placard inutilisable (planches empilées)... Cela nous a suffit pour une nuit mais je n'aurais pas pu rester plus longtemps... Cependant l'appartement est fidèle à son prix ce qui reste une bonne solution pour des étudiants en court séjour comme nous !\n+ Plus",
+            "name": "Nolwen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Accueil et description ok si ce n'est que la cuisine est très salle (en particulier le frigo et la plaque de cuisson extrêmement graisseuse et située en équilibre sur le four, à 10 cm sous le chauffe-eau, ce qui parait dangereux). Le sol n'avait pas non plus était aspiré depuis longtemps, et la lunette des toilettes, encore dans son emballage, attendait d'être montée, posée sur la cuvette des toilettes à notre arrivée. Je ne recommande absolument pas ce logement.",
+            "name": "Julie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Logement très central, les 5 étages font les cuisses mais à part ça tout est nickel ! À déconseiller pour ceux qui recherchent absolument du calme. Merci pour tout Anissa !",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Logement peut être un peu haut pour les personnes plus âgées, mais parfait autrement pour les personnes en forme ! Très confortable et agréable, j'ai passé un très bon moment !",
+            "name": "Joffrey",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Séjour très agréable dans ce studio très bien situé. Tres proche de la place des terreaux et du métro. Le studio et très bien équipé et très pratique idéal pour un couple. L'hôte a su être arrangeante sur les horaires d'arrivée et de départ. Nous recommandons ce studio.",
+            "name": "Clara",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Appartement très bien situé, très équipé et une hote très acceuillante et arrangeante. On se sent vite à la maison !",
+            "name": "Marine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Excellent accueil ! Anissa est bienveillante et gentille et tout est fait pour qu'on puisse passer un excellent séjour.",
+            "name": "Nabil",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Appartement bien situé . Proche des Terreaux, idéal pour une soirée à Lyon",
+            "name": "Fabienne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement super bien situé, avec très bon restaurant juste à côté, et bar pour sortir pas loin. Proche Croix Rousse et centre ville. Idéal pour un week end !",
+            "name": "Brice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Anissa's apartment is satisfyingly cozy and extremely well situated in the heart of Lyon. Perfect for a couple looking to tour the city. Anissa herself is very sweet and helpful. We had a great time, we're impatiently looking forward to return and would definitely recommend it!",
+            "name": "Eddy Junior",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "The host canceled this reservation 11 days before arrival. This is an automated posting.",
+            "name": "Julie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Lovely place I encourage anyone taking a trip to Lyon to stay here",
+            "name": "Harrison",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.0,
+    "averageRanking": 4.5,
+    "nbReviews": 18,
+    "communication": 5.0,
+    "emplacement": 5.0,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 32,
+    "qualite-prix": 4.5
+}

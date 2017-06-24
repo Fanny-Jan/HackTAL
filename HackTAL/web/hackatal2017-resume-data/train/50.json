@@ -1,0 +1,399 @@
+{
+    "precision": 4.0,
+    "reviews": [
+        {
+            "text": "Très bien situé et logement très calme",
+            "name": "Anne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Petit logement très bien situé. Faten est une personne très agréable. Je recommande.",
+            "name": "Edith",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement propre, très bien situé, je recommande !",
+            "name": "Golzar",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Logement très propre,calme fidèle à la description et aux photos. Un quartier agréable pleins de petitd restos fort sympathique. Franprix, Monoprix, magasin bio juste en face ou dans la rue. Emplacement idéal à proximité du métro. Accueil nickel, hôte très disponible. Au top. Nous sommes venu avec mon mari et un bébé de 9mois. ( Lit bb amené par nous) Pour un séjour de 5jours",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Le départ et l'arrivée peuvent être délicats, dans la mesure où Faten délègue toujours une tierce personne.",
+            "name": "Leon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Le logement est extrêmement bien situé (proche Olympia, Opéra, Madeleine...). Notre arrivée sur les lieux ainsi que la communication a été plus qu'agréable. Concernant le logement en lui-même : lit double convenable, serviettes, machine à laver, Wifi et TV. Petit bémol tout de même : la salle de bain microscopique. Nous sortions d'un concert, nous étions donc exténués et relativement \"sales\" : nous avons eu l'amère expérience de prendre une douche ... glaciale. En effet, il fallait activer l'eau chaude soi-même, le tout spécifié sur une petite note affichée à l'entrée. Erreur de notre part certes mais rien ne nous a été notifié à notre arrivée sur les lieux. Dommage donc\n+ Plus",
+            "name": "Morgan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Appartement très bien situé. Et agréable dans l'ensemble.",
+            "name": "Leon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Appartement mal insonorisé, porte ne fermant pas à clé. Mais bon accueil, appartement sommaire et propre, bien situé.",
+            "name": "Michèle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Très bien placé, appartement propre et lumineux. L'accueil était chaleureux et le sourire au rendez-vous, un plaisir! Attention au ballon d'eau chaude très petit.",
+            "name": "Manon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Très bien situé, dans un quartier animé. L'appartement est confortable et spacieux. Par contre il manquait un peu de vaisselle pour se faire à manger.",
+            "name": "Lise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Un appartement intéressant. Que je conseillerai.",
+            "name": "Leon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Faten est très sympathique et (URL HIDDEN) recommande",
+            "name": "Anthony",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Je suis très satisfait de mon séjour chez Faten. L'appartement est très bien situé. Très propre et très bien exposé . Calme et lumineux. Les personnes que j'ai rencontrées, très attentives. Je vais revenir en décembre.",
+            "name": "Leon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Appartement très agréable. Petits soucis de plomberie mais qui devraient être vite résolu.",
+            "name": "Laure",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Appartement impeccable et très bien situé. Je n'ai pas rencontré Faten directement mais tout s'est très bien passé !",
+            "name": "Marybel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "L'appartement est très bien: confortable, bien décoré, très propre. Faten a été adorable. Très facile de communiquer avec elle. Nous recommandons vivement cet appart!",
+            "name": "Vincent & Mathieu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Cet appartement est bien placé. Le coin salon et chambre sont très agréables et spacieux. Seul petit soucis, malgré la consigne donnée pour la douche, l'eau était froide... je recommande pour une ou deux nuits",
+            "name": "Chloé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "The appartment is well located, Faten and her family living next door to us were very nice and welcoming. Having said that, the appartment is in a 6th floor and the elevator goes up to the 4th, leaving 2 floors to go by foot. The elevator was my only reason to book this place as some of us had reduced mobility, I have asked in a message before booking and when we arrived we found we had 2 floors to go by ourselves and in the 2nd day the elevator stopped working at all, making it 6 floors up ... even to check out with the luggage. This really limited our stay in Paris and it is not clearly listed, if your priority is the elevator this place is not for you. Otherwise, it's nice and well located.\n+ Plus",
+            "name": "Caro",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Very central location.",
+            "name": "Stephane",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Very clean and convenient place, near to subway, bus...etc. Can visit Paris very easily from there. Faten was very fast to reply to all question and the communication was easy. I recommend this place for a couple.",
+            "name": "Maud",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "The place is central, spacious, bright and relatively clean. The kitchen needs an upgrade. Faten was very accommodating and responsive. The rest is as described.",
+            "name": "Said",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "A very good location for central Paris.",
+            "name": "Simon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Fantastic location in a lovely neighbourhood in central Paris. Easy to walk to sights, shops and public transport. Definitely recommend for a short break in Paris. We had a wonderful stay.",
+            "name": "Michelle",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Nice place We had a great time",
+            "name": "雲皓",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Faten is very responsive and nice. Decent location, typical Parisian apartment but very clean and easy to get in and check out. Highly recommend Fateen.",
+            "name": "Melissa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Really nice flat....the location is perfect. We walked to pretty much all places!!!",
+            "name": "Saskia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Faten was very responsive and her lovely aunt let us in! The place is nice and cozy and very comfortably for a couple! The place was clean and got everything we needed! It was close to metro and heaps of restaurants around! We would come back here next time!",
+            "name": "Sam",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Great little studio apartment next to the theatre. Right near a busy street but still quite quiet. We had a late flight and only got into Paris at midnight so had to meet Faten at her place which is not far from the apartment. The hot water doesn't last very long but overall a pleasant stay and a great location!",
+            "name": "Ruth",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Very good location, near the center. Enough for 2 people.",
+            "name": "Yue",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "The location of this apartment is great, very close to multiple metro stops. It was clean and the hosts were friendly and communicative. They allowed us to leave our bags early so we didn't have to carry them around with us. The size of the space is probably better suited for one or two people. We had three and one of us had to sleep on the couch that did not have a bed. The hot water was also barely enough for one of us to shower and multiple showers one right after the other were not possible.",
+            "name": "Christa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "The house was nice, good for a couple, the only problem was the hot water, because the tank was too small. Overall a good experience and Faten is a nice person, She answered back really fast to any question.",
+            "name": "Ismael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Lovely location, close to the city centre! Would recommend it!",
+            "name": "Anna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "I am afraid I would not choose this place for a future stay in Paris.",
+            "name": "Maria",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Faten is amazing host. Responds right away and everything is as described!",
+            "name": "Olgena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "The apartment is incredibly sunny even in a winter cloudy day thanks to large windows. There are nice and reasonably priced restaurants nearby and the must go Chartier Restarant. For those who like going to the theatre there are a large offer by the door and even some plays in English! Two supermarkets next to the building. The underground is close as well. Faten is a friendly owner who was on time for check-in. Highly recommended!",
+            "name": "Antônio",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "We really enjoyed our stay at Faten's place, the flat was perfect for the two of us for 5 nights and had everything we needed-kitchenette, bathroom, washing machine. Great location near food outlets, supermarkets, train stations and walking distance to several Paris attractions. We would definitely recommend this to anyone else and would stay again.",
+            "name": "Sam",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "The apartment was exactly as described. The location is perfect and the apartment contained everything you need. The host was away travelling during our stay but was extremely helpful, communicated extremely well with us and was very flexible. The perfect host.",
+            "name": "Brendon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "去的时候房东不在,但checkin的过程很顺利。 房间如图所示。就是第二天checkout的时候是我们直接把钥匙给下个房客的,感觉房东都没有时间打扫卫生。 the stay here is nice! the checkin process went well and everything is as in photos. the shower could be a problem because you have to wait 10 mins before the next person can use the shower.",
+            "name": "Aloha",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "The apartment was not huge, but bright and plenty of space for two of us. The location is really excellent, midway between Montmarte and the Louvre, with most anything in walking distance and very close to the metro stop for those that aren't.",
+            "name": "Justin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Everything was fine, nice apartment, good comunication, everything was as described! I'm happy!",
+            "name": "Inessa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "The apartment is on a great location, and overall it's a nice apartment, the bed is comfortable, the couch as well. Some amenities were a little sparse, there were blankets but no sheets etc, but nothing major. The trouble, however, was in the host's attitude. We were half an hour late, which was unfortunate but I feel it didn't deserve the nervous, impolite sms we got from the host. Granted, we checked in quite late, but before even booking the apartment I asked the host if it would be ok for us to check in around midnight, and she said no problem. Later on I sent a message that we will be at the apartment a little earlier, at 23:00, but unforutnately, since it was our first visit to Paris, we estimated our timing wrong and arrived at the apartment at 23:30. The host had arranged her aunt that lives in the same building where the apartment is to meet us. At 23:04 we received our first message from our host, asking us are we there yet? Then at 23:12 a new message asking where we are and that her aunt is waiting? We then replied we were on a street next to the apartment and that we will be there in 15 minutes. A little later, after we were already in the apartment and her aunt had let us in, we got this message, I quote: \"Sorry but now its very late!!! My aunt has work and can't wait you longer at least if you see you are late you can take taxi. You have 40 min late usually I never take check in at night I did but u are super late so my aunt is leaving.\" Not only did this arrive after we were already in the apartment, but I feel it is very disrespectful in any case. I understand being late isn't a perfect situation, and checking in after 23:00 isn't everyone's cup of tea, but I had specifically asked the hjost if we could check in circa midnight before even booking the place, and only booked the place after the host said yes. To conclude, the apartment is overall ok, the location is great, but the host is unprofessional and unflexible, so book it only if you can arrive precisely on time.\n+ Plus",
+            "name": "Ivana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Faten was a great and accommodating host. The apartment was also in a great area in Paris, and was easy to get around. Had a great stay here!",
+            "name": "Angela",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Emilios. Faden has got a nice Flat. It's good located e.g. to the Metro. My son ( 6 Years) liked the Shops and Theaters near the Flat.",
+            "name": "Diana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Faten's apt was in the perfect location, very clean, and had plenty of space for two people. And Faten could not have been nicer. I would certainly stay at this apt again.",
+            "name": "Gregory",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Faten was amazing Hoster. She always was helpful and kind with all kinds of problem. The place is great and nice! Very clean and confortable. It's near of a lot sities interesting and a one block of the subway. (Grand Boulevards) I recommend this place absolutely!",
+            "name": "Daniel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "We had a really nice stay, our bed was super comfortable, the room was really beautiful, and the apartment is very nice. Our hosts were friendly and helpful. The area is perfect, very cute shops, cafés and some of the best food we've eaten this trip. Easy access metro. What a nice spot! I totally recommend staying here. :)",
+            "name": "Hamza",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Faten was an excellent host. The apartment was lovely and also very central. She was very friendly and helpful to us throughout our visit. She even let us keep our luggage in the house after the check out time as our flight was late. I really cannot recommend this host highly enough! Will definitely book with Faten next time we come to Paris!",
+            "name": "Sean",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "The host canceled this reservation 10 days before arrival. This is an automated posting.",
+            "name": "Daniela",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "averageRanking": 4.0,
+    "nbReviews": 48,
+    "communication": 4.5,
+    "emplacement": 5.0,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 50,
+    "qualite-prix": 4.5
+}

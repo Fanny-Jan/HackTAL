@@ -1,0 +1,1039 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Je ne regrette pas mon choix ! Le rapport qualité/prix est nickel. L'appartement est en plein coeur de Marseille, place de l'Opéra, accès au Vieux Port en 2mn à pieds, proche de tous les commerces ! Par temps de Mistral c'est encore mieux pour aérer et prendre une bouffée d'air frais à domicile :) Comme précisé dans l'annonce, c'est un quartier très actif de jour comme de nuit avec des représentations artistiques la journée sur la place, et donc beaucoup de bruit, et le soir de nombreux jeunes viennent passer la soirée et peuvent faire du bruit... Aucun problème je pense pour des gens habitués à la vie en ville, cela ne m'a pas gêné plus que ça. Tout est à disposition, Michel est lui très arrangeant et compréhensif, aucun problème de communication. Tout s'est très bien passé, je recommande à tous ceux qui cherche l'animosité et la proximité du Vieux Port !\n+ Plus",
+            "name": "Sophie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Super appartement, au cœur du centre ville et à 1 minute du Vieux port ! Michel est très arrangeant. Je recommande",
+            "name": "Sébastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement très propre et idéalement placé pour accéder à toutes les activités du centre. Quartier sympa et animé, notamment le soir. Très bon séjour à Marseille.",
+            "name": "Philippe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement très bien situé, propre et confortable! Pas trop calme la nuit mais je reviendrai!",
+            "name": "Manon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "L'appartement est extrêmement bien situé avec tout le confort nécessaire et Michel est un véritable hôte ayant à coeur de faire passer un bon moment à ses locataires, super séjour",
+            "name": "Charlotte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Un appartement très bien placé pour visiter Marseille !",
+            "name": "Enrico",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement super bien placé pour découvrir Marseille. Bien équipé et propre. Rien à redire. Et merci à Michel pour son adaptabilité et ses précieux conseils.",
+            "name": "Laty",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement propre, fonctionnel, très bien situé et hôte très sympathique je recommande donc",
+            "name": "Emilie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Superbe appart, très propre, moderne et bien équipé et idéalement placé en plein centre de Marseille avec vue directe sur l'opéra et les petits cafés au soleil en bas. Nous n'avons pas été génés par le bruit. Michel était très réactif pour répondre à nos demandes de dernière minute. Dans l'appart, un petit classeur détaille toutes les adresses utiles. Bref, top appart pour un top séjour dans la ville de la lumière !",
+            "name": "Coralie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Faut y aller... Appartement spacieux, très bien situé, un Michel très accueillant et un appartement rempli de petites attentions pour que l'on passe un bon moment, ce qui fût le cas. C'est l'ambiance de Marseille c'est sûr !",
+            "name": "Stéphanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "L'appartement est bien situé, lumineux, agréable et confortable. Seul bémol, lors de notre séjour, la rue a été assez bruyante la nuit.",
+            "name": "Julia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "L'appartement de Michel est parfait. Près de vieux port et juste à côté de l'opéra, facile à trouver. Propre et pratique, je recommande !",
+            "name": "Lu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Logement très bien placé, à une minute du vieux port', du métro. Appartement confortable, jolie vue sur l'opéra.",
+            "name": "Gwenaelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Appartement spacieux, propre et très bien situé. Michel a été très chaleureux, disponible et arrangeant pour l'arrivée comme pour le départ. Je recommande !",
+            "name": "Sophie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Michel est un hôte prévenant et accueillant qui connait très bien son quartier, flexible sur les horaires. Son logement très bien situé est bien équipé, propre, clair, lumineux, douillet et on s'y sent très bien! Un peu comme à la maison. Merci Michel pour ce respect de vos hôtes et à bientôt!",
+            "name": "Vero Denis",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Bon séjour dans l'appartement.",
+            "name": "Seconde",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Appartement idéalement situé, typique Marseillais tant par l'architecture que le quartier ! De plus, Michel est très accueillant.",
+            "name": "Vincent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Accueil impeccable. Le logement correspond bien à la description. Nous étions en semaine en hiver et c'était très très calme ! La situation est idéale pour se balader dans la ville ! Rien à redire.",
+            "name": "François Et Magali",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Emplacement idéal pour notre premier séjour à Marseille. Donne envie de revenir.",
+            "name": "Thierry",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "L'appartement est remarquablement bien placé et spacieux. Michel est un hôte sympathique et réactif, très arrangeant sur les heures d'arrivée et de départ.",
+            "name": "Juliette",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Charmant petit appartement idéalement situé et Michel est un hôte très prévenant",
+            "name": "Bruno",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Petit appartement très agréable et bien situé. Michel est disponible et réserve un accueil sympathique.",
+            "name": "Cécile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Situé en plein centre de Marseille \"opéra\" au 4ème étage, bien sur il y a le bruit de la ville! mais tout parfait, on reviendra!",
+            "name": "Marc",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Notre séjour s'est très bien passé, merci Michel !",
+            "name": "Ella",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Très bien placé , très propre une connexion internet impeccable et pareil pour le suivi.",
+            "name": "Sofiène",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "L'appartement est très bien placé et très facile à trouver, tout près du métro. Il faut grimper quatre étages mais on est pas déçu en arrivant : appartement très lumineux et superbe vue sur la place de l'Opéra. Même si il est situé en plein centre, et tout près du Vieux Port, l'appartement est très calme, ce qui est un grand plus. Michel a été très réactif et disponible. Je recommande donc vivement cet appartement pour qui veut se poser au cœur de Marseille pour quelques temps :)",
+            "name": "Elif",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Communication et sympatie....tout pour mettre à l'aise et simplifier la vie dans Marseille et ce qu'il faut dans le logement.",
+            "name": "Sabri",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Michel est un super hôte,très accueillant.l'appartement est idéal pour 3 à 4 personnes,vraiment bien localisé (quasi sur le vieux port) propre, confortable,très bien équipé,vue sympa sur l'opéra...tout était prafait! Merci",
+            "name": "Magali",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Michel était très accueillant, disponible et souriant ! Notre passage à Marseille était de très courte durée, mais nous nous sommes tout de suite sentis comme chez nous. L'emplacement est idéal, central, proche du vieux port, cours Julien,...Peut être un peu bruyant, car très central, mais en même temps nous sommes en centre ville ! L'appartement était propre, rien à redire, je le recommande !",
+            "name": "Clarisse",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Michel est très réactif à nos sollicitations et rend notre séjour le plus agréable possible.",
+            "name": "Eric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Logement agréable, très bon emplacement centre ville, un peu bruyant ,nous avons eu droit à une animation tango sur la place de l'opéra, mais ce n'était que du bonheur, plaisir des yeux et des oreilles !!",
+            "name": "Veronique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Tout correspondait! C'est la deuxième fois que je viens chez Michel et je m'y sens comme chez moi. Michel a tout fait pour m'arranger quite à ce que je laisse l'appartement plus tard que prévu. Et le lit est toujours aussi douillet! Encore merci Michel pour tout!",
+            "name": "Lydie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Michel est très sympa et l'appartement était exactement ce que cherchais. C'est idéalement-situé et parfait pour visiter Marseille. Merci Michel! Michel is very nice and the flat was exactly what I was looking for. It's ideally-situated, and perfect for visiting Marseille. Thank you, Michel!",
+            "name": "Peter",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "L'appart est charmant, très propre et super bien situé, tout y était pour passer un très agréable moment! Le jeudi soir on a pu voir depuis la fenêtre, les danseurs de tango sur le parvis de l'opéra :) Michel est accueillant et vraiment super sympathique, je recommande vivement! Merci Michel et au plaisir, bonne continuation, Lara",
+            "name": "Lara",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Appartement super bien placé, très agréable et très propre. Michel est très arrangeant, sympa et conseil très bien pour visiter. Encore merci pour ce super séjour.",
+            "name": "Joan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Merci Michel pour le sympathique accueil et conseils que vous avez réservé à mon fils et son copain anglais. Il a apprécié votre communication et sympathie. Ils se sont senti chez eux, tout était parfait.",
+            "name": "Cecile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Nous avons joyeusement et chaleureusement été accueillis par Michel. Par ses explications et ses (URL HIDDEN) croustillantes sur la vie Marseillaise il nous a aider à mieux comprendre cette ville inconnue pour nous. L'appartement et ses équipements sont conformes au descriptif, la literie est très bonne, la propreté parfaite. Sa situation très centrale est très appréciable même si le quartier est un peu bruyant le soir, mais c'est la vie Marseillaise! Je recommande cette adresse. Merci encore à Michel pour sa gentillesse.",
+            "name": "Thierry",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Logement très bien placé, qui correspond à la description qui en est faite (il est encore mieux en réalité que sur les photos). Michel s'est montré très accueillant, disponible : il a pris du temps pour nous donner des conseils sur la ville. On s'est sentis \"comme chez nous\"! Merci Michel!",
+            "name": "Jessie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Appartement agreable et conforme aux photos. L'emplacement est ideal pour visiter Marseille à pied. Michel est un hote sympatique qui parle de marseille avec passion et nous a indique les petits restos de quartier ainsi que les lieux a voir. Bon sejour à Marseille.",
+            "name": "Susana",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Nous avons passé un très bon séjour, merci à Michel pour sa gentillesse .",
+            "name": "Kamel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Michel est un hôte accueillant qui aime sa ville et tres à L écoute de ses invités Appartement tres bien situé, fonctionnel et très agréable !",
+            "name": "Sebastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Michel est très sympa, très accueillant et nous a donné de très bon conseils pour visiter sa ville. Son appartement est très bien situé et est exactement comme son descriptif le dit. Certaines personnes se sont plaintes des bruits de la rue, nous, nous n'avons eût aucun souci avec cela, au contraire, l'appartement est très calme. Il est certain que pour notre prochaine visite à Marseille nous recontacterons Michel.",
+            "name": "Fanny",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Appartement très bien situé, au coeur de Marseille. Accueil parfait par un hôte qui connait très bien sa ville. Le quartier reste animé le soir et la nuit, ce qui induit quelques nuisances sonores.",
+            "name": "Bertrand",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "L'appartement est très bien situé, juste au centre, près du vieux port, dans un quartir très sympa: bars , restau , shopping. Il est confortable, lumineux et assez grand. Michel est sympa et communique avec enthousiasme sur Marseille . Nous avons dormi un vendredi soir avec match de l'euro 2016, alors, évidemment, il y avait un peu de bruit mais ça reste supportable.",
+            "name": "Helene",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Accueil très chaleureux de la part de Michel qui nous attendait de bonne heure le matin de notre arrivée. L'appartement était conforme à nos attentes et très bien situé, à deux pas du vieux port. Nous nous y sommes reposés lors d'une courte nuit après un match à suspense (France-Albanie) au stade vélodrome. Nous le recommandons sans hésiter.",
+            "name": "Yves",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Appartement lumineu, charmant et très bien place. Bonne adresse !",
+            "name": "Armelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "L' appartement de Michel est très sympa, propre, lumineux et bien équipé. Situé dans un quartier vivant, à deux pas du Vieux-Port, l' endroit regorge de restau et bars pour tous les goûts. Pour les bonnes adresses, suivez les conseils de Michel, il connait le quartier comme sa poche!",
+            "name": "Thomas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "J'ai passé un excellent séjour. L'appartement est propre, fonctionnel, bien équipé et bien situé à 2 min du vieux port. Je me suis sentie comme à la maison. Le propriétaire est très accueillant et vous conseillera sur les bons plans sur Marseille. Je recommande vivement!",
+            "name": "Hadja",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très bel appartement, très bien situé avec un très bon accueil de Michel. J'ai beaucoup aimé les 3 grandes fenêtres donnant sur la place, rendant l'appartement très lumineux et super agréable ! Merci",
+            "name": "Clément",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Nous avons été extrêmement bien accueilli par Michel. L'appartement est idéalement situé au plein centre de Marseille, proche de belles places où les restaurants, café, bar à tapas vous accueillent en terrasse pour passer un super moment. Très disponible, Michel nous a donné beaucoup de \"bons plans\" restau, sortie qui nous ont permis de passer de très bons moments. L'appartement est très propre, tout y est pour passer un bon moment. merci encore une fois à Michel et on reviendra vous voir lors de nos prochaines escapades à Marseille.\n+ Plus",
+            "name": "Anastasia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Michel est un hôte dévoué. En montant des cloisons dans ses anciens bureaux il a réalisé un appartement fonctionnel et sympathique. Le quartier est accueillant, attention neanmoins au bruit le week-end. Si vous souhaitez resider dans le centre de Marseille, cet appartement est fait pour vous !",
+            "name": "Clement",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "On aurait aimé pouvoir mettre une sixième étoile ! Nous avons passé un merveilleux séjour dans ce petit appartement. Michel nous a tout de suite mis à l'aise, attentionné et très humain, nous confirmons que c'est un hôte exceptionnel. L'appartement correspond parfaitement à la description, très lumineux, avec une belle vue dégagée sur l'opéra, équipement moderne, propre et idéalement placé ! Un super séjour que nous n'hésiterons pas à renouveler !",
+            "name": "Ananas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Michel est super accueillant ! Il nous a mis à l'aise dès le départ pour qu'on se sente comme chez nous. Le logement est très propre et correspond parfaitement aux photos. J'ai particulièrement apprécié la salle de bain italienne et la grande chambre qui est tres ensoleillée le matin ! Une super vue sur l'opéra également",
+            "name": "Lydie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "L'appartement de Michel est joli, clair, bien agencé et très bien situé. Le lit est confortable, la cuisine est pratique et la salle de bain grande et agréable. L'accueil de Michel est à la fois chaleureux et pratique. Je peux recommander sans hésitation cette adresse.",
+            "name": "Emilie Lea",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Très bon accueil. Merci à Michel pour ses conseils avisés . Appartement très agréable, lumineux et idéalement situé. A recommander.",
+            "name": "Jean-Noel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "L'appartement de Michel est idéalement situé au coeur de la ville, tout proche du Vieux Port, dans le quartier animé de l'Opera. Conforme aux photos, il est propre, très bien équipé et lumineux. L'unique petit bémol serait peut être le bruit durant la nuit dû à sa localisation hyper centre. Concernant Michel, il est un hôte très accueillant, ponctuel et arrangeant, pleins de bonnes adresses et de conseils. Si nous revenons à Marseille c'est bien chez Michel que nous retournerons!",
+            "name": "Flora",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "L'appartement de Michel est idéalement placé pour une découverte du centre de Marseille à pied, dans un quartier animé à deux pas du Vieux port et des restaurants. Il est conforme à la description et aux photos du site et Michel s'est montré très accueillant.",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Le logement est tout à fait conforme à la description, très propre et bien placé sur la place de l'Opéra juste à côté du port. On fait tout à pied. Michel est très accueillant, (je ne sais pas si c'est possible d'y être plus ), il connait tous les coins de Marseille centre, les endroits de grimpe et vous raconte mille et une histoires qui vous donne tout de suite l'image de la ville.",
+            "name": "Marc",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Ponctuel Michel nous a accueilli dans son appart, conforme à l'annonce Il nous a même proposé de monter nos sacs Il a pris le temps de nous indiquer les coins à visiter et les restau à tester L'appartement est très agréable, très bien situé. Pas besoin de voiture, on peut tout faire à pied Seul bémol, sûrement lié à l'hyper centre de Marseille, bruit de rue la deuxième nuit Pas de problème, si nous revenons à Marseille, c'est chez Michel que nous irons",
+            "name": "Anne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Michel nous a très gentiment accueilli..tres disponible et soucieux de rendre notre séjour agréable, Michel a pris le temps de tout nous expliquer. Appartement conforme aux photos, très propre et fonctionnel mais place un peu bruyante la nuit (samedi soir) .",
+            "name": "Melissa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Communication très facile et sympathique avec Michel qui s'est montré d'une grande disponibilité. Il a gentiment proposé de nous aider à monter nos bagages jusqu'à l'appartement. Le logement est idéalement situé en plein centre ville, proche du Vieux Port, de tous les transports en communs et sites touristiques ou pas... Belle chambre, literie confortable, propreté irréprochable. Bref, un séjour 5 étoiles que nous renouvellerons avec plaisir !",
+            "name": "Marie-Josée",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Michel était aux petites soins ! Très bavard mais adorable et toujours prêt à rendre service !!! L'appartement était parfait, comme décrit. Petit bémol sur le bruit le premier soir lié au bar d'à côté.",
+            "name": "Mathieu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Au delà de l'appartement très bien situé et très propre, nous avons rencontré un personnage formidable, extrêmement arrangeant et sympathique. Pas prêts d'oublier ce séjour! Vive le scooter à 3",
+            "name": "Jessica Et Greg",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Michel est très acceuillant, il connaît plein d'adresses utiles dans le quartier. Appartement très propre agréable. Parfait pour un weekend à Marseille !!",
+            "name": "Raphaël",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Michel est adorable et très dévoué, son appartement est nickel, refait à neuf, très lumineux avec une vue superbe sur la place de l'opéra et sur la façade. L'emplacement est idéal pour explorer la ville à pied ; on est à deux pas du Vieux-Port et dans un quartier très agréable, plein de commerces et de charme. Aucun problème de bruit pour nous, au contraire, la place en bas étant largement piétonne. Bref, nous reviendrons ! Merci Michel !",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Appartement spacieux et idéalement situé en plein centre, à 2 pas du vieux port et 5 minutes à pied de la rue St Ferréol (best place for shoping), du grand Monoprix de la Cannebière et de Toinou (les meilleurs huitres de Marseille). Quelques étages à monter et puis un petit havre de paix avec vue sur l'Opéra. L'appart est propre, bien décoré et bien équiper. Je ne comprends pas les commentaires de certains qui on dit que c'est bruyant, c'est la 2eme fois que nous venons et je trouve au contraire que c'est calme et paisible, que ce soit à l'intérieur ou à l'extérieur de l'immeuble et pourtant je suis assez sensible au bruit. Michel, notre hôte est aussi sympa qu’arrangeant, demandez-lui ce que vous voulez, il a réponse à tout avec l’accent en prime. Pour moi c'est un 5/5, une adresse idéale pour visiter et se détendre à Marseille. Hervé\n+ Plus",
+            "name": "Hervé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Acceuil très chaleureux et flexible de l'hôte qui était de très bons conseils, amoureux de sa ville, il aime partager! L'appartement était idéalement situé, neuf, et très propre. IDEAL pour passer un petit we touristique à Marseille. Merci Michel!",
+            "name": "Capucine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "L'appartement était très agréable, spacieux, clair, avec une superbe vue sur l'opéra de Marseille (je conseille d'y rentrer car c'est magnifique dès le hall !). L'emplacement est idéal, tout près du vieux port et du marché de Noailles. L'appartement se situe au quatrième étage sans ascenseur ce qui fait un peu d'exercice vu tous les bons restaurants du quartier ;-) Michel (notre hôte) est absolument adorable et disponible. Notre seul regret c'est... de ne pas être restés plus longtemps.",
+            "name": "Gregory",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Très bon accueil de la part de Michel. La location était tout à fait identique à ce qui était décrit dans l'annonce. Il est super bien situé, à deux pas du Vieux Port et de toutes les commodités. Nous avons passé un très bon séjour.",
+            "name": "Bernard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Accueil très convivial de la part de Michel, une adresse que je vais conserver et recommander !",
+            "name": "Hugo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Michel est très chaleureux et accueillant. Moi et mon amie avons resté une nuit dans cet appartement, nous avons bien aimé. Il se situe juste à côté du vieux port, le quartier est assez sympa, l'appartement est aussi très propre et confortable. Je vous le recommande",
+            "name": "Yong",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Très agréable séjour chez Michel. L'appart est spacieux, propre et très bien situé près du port. Mais ce que l'on a le plus apprécié c'est l'accueil chaleureux de Michel qui prend son temps pour vous parler de sa ville et des spots incontournables ! Vraiment très chouette. Je recommande!",
+            "name": "Gilles",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Au top ! L'appartement est bien placé. Michel est disponible et très sympa. Je recommande.",
+            "name": "Arthur",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Excellent séjour chez Michel! L'appart est conforme à la description, spacieux et propre. Son emplacement est idéal pour découvrir Marseille avec en prime, une vue magnifique sur l'opéra. Seul petit hic, le bruit le soir mais c'est supportable. Michel nous a très bien accuillis et a en plus porté nos valises, un vrai gentleman! un hote attentionné, aux petits soins jusqu'à la fin du séjour. Je recommande vivement!",
+            "name": "Manel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Michel a été très gentil et très arrangeant, il nous a très bien reçu et nous avons pu profiter de ce très bel appartement très bien situé, très lumineux, spacieux et très propre. A recommander !",
+            "name": "Diane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Je dois dire que j'ai été agréablement surpris par Michel, il est vraiment très sympa, c'est un hôte remarquable, il sera vous dire où et quoi faire à Marseille à la manière locale. Idéalement situé, l'appart est lumineux, confortable, calme, les pièces sont grandes, la cuisine bien équipée, thé et café à disposition… La localisation idéal, à l'épicentre entre le vieux port, la rue St-Ferréol pour les joies du shopping et les marchés de Noailles, et à proximité de Toinou bien-sur, mon resto à crustacés préféré en (URL HIDDEN) recommande !\n+ Plus",
+            "name": "Hervé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "L 'appartement est très agréable et très bien situé.",
+            "name": "Laure",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Accueil sympa par notre hôte qui nous attendait. Logement agréable, bien situé, bien aménagé. Un peu de bruit les vendredis et samedis soir, mais on fait avec. Adresse à recommander.",
+            "name": "Alain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "L'appartement est situé à 2 pas de la station de métro dans le quartier vivant où il y a tout (supermarche, boulangerie, resto, bar, etc..). Le logement est parfaitement équipé, très propre et lumineux. Michel m'a accueillie chaleureusement avec beaucoup de bon conseil. Grâce à lui et son appartement, j'ai passé les petites vacances super sympa! A recommander vivement!",
+            "name": "Mariko",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Accueillant, prevenant, accommodant, disponible et très chaleureux. L'appart est conforme à la description, propre avec toutes les commodités, près du vieux port et des commerces ainsi que des grand boulevards et des moyens de transport. Je recommande chaleureusement cette apartement.",
+            "name": "Djamel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Adresse à recommander! L'appartement est parfaitement situé et conforme à la description. Certes un peu bruyant la nuit, mais très bon rapport qualité/prix.",
+            "name": "Fantine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Notre séjour à Marseille était parfait chez Michel. L'appartement est très bien placé dans le Vieux Port et on pouvait aller n'importe d'où à pied ou en metro. En gros l'appartement avait tous qu'il nous a fallait. Il n'y avait pas de bruit la nuit alors on dormait bien et on s'amusait bien à Marseille avec les conseils de cet hôte vraiment magnifique.",
+            "name": "Carol",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "L'appartement est idéalement situé près de l'opéra et du vieux port. Nous avons bien aimé la décoration et l'atmosphère du lieu et nous y reviendrons.",
+            "name": "Laurent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Michel est un hôte très attentionné. Nous avons été super bien accueillies et son appartement était très joli, fonctionnel et idéalement situé. Pour les amateurs de grimpe, Michel a une très bonne connaissance des calanques.",
+            "name": "Joëlle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Everything was great! The apartment corresponds to the photos, and it is equipped with everything you need and even more. We have not met Michel, but communication with him was fast and accurate. He wants his guests feeling like at home, and doing everything possible for this. Thank you Michel! Wish you all the best!",
+            "name": "Olena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Communication was very easy with Michel well before our arrival. He made sure we were completely prepared to visit the city of Marseilles before he left us to our own devices. Michel will help you with literally almost anything you need---super warm host! The apartment itself was clean and well equipped. Great shower! Location is central overlooking the opera house, just a few steps from the old port and a short walk to the old city. There is fantastic morning light and tall Windows that make for great people watching. It is on the 4 th French floor, so leave your human-sized luggage at home. If you are a light sleeper and you are staying the weekend, I would recommend earplugs because crowds will hang around downstairs into the night. Self medication is another option. Definitely recommend this space as it made our trip in Marseilles very enjoyable.\n+ Plus",
+            "name": "Irene",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Michel is a great host. He is very friendly and helped us plan our days in Marseille. The apartment is spacious and there are two ceiling fans, which are helpful during the summer. The neighborhood can feel a tad shady (not dangerous!), but we never felt unsafe or threatened. We actually had very little problem with noise from outside. I would recommend Michel and this apartment!",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "BEST PLACE TO STAY IN MARSEILLE.!!! Super exciting and great location.! Love it.! The host is the best, he gave us great suggestions and very friendly and available",
+            "name": "Natalia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Location: Great location, very close to metro, and the port~ It's just right in front of you. And for me the most important is safe~ and great bakery at the end of the street, solve breakfast problem. Host: Michel is a such nice n interesting person, after talked to him....I already wanna give him 5 stars!!!! I don't know how to explain~ you just have to experience by yourself! Merci Michel~ Wish you all the best~ and take it easy with Rock climbing!!! Cheers!",
+            "name": "Johanna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Michel is a great host, helped us figure out bike storage: note, they don't have a good place to store them on site. But great place in central location.",
+            "name": "Kurt",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "A very nice place in Marseille!Close to the city center and the old port,very convenience for everything and the hoster is very nice too.A great experience to me. ---- 非常好的一间房,房东热心,地理位置优越,周围很方便。",
+            "name": "雪",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Awesome location, and the apartment is larger then it appears from the photo's. Being so close to the port is super convenient. Michel is also a warm host who is willing to spend time making recommendations and explaining where he would go visit!",
+            "name": "Nick",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Una casa cómoda, limpia y céntrica además de bonita. El dueño un diez de atención.",
+            "name": "Belen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Our stay at Michel's was fantastic! Her place is in the heart of Marseille, near the opera house and all the must-see attractions. Michel is an amazing host :) Many Thanks!",
+            "name": "Sara",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "I booked the apartment for my friend Luca. She said to me that the apartment meets the descriptions. It is very bright, in a great location and have a good quality / price ratio. Extreme precision and hospitality of Michel. Highly recommended.",
+            "name": "Paola",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Large well-equipped flat in a great location with a lovely view of the Opera House. Michel was very helpful",
+            "name": "Sam",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Great location. Large, airy bedroom. Great travel advice from Michel, especially La Calanque (easy Metro/bus directions).",
+            "name": "Jodie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Michel is a fantastic host, the communication was great, the place is very lovely, and of course the location, it is just unbeatable. Moreover, Michel's relaxed attitude towards check in and check out was very welcoming, and his suggestions on cafes and restaurants were spot on. Definitely recommended.",
+            "name": "Alex",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "We had a great stay at Michel's. The apartment has an incredible location right next to the harbor and directly above the opera. You cannot be more central! Michel is everything you want out of an Airbnb host: warm, welcoming and spirited. He also is an expert on all things Marseille. The apartment is charming and spacious, with high ceilings, large windows and tile floors. It has everything you need for a comfortable stay. As it is above a large square it can get loud if you leave the windows open on warm nights (we stayed over the weekend) but we were expecting as much and brought earplugs and slept fine. Don't hesitate to book this place--we hope to be back ourselves!\n+ Plus",
+            "name": "Marlene & Justin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Michel is especially welcoming, he takes the time to give a feeling of Marseille and some good tips to discover the area. The location is very convenient due to the proximity of the old harbour, and the view on the Opera is exceptional. As for the noise, over the 2 nights, one was a bit noisy (you can indeed expect people on the place downstairs late at night) and the other very quiet. We enjoyed our stay very much.",
+            "name": "Florence",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Michel is a kind person who made me feel welcome from the beginning and gave me advice about Marseille. We had a little chat when I arrived and he gave us flexibility with times.",
+            "name": "Marco",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Michel is very helpful and the flat is really well located! We were allowed to check in at 12 which was super convenient and he told us that it was safe to leave our suitcases at the train station on the last day. He told us that because of the location of the flat it could be loud at night but we didn't hear anything at all . I definitely recommend staying at Michel's flat! Merci!",
+            "name": "Diane",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "We had a great stay. The location is right in the center of everything. The apt was very spacious. We were there in August so we were not hot at night. The ceiling fan kept us cool. There is regular noise from outside but we slept well when we closed the windows. Michel is very nice, talkative, and helpful. There is a washing machine that we used, cooked, watched cable tv and relaxed. We will come back again if we ever are in Marseille, thanks a lot Michel.",
+            "name": "Richard",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Michel's apartment was lovely! The main bedroom was very spacious and our group of 3 had more than enough room. The apartment is located very centrally and the view of the opera house is spectacular. Michel was very warm, welcoming and helpful in pointing out places of interest. We would gladly stay there again.",
+            "name": "Bojana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "michel is a wonderful host, communication with him was easy and quick, and he gave us lots of ideas what to do and see around marseille. the apartment is lovely and right in the thick of it - we were even treated to a tango performance from our living room window. next time we come to marseille, we will definitely stay here again!",
+            "name": "Christina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "The flat is really near the center, just take a few minutes to walk. The flat is new and clean!! It also have a iron, hair dryer and washing machine with washing powder :) Me and my friend arrived on 7pm and he was there to waiting for us with a warmest welcome ever :) He takes time to recommend us a lots of place to go and things to do in Marseille. The only thing minus is it quite tired to walk through 4th floor. However, everything is perfect, we really enjoy to stay in his home :) Thank you so much Michel!! Hope to see you some day in Vietnam!!\n+ Plus",
+            "name": "Thuyen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "The high ceilings and central location was great. Michel was an excellent host and was ready and willing to help whenever possible. Great recommendations for restaurants nearby and since we were there for a short while he told us the main tourist spots we needed to visit.",
+            "name": "Kenny",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Perfect location. Its in the heart of the city and Michel is a great host!",
+            "name": "Ege",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Michel was really great host. He gave us about marseilles tips. House is so near to centre but at nights a little bit noise problem can be happen.",
+            "name": "Serbay",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Apartment was airy and bright, and the listing description and photos are accurate. Met Michel on arrival, who was a font of information and a really nice bloke :) . The location had everything on the doorstep which was brilliant, this does mean that the area was lively at night (which Michel also covers in his listing), but we slept well. I would not hesitate to stay there again.",
+            "name": "Matt",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Michel was one of the best hosts we've had. He is very knowledgeable and passionate about the city. Gave us great advice on what to see during our short stay! The apartment was also very clean and in a very central location close to absolutely anything you would need.",
+            "name": "Igor",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Michel & his apartment were absolutely wonderful. The apartment was on the 4th floor--so lots of stairs. We had everything we needed, the location was great & incredibly close to everything. We walked everywhere. However, it is right next to a open piazza--The Opera House, which is beautiful BUT it attracts the night owls. Being it was early July, it was hot and with no AC (which is common in Southern France) meant we slept with the windows open. It wasn't the most sound sleep we've ever had--with lots of motorcycles, firecrackers, kids playing soccer, skateboarders etc. Drink enough French wine and you won't mind so much. We unexpectedly had to stay another night and Michel was very accommodating and gracious. He was easy to contact and had fabulous recommendations. We can't wait to visit Marseille again. Merci Michel.\n+ Plus",
+            "name": "Marisa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Great location and great place! Michel is very helpful and a wonderful host Thank you very much!",
+            "name": "Ayal",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "The place is centrally located, close to everything. My only comment would be that the streets can be a bit noise at night, I was there meanwhile one match of the Eurocup was happening so that could explain why people were extra loud that night.",
+            "name": "Juan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Michel was a great host. He met us at the apartment, hopped in the car with us, and showed us to the parking garage. He even carried one of our suitcases back to the apartment. He provided written info and maps about Marseille. The apartment is large, clean, and modern. Be aware that it is noisy. The square in front of the opera is noisy late into the night, even included fire crackers the night we were there.",
+            "name": "Vick",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Great location, nice and friendly. Close to many attractions",
+            "name": "Ying",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The apartment is well-located right next to metro and marina. Plenty of restaurants nearby, and 20 minutes walk to city sights. There is plenty of space and in overall is great place to stay. Michel is very welcoming and helping. However, if you're going to visit in the summer, it is going to be quite hot and is seems that an apartment lacks air-conditioner, which might be quite unpleasant.",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "We met Michel 100m away from the apartment accidentally.. really nice and helpful guy who have us some tips on where to eat and go out in the evening .. The apartment has an amazing view on the opera and was clean and equipped as expected. no negative points to mention. thank you Michel!",
+            "name": "Andreas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The apartment is clean and very close to the Metro Vieux Port and easy to access to the Vieux Port area. Michel is very friendly and flexible and has given us a lot of good and useful recommendations. We'd love to visit Marseille and stay in this apartment again, and wish we can have few more days to hear all the adventures that Michel is sharing.",
+            "name": "Chinlee",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "An excellent host who we would thoroughly recommend. Room is in an great location and exactly as described.",
+            "name": "John",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "This apartment was very spacious and comfortable. Great view of the Opera and centrally located. Michel was very friendly and his recommendations were very helpful!",
+            "name": "Jenn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Michel is a great host, very friendly and always easy to reach. If you like outdoor activities he is definitely your guy -- he knows Les Calanques really well, and we spent a full day hiking the trails there. Merci beaucoup for the great time!",
+            "name": "YinFeng",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Our stay at Michel's apartment was awesome. The apartment is exactly as pictured, and has a really great view of the Opera house and morning sun exposure which we really enjoyed. He was very communicative and accommodating and above all HILARIOUS, with a lot of folksy insight into Marseille's lesser known attributes. He also had a list of things to see and do in Marseille that he had put together, which I thought was a nice touch.",
+            "name": "Pamela",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "We had a wonderful stay at Michel's flat. Everything was as described, and all things considered, it was a great stay with a great location, view, and value. We really enjoyed Michel's enthusiasm to help us enjoy our stay in beautiful Marseille. Thank you Michel!",
+            "name": "Alexander",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Great location! Central to almost everything you will want to do. Michel was a great host and provided us with a ton of suggestions for things to do and places to eat. He was also always available to answer any questions that we had.",
+            "name": "Robert",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "My girlfriend and I had a nice stay in this flat. Things were clean and well organized. Although we arrived late in the evening, Michel took his time to tell us a lot of things, even tips about restaurants, and a little bit about himself. The flat is situated well, in the center of the charming Marseille. Au revoir!",
+            "name": "Karsten",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "the house very clean and nice,这件房间非常好,虽然不在最中心,但出入交通也算方便,就是阿姆斯特丹打车太贵啦!建议大家叫uber或者乘有轨电车,房间很安静,设施齐全,在房主之家公众号(tao-bnb)上有过报道啦!推荐!",
+            "name": "Jamie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Excellent stay at Michels apartment and great host. The apartment is a stones throw from the old harbour and many bars/restaurants. The apartment itself has everything you need and is very clean and comfortable. Michael is very informative, can speak perfect English and very attentive.. Thanks so much for a great stay",
+            "name": "Jason",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 5.0,
+    "nbReviews": 128,
+    "communication": 5.0,
+    "emplacement": 5.0,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 19,
+    "qualite-prix": 5.0
+}

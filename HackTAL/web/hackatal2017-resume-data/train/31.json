@@ -1,0 +1,2247 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Très bon emplacement et bon accueil d'Amelie- l'appartement est conforme aux photos, matelas un peu mou pour mon dos, la salle de bain est très agreable- je recommande.",
+            "name": "Sophie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Hôte disponible et à l'écoute Très bien situé et calme",
+            "name": "Felix",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Amélie est une hôte très gentille et l'appartement est propre , doté de beaucoup de charme. Excellent emplacement dans le 6eme. Je recommande !",
+            "name": "Alice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Logement confortable et bien situé à proximité des stations de bus. Accueil au top et hôte agréable. je recommande le logement d'Amélie.",
+            "name": "Rabia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Situé dans un beau quartier, appartement sympa. La location est pour la chambre qui était propre et fonctionnelle. Lit un peu trop mou à mon goût et un ventilateur pour cette nuit très chaude aurait été bienvenu. Amelie et Jimmy ont été très accueillants et sympathiques.",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Nous avons été accueilli par un ami d Amélie, logement très bien situé Nous avons été ravis par notre court séjour chez AMélie Nous vous recommandons ce logement",
+            "name": "Estelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "le petit appartement est très bien situé près de la gare à pieds et proche des transports en commun. le 5 ème étage (avec ascenseur!)permet d'avoir une belle vue dégagée depuis le petit balcon. Ne pas compter trop sur le petit déjeuner plutôt frugal, aimer les douches très chaudes et tout est parfait!",
+            "name": "Elisabeth",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "A Lyon pour un séjour professionnel, j'ai trouvé ce logement pratique, propre, bien situé et conforme à la description. Communication efficace avec Amélie pour préparer l'arrivée. Je le conseille!",
+            "name": "Helene",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "très bonne emplacement Hôte sympa",
+            "name": "Regis",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement très bien situé, calme. Lit confortable (moelleux). Le seul bémol est le petit déjeuner, pas de lait, ni de jus. Juste café et thé, ainsi que de la brioche... c'est un peu limite quand on met en avant le petit déjeuner dans une réservation.",
+            "name": "Sophie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Hôtes très accueillant et super sympa !! :-) Merci Amélie de m'avoir reçu chez toi dans ton jolie appartement !! Je vous le conseille vivement, proche de la gare Part Dieu, des métros, jolie quartier, appartement super,... Je n'ai rien à dire simplement que c'était parfait !! :-) J'y retournerai avec grand plaisir à mes prochains voyages. Encore merci ! :-)",
+            "name": "Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Un pied à terre calme et accueillant au coeur de Lyon, très bon accueil d'Amélie et de son ami",
+            "name": "Pascale",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Bon séjour à Lyon. Très bel appartement.",
+            "name": "Sam Et Cathy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Couple adorable et ce rend disponible... Amelie est tres arrangeante concernant l heure mais il faut que en tant que client on s y tienne reelment... Quartier tranquil sympa pres de la gare et un appartement avec tres belle vue. Brochure sur table n hésitez pas as louer cette chambre cela vaut le plaisir d y séjourner",
+            "name": "Soane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Accueil très chaleureux et de bon conseils pour dîner!",
+            "name": "Bastien Et Sarah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Un logement facile d'accès et très bien situé. Amélie est à l'écoute des attentes de ses voyageurs. Une bonne adresse !",
+            "name": "Nathalie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "L'appart bien fonctionnel et moderne. il y a tout dont vous auriez besoin. Amélie est une personne accueillante, souriante et discrète. L'appart est bien situé, 30minutes à pied de Vieille Ville de Lyon et 10minutes de grand parc la Tête d'Or. Le petit déjeuner est un vrai plus! Je conseil à tout le monde! Merci encore Amélie.",
+            "name": "Ilona",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "L appartement est très bien situé Tranquille et convivial Je le recommande",
+            "name": "Layach",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Merci pour l'accueil Nuit très agréable, quartiers magnifique et hôtes aux petits soins",
+            "name": "Adrien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Appartement silencieux. Situation excellente à deux pas de la gare Lyon Part-Dieu.",
+            "name": "Alain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Très bon séjour, à recommander !",
+            "name": "Jordan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Hôte très chaleureuse et disponible. Appartement très propre et fonctionnel. Nous avons beaucoup aimé le balcon pour prendre le petit déjeuner avec un soleil magnifique et une vue imprenable. Merci pour l'accueil. Nous recommandons vivement ce lieu.",
+            "name": "Poudarique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "très bon rapport qualité-prix, chambre au calme sur cour, quartier central très bien desservi par les transports",
+            "name": "Josserand",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Appartement charmant et très bien situé. Parfait pour un couple en week-end à Lyon.",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Ce que j ai aimé : très bel appartement, très bien situé dans le quartier des Brotteaux (10mn à pieds de la gare Lyon part dieu ), le calme et la tranquillité de la résidence sont présents . Ce que j ai moins aime : un pb de communication entre l hôte et nous et un meilleur accueil.",
+            "name": "Louis",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Appartement agréable, avec en supplément ptit déjeuner, je recommande",
+            "name": "Yassine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Une hôtesse très accueillante et gentille, un appartement très joli. Nous avons passé une bonne nuit en ces lieux. Je recommande.",
+            "name": "Maïmouna",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Très bon séjour, couple sympa et discret, au calme.",
+            "name": "Pascale",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Couple très sympa, et appartement tres bien situé",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Très bel appartement, spacieux avec une très belle vue. La chambre est nickel et Amélie et son ami sont très accueillants et avenants. Ces 2 nuits passées à Lyon étaient très agréables.",
+            "name": "Romain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "L'appartement est très spacieux et très confortable ! Nous avons été très bien accueillis et n'avons pas vu le temps passer avec des hôtes chaleureux, disponibles et très sympathiques ! Merci pour cette belle soirée ! Amélie et son amis nous laisse un très bon souvenir de notre passage éclair à Lyon !",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Le logement est parfaitement placé, à moins de 10 minutes de marche de la gare et du centre commerciale Part-Dieu. Un séjour agréable dans un appartement très charmant. Je recommande ce logement.",
+            "name": "Paul-Denis",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Une adresse cosy, bel appart avec ascenseur. Chambre petite mais confortable. Salle de bains et WC indépendants. Possibilité de se faire une bonne table juste à côté! Station de taxis juste en face. Beau quartier.",
+            "name": "Sandrine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Appartement très bien placé, à 10 minutes à pied de la gare, dans un quartier calme. Les parties communes sont parfaitement propres et la chambre très confortable. Je recommande !",
+            "name": "Enora",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Adresse que je recommande pour une nuit au cœur de Lyon.",
+            "name": "Emeric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Super emplacement situé juste en face de la gare des brotteaux. L'arrivée s'est très bien passé, le petit déjeuner est proposé. Je recommande vivement ce logement.",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Amelie est une hôte très prévoyante et très sympathique. Nous ne sommes pas resté longtemps mais nous avons adoré le quartier proche de toutes commodités et son appartement très agréable à vivre. Merci encore !",
+            "name": "Margaux",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Un environnement agréable et parfait dans le cadre d'un week-end !",
+            "name": "Laura",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Logement et hôtes super! Je recommande!",
+            "name": "Isaline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Cet appart est une vraie pépite !",
+            "name": "Léo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Très bon accueil par Jimmy et situation idéale, très calme",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Appartement de charme avec son parquet et son importante hauteur sous plafond. Chambre propre et spacieuse avec un lit très confortable ! Accueil avec un petit café et une vue imprenable sur la gare des Brotteaux ! Je recommande +++",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Le logement est agréable, bien situé, nos hôtes accueillants et discrets. Petit déjeuner sommaire.",
+            "name": "Karen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Très pratique! Merci à vous!",
+            "name": "Bernard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Amelie la douce Un TREs bel appart : décloisonnement , ambiance minimaliste mais chaleureuse , vue superbe, emplacement privilégié Tout au top Excellent rapport Q/prix À tester sans hésiter",
+            "name": "Elisabeth",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "très bon accueuil et appartement fonctionnel dans un quartier agrèable. Difficile d'etre mieux placé, A recommander pour des séjours pour ceux qui veulent découvrir Lyon pour des séjours découverte, escapade et flaner. L'appartement incite à la détente et relaxation, havre de paix. A bientôt j'espere.",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Très beaux logement et hôtes de qualité !",
+            "name": "Claire",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Accueil très sympathique, l'appartement est idéalement situé dans un quartier chic et résidentiel à 5 min de la Gare Part Dieu.",
+            "name": "Christelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Un accueil très chaleureux de la part d'Amélie et de son ami. Le logement correspond bien à la description de l'annonce. Le quartier est plutôt sympa et regorge de commodités.",
+            "name": "Jérôme",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Amélie et son ami nous ont très bien accueilli. Logement comme sur la photo. Explications sur le quartier, le métro etc.. L'emplacement est Top a 5 mn de la gare, devant des bars et restaurants. Par contre l'appartement est au calme aucun bruit. Très bien pour un week end sur Lyon. Merci a vous deux et milles exuses a votre ami que nous avons enfermés dehors.",
+            "name": "Dominique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Super accueil de la part de Jimmy. Couple sympathique. Appartement que je conseil pour un logement dans les beaux quartiers de Lyon",
+            "name": "Fabienne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Accueil sympathique, le petit déjeuner était un peu trop sommaire (chocolat à disposition mais pas de lait).",
+            "name": "Sabrina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Je conseille vivement cette chambre pour un séjour seul ou en couple. Le quartier est très chic avec pleins de restaurants sympas à découvrir.",
+            "name": "Laetitia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Très bel appartement, propre et très bien placé !",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "J'ai passé un excellent séjour chez Amélie. C'est un hôte attentionné et bienveillant. Le logement est propre et parfaitement aménagé. C'est un quartier très central qui permet de découvrir la ville dans d'excellentes conditions. Je recommande ce logement.",
+            "name": "Christophe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Tout s'est très bien passé avec Amélie qui fut très arrangeante sur les horaires concernant la dépose des valises. Echanges très agréables. De plus, l'appartement rénové avec goût, récemment est idéalement placé dans un quartier que nous adorons !!",
+            "name": "Marc-Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Chambre sympa, hôte très discrète quelques bonnes tables à proximité, très bonne alternative aux hôtels impersonnels.",
+            "name": "Frédéric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Merci pr le pdej et la conversation du matin",
+            "name": "Christophe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Amélie est accueillante et tout était prêt à notre arrivée. Attention le logement est une chambre chez l'habitant et pas un appartement en location. Le séjour s'est bien déroulé et a été sympatique",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Rien a redire, Annonce correspondant a la réalité, accueil agréable, hôte arrangeant et a l’écoute, quartier sympa et central !!",
+            "name": "Pascal",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Super chambre dans appartement super mignon. Séjour très court mais l'emplacement était IDEAL pour moi. Bonne expérience.",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Hôtes très agréable",
+            "name": "Antony",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Très bon accueil et logement agréable.",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Je connaissais déjà le quartier dans lequel se situe l appartement. Il est donc super bien placé et juste à côté du métro. L annonce est conforme aux photos et à la description. Mon hôte Amélie est une personne discrète et gentille. a recommander sans l ombre d un doute.",
+            "name": "Laetitia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Hôte sympatique et ponctuelle. Très bon accueil et serviable. L'appartement est impeccable (déco - propreté). J'ai eu la chance d'voir beau temps et de prendre un petit café sur le balcon au 5ieme et dernière étage du bâtiment avec le soleil se levant au dos de la gare Bottereaux surplombant la place Jules Ferry ... Je recommande !",
+            "name": "Romain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Trés bonne disposnibilité pour faciliter arrivée et départ",
+            "name": "Franck J",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Bon accueil, la chambre propre et lumineuse avec une super vu sur Lyon, quartier agréable.",
+            "name": "Agnieszka",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Amélie est une hôte sympa et très accueillante. La description et les photos sont conformes à la réalité. L'emplacement est idéal pour profitez de Lyon. Je recommande les yeux fermés!",
+            "name": "Richard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Quartier agréable en plein centre de Lyon pres de la gare Part Dieu.",
+            "name": "Lisa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Amélie est une hôte sympa et très arrangeante ! La description et les photos sont conformes à la réalité. Le seul petit bémol est la qualité de la literie mais ça ne m'a pas empêché de bien dormir pour autant",
+            "name": "Romain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Un accueil très simple et une bonne communication. L'appartement est bien situé (bars et très bon restaurants à proximité, dont l'EST, au 14 de la place) et juste à côté de la station de métro. Propre et agréable l'appartement bénéficie d'une terrasse avec vue dégagée.",
+            "name": "Francis",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "J'ai passé un bon moment chez Amelie. Si je reviens à Lyon je n'hésiterais pas à réserver chez elle. Merci",
+            "name": "Georges",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Amelie nous a réservé un accueil agréable dans son bel appartement Lyonnais, fidèle aux photos et descriptions. Idéalement situé dans un ravissant quartier bien aménagé, l'appartement est desservi part tous les types de transport, facilitant ainsi la visite de la charmante ville de Lyon !",
+            "name": "Mathilde",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Joli appartement spacieux bien situe bien équipé . Concernant l'hôte Amelie est très discrète",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "la description du logement est fidele? le quartier très pratique, je recommande plus cette appart en hiver . L'accueil était excellent.",
+            "name": "Marie Liesse",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Séjour impeccable... Amelie très discrète comme d'habitude... Merci..",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "L'appartement est très bien situé, la chambre est jolie. J'ai passé un bon moment à Lyon. Merci!",
+            "name": "Sunhee",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "J'ai passé un très bon moment dans l'appartement d'Amélie. La chambre était très jolie, donnant sur une vue incroyable, avec un emplacement idéal pour circuler dans Lyon. Amélie a été une hôte très discrète, parfait pour moi qui étais en voyage professionnel. Le fait d'avoir sa clé permet d'être flexible, ce qui est très appréciable. Merci encore !",
+            "name": "Charlotte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Bon accueil. la photo ne correspondait pas à la chambre que nous avions louée. Nous pensions avoir loué un appartement. emplacement excellent lit peu confortable et petit déjeuner très restreint",
+            "name": "Roseline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "beau appartement calme et situé juste à côté d'une bouche de métro . Amelie nous a bien accueilli et nous a donné de belle adresse pour manger, un lit moelleux comme je les aimes. Merci à Amelie! je reviendrai avec plaisir.",
+            "name": "Vincent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Appartement en tout point conforme à l'annonce. Endroit reposant, un veritable havre de paix ! La chambre est vaste, bien amenagėe et lumineuse. La vue est magnifique sur Fourvière depuis le balcon! et compense l'absence de fermeté de la literie (mais il en faut pour tous les goûts...). Malgré notre court séjour nous avons pu l'apprecier. Amelie sait se faire discrète et a pu amenager notre arrivée en son absence. Les prospectus sur le bureau démontre l'attention portée par Amelie pour ses invités. Toujours agréable de trouver de l'information utile dans l'endroit où on arrive... ! N'ayant pas vu Amelie lors de notre depart j'indique un point d'amélioration sur le petit dejeuner un peu trop succint (avons chercher le thé -autre que le seul thé vert proposé- le beurre, du lait, du pain ou autres tartines -autres que les croissants sous plastique proposés- mais sans succès) Amelie ayant préparé à l'avance le plateau du petit dej dans la cuisine elle pourrait utilement compléter avec les basiques d'un petit dejeuner (ou indiquer où ils se trouvent). A part ce petit bémol je recommande néanmoins sans hésitation !\n+ Plus",
+            "name": "Beatrice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "L'appartement d'Amelie est bien situé, il est propre et agencé avec gout. La chambre est confortable, avec un balcon et une belle vue sur les Brotteaux.",
+            "name": "Christophe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Amélie, absente à notre arrivée avait tout prévu pour notre accueil, une clé laissée à notre disposition, des consignes par mail très (URL HIDDEN) chambre avec un lit très confortable, BnB parfaitement adapté à nos besoins, quartier très agréable avec tout le nécessaire.",
+            "name": "Edith",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Bel appartement bien situé. Quartier très animé la nuit donc bruyant. Accueil minimal. Nous attendions deux lits, il n'y en avait qu'un. Lavabo bouché, WC pas nets. Rentrées nocturnes du propriétaire qui se soucie peu du sommeil de ses hôtes (déplacement en talons dans l'appartement toutes lumières allumées, ...). Très déçu et franchement agacé. Non, vraiment non !",
+            "name": "Emmanuel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Très bel appartement et surtout très bien situé. Malheureusement j'ai du fouiller dans la salle de bain pour trouver des serviettes de toilettes, chose pour moi que je n'ai pas à faire si mon hôte me laisse sur le lit ou dans la chambre les équipement de base promis. A propos du petit déjeuner j'étais aussi assez déçus car sur les photos on voit de très belles tartines de beurre donc je m'attendais à avoir une baguette et de la confiture ou alors des céréales... Je ne m'attendais pas à avoir une simple gaufre emballée pour 2 je tiens à préciser. A pars ces deux petits bémols, Amelie est une hôtesse sympathique.\n+ Plus",
+            "name": "Margaux",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Elle nous a bien accueilli. Les photos sont vrai et l'appartement est agréable et bien situé. Notre chambre et lit étaient propre. Par contre la cuisine n'était pas assez propre.",
+            "name": "Kadir",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Nous n'avons pas eu de correspondance écrite active, puisque Amelie n'a pas répondu à mes messages toute l'aprés-midi précédant mon arrivée. Jusqu'à que je sois devant la porte d'entrée, je n'avais pas de nouvelle de l'Hôte. Son téléphone sur répondeur, j'ai commencé à appeller le service d'aide Air b n b lorsqu'elle est arrivée en courant avec plus d'une heure de retard. Nous avons été très surpris d'apprendre qu'elle restait avec nous dans son appartement pendant la durée de notre réservation puisque j'avais réservé l'appartement en utilisant les filtres de recherche Air B n B en précisant \"LOGEMENT ENTIER\". Nous avons été privé d'intimité et la surprise fut désagréable. Cela dit, l'appartement est exactement comme sur les photos, la chambre privée est très confortable et le petit balcon très agréable. La salle de bain est collée à la chambre d'Amelie, ce qui peut être dérangeant pour le bruit, notamment pour les douches tardives.\n+ Plus",
+            "name": "Emilie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Amélie est très agréable mais aussi très discrète. L'appartement est très sympa et la chambre aussi. Les transports se trouvent en bas de l'immeuble et la gare de la part dieu à 10 mn à pied. Je n'ai pu lui dire \"au revoir\" en partant ...alors à bientôt Amélie !! :-)",
+            "name": "Murielle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Appartement agréable et bien placé (environ 5 min de la gare - place mignonne en bas). Nous avons rencontré Amélie à notre arrivé qui a été très sympa et nous a transmis une liste des \"bouchons\" à faire. Le petit déjeuner était inclus, mais nous sommes partis à l'aube et on a pas pu en profiter :(",
+            "name": "Charles",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Appartement bien situé.Hôte à peine présente (aperçue maximum 5 minutes), Concernant la propreté, très déçue. Draps sales, une grosse tâche blanche sur la couette, et des taies d'oreillers non changées. Les toilettes étaient sales. Pour le reste c'était correct. Pour une première expérience airBnb, plutôt déçue pour le prix payé.",
+            "name": "Auré",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Très bon accueil , nous n'étions que de passage , donc nous n'avons été présent dans cet appartement pratiquement que pour s'y reposer . Conforme à l'annonce , petit déjeuner sympathique , même si nous n'en avons pas profité le second matin ( nous nous en excusons auprès de notre hôte ).",
+            "name": "Michel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Appartement sympathique, décorée avec gout. Une belle chambre ainsi qu'une belle vue, le quartier et très sympathique.",
+            "name": "Benoît",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Bonne description de l'appartement et de l'emplacement",
+            "name": "Purita",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Spacieux , chambre très agréable, super quartier ! Merci pour l'accueil chaleureux amelie.",
+            "name": "Jérôme",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Magnifique appartement, très bon accueil d'Amélie qui est sympathique et très discrète. La chambre était encore mieux que sur les photos, très lumineuse et chaleureuse. L'appartement était proche de tout, notre hôte nous a aidés à découvrir la ville, un très bon rapport qualité/prix, je recommande.",
+            "name": "Alicia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Notre hote etait gentille et nous a aidé a decouvrir les alentours. L'appartement est magnifique et extremement bien situé ! Et la vue du 5em etage est tres agreable !",
+            "name": "Charlotte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Amélie absente m'a permis de récupérer les clefs, fort appréciable. Appartement agréable dans le quartier des Brotteaux festif et résidentiel.",
+            "name": "Serge",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Appartement extrêmement bien situé ( la gare de TGV et station de métro)et moderne, propriétaire très sympa. Je recommande vivement.",
+            "name": "Mathieu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Très bon accueil de la part de l'hôte, Rien a dire de particulier tout était bien. Merci pour cette nuit",
+            "name": "Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "C'était une bonne expérience. L'appartement n'est pas loin de la gare, quelques minutes à pieds, et puis l'arrêt de métro est juste en face. La chambre est lumineuse, spacieuse. Amélie est sympa et gentille.",
+            "name": "Yuxia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Appart très beau, bien placé. Petit déjeuner gourmand !",
+            "name": "Luc",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Amélie est souriante et douce, discrète, ce qui me convenait parfaitement puisque je viens pour travailler. La chambre est vaste et agréable. Le quartier est fantastique, avec des vues superbes le soir aux alentours. L'appartement est au 5e, mais avec ascenseur !",
+            "name": "Solange",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Je n'ai que très peu vu mon hôte. Elle a fait tout le nécessaire afin que je puisse profiter du lieu dans les meilleures conditions.",
+            "name": "Fabien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Nous avons passé deux excellentes journées dans le bel appartement d'Amelie, qui est une hôte très gentille et intéressante. L'appartement est parfaitement situé dans Lyon, et est de plus très bien aménagé! Que du positif, je recommande vivement!",
+            "name": "Emma",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Séjour agréable, appartement très bien placé, une nuit à trois, un grand lit et un matelas au sol.",
+            "name": "Stephane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Appartement agréable mais petit déjeuner manquant (dommage pour un logement qui se présente comme B&B!)",
+            "name": "Katia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Amélie est une hôte discrète et sympathique. La chambre est très confortable et très bien localisée.",
+            "name": "Frédéric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Appartement très agréable et idéalement bien placé. Hôte très sympathique",
+            "name": "Stephane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Nous avons passé une nuit en octobre. Nous avons été très bien accueillis, notre hôte a été très arrangeante pour récupérer les clés en plus d'être discrète et sympathique. L'appart est très chouette et idéalement situé.",
+            "name": "Alexandre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Amélie est une personne charmante et sympathique. Très disponible et discrète, elle rend votre séjour serein! Le logement est de plus très bien placé (proche de PART DIEU)!! Merci Amélie",
+            "name": "Jean-Philippe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Merci pour votre accueil",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Le logement est super bien placé dans Lyon, au 5eme étage avec une vue vraiment sympa. L'hôte nous a bien accueilli avec un café au réveil. Je recommande",
+            "name": "Thomas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Amélie nous a très bien reçu, son appartement est très joli et très bien placé. Séjour parfait!",
+            "name": "Raphaël",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Amélie nous a parfaitement accueilli chez elle. L'appartement est vraiment superbe tel que sur les photos. A deux pas du superbe parc de la Tête d'Or. Le petit-déjeuner était bon et très copieux. Nous n'avons manqué se rien durant notre séjour. C'était parfait! Je recommande!",
+            "name": "Christophe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "L'accueil a été sympathique et Amélie nous a fait totalement confiance ,",
+            "name": "Carole",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "L'appartement est conforme à la description et aux photos. Il est grand, beau, bien décoré, lumineux et dispose d'un balcon où l'on peut prendre des repas. L'environnement immédiat est très agréable (belle place calme, métro au pied de l'immeuble, ascenseur). Amelie nous a accueillies brièvement mais gentiment. C'est une hôtesse un peu trop discrète mais agréable et disponible en cas de besoin. Des serviettes propres ainsi que des guides de la ville nous attendaient dans notre chambre. Du côté des \"moins\", le petit déjeuner tient davantage du goûter pour enfant que du petit déjeuner pour adultes, il est vraiment à revoir. Le lit d'appoint est un matelas posé directement sur le sol contre une paroi vitrée avec un store et beaucoup de lumière rentre dans la chambre le matin malgré les volets et le store côté salle à manger. Un petit peu plus de ménage avant notre arrivée aurait également été apprécié. Nous avons tout de même passé un bon séjour chez Amelie mais l'amélioration des détails mentionnés changerait tout!\n+ Plus",
+            "name": "Elise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Le logement très sympas et très bien situé. Nous avons été très bien accueilli. Nous vous le conseillons à toutes et tous",
+            "name": "Damien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Ce joli appartement correspond bien à l'annonce. Très bien placé, l'endroit et vivant et pour autant dans le logement c'est très calme. Amélie a été très arrangeante pour les horaires d'arrivée et de départ. Merci pour votre accueil",
+            "name": "Cédric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Malgré une réservation de dernière minute et une arrivée tardive, Amélie à su se montrer réactive et disponible. Pas de mauvaise surprise dans l'appartement, celui-ci est tel qu'il est montré dans l'annonce. Amélie est une hôte très agréable et je la recommande pour qui souhaite passé un bon séjour à Lyon.",
+            "name": "Stephane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Nous avons été déçues Ma collègue et moi. Lors de la réservation j'avais précisé qu'il fallait deux lits. Il y a eu un lit et un matelas mince, directement sur le sol, posé contre une parois de verre, un inconfort total. Et comme je suis grande mes pieds dépassaient. Amélie, notre hôtesse, a été souriante mais ne nous a donné aucune information sur la place des choses ni sur le fonctionnement des appareils ménagés. Bref service minimum.",
+            "name": "Martine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Les couchages ne correspondaient pas à la demande de deux lits pour deux adultes. j'ai \"dormi\" sur un matelas mince, au sol et mes pieds dépassaient du matelas et bloquaient la porte de la chambre. le fonctionnement des appareils électro-ménager et les emplacements des assiettes, couverts ...n'ont pas été donnés. je n'ai pas eu la sensation d'être accueillie au sens d'accueil mais juste réceptionnée.",
+            "name": "Martine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "logement bien situé proche du métro et commerce comme le stipule la description propriétaire très effacée attention au petit déjeuné qui est un peu compliqué à avoir par moment",
+            "name": "Yoan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Très bon accueil par Amelie, malgré notre retard suite aux embouteillages! l appartement est tel que décrit, idéalement situé, avec les enfants à pied pour aller se balader et profiter du fameux Parc de la tête d or!! Cetait super, que d activités et l envie de revenir car pas le temps de tout voir. Nous nous sommes sentis comme chez nous et les enfants aussi! Ce qui lui laissera un bon souvenir de chahut et de cris dans les oreilles",
+            "name": "Sabrina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Un quartier agréable, un appartement calme et conforme aux photos. Amélie est très accueillante. Un très bon week end !",
+            "name": "Patricia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "une personne très accueillante et agréable. nous nous sommes senties comme chez nous. merci et peut être à une prochaine.",
+            "name": "Marleen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "wow ! 4 étoiles pour cet appartement ! Amélie est une hôte très agréable qui nous met tout de suite à l'aise dès notre arrivée. Le logement est superbe, très lumineux, contemporain, design, propre, bien aménagé, équipé et très bien chauffé. La literie est confortable et le wifi marche parfaitement. l'appartement est très bien situé. a une station de la gare de Pardieu avec une belle vue du balcon. Le logement est extrêmement bien situé. Exactement comme sur les photos. j'ai adoré avec ma copine parler avec Amélie, qui a des discussions très intéressantes ! Merci encore Amélie pour ton accueil et je reviendrais avec plaisir. je recommande ce logement sans hésitation à toute la communauté airbnb.\n+ Plus",
+            "name": "Liselle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Parfait, comme d'habitude... :-)",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "très bon accueil d'Amélie , Amélie est une personne très discrète cela du à son boulot mais malgré tout disponible si on a besoin de renseignement à recomander",
+            "name": "Yoan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Appartement situé dans un quartier agréable, à 15 mn en métro du vieux Lyon. Amélie doit cependant développer sons sens de l'accueil. Nous avons eu l'impression d'être \"abandonnés\" : accueil très bref, limité à la présentation sommaire de l'appartement et à la remise du plan de la ville et petit déjeuner en solo : plateau succinct préparé sur le plan de travail de la cuisine, sans la présence de notre hôtesse. Mais peut-être n'était-ce simplement que de la timidité ?",
+            "name": "Tesoro",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Le logement est extrêmement bien situé. Il est très facile de visiter Lyon à partir des Brotteaux. Tout est à portée. L'appartement : Lumineux, contemporain et très bien chauffé (ce n'est pas le cas de tous) il correspond bien aux photographies. Amélie : est réactive et reste en contact facilement, ce qui est très appréciable. Seul le petit déjeuner mérite d'être revu. Aucun doute que nous recommandons Amélie pour une étape à Lyon.",
+            "name": "Yann",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Notre première expérience Air BnB fut très agréable, appartement t'es bien situé, lumineux.",
+            "name": "Anthony",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Excellent emplacement pour ce bel appartement près de la gare des Brotteaux. Notre hôte nous a laissé toute liberté d'aller et venir en nous confiant sa clé. Nous avons même passé une soirée St Valentin en pouvant utiliser les lieux pour diner. Très sympathique accueil par Amélie. Une seule réserve : le lit est un peu mou pour des dos d'un certain age (comme le mien)... mais très bien en général (chambre très belle).",
+            "name": "Pierre-Yves",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Amélie vous accueillera dans un très bel appartement parfaitement situé au cœur de Lyon, à un pas de la station de métro.",
+            "name": "Benjamin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Super quartier, appartement confort et design. Exactement ce que je recherchais. Très bon accueil :)",
+            "name": "Benoit",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Chambre très confortable dans un apart vraiment sympa, Amelie était très gentil et nous a donné assez de liberté pendant notre séjour.",
+            "name": "Tamiris",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Amélie a pris soin de nous avertir de sa présence le soir de notre arrivée. Elle nous a bien conseillées sur les bonnes adresses et les moyens de transport",
+            "name": "Celine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Accueil très sympa d'Amélie. Son appartement est bien situé près du métro \"Brotteaux\" et de la gare Lyon Part-Dieu. Notre chambre était spacieuse, propre et cosy. Très bien pour faire une étape à Lyon.",
+            "name": "Magali",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "Super appart', très bien situé. Amélie a été une hôte parfaite et très attentionnée. A recommander définitivement!",
+            "name": "Sébastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "Amélie est une hôte très sympathique. Flexibilité avec les horaires. Son appartement est très bien situé. Un appartement très bien décoré et conforme aux photos. Je recommande vivement Amélie Welaw",
+            "name": "Welaw",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "Très bien accueilli par Amélie le soir de mon arrivée tardive (23h le Dimanche soir). L'appartement est parfait, calme, spacieux et propre. Nous n'avons pas eu beaucoup de temps d'échanges avec mon hôte car nous avons eu respectivement beaucoup de travail cette semaine. La chambre est confortable et il y a beaucoup de rangement. Le balcon est sympa et la vue sur Lyon donne un avant-goût de l'étendue de la ville. Je recommande cet appartement sans problème.",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "Amélie nous a accueillie avec gentillesse. L'appartement était conforme à la description, très beau quartier mais difficile pour ce garer pour ceux qui seraient en voiture comme nous. Le petit déjeuné n'était pas aussi joli que sur les photos, un peu sommaire en mode libre service, mais convenable compte tenu du prix très raisonnable. Globalement l'appartement est très bien placé et correct.",
+            "name": "Simon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "Conforme à ce qui était annoncé. Appartement super.",
+            "name": "Eric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "text": "Ce séjour chez Amélie fût court mais très agréable. L'appartement est tout à fait conforme à sa description, situé dans un quartier très agréable. Amélie m'a très bien reçu !!",
+            "name": "Thierry",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "text": "L'accueil moyen vu que l'hôte n'était pas présente lors de mon arrivé, mais elle avait mis en place avec moi tout ce qu'il faut pour que je puisse accéder facilement au logement. L'hôte étant très discrète mon séjour, bien que de courte durée, fût très agréable. Je vous conseille donc cette chambre privative",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "text": "Tres bon sejour!!Amélie a été très accueillante et très arrangeante pour le rdv pour la remise des clés. L'appartement est très bien situé a deux pas de part dieu et du metro.Tres (URL HIDDEN) recommande",
+            "name": "Guesnon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Malheureusement j'ai annulé mon séjour au dernier moment mais Amelie a répondu à toutes mes interrogations. Je garde l'adresse pour mon prochain séjour en 2015.",
+            "name": "Cedric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Amélie a été très accueillante et très arrangeante pour le rdv pour la remise des clés. L'appartement est très bien situé et très agréable. Spacieux et propre donc nous le recommandons et pensons y retourner.",
+            "name": "Nathalie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Deuxième séjour professionnel dans ce logement, conforme aux photos, accueil toujours aussi chaleureux.",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Logement très agréable,bien situe près de la gare sncf et aussi du parc la tête d or. Immeuble juste a la sortie du métro ou bus,très pratique. Amélie nous a laisse des prospectus pour les bons plans pour de Lyon. bonne rencontre!",
+            "name": "Ingrid",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Quartier central. Logement conforme à la photo et très agréable. C'était parfait.",
+            "name": "Ariane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "l'appartement est très bien situé, près de la gare et du centre ville. Amélie nous a reçu chaleureusement, nous reviendrons avec plaisir. La chambre est spacieuse, le lit est très confortable.",
+            "name": "Carole",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Excellent séjour chez Amélie. L'appartement est superbe et bien situé, à quelques minutes à pied de la Part Dieu. Merci à Amélie qui a été très arrangeante et a répondu très rapidement à chaque fois que je l'ai contactée. Je recommande sans hésiter!",
+            "name": "David",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Rien à dire, tout est parfait pour mon premier Airbnb. Emilie est à votre écoute, l’accueil et premier contact très sympa, l'appartement est très agréable. A refaire. Vous pouvez y aller les yeux fermés.",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Rentrant seulement ce jour de notre voyage, nous nous empressons d'adresser notre commentaire suite au séjour effectué le premier octobre chez Amélie. C'était notre première expérience Airbnb et nos craintes se sont vite effacées quand nous avons été chaleureusement accueilli et que nous avons découvert la chambre qui nous était réservée. Très propre, originale et confortable, nous avons passé un bref séjour agréable. Merci Amélie bonne continuation.",
+            "name": "Robert",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Super accueil. Appartement au top super bien placé pour la visite de la ville. Et le must petit déj en terrasse super agréable",
+            "name": "Geoffrey",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Très bon accueil d'Amélie qui fait tout ce qu'elle peut pour rendre le séjour agréable et pratique. L'appartement est vraiment joli, soigné, le quartier est parfait !",
+            "name": "Catherine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "une chambre calme, spacieuse et lumineuse. Une hôte aussi charmante que discrète. Voilà tout est dit !",
+            "name": "Antony",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Séjour très agréable, appartement joli, propre et confortable. Très belle vue du balcon. Je recommande fortement",
+            "name": "Buzz",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Amelie est une parfaite hotesse, à l'écoute et aux petit soin pr ces visiteurs. L'appartement est lumineux, grd et très propre. Nous vous recommending cette adresse!!",
+            "name": "Céline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Très bon séjour chez Amélie, hôte accueillante, souriante et agréable. Je repasserai à Lyon sans hésiter !",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "J'ai été super bien accueillie par Amelie et son compagnon. Très joli appartement très bien situé dans un immeuble très calme. Je reviendrai avec plaisir",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "un petit couple sympa",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "J'ai été bien accueilli par Amélie. La chambre était propre et dispose d'un grand bureau, ce qui est très pratique. L'annonce est fidèle à la réalité. Je suis tout de même dessus pour sur deux aspects dont le premier qui me semble être la base lorsqu'on loue une chambre: les oreillers sont de très mauvaise qualité (la mousse à l'intérieur forme des boules) et le petit déjeuner était très light. Je ne suis pas très exigeant mais proposer de la confiture avec la brioche Harrys aurait été bienvenu (Amélie n'étant pas réveillée, je n'ai pas pu la réclamer). Des choses qui se corrigent facilement donc !\n+ Plus",
+            "name": "Johan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "-cet endroit ne correspond pas tout à fait à la description faite : -mauvaise literie, mauvais oreillers -pas de lit d'appoint mais un matelas en mousse par terre pas confortable du tout -promiscuité : à 3 personnes nous sommes confinés dans une petite chambre, le site web donne une impression opposée... - il fait irrespirable dans la chambre et dans l'apparte (29/7) -ce n'est pas du tout un endroit calme contrairement à la description sur le site. Le bruit dehors est insupportable car il y a des boites de nuit en face et les gens parlent fort jusqu'à l'aube -le petit déjeuner est sommaire, cacao sans lait, confiture d'abricot, pain industriel, aucune assiette ni bol mis à disposition, du jamais vu. -accueil très moyen. Nous avons fait des Airbnb et avons tjs été accueillis avec un mot chaleureux et un verre proposé par les hôtes. C'est la 1ère fois que nous avons eu un accueil pareil. Idem pour le départ... -manque d'hygiène dans la cuisine : nous avons mangé un morceau de pain debout dans la cuisine, devant un évier rempli de vaisselle sale... POINTS POSITIFS: -magnifique appartement -très bien situé, -très bel immeuble de standing Si l'hôte change la literie et met un 2ème ventilateur à disposition, offrirait un verre d'accueil et ferait connaissance de manière personnalisée avec les voyageurs, et ferait un effort pour offrir un petit déjeuner normal, en sa présence, sans oublier d'offrir un espace plus approprié pour loger 3 personnes, cela correspondrait à la réputation d'un Airbnb\n+ Plus",
+            "name": "Valérie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Je recommande vivement Amélie en tant qu'hôte. Elle est très sympa, arrangeante, attentionnée et très discrète (ce qui est appréciable vu qu'elle loue une chambre dans son appartement!). Le logement correspond parfaitement aux photos et à la description. La chambre et le salon sont très lumineux avec des hauts plafonds, c'est moderne et décoré avec goût. Le quartier est très bien également, à 10 minutes à pied de la gare Lyon Part-Dieu et dans l'autre sens - 10 minutes à pied du parc de la Tête d'Or, la situation exceptionnelle pour nous qui avons bien profité du parc avec nos enfants et puis avons pris notre TGV à Part-Dieu. Ah oui, j'ai oublié mon téléphone chez Amélie, et elle me l'a renvoyé le lendemain par la poste ! Merci beaucoup Amélie !\n+ Plus",
+            "name": "Viktoria",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Appartement extrêmement bien situé (surtout de la gare de TGV), propriétaire très sympa, il faut surtout pas hésiter à choisir cet appartement!",
+            "name": "Cyril",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Le séjour dans cet appartement était parfait. L'hôtesse est agréable et facile a contacter, l'appartement en lui même est grand, propre et très bien situé a 10 min de la gare. Je n'hésiterai pas a revenir!",
+            "name": "Eléonore",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "L'appartement est joli et situé dans un quartier sympa. Par contre le lit est très très mou et j'ai regretté si peu de contact avec Amélie. J'aime bien Airbnb pour son côté humain et là c'était très fonctionnel uniquement. Il est impossible de dormir la fenêtre ouverte car la place est très buyante.",
+            "name": "Léo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Un accueil et un endroit très sympathique ! Merci Amélie !",
+            "name": "Gossiaux",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Amélie est une super hôte. L'appartement est parfaitement équipée, spacieux, bien placé.. Notre séjour était super. Nous étions 4 voyageurs. 2 séjournait dans une chambre privé. 2 autres dans le salon sur un clic clac vraiment inconfortable. C'est le seul mauvais point de notre séjour. Le reste était parfait. Un grand merci à elle !",
+            "name": "Nil",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Amelie est très charmante et aimable. La chambre est dans un bel appartement. L'immeuble est super bien placé, à quelques minutes à pied de la Gare Part Dieu, avec belles brasseries. Trè joli balcon avec vue sur Lyon. Amelie nous a fait trouver du pain frais pour le petit déjeuner. Première expérience absolument positive, merci Amelie.",
+            "name": "Andrea",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "L'appartement a été nette et énorme. J'y ai habité avec un copain; Amélie avait un deuxième matelas, déjà préparé et bien confortable. Le quartier et proche à la gare, mais pas bruyante, et Amélie nous a donné tous qu'il a fallu pour faire de tourisme; des guides, des plans, etc. And she speaks perfect English.",
+            "name": "Ernest",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "superbe! Très bien situé, proche de la gare et des transports en commun. Tout le confort d'un chez-soi, la literie est de très bonne qualité et l'accueil charmant, n'hésitez pas.",
+            "name": "Annegret",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Amelie était discrète, serviable et très gentille et l'appartement était super bien situé et (URL HIDDEN) peux donc bien recommander un séjour chez Amelie! Elle était super flexible en ce qui concerne notre arrivée tard et le départ tôt. L'appartement était super beau et propre et il y avait tout ce qu'il fallait: Amelie a préparé les lits pour nous avec des draps et des serviettes propres, on pouvait tout utiliser dans la cuisine et elle nous a même préparé un plateau avec des choses à manger et boire pour notre petit déjeuner. Le matin de notre départ elle s'est même réveillée pour nous acheter des croissants frais! Merci pour ce séjour agréable :)\n+ Plus",
+            "name": "Julia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Appart au top, bien équipé/situé. Hôte disponible. Je recommande sans problème.",
+            "name": "Valentin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "Amélie est une personne charmante et son appart est tout simplement génial! Vue magnifique sur la Place Jules Ferry. Bien que situé en face de la gare, nous n'avons pas du tout été dérangés par le bruit et le parking fut très aisé. Il y a des volets dans toute la maison ce qui facilite un bon repos. L'appartement est décoré avec charme et il n' y a rien à dire sur la propreté. Merci pour l'accueil et la bonne compagnie Amélie.",
+            "name": "Ingrid",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Amelie was very kind and nice. Her apartment is located very easy distance from gare de lyon. There are many fine restaurants near her apartment. She provided some materials for tourists such as a city map and restaurant guide books. Everything was fine except the bed condition.",
+            "name": "Youngmi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "very nice place, close to metro stop, and the lyon part dieu station,very suit for me",
+            "name": "Ming",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Fantastic flat in an area with easy parking facilities. We stayed there with our 1yo son and were delighted by how clean and spacious the flat was. Amelie woke up early on a Saturday morning to offer us breakfast. We'll definitively stay at her's again if we have the chance to. A big thank you again!",
+            "name": "Aude",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "The host canceled this reservation the day before arrival. This is an automated posting.",
+            "name": "Wida",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "bed & pillows was very bad quality. when you woke up in the morning you have feel your body & neck broken.",
+            "name": "Hind",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "The host canceled this reservation 21 days before arrival. This is an automated posting.",
+            "name": "Melissa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "The host canceled this reservation 20 days before arrival. This is an automated posting.",
+            "name": "Danielle",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Very nice apartment. Everything is perfect. But I am sorry that we have made the kitchen a little bit messy.",
+            "name": "Wenxuan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "We spend the night at Amelie's place. The apartment is nicely furnished and well connected by public transports; Amelie was very helpful. We will surely come back :)",
+            "name": "Celine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "The host canceled this reservation 11 days before arrival. This is an automated posting.",
+            "name": "Jean-Marc",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Perfect place. Easy to find, nice apartment. Amelie is very welcoming and friendly. The elevator is a big plus ! Go and stay with Amelie, you will enjoy your stay in Lyon.",
+            "name": "Sandie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "The room is lovely! We lik it so much. Amelie is a warm-hearted host and is very considerate!",
+            "name": "Mengqiu",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "The reservation was canceled 22 days before arrival. This is an automated posting.",
+            "name": "Yoan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "The reservation was canceled 19 days before arrival. This is an automated posting.",
+            "name": "Jean-Marc",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "If you are looking for a place to crash Amelie's is perfect",
+            "name": "Peta",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Amelie was a very genial host. She wasn't there there when we arrived but her boyfriend ,who was also a very pleasant character, let us in. The flat is situated on the top floor of an apartment block and there are good views across the city. The bed was very comfortable although a little warm in the room, but then it was a very warm day outside. Note that the room is one of the rooms in a two bedroom flat so you are sharing with the host but this is not necessarily a problem. All in all a pleasant stay. Recommended.",
+            "name": "Errol",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Amelia's apartment is great and in perfect area, where anything is just nearby. I stayed here one night when I was waiting for my plane. Amelia quickly answered. With her boyfriend, they were excellent hosts. Next time in Lyon I would stay here again.",
+            "name": "Václav",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Amelie was a good hostess. She was nice and friendly.",
+            "name": "Jorge",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Amelie's place was stunning! Amazing French flat in the center super cool! Her boyfriend was lovely and made us feel really comfortable",
+            "name": "Victoria",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Simple and comfortable room in nice neighborhood in Lyon downtown. The house is residential and has an elevator. Common areas were cleaned and very nicely decorated. Fast wi fi. Excellent communication with owner. I highly recommend Amelie's place for short stay in Lyon.",
+            "name": "Cristina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Great place! We were very comfortable",
+            "name": "Renee",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Excellent location within Lyon city, walking distance from Part Dieu station, the largest city park and Lyon city centre. It is also a 1 minute walk to a metro station for longer journeys. The apartment was very clean and modern, and it had a nice balcony with the view of the main sites of the city. My parents stayed and said that Amelie made them feel very welcome and they appreciated her help and friendly hospitality. All in all a very positive first stay with AirBnB.",
+            "name": "Chris",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "This room has a great location, close to restaurants, Les Halles Paul Bocuse, the train station while being quiet as located at the back of the building. Amelie and her partner were very welcoming and respectful. We did not have breakfast at their place as we wanted to go to the closeby Halles (a heaven for foodies). There is also a nice little market closeby on Saturday morning.",
+            "name": "Elise",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Friendly and helpful. Thanks Amelie.",
+            "name": "Hongzhao",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Good stay at Amelie's house, which is really nice and well positioned, close to metro and train station. Amelie and her boyfriend are kind and pleasant.",
+            "name": "Fabio",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "My stay at Amelie's place was good in general. The room was spacious enough and clean. However, I had a serious problem in communication with her before my arrival. As she did not answered any of my messages, I had to search for a hotel in Lyon I might have to stay. And it was only 3 hours before the check in she answered me.",
+            "name": "Yejin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "If you choose Amelie as your host, do not accidentally leave your belongings behind. She ignored most of my messages after check out. Of course you will lose your stuffs forever and never get them back like me. I highly do NOT recommend it!",
+            "name": "Chien-Hsin (Rex)",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Very cantral location, good for a night ir two. Good restaurants nearby.",
+            "name": "Linda",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "The stay was great, just as described. Great view, good wifi, and cool hosts!",
+            "name": "Dejan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "the apt. was as advertised.. the noise from the street woke us...singing at 4am. There are discos across the blvd. all night However the Paul Bocuse inspired restaurant in the same complex was excellent. Overall Amelie seemed a lovely person. Her apt. was perhaps a bit too cozy.",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "The space is exactly as pictured. Clean and comfortable, excellent location. We walked all over Lyon from there - great city to visit by the way. This is the first time my husband and I ever used airbnb and it was better than we anticipated.",
+            "name": "Catherine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Amelie was lovelt to deal with. She is very helfpful even though her english wasnt great. I would highly recommend her place. this place is very central and excellant location. the whole neighbourhoos is safe and amazing place as you do not have to walk too far to find amazing gastronomic places to eat. we will come back to Lyon to explore further as we loved our stay there",
+            "name": "Gulcin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Our time in Amelies Home was very nice. The room is lovely and the view arround Lyon is perfect! It`s a little bit loud at night, but the view and balcony were perfect.",
+            "name": "Friederike",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Amelie was a really nice host! Because of a lot of traffic, we arrived a few hours later than planed, but it was no problem for us to enter the appartement at this time. She was waiting for us, so we could come in directly, what we really appreciated, because we were so tired of our long drive! :-) She always answered very quickly, which made it really easy for us, staying in contact with her. I would definitely go there again. Thank you, Amelie!",
+            "name": "Jule",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Great apartment, very convinient location, nice resturants within walking distance.",
+            "name": "Nils-Otto",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Amelie's apartment is a beautiful living space right in the middle of Lyon. The apartment is surrounded by supermarkets, restaurants, cafes, shopping malls, metro stops and nice walking areas. The apartment is big with a fully equipped kitchen, bathroom, comfortable bedroom, laundry facilities and a lovely balcony looking out over a busy square in Lyon. Amelie has a lot of information about different activities that are happening around the area and is a very helpful host. I would recommend this space.",
+            "name": "Megan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Nice host and apartment. This is shared with the host which I hadn't noticed but it was fine. Great location.",
+            "name": "John",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "We had a short stay at Amelie's apartment for a single night but it was just what we needed. Amelie was very welcoming when we arrived and her apartment was as nice as the photos on Airbnb. The room we had was big and private. Amelie helped us out with some recommendations in the area and the apartment was very convenient for getting around town, only a short walk from Lyon train station. I would happily stay at Amelie's apartment again if travelling to Lyon.",
+            "name": "Kevin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "fantastic location and Amelie is a friendly host",
+            "name": "Einar",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "We stayed at Amilie's room for one night, everything was great, the room was light and cosy. Unfortunatelly Amelie was busy at work and we didn't meet her in person, but anyways we have nothing to complain about, thanks again.",
+            "name": "Artem",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Beautiful apartment set in a gorgeous part of the city! Amelie was very friendly and a great host.",
+            "name": "Miles",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Loved the quaint room, comfortable bed, and access to the balcony. Also very close to metro station for a quick trip into town! Amelie was very nice in passing and was accommodating for our early check-in request. Would have been a 5 star experience had the share space cleanliness been better.",
+            "name": "Britni",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Amelie was a most discreet , welcoming and accommodating flatmate. The apartment is on the 5th floor with lift access and is close to a metro station, bus routes and an easy 2kms stroll to the Rhone and heart of Old Lyon. Lots of bars and places to eat in the quarter but its worth making the effort to find a Lyon Bouchon.",
+            "name": "Patricia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The host canceled this reservation 28 days before arrival. This is an automated posting.",
+            "name": "Silvester",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The host canceled this reservation 44 days before arrival. This is an automated posting.",
+            "name": "Bhavin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The host canceled this reservation 41 days before arrival. This is an automated posting.",
+            "name": "민성",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The host canceled this reservation 39 days before arrival. This is an automated posting.",
+            "name": "Rainbow",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The host canceled this reservation 37 days before arrival. This is an automated posting.",
+            "name": "Rainbow",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The host canceled this reservation 34 days before arrival. This is an automated posting.",
+            "name": "Stephen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The host canceled this reservation 30 days before arrival. This is an automated posting.",
+            "name": "Kriszta",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The host canceled this reservation 24 days before arrival. This is an automated posting.",
+            "name": "Iryna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The host canceled this reservation 3 days before arrival. This is an automated posting.",
+            "name": "John",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "I liked the apartment and the location. It is in a nice part of Lyon, adjacent to a plaza, and walking distance to the train station. What wasn't clear to me in the description was that this is a two bedroom apartment, and we were sharing it with the owner. It's not bad - just not clear in the description. I enjoyed sitting out on the balcony with my coffee in the morning, looking out at the spectacular cathedral on the top of the hill overlooking the town. Also - Fabulous Boulangerie Jules about a block away for morning croissants!",
+            "name": "Nancy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "A very nice apartment at a very convenient place in the city: near station, subway and free bike stand. Amelie was very nice,helpful and efficient. We had our own key and came and went as we wanted.",
+            "name": "JanJaap",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "it's a nice experience for staying here. It's a good location which near the train station and shopping mall. The house is lovely and fully equipped and with kindly host although the extra bed sheet is not very clean.",
+            "name": "Mengzhu",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "IF somebody doesn't read French, has to know that host stays at home, during your stay. It was very unexpected for me! In addition, it was Saturday and there was no paper in toilet and it was not clean, as well the bathroom. I left next day an apartment, went to Hotel, but refund for rest two nights she didn't accepted. So, me never, and it's up to you if you like this condition. Für DEUTSCH sprechende Person, wenn Sie keine Französisch lesen, Gastgeberin bleibt in die Wohnung, während Ihre Aufenthalt. Es war Samstag und was keine Papier in das Klo, es was nicht sauber, wie auch das Bad. Ich bin nächste tag zu Hotel gegangen, aber Rückerstattung von rest zwei Nächte hat Sie nicht akzeptiert. So, ich niemals mehr und jetzt können Sie entscheiden.\n+ Plus",
+            "name": "Keti",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Amelie was very sweet and responsive to our pre-visit correspondence. Her apartment is located right on the metro line, and easy to access from all the sights of Lyon by Metro, taxi and bike! The beautiful Le Parc de la tete d'or is just a few blocks away, and wonderful for an early morning ride or stroll. Bedroom was spacious, with a large bed; the third bed was a foldup mattress on the floor. Bathroom is shared with Amelie, but worked out well enough even though with Amelie, we were four women using the facilities! Probably would have been a good idea to have more than one key to share amongst the three of us because you can't lock the door from the inside without it, making it difficult for us to leave and enter separately. All in all though, a lovely stay in a beautiful city!\n+ Plus",
+            "name": "Candace",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Amelie's apartment is lovely! We loved it from the moment we stepped in, big pretty and comfortable. It has an awesome balcony specially for the summer. Amelie was really nice and helped us out during our stay, we will definitely stay again here if we go back to Lyon!",
+            "name": "Ignacio",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Her house was clean and the location is really good (1 minute to subway). It's good house to stay while traveling Lyon.",
+            "name": "현주",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "The host canceled this reservation 7 days before arrival. This is an automated posting.",
+            "name": "Glyn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Everything was on point, thank you very much Amélie ! The appartment is amazing, and the location is great too. Will come back for sure ! Greets :)",
+            "name": "David",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Amelie was very sweet and accommodating. She made us feel completely at home. Her house is very beautiful and is located in an extremely pretty neighborhood. It was one of the best Airbnb experiences we've had.",
+            "name": "Kunj",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "+ Good location + Tidy and clean apartment + Friendly host - Didn't know the host was staying in the apartment too, which meant one of us had to sleep on the floor",
+            "name": "Robbert-Jan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Amelie was so nice and make us feel comfortable as our own home. The apt is well located and near Lyon station, metro as well. Great view in balcony and quiet all day long.",
+            "name": "Grace",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "place is near by Lyon train station. Room is clean.",
+            "name": "Jianshen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "The apartment is very nice. Good situated, beautiful view. Room clean and pleasant. Amelie seemed an uncomplicated host as we arrived Friday earlier than she, she just left us the keys outside. We entered, everything ok. We didn't see amelie Friday because she came home late. On Saturday, preparing ourselves to go out, we realized the key (we had left on the table the night before) was missing. She had taken it so we were closed in the apartment. We called her and sent a message, but she didn't answer. After more than an hour we considered calling the police and wrote an sms to amelie saying so. She answered that she'd taken the key and will be back from work on midday. At 12:30 she came. Apologized. We got finally out. We have been trapped there almost 4 hours. With 2 small kids. We had only 2 days to see Lyon and we lost Saturday morning. Our point is: it can happen to anyone to take the \"wrong\" keys. We don't blame her for that. But we expect that the person remedies for her mistake as soon as she realizes it: She should have answered our calls earlier and should have come home (or sent someone) sooner. That's why we don't think Amelie is a reliable host and we don't recommend staying with her.\n+ Plus",
+            "name": "Arduino",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "It' ok.",
+            "name": "气gui",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Room was very nice. Sat Nav took Us to wrong address but by asking directions found it.",
+            "name": "Margaret",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Amelie was lovely and understanding about our late arrival Lovely apartment, great bed, slept well. Thank you",
+            "name": "Sharron",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "We were the first time in Lyon and we were very very thrilled. Amelie has such a wonderfol flat, with a nice view. Very friendly and patiendly, behause we were too late. Thank you for your hospitality.",
+            "name": "Anne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Amelie was a wonderful host! We didn't see her much but when we did she was very helpful and kind. Her apartment was absolutely beautiful and had everything we needed. The kitchen was so great as well the balcony. It had a beautiful view. The location was perfect as it was only a 10 minute walk to the station and it was close to the metro line and bike hire. Supermarkets were also close by. We wished we could of stayed longer! We had the best stay in Lyon.",
+            "name": "Isabella",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Amelie's apartment was nice although next time would prefer an apartment of our own rather than a room. Good location close to metro.",
+            "name": "Jan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "We had a very nice stay with Amelie in Lyon. The apartment was very nice and the location was very convenient for getting to and from the train station. Amelie was also very friendly and made up feel comfortable. We did have a small misunderstanding about the sleeping arrangements as the description states there are two bedrooms but the guests only use one because the other is Amelie's so if there are more than two of you, people will have to sleep on the futon in the living room. There was also no toilet paper or hand soap in the bathroom during our stay. Amelie cleaned the apartment after our arrival, which was not a problem because we left right away. Finally, access to the apartment requires a code so it would be best to get the code well in advance as it was not mentioned to us until we were already on our way to the apartment and no longer had access to email.\n+ Plus",
+            "name": "Jennifer",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Amelie is a quite very host that providing a lot useful into for us! nice house with a lovely balcony with great view in the room. Reccomand!",
+            "name": "Stella",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Good place to stay if you need to be close to the railway station. The appartment is very nice, and very clean. In our particular opinion, we missed a bed a bit more comfortable to sleep. My wife is pregnant and did'nt rest well enough in a soft bed. If you dont mind this, is perfect for visit the city.",
+            "name": "Albert",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Great place and wonderful host. The room was ok, clean and big enough for two/three people",
+            "name": "Paolo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Nice place with a balcony with a great view. Good deal. Amelie is very friendly and I will stay there next time I'm in Lyon. Great city",
+            "name": "Mads",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "The host canceled this reservation 29 days before arrival. This is an automated posting.",
+            "name": "Kelly",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Great place. Amelie was friendly and gave us all the help we needed. Her command in english is also great for non-french-speaking travellers. At home she is discreet but still available whenever we had any needs. Minor issues were the lighting and the ventilation (will be really hot in the summer) but otherwise we enjoyed ourselves.",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Amelie's apartment is very chic, located just a 10 minute walk from the train station, or a 2 minute walk from the metro station. My friend who lives in Lyon told me that it's in a really nice neighborhood, and that a lot of the restaurants in the neighborhood are also really good because of that. We arrived during the weekend, at odd times, so we were not able to meet her until the last night, but she was very friendly and made us feel at home. The apartment can get hot, however, as there is no airconditioning, much like most other french homes I gather. So opening the windows perhaps would help a lot (but we didnt do that for fear of mosquitos and such) Also, it was not made clear, but if you go with 3 people, then the 3rd will be using a foam bed (which is not bad). The main bed is like a queen size and I wouldn't say it's the most comfortable but it was good for 2 nights.\n+ Plus",
+            "name": "Ha Eun",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Amelie's apartment was clean and classy, quite close to the railway station and an easy walk to Lyons beautiful Tete d'Or park. Amelie was gracious and non-intrusive during our short overnight stay. We thought the bed was very comfortable.",
+            "name": "Kristen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Amelie was a very nice host. Very discrete but available when we had questions. Even when she wasn't around she was available by text/phone. The apartment was just as listed in the photos: very spacious and clean. We liked the location as it was just across from the metro stop. Our only problem: It was a bit hot and noisy at night when the windows were open. A fan would've helped. We liked the location and the host. We would recommend and return.",
+            "name": "Serge",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Amelie was a friendly lady and her apartment was very well situated directly across from the metro. The apartment was not up to cleanliness standards that we expect in our home. The place was generally untidy and it was unbearably hot; no fan was provided.",
+            "name": "Denise",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "The house is very near to the railway station. Room is clean and haa a balcony. Downstairs had a small garden and many restaurants. Amelie was an friendly and interesting host. English communication was not a problem. Strongly Recommended.",
+            "name": "璨",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "It's my first experience using Airbnb. Amelie is a very nice host. Her apartment impressed me a lot.",
+            "name": "Flora",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "\\\\Amelie was away in Paris on business but she gave me explicit instructions for finding the flat and the key . The flat is beautiful and in a great position. I loved the decor and my room with balcony was comfortable. When I finally met Amelie she was charming and very friendly.",
+            "name": "Suzanne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Amelie was a lovely, pleasant and very welcoming host. She communicated promptly and was very helpful with recommendations for our stay in Lyon. The apartment was as pictured and excellently located. Roll down Shutters on the windows blocked out some of the street noise and made it darker for sleeping. Having a lift was a blessing with heavy suitcases. I would add that as Amelie lives in the apartment with her guests most of the time space in the bathroom is limited and the shower over the bath without a shower curtain could be an issue to some larger people. The extra bed for our 3rd person was not comfortable however the double bed was excellent. My suggestion would be 2person stay. Overall the apartment was bright, well appointed with awesome restaurants nearby particularly L'est across the road.\n+ Plus",
+            "name": "Wendy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "The reservation was canceled 64 days before arrival. This is an automated posting.",
+            "name": "Kiem L",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Muhteşem... Çok iyi bir konum, çok güzel mimarisi olan bir bina, yüksek tavanlı bir ev, çok zevkli bir iç dizayn, küçücük ama harika panoramik manzarası olan bir balkon... ve bütün bunların üzerine çok iyi bir evsahibi. Amélie çok sevimli, canayakın ve kültürlü biri. Kesinlikle öneririm.",
+            "name": "Gokalp",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Amelie made me (and my five friends) feel very much at home in her lovely apartment in the 6eme arrondissement of Lyon. She was very warm and welcoming and was extremely flexible when it came to the bed situation and where everyone would be sleeping. She had also set out a tray of coffee, breakfast foods, and condiments for the next morning. We felt very well taken care of and at home. It was our first time in Lyon, and Amelie made it a great experience. Her apartment is truly beautiful, with a mix of \"vieux lyonnais\" influences and modern touches. The balconies are wonderful. Merci Amelie!\n+ Plus",
+            "name": "Isobel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Our stay in Amelie's apartment was great. She was really carring about our needs and making us feel at home. Apartment super clean! We recomend this place.",
+            "name": "Carlos",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "We had great three weeks with Amelie. The apartment is perfectly located. Its position let you to see the main attractions of Lyon just walking. Half block are the Broteaux metro, bus and tramway stations that facilitate your moving to everywhere in Lyon. Close by you find Par-Dieux train station, a large shopping center, groceries, bucherries y patisseries. The property is as described: sunny and confortable bed, dinning and living rooms. I would also add that they are quite ample. The kitchen has the right size for cooking to a family with all the necessary appliances. The bathroom are large and confortable. Amelie never interfered with our day-to-day life that made us to fill like at home. I strong recommend.\n+ Plus",
+            "name": "Otavio",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "Excellent experience!! Though it was only for one night, we definitely enjoyed our time. Everything was perfect.",
+            "name": "Cody",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Amelie's apartment is really quite charming in a pretty neighborhood not far from Lyon Part Dieu train station. You can walk 10-15 minutes or take the metro to Brotteaux stop which is directly across from her building. The neighborhood is quaint with some nice cafes and restaurants, and it's a quick 20 minute or so metro ride to other parts of Lyon and sightseeing. The building has an elevator and the apartment itself is clean, the bed comfortable and the decor stylish. Amelie provides some basic breakfast which is a nice touch. Only problem was trouble with check-in and communicating, which Amelie explained was due to work schedule and a misunderstanding, I think it was a one-time issue. Be sure to arrange in advance though to avoid any issues.\n+ Plus",
+            "name": "Wayne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Room design is very simple and very stylish, the landlord was very good, very beautiful landscape outside the balcony.",
+            "name": "于誠 (Yu Cheng)",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "It was a very, very nice weekend in Lyon. Beside the city itself, also the appartment was charming and fitted our needs absolutely perfectly. Good atmosphere. Situated in a lovely non-touristic area of Lyon - I would say probably one of the best neighbourhoods and as an absolute bonus directly opposite the old trainstation of Lyon where the Paul Boucuse Brasserie is. We will be back",
+            "name": "Axel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Excellent place to stay. Close to transport and main sights. Very comfortable and pleasant place to stay.",
+            "name": "Mahesh",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "I can only repeat what other former guests already established: Amelie is a very nice and charming host. We couldn't have asked for a better place to stay for our weekend trip to Lyon!",
+            "name": "Lukas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Amelie was a wonderful host! She gave us quite some good tips how to discover the city and the apartment is really nice located in walking distance to the central station. We decided to stay at the beginning and end of our trip through southern france and do not regret it at all!",
+            "name": "Timothy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Very nice, caring hostess, lovely apartment with a great view. Would recommend anyone to stay here.",
+            "name": "Max",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Amelie was a wonderful host! She gave us quite some good tips how to discover the city and the apartment is really nice located in walking distance to the central station. We decided to stay at the beginning and end of our trip through southern france and do not regret it at all!",
+            "name": "Timothy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Amelie is very, very nice! I was fortunate enough to have her as a host for my first two days in Lyon before I begin class at the Université Lumière Lyon 2. She actually took me on a small tour of the city, which I greatly appreciated. Although we had a bit of mishap with the wifi (but it doesn't seem to be her fault), everything else went smoothly and is as explained in the description. There were some cookies and bread laid out for me as well as coffee, tea and hot chocolate available. I would just recommend sending emails at the airport when you arrive to let everyone know you're okay. The apartment is as pictured and is very beautiful. I really enjoyed sitting on the patio for breakfast and lunch. The location is great with a major shopping center, a smaller grocery, some bakeries and pastry shops, great restaurants and some clubs located nearby.\n+ Plus",
+            "name": "Brandi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "The reservation was canceled 42 days before arrival. This is an automated posting.",
+            "name": "Rodislav",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2014"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "averageRanking": 4.5,
+    "nbReviews": 279,
+    "communication": 4.5,
+    "emplacement": 5.0,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 31,
+    "qualite-prix": 4.5
+}

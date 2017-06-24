@@ -1,0 +1,175 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "L'emplacement de l'appartement et parfait pour visité Paris à pied. Charles est très compréhensible. Merci encore.",
+            "name": "Zainab",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Logement très fonctionnel et cosy en plein coeur de Paris ! Hôte accueillant. Une valeur sûre pour séjourner quelques jours en couple.",
+            "name": "Daphnée",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Personne très agréable, bonne communication, l'appartement est très propre , bien équipé, très moderne et décoré avec beaucoup de goût. Tout s'est bien passé. Je recommande vivement.",
+            "name": "Sara",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Logement très bien situé, Proche du métro. Remis à neuf récemment, c'est très propre et amenagé avec du bon goût. Charles est très accueillant et disponible pour la moindre requête. Nous avons passé un excellent séjour grâce à lui !",
+            "name": "Thibaut",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Au top! Nous avons été accueillis par Charles, qui a passé du temps à nous expliquer les lieux. L'appartement est grand, très bien agencé! Le lit est très confortable, le convertible aussi. Rien à redire si ce n'est que nous reviendrons!",
+            "name": "Carole",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Charles was very responsive and a wonderful host. He was careful to give us the details of the apartment and the local amenities. The four of us fit nicely (two adults and two teenagers). Shopping and tons of restaurants close by. Easy to get many of Paris' wonderful attractions. Would definitely stay here again!!",
+            "name": "Bob",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Beautiful apartment in a great location. Easily accommodated 4 guests. Highly recommended.",
+            "name": "David",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Charles was a fantastic host who met us at the door and showed us around the apartment. His place was beautiful and well-lit. He was always responsive and was very accommodating with our check-out time. Great location too!",
+            "name": "Michelle",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "A great stay. Charles was super helpful and always on hand for any questions throughout our stay. The apartment is in an amazing central location but equally nice a quiet. Couldn't ask for more, highly recommend.",
+            "name": "Jo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "The sweet apartment is very nice and beautiful. We have a very good experience in Paris. Transaction is very convenient and house is quite at night.",
+            "name": "Ran",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Charles was super good about changing plans to meet us. He made sure we understood how everything worked and made us feel comfortable. Even checked later to be sure everything was good. The apartment was comfortable and made us feel like we were in the heart of Paris. So glad we did not stay in the touristy area of Paris. Loved the beautiful Parisian designs of the flat and the beautiful wooden stairway that was good for a bit of exercise. Lots of restaurants and pubs just around the corner. Walking distance to Seine and Louvre. Easy to catch the Metro. Great stay!\n+ Plus",
+            "name": "Barbara",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "We had a wonderful visit. Thank you!",
+            "name": "Tawnya",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Stayed at Charles place for couple of days. It is very well located. Close to metro, super markets, malls and attractions. The house is very nice and comfy, really enjoyed our stay there. Charles is very helpful and provides all the info you need for the house as well as extra. Will def look for getting the same place if I visit Paris again.",
+            "name": "Kunal",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Family of 4. Charles was very efficient and welcoming. Location was great. Nice and quiet at night. Not loud at all. Close to the metro, super-market and restaurants. Clean, tidy and comfortable bed & sofa bed. Thank you Charles.",
+            "name": "Bexii",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "The place was really great, and Charles went out of his way to help with various things from early check-ins to luggage storage. The flat has all the basics you need. Kitchen is not suitable for extensive cooking but I definitely made breakfast on several days. It's more of a hotel set up than living in someone's home, if you care about that. And the pillows aren't very comfortable but these are minor things. The location is great, too! I would stay again.",
+            "name": "Chhavi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Great host, superb place. Clean and as advertised, location unbeatable",
+            "name": "Cian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Wonderful location in the heart of the Marais. It was definitely cramped for four people but the fold out bed was surprisingly comfortable.",
+            "name": "Cameron",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Very nice place! Charles is a nice guy!",
+            "name": "Kan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Great location in Paris! We walked to the best restaurants, bars, shops, clubs every day. Definitely recommend it! Charles is the sweetest too which was great :)",
+            "name": "Rosalva",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Perfect location Very comfortable place Charles tried to his best to help. Because of him we spent precious time in this locely city",
+            "name": "Younggwang",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 5.0,
+    "nbReviews": 20,
+    "communication": 5.0,
+    "emplacement": 5.0,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 11,
+    "qualite-prix": 5.0
+}

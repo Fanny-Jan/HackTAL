@@ -1,0 +1,335 @@
+{
+    "precision": 4.0,
+    "reviews": [
+        {
+            "text": "studio idéalement placé à 20 m du métro. Studio très propre, petit mais suffisant pour 2 et juste dormir. Anna répond très rapidement aux mails ou sms, accueil parfait et donne de précieux conseils. Location à recommander.",
+            "name": "Merle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Studio très bien situé, mais très exigu (prévoir d'y dormir seulement). Même si nous n'avons pas pu rencontrer Anna, elle nous a adressé plusieurs messages pour s'assurer que tout se déroulait comme prévu durant notre séjour Paris.",
+            "name": "Joel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Studio très central ! Je n'ai pas rencontré Anna mais ses indications étaient parfaites. Malheureusement les photos ne correspondent plus au lieu. Vous trouverez sur place le strict nécessaire. En bref, bien juste pour la nuit, malgré les voisins peu silencieux.",
+            "name": "Lise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Appartement très bien situé et sympa pour avoir un pied à terre en plein centre de Paris",
+            "name": "Charles",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Appartement agréable pour des séjours de courtes durées. Très central.",
+            "name": "Edouard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "J'ai séjourné une nuit chez Anna. La studette est conforme à la description, tb pour une personne seule ou un couple sans trop de bagages. C'est vraiment petit mais suffisant pour y dormir et prendre son petit déjeuner et prendre ses repas à l'extérieur. Anna est très à l'écoute, réactive et disponible, je recommande sans hésitation pour qui cherche un pied à terre central pour visiter ou travailler dans Paris la journée.",
+            "name": "Emmanuel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Logement un petit peu étroit pour poser une valise ou quelques affaires une fois le lit ouvert, maximum 2 personnes à mon sens mais Anna a su être très dévouée à nos demandes malgré quelques difficultés rencontrées avec le wifi, la télévision, et quelques équipements manquants.",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "L'appartement d'Anna est un peu petit pour 2, mais pour une nuit on s'accommode. Il est, par contre, très bien situé, en plein coeur de Paris et à 2 pas du métro Châtelet : c'est un super avantage pour visiter Paris. Enfin, Anna doit mettre à jour son annonce, car ce n'est pas correct d'annoncer Wifi et TV, alors qu'il n'y a pas !",
+            "name": "Bernard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Logement très bien situé et facile d'accès. En arrivant de roissy Charles de gaule,juste à prendre le rer B,et hop on a un pied à terre à Paris centre Idéal pour un couple. Accueil sympathique et studio très propre. A refaire.",
+            "name": "Seb",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Logement bien placé et très fonctionnel. Cependant, il faudrait envissger un coup de neuf pour la literie (matelas, draps) pour parfaire l'expérience.",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Nous avons trouvés le studio super mignon et parfait pour un couple venant découvrir Paris. Bien desservi par les transports en commun et proche de pas mal de monument, ce studio est très bien pour visiter Paris.",
+            "name": "Thanh",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Anna a été très réactive et disponible, ainsi que la personne qui s'occupe du studio en son absence. Appart petit mais bien agencé et surtout très bien placé. Merci beaucoup!",
+            "name": "Guillaume",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Logement très bien situé, le matelas mérite d'être remplacé",
+            "name": "Cris",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Très bien situé mais le lit était cassé, le wifi marchais pas et la lumière du toilette non plus.",
+            "name": "Pablo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Le logement d'Anna est vraiment bien situé en plein coeur de la rue de Rivoli au 1èr étage d'une bel immeuble ancien, bien calme la nuit. Bien que le logement est vraiment exigu, il est équipé d'un coin douche et WC très propre et d'un matériel de base pour la cuisine. L'espace est bien rentabilisé.",
+            "name": "Evelyne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Fantastic location. Room was slightly smaller then expected but has everything we needed for a short stay. Communication was easy and Anna was very accommodating.",
+            "name": "Lionel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Really great value apartment in the centre of Paris on the busy shopping street of Rue de Rivoli and in close proximity to shops and restaurants: there's lots to do nearby and is only a 10 min walk to the louvre. Metro station is located right outside the apartment which is also great. Despite being on a busy street you can't hear any noise from outside when in the studio and the building is secure with coded door for access. The studio is small and cosy but has everything that we needed including towels, linen and basic cooking equipment and crockery. There isn't much privacy when in the bathroom as the door and wall are glass - not very romantic - and there isn't much space between the bed-settee and the bathroom so would only be practical for solo travellers or very close friends or relaxed couple. Not a good idea for a first holiday away for example or for a family trip as there is limited space. Apart from that the studio is great, very conveniently located and gives an idea what it would be like to live in the centre of the city. Merci Anna. On a passé un très bon moment là bas.\n+ Plus",
+            "name": "Laura",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Anna's place was great! While it was definitely small, that was quickly and easily made up for by how close we were to many big sites and the amenities she had, like the washer/dryer combo. Anna also gave great directions getting to her place and was very flexible with our weird check-in/check-out times. Would definitely recommend!",
+            "name": "Kathryn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Nice stay, really good location. Will be looking to use this one again next time.",
+            "name": "Christopher",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "The apartment is small but the location is great. Just a walking distance to Louvre and Notre Dame.",
+            "name": "Vladimir",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Location is great, communication with host was good.",
+            "name": "Geni",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Great place to go to, the location was perfect especially for a younger crowd with bars and lots of food options. The place was also very close to the Lourve and the arch",
+            "name": "Riya",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Great location with easy walks to the Bastille monument, Notre Dame, and Louvre. Located on a busy street full of shops but noise was no issue at night. Quaint apartment but perfect for a short stay. Combined washer-dryer was a huge perk. Wifi worked great. Anna was very communicative and the check-in process was a breeze. Fully recommend!",
+            "name": "Jeffrey",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Location is unbeatable in Paris. Close to everything. The apartment is small but clean and very well thought out with everything you may possibly need. Anna is just super helpful with everything and check in was a breeze.",
+            "name": "Valerio",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Anna was super accommodating and even let us drop our bags off early!",
+            "name": "Katie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Anna's place is in the perfect location! The apartment is very small and not ideal to do very much cooking but if you are going to Paris for a few days it's great. We had a very nice stay.",
+            "name": "Jessica",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "I had an awesome stay at Anna's place. Anna was very fast and helpful with our communication. It was a good value for the price and an excellent location.",
+            "name": "Reveriano",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Anna was very nice and available at every time! My boyfriend and I really enjoyed the central location of the apartment. The studio is small but perfect for visiting Paris for a few days. :-)",
+            "name": "Serena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "This studio apartment, while small, packs an amazing living and travel experience into it! It was clean, easy to get to on the metro, check-in was great, and the decor was lovely. Anna was extremely helpful and accessible. It's central location allowed my boyfriend and I to experience all Paris had to offer, and we had a lovely and comfortable space to come home to in the evenings. Would highly recommend this space :)",
+            "name": "Emily",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Amazing location and everything you could need! Small kitchen, washing machine and great shower!",
+            "name": "Glenn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "The host canceled this reservation 24 days before arrival. This is an automated posting.",
+            "name": "Gabria",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "The room is extremely well located. Very close to the metro station, close to Louvre and Notre Dame. Anna is very comunicative, we didn't meet each other but there was no problems for checking in and out. I have to say that the room is extremely tiny and you can hear all the noise of the neighbors, but it is ok for staying a couple of days, if you just need to sleep there. It's a good price for the location. On the contrary of what I've read in some reviews, the wifi was working good.",
+            "name": "Rosa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Anna was very kind, easy to communicate and her house was small but it had everything we needed.",
+            "name": "Seogyung",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Anna's place is small, but full equipped with everything I need. And it's located in the heart of Paris, just few steps to Louvre and Chatele Theater. Anna is a kind host too. Everything works fine except the Wi-Fi.",
+            "name": "Andy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Great location that has a metro station with a lot of connections nearby. The appartment is small but it has everything you may need (shower, toilet, full equiped kitchen, etc). The appartment is not at all luxurious, it is indeed very simple but everything is very clean and Anna was a great host that made it very easy for us to get the keys to the appartment and give them back. Highly recommendable!",
+            "name": "Lucia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Very cute and comfortable studio located in the centre of Paris. Perfect for one or a couple. Provided everything I needed for my stay, great value for money. The host communicated very well and helped with everything I needed. Definitely coming back again!!",
+            "name": "George",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Very very small studio. Only a bed, toilet and shower. So only for sleeping. Location is perfect. Close to Louvre, Notre Dame, Latin Quaters etc. Easy and helpfull contact.",
+            "name": "Allan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "The studio is in the center of Paris, which is nice, wifi didn't work, the night I stayed there neighbours had a party with loud music until 3am.",
+            "name": "Franco",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Great Apartment, excellent ubication and easy to find!",
+            "name": "Manuel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.0,
+    "p_emplacement": "rate_me",
+    "averageRanking": 4.0,
+    "nbReviews": 39,
+    "communication": 5.0,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 5.0,
+    "p_proprete": "rate_me",
+    "arrivee": 5.0,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 46,
+    "qualite-prix": 4.0
+}

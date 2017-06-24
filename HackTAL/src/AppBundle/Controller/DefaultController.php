@@ -17,11 +17,29 @@ class DefaultController extends Controller
         $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/12.json';
         $save = file_get_contents($path);
         $savedData = json_decode($save, true);
+        $prep = [
+            'a',
+            'dans',
+            'par',
+            'pour',
+            'en',
+            'vers',
+            'avec',
+            'de',
+            'sans',
+            'sous',
+            'un',
+            'et',
+            'ou',
+            'le',
+            'une'
+        ];
+
 
         $j = 0;
         for ($i = 0; $i < count($savedData['reviews']); $i++) {
             if ($savedData['reviews'][$i]['lang'] == 'french') {
-                $dataFR[$j]['text'] = $savedData['reviews'][$i]['text'];
+                $dataFR[$j]['text'] = str_replace($prep,'',$savedData['reviews'][$i]['text']);
                 $dataFR[$j]['name'] = $savedData['reviews'][$i]['name'];
                 $dataFR[$j]['date'] = $savedData['reviews'][$i]['date'];
                 $j++;
@@ -34,11 +52,6 @@ class DefaultController extends Controller
             }
         }
 
-        $word = [
-            'mais',
-            'par contre',
-            'néanmoins',
-        ];
 
         $pos = new \StanfordTagger\POSTagger();
         $pos->setModel('../vendor/patrickschur/stanford-postagger-full-2016-10-31/models/french.tagger');

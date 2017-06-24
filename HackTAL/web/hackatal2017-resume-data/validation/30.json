@@ -1,0 +1,151 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Appartement idéalement situé sur la presqu'île. Propre et fonctionnel,il correspond exactement aux photos. Clément est un hôte super sympa,disponible. Nous avons passé un séjour sans fausse note,en partie grâce au logement. Hôte et logement à recommander de toute urgence.",
+            "name": "Lucas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Un séjour bien agréable avec un petit plus pour l accueil et la disponibilité de Clement. Une adresse idéalement placée sur la presqu'île ; que je conseille!",
+            "name": "Lionel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Super emplacement ! Appartement très correct ! Merci pour tout",
+            "name": "Gregory",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Clément est un hôte très arrangeant et sympathique. Il s'est débrouillé pour nous donner les clés dès notre arrivée et nous a laissé quitter les lieux à l'heure qui nous convenait le mieux. L'appartement est idéalement placé en plein cœur de Lyon et vous profiterez d'un espace de vie cocooning comme on les aime. Nous avons passé un excellent week-end et vous recommandons cet appartement les yeux fermés !",
+            "name": "Cassandre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Très joli appartement, fonctionnel et agréable mais un peu bruyant. Hôte très agréable et disponible ! Bref, très bon séjour !",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Petit appartement idéalement situé et très confortable",
+            "name": "Corinne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Un appartement très chaleureux et sympathique. Proche du commerce, restos, bars. Un séjour très agréable. N'hésites pas à réserver avec Clément quand vous serez à Lyon.",
+            "name": "John",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Pour un tourisme optimisé l'appartement est idéalement situé que ce soit à pied ou en métro (station à 7 mn de Bellecour) . Grâce aux supérettes et traiteurs près du logement on peut manger à l'appartement sans soucis ou aux restaurants qui foisonnent dans le quartier(Shopping,théâtre,jazz club) Nous avons fait des visites du vieux Lyon ,musée Fourvière à pied.Idéal pour la fête des lumières.",
+            "name": "Matine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Nous avons passé un super week end !!!! L'appartement est idéalement placé pour visiter la ville de Lyon. Cependant, attention aux nuisances sonores la nuit le simple vitrage n'aide pas trop à dormir. Bonne expérience. Je recommande.",
+            "name": "Gaetan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Super sejour appartement conforme au photos. Hote tres agréable",
+            "name": "Christian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Nous avons passé un très bon séjour à Lyon, notamment grâce à l'emplacement de l'appartement de Clément, très central. Lieu agréable, bon accueil de son amie Laura",
+            "name": "Wilhelm & Jeanne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Très charmant appartement dans un quartier superbe, proche de tout. Même si Clément ne nous a pas accueilli lui-même, notre arrivée a été chaleureuse et il a su nous mettre à l'aise par ses attentions.",
+            "name": "Coralie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "petit mot d'accueil et raffraichissements sur la table à notre arrivée",
+            "name": "Philippe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Clément a été très arrangeant et le logement propre, bien situé :)",
+            "name": "Damien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Merci Clément, ton appartement est vraiment très joli. J'ai apprécié chaque minute dans ce petit appartement au coeur de Lyon. Tout est comme décrit et Clément (ou ses amis) t'accueilles chaleureusement avec une petite lettre et quelque chose à manger dans le frigo!",
+            "name": "Mathias",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "The host canceled this reservation 27 days before arrival. This is an automated posting.",
+            "name": "Adrien",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "p_emplacement": "rate_me",
+    "averageRanking": 4.5,
+    "nbReviews": 16,
+    "communication": 4.5,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 5.0,
+    "p_proprete": "rate_me",
+    "arrivee": 4.5,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 30,
+    "qualite-prix": 5.0
+}

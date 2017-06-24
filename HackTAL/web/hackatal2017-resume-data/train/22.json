@@ -1,0 +1,1095 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Merci pour votre aimable accueil , nous avons passé un excellent séjour",
+            "name": "Alain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Logement très agréable et cosy en plein centre de Paris. Gilian est à l'écoute et disponible. Tout s'est très bien passé.",
+            "name": "Diane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Excellent week end dans cette magnifique petite maisonnette en plein coeur de Paris. Tout de suite séduite par le cadre, l'aménagement et la déco. La facilité d'accès est un vrai plus. L'hôte est très sympathique. Je renouvellerai l'expérience sans hésiter. MERCI !",
+            "name": "Елиенор",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Appart sympa bien situé. Conforme à ce qui est proposé. Hôte réactif, heures d'arrivée et de départ à notre choix, et ça c'est top....",
+            "name": "Jean-Yves",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "La maison est adorable et correspond à la description de Gillian. Très bel endroit, en parfait état, très propre et très cosy. À recommander +++",
+            "name": "Estelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Nous avons réservé à la dernière minute Gilian nous a très rapidement rendu service en acceptant notre réservation. L appartement est un joli petit studio atypique plein de charme,très bien équipé, un joli endroit pour un agréable séjour. Appartement TRÈS PROPRE et magnifique. Nous avons trouvé notre adresse pour nos prochains séjours parisiens.",
+            "name": "Elodie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Un p'tit coin d'paradis, dans un p'tit coin d'Paris. Entre chalet et loft, entre bucolique et atypique. Parfait, propre et propice au repos. Merci Gilian et j'espère que vos hôtes trouveront autant de plaisir à séjourner dans cette maison intime, que nous en avons eu.",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Bon séjour chez Gilian, appartement très bien placé, confortable et atypique. Hôte disponible et acceuillant.",
+            "name": "Maxime",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Hôte parfait. Logement que je recommande. Bien placé, joli, agréable, très propre : le must!",
+            "name": "Thomas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Magnifique appartement, un vrai moment de détente en plein Paris ! Décoré avec goût et très fonctionnel, nous sommes tombé amoureux de cet endroit et ne voulions plus le quitter.",
+            "name": "Sandrine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Un super endroit, un petit coin d'île en plein Paris, un hôte discret et un accueil parfait, je recommande.",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "J ai été très bien accueilli ! L appartement est très confortable et très bien situé !",
+            "name": "Lorenzo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "text": "Nous avons passé un agréablement moment dans cette très belle maison rénovée avec beaucoup de gout et d'originalité. Celle-ci est idéalement située pour partir à la découverte le capitale.",
+            "name": "Christopher",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "Superbe maisonette très bien rénovée et décorée. La terrasse est très agréable et le logement est très bien équipé. Un endroit à recommander.",
+            "name": "Agathe & Romain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Un logement agréable et calme dans Paris. La présence du métro juste à côté est un vrai plus. l'espace est bien optimisé.",
+            "name": "Cedric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2014"
+        },
+        {
+            "text": "Une petite maison très charmante, qui se trouve dans un quartier vivant et authentique. Nous avons passé un weekend splendide dans cet endroit, et nous étions heureux dans cet appartement propre et super-aimable.",
+            "name": "Camillo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Gilian est un hôte très attentif et sympathique. Ce fût un véritable plaisir de séjourner dans son appartement qui est très convivial. Je recommande fortement de choisir cet appartement pour un séjour à Paris. C'est très calme, propre et il est aussi bien situé. J'y retournerai pour un prochain séjour !",
+            "name": "Marie-Celine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Nous n'avons pas eu le plaisir de rencontrer Gilian mais il a répondu à toutes nos questions et changements de derniere minute. L'appartement ou plutot petit nid \"douillet\" correspondait parfaitement à la description et aux photos. Un petit havre de paix avec un emplacement idéal proche des commerces et des métros... A recommander sans hésitation !!!!",
+            "name": "David",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Maisonnette très sympas , atypique et très convivial. Nous avons passé un très beau moment grâce à Gilian",
+            "name": "Elodie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Super ! what a great host !!! Merci",
+            "name": "Oko",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "The space is great, the house is very well arranged, with beautiful material. Gillian was very accomodating with us and the house is perfeclty located at the heart of Paris, so I would warmly recommend this place for any of those who are still wondering. And about the door system after one or two tries it's easy sleazy!",
+            "name": "Lorraine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2012"
+        },
+        {
+            "text": "A beautiful little apartment! I stayed here with three friends and it was very pleasant.",
+            "name": "Rosie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "This flat is very charming and looks exactly like the photos. The beds are comfortable and it is very clean. It is in a tiny entryway so people coming home late can be noisy as well as the shop next door but it didn't bother us too much. It is well located and near to a Metro station. We walked to Notre Dame in about 20 minutes and there are lots of shops and places to eat very close. There does seem to be some ladies of the night on one of the cross streets but we just walked up the other street and it was fine. I wouldn't hesitate to stay here again and recommend it to my friends.\n+ Plus",
+            "name": "Tamarra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "We really enjoyed Paris but this was apartment was not a good fit for our family. To small and location was in the red light district. I think we would have preferred to be in a different area. Cute little apartment for 1-2 people for a short stay. The apt was a bit musty smelling because its fully shaded and very little air can circulate.",
+            "name": "Jo-Anne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "We loved staying at Gilian's place! He was very accommodating with check-in/out, and the air bnb was very nice and comfortable. We loved the lofted area, and big kitchen table. Comfortably fit 5 young women. One bit of advice though: use the hot water sparingly if showering in the morning! It seemed to go very quickly.",
+            "name": "Kiersten",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Really adorable but truly small space that will definitely please 2 or at most 3 people. Extremely clean!!! Very responsive host!",
+            "name": "Sheldon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Very pleasant stay",
+            "name": "Louis",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Gilian's loft is a great lodging in Paris: it is clean, safe, quiet, near a metro stop, has lots of character, has all the necessities supplied , and Gilian was easy to communicate with. NB: It is a small space and really wouldn't accommodate 5; there are 3 beds, not 4- two singles and one queen. We had 3 people and it was fine.",
+            "name": "Karen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "very nice place to stay in Paris.",
+            "name": "Veronica",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Loved Gilian's apartment! So cozy, quaint, and after a long day of walking around it was the perfect place to wind down. The home is tucked in a courtyard, so it's quiet but in a lively area. The door is challenging and took us a couple minutes each time that we came and went, but loved the place and would come back!!",
+            "name": "Cara",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "It's a very nice trip here, and the house is grate comfortable ~ it's clean clair calm, and there are some supermarket around for buying the things we need. Wifi works very well, the space inside the house is totally enough for 2 persons with more than 3 big suitcases. We cooked our breakfasts here every morning, all tools here. The bathroom is clean too. Best wishes and good trip.",
+            "name": "Xiaoyu",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Well located in a central neighborhood and super functional apartment. Reasonably fair pricing despite high cleaning fee.",
+            "name": "Samy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "The best place yo stay in París. Just like that. Great price and amazing location.",
+            "name": "Eduardo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "We really enjoyed our stay at Gilian's place. Gilian was very helpful and efficient prior to arriving. He was also there ready to welcome us on arrival. Gilian's place is lovely, with lots of character and all the amenities you could wish for. The location was convenient as it was walking distance from Gare de Nord (Eurostar). We also manage to walk to a couple of the fantastic landmarks Paris has to offer. In conclusion, Gilian's place is well located, comfortable and beautifully Parisian.",
+            "name": "Crystal",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Gilian' place was clean and central. Close to public transport and very walkable. Would definitely stay again",
+            "name": "Jessica",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Great apartment which is walking distance from the hotspots. Easy to find and walk to from the station. Would recommend!",
+            "name": "Chris",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Superb little house. Exactly as described. Very happy",
+            "name": "Gab",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Great location with easy access to the transport stations, cafes and restaurants. Haven't met Gilian in person but his instructions were easy to understand.",
+            "name": "Hairuo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Just wonderful. Gilian was there to greet me and give me the run down of the place. The house was just magical, I could only dream of living in a place like that. How lucky you are Gilian! Would love to stay here again.",
+            "name": "Alexey",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "The location was great and house was nice. This house was very warm and cozy.",
+            "name": "Seon Young",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "The location is very good,close to every thing",
+            "name": "娟",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "I had a great time in Paris, and it was really because of this great little home nestled in the middle of everything. It was just a short walk from the train station and I could literally walk to everything I wanted. Great restaurants, shopping and many famous landmarks. I would definitely recommend this very private \"mini-house\" to anyone wanting to be close to it all. I found it to be squeaky clean upon arrival and it had all the trimmings. All of the linens were fresh and I found the rough stone interior walls in the living and bath area to be very impressive. It has a great mix of rustic & contemporary touches throughout. The host Gilian was very good at communication and left nothing undone! I loved it and will use it on my future travels to Paris. A+\n+ Plus",
+            "name": "David",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Very quaint place to stay off the beaten path of everyday life.",
+            "name": "Jennifer",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Would definitely recommend this place. Very unique, great location and professional host.",
+            "name": "David",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Gilian was a wonderful host. Perfect space for 3 people. Neighborhood close to everything.",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Gilian's place is a super cosy apartment. Checkin/out super easy. Place is nice and clean close to main Paris' attractions. Really suggested! Thanks Gilian for hosting me.",
+            "name": "Fabrizio",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "this well furnished place is stylish, comfortable and clean! it is spacious for two people, with more than enough cooking tool~ Gilian is a detail-minded host, he will make sure u have no trouble on getting into the house! the location of the house is very convenience too as it is just 2 mins away from metro station. two travel tips from Gilian's house: if u keep walking north on the Boulevard de Strasbourg, there are countless nice restaurants to dine with, and if u walk down to Boulevard de Bonne Nouvelle, u can experience a very local Paris market! Lastly, overall the neighbourhood are safe, but u may curious about why there are some many prostitutes at retirement age standing around XDD\n+ Plus",
+            "name": "William",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Getting into the studio/loft was super easy, we had codes so there was no need to meet up. Everything was recently cleaned and comfortable. We were able to cook a full meal in the kitchen and stayed in on a rainy day without feeling too cooped up. We don't need too much privacy, so it didn't bother us that there were people in the courtyard, we kept the curtains open. The only complaint we had was the amount of noise in the morning, it was impossible to sleep in. The loft sleeping space was amazing and super comfortable. When one of its was under it on the couch, it really felt like separate rooms.\n+ Plus",
+            "name": "Lindsey",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Second time I've been here -- just as great as I remembered it!!",
+            "name": "Andrew",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Very accurate description. Clean, tidy and well presented. We had a great stay!",
+            "name": "Jacob",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Very Nice place! Good location and Gilian was a super host!",
+            "name": "Martin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "This location was great! The apartment was very clean and perfect for four people! We loved how it was a little secluded from all the noise of Paris streets but located in a great area!",
+            "name": "Elizabeth",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Gilian did not meet me in person but communicated the necessary door codes ahead of time. No problem accessing the apartment. When I had a question re the wifi he responded within minutes, so no problem re communication. You must realize that the apartment is on the ground floor located in a narrow and fairly dark interior courtyard. People accessing the other apartments walk by right in front of your windows, if you have the windows open at night and they talk you will wake up. I was also not comfortable having people look through the windows while I was in the apartment, which means that I had the curtains closed all the time. Not a problem in the evening, not great during daytime. The surrounding neighborhood feels like Paris underbelly, lets call it authentic if we want to be positive about it. The cab driver explained that it is the main district for street prostitution, which may disturb some gentle souls and will probably disappoint the ones interested in those kind of services, given that the average age of the personnel was close to retirement. Not a safety concern at all as far as I could tell, just perhaps not everybody's cup of tea. Also, there is no option to hang any clothes, in case you are staying longer and would like to unpack your luggage.\n+ Plus",
+            "name": "Jonas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Gilian was a great host in Paris. The location in the 2nd Arrondissement is convenient to major sights in Paris, the metro and restaurants and shopping. 3 people was a comfortable situation. The apartment was clean and well appointed with a microwave, refrigerator and full bath. Wifi was very good. Gilian provided helpful information and answered questions in a timely manner. We all enjoyed our time at Gilian's apartment. My daughter said, \"I loved it!\"",
+            "name": "William",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "As described, the place was great but we should have asked for a kettle!",
+            "name": "Andrew",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Great place. Perfect spot for a couple! Close to the metro and walkable to most places.",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The house was perfect. It is small but very efficient in usage of space. Two adults and two kids fit fine. The location is excellent. Gilian is a wonderful host. Loved the experience.",
+            "name": "Matt",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Ottimo host e carinissimo apt, molto accurato nell'organizzazione dello spazio. adatto a 3 persone, giovani. Gillian è stato veramente disponibile durante il nostro soggiorno. Super consigliato great host and cute apt , very accurate in the organization of space . suitable for 3 people , young people. Gilian was really helpful during our stay . Super recommended",
+            "name": "Caterina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The description was accurate and we had an amazing time at Gilian's apartment.",
+            "name": "Noriko",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Great apartment in a nice little pocket of Paris. This is perfect for a couple who want to get away - it's cosy, it's near the Metro and has got heaps of character. Nice walk to Notre Dam and if you feel up to it, wonder through the Louvre, the Jardin des Tuileries, past the Luxor Obelisk and up the Champs-Elysees to the Arc de Triomphe. Gillian's instructions were perfect and the place was clean, tidy and secure. His check-in/out was flexible too so we were very happy with the apartment. One thing that I have to say is the cleaning fee is massively expensive for an apartment of this size. I understand cleaners need to be paid, but this is nothing short of a 15 minute job. To put this into perspective, if you stay a night, the cleaning fee is the same as the accommodation! That said, I would happily stay there again. 5 star rating :) Thanks for having us Gillian. Hope to be back soon.\n+ Plus",
+            "name": "Tom",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Very cool, artsy place!",
+            "name": "Christina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "This place was absolutely brilliant. We could not have asked for a better place to stay in Paris. It is located in a great corner of the city, sort out of the way of the tourist-y zone, but within walking distance of all the museums and monuments. The apartment itself is just right for a couple, just the right size for relaxing after a long day of exploring, and is supplied with everything you need to feel at home. Gillian was an excellent host, we had great communication before and during our stay and everything was in place when we arrived. I would recommend this to any couple or small group of friends who are visiting Paris.\n+ Plus",
+            "name": "Josef",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "This cozy space was perfect for work and allowed me to walk every day to Le Marais. There was a vegan market down the street, Un Monde Vegan, as well as a regular grocery store. I was able to easily cook every night with the kitchen utensils Gilian provides and lay out my work on a big table in the middle of the apartment. I'll definitely be back again.",
+            "name": "Emma",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Nice artist loft! The owner was very nice to help us with our last minute reservation. Two things: I wouldn't call that a terrace, and there is heavy tobacco odor in the apartment.",
+            "name": "Monica",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "I loved staying here - very comfortable with good design elements. Gilian checked in with me via email on my second day to make sure everything was fine - very thoughtful. The location is good for exploring interesting streets and notre dame and the seine are a straight shot approximately 15 minute stroll. I recommend this apt for one person or a couple. I wouldn't be comfortable with more than 2 folks here.",
+            "name": "Dianne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Gilian was great! The apartment is exactly as amazing and beautiful as the photos make it seem. It's well-decorated, clean, very spacious, has plenty of bedding and blankets, a huge table and comfortable chairs. This is my favorite Airbnb I have ever stayed at, and it is incredible that it is within the center of Paris.",
+            "name": "Andrew",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Everything was very easy and great. Gilian was very responsive and helpful, and the place is just very cool and unique. He had the details down, and there wasn't a thing I would've changed.",
+            "name": "Aaron",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "The apartment was really clean and beautifully set out. It was easy to find and the access instructions were easy to follow. The apartment is great and fun, good wifi and nice bathroom. The host responded really quickly to any queries we had whilst at the apartment although this was actually only how to access the wifi. It was really comfortable and a lovely base to e plots Paris.",
+            "name": "Harry",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Gilian was very friendly and accommodating to me and my friends, especially since we came last minute. He cleaned the home himself, stayed until we arrived to walk us in and show us how to properly use the code to enter and leave the home, and made himself available for anything that we needed. The space was clean, convenient to two train stations within 5-10 minutes, and also offered things such as TV, Wifi, and the food/wine in the refrigerator. Definitely would stay here again!",
+            "name": "Bianca",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Very cool flat, totally loved it. If you like great design this is for you. The 'terrace' is a small area with lots of bins, enclosed on all sides by 10 meter walls. No table, no chairs were left for us.",
+            "name": "Jamie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "A very welcoming start to the weekend, great little cosy place to stay located in a great area, not too far of a walk to everything!",
+            "name": "Rose",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Beautiful flat ideally located. Clean and fitting the description. Small but very well organised. 4 people could sleep inside. confortable beds. We didn't meet Gilian but his instructions were perfectly clear. The bathroom is not really sound proof. This could be something to improve. In general, we highly recommend Gilian's accomodation for a comfortable and rustic stay in Paris.",
+            "name": "Lucas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Gilian was a great communicator and, even though we didn't meet him, he made sure that everything ran smoothly when we arrived. Many thanks! The location is great. We recommend the place on the corner for petit dejeuner - no need to cook or make your own coffee, why not let the French do it a million times better than you can? :-) Two metro stations nearby allow access to pretty much everything you'd need. The apartment block seemed friendly enough with most people we bumped into saying hi. Definitely would recommend.\n+ Plus",
+            "name": "James",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "This is a very small one room flat. Too small for our purpose and very expensive in the light of what you actually get. I would not recommend it for other than family or couples. We were three friends and there is absolutely no privacy. Everything is small and it is impossible to lock the space between the bathroom/toilet and the Livingroom, because there are no walls in the apt. The cleaning fee is all too expensive. So be aware of that when you book. Also the fee for canceling is extremely high when you compare it to hotels or other Airbnb's apts. However, the apt is ok, but not at all the best value in Paris, that for sure.\n+ Plus",
+            "name": "Petter",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Had an excellent stay at Gilians apt recently. First time I tried AirBnB and I am very happy I did. Have stayed in Paris hotels before and this apartment is so much better than any hotel I have tried. The apartment has everything you need. The outside area is a bit close to next building but other than that the pictures are a good indication of the apartment. Gilian met U.S. and gave us some brief instruction. It has a coded door so no need to worry about lost keys:). All in all a great stay. Tony",
+            "name": "Tony",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Such a beautiful flat! The location is also amazing and is about 10-15 mins walk from everything. There are loads of restaurants and shops 2 mins away. I must add and say, though, that the flat is on the ground floor. And right next to the dustbins of the whole complex. Also there is an office that's in front of the flat, so lost of the time we had to have the curtains closed for privacy. Gillian is an amazing host, he was extremely accommodating with our late check out. Also the flat is more of a large studio then a one bedroom, but definitely one of the coolest flats we have stayed in in terms of interiors.\n+ Plus",
+            "name": "Soniya",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "We had a wonderful stay. The apartment was perfect for our visit to Paris. Easy accessible, comfortable and charming. I would definitely stay here again on my next visit to Paris!",
+            "name": "Damian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Stayed for two nights and loved it! The house has such a nice feel and is full of beautiful pieces of furniture and quirky pictures. We were here on business and being within 3 minutes from the metro was very handy. The location is great, with a 25 minute walk you're by the river with views of the Eiffel Tower and the Louvre. Will definitely return on holiday next time! Gilian was a perfect host too. Thankyou!",
+            "name": "Emily",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "It was wonderfull!! Very nice, everything you need, and lovely decorated! We probably come back! Thx!",
+            "name": "Ivo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "The apartment was clean and comfy and was in a great location. The check-in was super easy as all you need is a code to get in. This was perfect for our trip to Paris!",
+            "name": "Jay",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Gillian's apartment served us well for our short stay. The apartment is located in a very fun part of Paris and has a nice traditional feel to it owing to the stone walls. We didn't use the main bed as it was located up a ladder. while the apartment is darker than we expected, the lighting helps to make the flat feel comfortable.",
+            "name": "Jonathan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Gilian is very nice person. He helped us to organize things and suggested us many amazing places. The house is comfortable and nice. It has many little things that are interesting. We loved the house!",
+            "name": "Yanyu",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "The apartment was very nice and practical as a whole. There were four of us, no keys needed as the house was locked with a coded door. One large room, plus bathroom and a small kitchen. Sufficient space for 3-5 nights for 4 people. We enjoyed the place and found it to be very convenient to sights and restaurants. We will come back!",
+            "name": "Andrea",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Well located, lovely little flat, with great design in such a small place. It stays cool enough given the day time temperatures (36 degrees) so perfect in the summer heat. It is out of the main Marais area, just off the busy Boulevard Sevastapol, but you are in good walking distance of metros and local sights. Definitely good value for money, and when inside the flat, a great quality of design and detail. I didn't use the outside area, looks nice and cool, but it is v close to the bins.",
+            "name": "Tobias",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "My family and I spent 2 nights at Gilian's apartment. The flat is VERY small (basically 1 large room), but was clean and located a short distance from a Metro Station. There were many shops and cafes close by, and the neighborhood seemed safe. It would be an ideal place to stay for 2 or 3 friends traveling together, did not work as well for my family of four. Gilian was very helpful throughout.",
+            "name": "Jason",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Never got to meet Gilian.. The host emails you a passcode to enter the house which can be a good thing if you like your privacy or bad thing if you have questions upon arrival. In our case everything worked out great and Gilian gave good directions and kept in contact all the way up to and through our stay. House was as advertised! Everything was clean and the location was great. Located right next to main metro lines and right around the corner from many restaurants. We didn't get to use the patio because construction was going on in the business next door and they had their tools all over the place. Not that big of a deal just strange to have people looking in your windows that early in the morning. Overall my family had a great stay here!\n+ Plus",
+            "name": "Donovan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Great place, even more funky than the pictures. Location fantastic and Gillian a great host. Had a fantastic time in Paris and can't wait to stay again.",
+            "name": "Jane",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Gilian's apartment was a perfect place for us to stay in Paris! It was clean, in an awesome location, and had clear instructions on how to work everything. I loved that the apartment had keypad access rather than a physical key since there were 4 of us staying there and not always heading home at the same time. I would definitely stay here again :)",
+            "name": "Cori",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Gilian's apartment was a great way to end our European honeymoon. He kept close communication and even recommended some grey spots away from the tourist traps. The design is exactly how it's depicted. A comfortable and airy sanctuary against the loud noises of Paris' 2nd Arrondissement. Should recommend this place to anyone looking to feel part of the city with the option to seal the city off when you want tone alone.",
+            "name": "Anthony",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "I met Gilian on arrival. This was the second time my friend and I booked the apartment, and this time was just as pleasing as before. He accommodated our arrival and departure needs regarding time. The flat is in a great location, and again was very clean. The beds are comfortable, and the well functioning shower was pleasing after a day's travel. Thank you!",
+            "name": "Eimear",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Great location and friendly host with loads of advice for travellers in Paris.",
+            "name": "Will",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "The flat is beautiful and very clean. Very strategically placed, 2 min from a metro, shops for grocery nearby, I will definitely get back there. Gillian was friendly and it was a pleasure to meet him. The flat looks exactly as in the picture. Actually, it felt bigger. I hosted a dinner with a few friends there and we had a great time all comfortably seated. Really recommend this flat. Thanks Gillian! See you soon!",
+            "name": "Bochra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "This was my first experience with Airbnb and overall it proved to be a great experience. Communication with Gilian was prompt and clear. He took my flight information and calculated the perfect times for check-in & check-out. The place was simple to find and couldn't be easier to get into with the security codes. It actually made it really convenient to not need to meet up for any key exchange....fast and efficient. The place was exactly what the photos show....a really great space with a lot of cool charm. The exposed stone was really awesome and the bathroom was the perfect size (the water pressure also rivaled most hotels I've stayed at). The location was super convenient to the Metro (2 minutes) and only a short 10-15 walk to the Marais (tons to (URL HIDDEN) Overall great experience...would for sure stay at this place again!\n+ Plus",
+            "name": "David",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Gilian was a wonderful host. He was quick to respond to my messages before the trip, provided me with detailed information about the apartment and area, and stayed in touch during our stay. The apartment was so lovely! The perfect size for 2 to 3 guests. We felt safe, the apartment was right by a Metro stop and a Velib (public bikes) stop, and a short walk to many central Paris sites.",
+            "name": "Chelsea And Cameron",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "This is the perfect place to stay in Paris! It's your own private house in the centre of Paris. We realy liked the interieur, the privacy and the comfort. When we visit Paris again we definitly will stay here. We stayed with 3 persons and loved going 'home' after a day strolling in the city. Easy to travel from Gare du Nord, close to le marais. Gilian is a very good host and gives clear instructions. We didn't meet him during our stay, but we like his style ;)",
+            "name": "Mabelle",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "AMAZING location. Very cozy and fun. Cottage feel, offering a unique stay. Would gladly stay here again. It is small, not much room to out things, but that didn't matter much to us because we loved it so much. Gillian was helpful when asked, but we never met him or saw him.",
+            "name": "Jordan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "The pictures depict EXACTLY how the apartment looks. What a beautiful apartment. Stone walls, kitchen fully equiped, great music sound system. It was 4 of us staying in this studio loft, and it was perfect for us. The deal was great for where we were staying and I will definietly look into staying here another time around. Totally worth it :) This apartment added to our experience while visiting in Paris, and I'm really grateful for that. It is good to note the location is very very central, and we got to all our destinations with no problem!",
+            "name": "Ava",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Adorable, clean flat in a central location of Paris. Within walking distance of great restaurants, cafés (try Frenchie to Go!) and shopping in Le Marais. Gilian was very thorough in his communication details—always appreciated!",
+            "name": "Vanessa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "What a great little place! The photos show it just as it is - a tiny \"house\" in a courtyard through a typical big Parisian doorway. If you like super-sleek hotel rooms / apartments this may not be for you. However if you like somewhere with character, charm, and privacy, you will love this place. There is no need to meet Gilian to get in, as access codes all work easily. However we did meet him, and he is charming and friendly.",
+            "name": "Lucy & Richard",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "It was a real pleasure to stay with Gilian - although we never met him he left clear instructions as to how we were to arrive and all the facilities in the apartment. The location is extremely convenient and the pictures are truly representative. My friend and I also had a nightmare with Eurostar and Gilian kindly let us stay for an extra night on very short notice. Highly recommend.",
+            "name": "Victoria",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "Gilian's little pad in Paris was awesome! It was perfectly located for the museums that we visited with a great cafe on the corner and a short walk to all the great restaurants in Les Halles. The apartment is located on the ground floor with a little courtyard which was very convenient and it was well equipped with everything we needed for our stay. Access to the apartment was very easy with the coded door lock and Gilian was a very responsive host. Thanks",
+            "name": "Sam",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "text": "Perfect little flat. Ideal location - we walked everywhere, we had no need for cabs or the metro. The coding entry system was easy unlike what some others suggest on here. Everything was provided for and great communication from Gilian. With flats like this, I don't know why anyone would get a hotel. Many thanks!",
+            "name": "Shaunna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Gilian welcomed at the house and it was a pleasure to be able to stay in his home. The property was extremely clean, exactly as described and shown online and in a great area of Paris. It was within walking distance of many of the main sites and the nearby area was bustling and easy to access by metro/walking. I would thoroughly recommend to other visitors and would enjoy staying again.",
+            "name": "Erica",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Ideal little place for our week in Paris. Gilian's instructions were clear and the apartment is well equipped and secure, surrounded by good shops and bistros, convenient to the Metros and a nice morning walk with a coffee and a croissant to the Seine, Louvre and Notre Dame etc. Good value!",
+            "name": "Virginia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Gillain's house is a beautifully decorated space filled with many little surprises. It has everything one needs with generous living and dining area,even though the house itself isn't big. It has a very compact kitchen that managed to have a built-in washing machine. The raw stone wall on the one side perfectly contrast the rest of white interior and harmoniously against along side those old wooden beams, ladder and furnitures. Great location, situated in the 2nd district, there are plenty of shops and supermarket around, two metro stations are only a stone throw away. No neighbours on top of the house, away from the main street, therefore very quiet at night. Mezzanine bed can be slightly difficult to climb up to, but I just slept on the sofa bed, with was equally comfortable. Gilian drop by a day to say hello, he was very friendly and fully respect my privacy. I would definitely come back to stay his house the next time I visit Paris, for it's the best airbnb house I stayed in so far in Paris and I stayed in many in the last 2 years. 4 and half stars for 1 to 3 people.\n+ Plus",
+            "name": "Chin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Small stylish apartment in great location. Secluded off street behind a coded gate makes it quiet but within walking distance of more lively surroundings. Perfect for a weekend break and to feel like a local",
+            "name": "Tim",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "The apartment was exactly as described and pictured and was a lovely place for our 4 day visit to Paris with our 2 children. We enjoyed the location in Le Marais and its proximity to the Metro. Although it isn't huge, it offered more than enough space for the 4 of us to relax at the end of a day of sightseeing. The ladder to the loft above was a little daunting in the middle of the night, but worked out fine. We didn't meet Gilian, but were able to easily enter and exit with the codes provided.",
+            "name": "Erika",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "The space was quiet and the location great. A great place tucked away from the busyness of Paris & in a fun area. I would stay again.",
+            "name": "Etheon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "Wonderful querky apartment. The apartment gave us the whole Parisian experience, so much nicer than a stiff, starchy hotel room. Thank you to Gilian who was charming and helpful throughout.",
+            "name": "Stuart",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "Perfect stay! I had great time livin in Gilian's apartment. Everything worked out very easily for a first-timer like me. Gilian gave good introduction how all works and also stopped by to see everything was ok for me. I think I lived like a true Parisian for a couple of days. I definitely want to stay there the next time I come to Paris. Thanks Gilian!",
+            "name": "Arvi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "This was the perfect situation for my colleague and me for a 1-night last-minute booking in Paris. Easy to get to and from Gare Nord by metro. It would not have been suitable for those who have more traditional expectations, but we loved it. Comfortable sleeping arrangements and perfectly suitable washroom in a lovely, cozy flat. We didn't need the kitchen, but it would have been fine if we had needed it. And plenty of room for all our bags. We had some trouble with the door code, but Gilian responded quickly and all was sorted out. An unexpected bonus was that it was just 5 minutes walk from Frenchie -- we had an incredible dinner at the wine bar without a booking!\n+ Plus",
+            "name": "Elizabeth",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "Excellent stay. Very easy transfer to get into the flat. Very central location, in a quiet area. The flat was very clean with plenty of fresh towels. We spent most of our days out of the flat, but I would look forward to returning and spending a night in, cooking and making use of the big central table.",
+            "name": "Eimear",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "We had a great stay at Gilian's place. Gilian was very responsive, helpful and flexible. Thanks!",
+            "name": "Tom",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2014"
+        },
+        {
+            "text": "We had a wonderful time during our stay in Gilian's apartment. Gilian kindly met us even though we were arriving late in the evening to ensure that we were able to work the pin pad entry, which is a great system! The apartment has everything we needed and was in a great location for our arrival into Paris and the metro. We were able to walk into the city in 15-20 minutes. I would definitely consider staying here again if we return to Paris.",
+            "name": "Ellie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2014"
+        },
+        {
+            "text": "When we just came here, we thought the apartments were too small. In the picture they seem to be bigger. But, actually, there is a lot of place here, every item has its own place. We didn't see Gilian himself, but he was always willing to answer our questions. And the terrace is a big bonus, it was really pleasant to relax after the difficult day.",
+            "name": "Yulia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2014"
+        },
+        {
+            "text": "Gilian's apartment is a brilliant hideaway near the center of Paris. The design and decor are remarkable and we loved the ease of access to the Paris highlights. We highly recommend for those who want to be near the action, yet have a quiet, nice hideaway to escape at night.",
+            "name": "Roya & Andrew",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2014"
+        },
+        {
+            "text": "My best friend and I just got back from our stay in Paris at this rental and to sum it up.. AMAZING!! The place is exactly as pictured, and in a very good location. Gilian was an excellent host and his place was the perfect retreat after a day of sightseeing. We loved the area and the unique character of this rental. There is plenty of cafe's and shops close by, along with several Metro stations so it's very easy to get around the city. I would stay here again in a heartbeat.. it was perfect!!! Thanks Gilian, couldn't have asked for anything better!!\n+ Plus",
+            "name": "Amy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2014"
+        },
+        {
+            "text": "We stayed here last weekend. It's a great location. Very quiet and clean.",
+            "name": "Jonathan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2014"
+        },
+        {
+            "text": "Gilians Apartment is a compact but really beautifully designed space. It is as the photos show, very clean and tidy with great details. The entry code is easy to use and makes leaving and arriving simple too. Its really well located in easy walking distance from the Marais, the Canal, ect ect. We will certainly look forward to staying there again in the future! Gilian was a pleasure to communicate with too. Many thanks Gilian!",
+            "name": "Anna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2014"
+        },
+        {
+            "text": "My boyfriend and I just spent the weekend at Gilians place. The house was so charming! A unexpected hideaway in Paris in an enclosed area. Interior is just like the pictures, very clean and comfortable, with very cool decor. Even an old scrabble game that we put to great use! From other reviews it sounds like some people had trouble with the codes on the doors - it took a few tries sometimes but no big deal and it was actually very convenient to be able to come in with a code so we had more flexibility on the arrival and departure time. The location was good, with easy access to the metro and walking distance from le Marais and the Pompidou center as well as Montorgueil street. There were lots of clothing boutiques and designer furniture stores and a cafe on the corner. I only wish there were more food and wine markets within the block. Overall great place, I would highly recommend!\n+ Plus",
+            "name": "Janine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2014"
+        },
+        {
+            "text": "A very nice house in the center of Paris, small but with much style. The Gilian Gasselin was excellent host. polite and very helpful! merci beaucoup!",
+            "name": "Melina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2013"
+        },
+        {
+            "text": "The reservation was canceled 3 days before arrival. This is an automated posting.",
+            "name": "Chin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2013"
+        },
+        {
+            "text": "Two friends and I stayed in this charming tiny house in a convenient Paris location. The house had all expected conveniences, fit together snugly like a jigsaw puzzle. One important thing is to follow the door opening directions very precisely. For us, Americans, the code box entry system was unfamiliar and a bit challenging. Gilian, our host, was very, very accommodating and helpful. We appreciated him greatly. And, of course, we appreciated Paris!",
+            "name": "Jane",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2012"
+        },
+        {
+            "text": "We had a wonderful time staying at Gilian´s little pretty house. Gilian came to welcome us in person and gave us many suggestions on where to find the local velib-stations or a parking place. Highly recommend this place for anybody who is traveling to Paris.",
+            "name": "Katrin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2012"
+        },
+        {
+            "text": "Gilian's home was a perfect retreat. Incredibly quiet, comfortable beds, fully equipped kitchen, good shower, heating good... Great food shopping just round the corner at rue du Faubourg St Denis complete with covered market at the top of that street (towards the left). Easy metro trip into town or just walk it. Again easy metro to Gare du Nord or just a walk. Would recommend to all my friends. Thank you, Gilian.",
+            "name": "Diana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2012"
+        },
+        {
+            "text": "My experience with the house and the host was negative and uncomfortable. I would never rent from Gillian again! The communication with Gillian before , during and after was pretty bad. When I arriave I realize that the information was misleading and I felt tricked. The house rule was misleading. He never showed me the house funtions as it said he would. The day before I was leaving: I was locked from the house from 2pm until 17:45 pm . From 2pm to 2:45 I contacted AIRBNB » » and they contacted Gillian who said that he would be there around 4pm or 4:30pm . When he came , he came with a female friend at 4pm. From 4pm to 4:45 Gillian tried to open the door with no results. At 4:55pm he told me how the situation looks like that he had called someone to fixed the door. At 17:45 the door was fixed and I got inside the house. I was locked from 2pm to 17:45pm. From 4pm to 17:45 expect when Gillian told me how the situations looks like. He spoke with his female friend in French during the entire time and they where laughing and smoking together. I felt like an outsider just standing there and not understanding what they are saying and felt like his friend was the one who was locked out and not me! I was the one in a difficult situation. I was very angry , not only did I paid for a week , but I missed my meeting and was delay with everything and I just had 3 hours of sleep before I was leaving (URL HIDDEN) that moment I wanted to leave the house and rent somewhere else! One night After 10 pm Gillian walks through the house and opens the door without telling me or inform me that he was going to enter the house. I felt hurt. I was renting The house for a week and then he walks in and I was standing there. He was in the house for more than 10 minutes and I don´t know what he did in the house , but one thing is for sure he did not leave anything for me as guest or so . After he walks out from the house he tried to change the stuff I had in the house like turning off all the light and taking away the gardins , I said No and he started to say ” Why”. When I came back to the house I saw that he had moved away my stuff . I felt disrespected and hurt that he did not respected my stuff or the way I had in the house. He also mention about my privat stuff it felt like he was looking at my stuff while he was in the house. He once said ” Why are you using your own towel” It was like he had looked at my stuff and saw me using...\n+ Plus",
+            "name": "Laura",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2012"
+        },
+        {
+            "text": "The terrace is perfect. I couldn't have asked for more. First time in Paris so I was set on doing a lot of exploring after arriving on the Eurostar. A very short taxi ride got my girlfriend and I to the terrace which was exactly as described. It had everything we needed and a very comfortabel stay. The location was also spectacular as the Subway is just around the corner but we often opted to walk from the house each day. A relatively short walk to Notre Dame & the Louvre and we even walked all the way to the Eiffel Tower. (Not for the faint of heart) I look forward to staying again in the near future.\n+ Plus",
+            "name": "Matthew",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2012"
+        },
+        {
+            "text": "Very cute! Exactly as in the photos. Very clean. Gilian was helpful and responsive. We liked his place so much that we even stayed in one night when it was raining and drank wine and cooked. Kitchen is small but has everything you need. We cooked eggs every morning. Gilian showed us how to use the washer and even left soap for us. It was nice and quiet b/c of the outside door & the house is not right on the street. The area is a little in the middle of some random shops but it's very close to the lively area of Marias. I would recommend this to friends.\n+ Plus",
+            "name": "Ali",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2012"
+        },
+        {
+            "text": "I would reccomend this house as a must to anyone visiting Paris. The house was true to the description and the pictures, just lovely, perfect for four people. Perfectly clean and tidy. The appartment had everything you could have asked for. Gilian provided a great orientation to both the house and the local area, very helpful.This house is really well located for walking to the wonderful sights of Paris and located between three Metro stations that helps in getting around Paris quickly and easily. It is surrounded by lovely restaurants and bars. The bed is comfortable, great after a long day of roaming the streets and soaking up the sights. I had a wonderful stay in this house, I will definitley be back for another visit and I will be booking with Gilian again.\n+ Plus",
+            "name": "Jules",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2012"
+        },
+        {
+            "text": "I loved my experience. Gillian was a excellent host. He kindly showed us all directions at our arrival and lead us to the bus stop . I certainly recommend his little charming house, really well located.",
+            "name": "Galton",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2012"
+        },
+        {
+            "text": "My sister and I stayed at Gilian's apartment for two nights, and I have to say our first impression was rather negative. After everything had been arranged and booked we were told, two nights before arriving in Paris that we would not be welcome at the apartment until the evening. We then had to wait around for over four hours, until our host was ready. After this wait, we found the apartment unpleasantly filthy. The floor was so dirty we couldn't walk around barefoot. We had to clean before we could relax, not something you want to do when paying for accommodation! A drying rack was left in the middle of the main room covered in soaking wet towels, taking up most of the room. I understand the need to wash the laundry, but maybe it'd be best to do this 'out of house' if a guest is staying. Apart from all of that, the apartment itself was lovely. The private entrance is ideal, and feels really safe. It is really quiet, especially for Paris. The bathroom is modern and well spaced. The bed is comfortable, yet it is a little daunting to climb the ladder at first! However it doesn't take long to get the knack of it. The kitchen is minimal, and lacking in some details (no cafetiere!), but it was fine. Storage is another little problem, there is nowhere to hang or store your clothes and belongings... The placement of the apartment was great, just a quick walk to the Marias, and really close to the Eurostar Gare du Nord.\n+ Plus",
+            "name": "Dominique",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2012"
+        },
+        {
+            "text": "it was perfect for me to get to my meetings that were nearby and I slept well there! I felt like I lived in Paris and it was so great to come and go throughout the day. It was more convenient than I imagined. Also, the interior design was so charming. Very nice! Yes, I would like to stay there again when I am in Paris for business.",
+            "name": "Catherine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2012"
+        },
+        {
+            "text": "Very nice place, small but comfortable and could easily sleep 3-4 people. Easy to get anywhere in the city quickly too. Gilian made it very easy to pick up the key and the apartment was clean and ready for us. Only downside is that the immediate area isn't very nice, it's surrounded by nondescript handbag and clothing stores that felt a little seedy, but not unsafe. That said, it's only a few minutes from the Marais, Les Halles or anywhere else by metro. Overall, great place for young folks to experience Paris from.",
+            "name": "Gideon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2012"
+        },
+        {
+            "text": "Easy! Ground floor, location worked for our visit. Nice landlord.",
+            "name": "Carrie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2012"
+        },
+        {
+            "text": "Gilian's place was wonderful. A tastefully decorated newly remodeled flat, centrally located at the edge of the hip 10th district in Paris; a really short walk from the Strasbourg-Saint-Denis Metro stop, which is a really convenient stop to quickly get around the rest of Paris. It's also close to the Marais area, full of boutiques, and the best falafel in Paris. The place was quiet, clean and cozy, with a comfortable bathroom, clean towels and linens, and even a bottle of wine waiting for us. Small washing machine was a welcome bonus. Internet, a small Bluetooth stereo and free international landline phone as well! Even a little table outside to sit for a smoke or coffee. Located in a courtyard, the apt is a stand alone building, with no immediate neighbors to disturb. The area felt secure and safe. This place would be perfect for a couple looking for a quaint apartment to rent. I was traveling with 3, and we had plenty of room, with 2 sleeping on the L shaped futons, and myself on the comfy mattress loft. Gilian shared a bottle of wine with us when we arrived, quickly going over how things worked in the flat, pointing out resources in the neighborhood, and gave us helpful advice about our plans in Paris. He checked in over the weekend just to make sure there were no problems and that our stay was going well. I plan on returning to this apartment in the future, and I will recommend it to anyone visiting Paris.\n+ Plus",
+            "name": "Dave",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2012"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "averageRanking": 4.5,
+    "nbReviews": 135,
+    "communication": 5.0,
+    "emplacement": 4.5,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 22,
+    "qualite-prix": 4.5
+}

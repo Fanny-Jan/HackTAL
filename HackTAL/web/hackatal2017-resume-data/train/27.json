@@ -1,0 +1,415 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Le logement correspond exactement à ce qui est indiqué. Très propre, calme et bien situé. Idéal pour une escapade à Paris en toute tranquillité.",
+            "name": "Marie-Hélène",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "chambre et salle de bains un peu petites, très propre, bien situé métro devant la porte",
+            "name": "Gilles",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Très bon accueil. Idéal pour coût séjour. Intimité respectée dans une chambre confortable. Disponibilité des hôtes très appréciable. Nous conseillons vivement.",
+            "name": "José",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Ma première avec Airbnb. Une vraie réussite. De l'envoi du sms pour demander l'heure d'arrivée à l'accueil, tout était simple et clair. La chambre isolée du reste de l'appartement, la salle de bain indépendante étaient fidèles aux attentes. Parfait.",
+            "name": "Yannick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Envoi d'un SMS pour demander l'heure d'arrivée avec instructions précises (codes-clé). Accueil de Fanny facilitant notre installation et précisions pour le petit-déjeuner. La chambre très propre correspondait bien à la description notamment l'isolation du reste de l'appartement. Une mention spéciale pour la salle de bain séparée, notamment la qualité des sanitaires à l'état neuf. Situation excellente de l'appartement sur les Grands Boulevard , proche d'une station de métro desservant les lignes 4, 8 et 9 .",
+            "name": "Rémy Hervé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Chambre au top ! Idéalement située (métro à 2 pas) Et surtout une salle de bain privée Le tout impeccablement tenue Accueil chaleureux, famille très sympathique Je recommande !",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Logement très agréable (très calme et propre) et bien situé (nombreuses commodités à proximité). Julien est un hôte agréable. J'espère y revenir bientôt.",
+            "name": "Alain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "La chambre très propre avec toilettes privée. En plus, il est situé dans une endroit idéel, 30 min à pied jusqu'à Notre Dame et 30 min à pied à Sacre Coeur. On a arrivé très tard la prémier nuit et Julien nous a donné une très bonne solution.",
+            "name": "Santiago",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Notre séjour chez Julien a été super! C'était tranquille, propre et acceuillant. Nous avons aimé la chambre et la salle de bain qui étaient plus à part de l'appartement, nous avions de l'intimité. Les informations pour s'y rendre sont claires et si nous avions des questions Julien pouvait nous répondre par message ou si nous le croisions. Merci pour ce séjour très agréable, au plaisir de se revoir un jour! Catherine et Samuel",
+            "name": "Catherine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Julien est un hôte très discret et qui laisse amplement de place à son invité. Il répond rapidement aux demandes et cherche à nous faciliter la vie en autant que faire se peut. L'appartement, bien qu'au cœur d'un quartier animé, est passablement calme. On n'entend aucun des bruits de la rue et sa situation à 15 mètres d'une bouche de métro en fait un endroit idéal pour explorer Paris.",
+            "name": "Christian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "There is no elevator that's the biggest problem for us, cuz we got very big luggages with us... But everything else is good. The room is a little bit small, but it is clean and tidy!",
+            "name": "雨佳",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "A very nice place to spend some days in Paris!! Clean, safe and next a restaurants and metro.",
+            "name": "Clara",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Julien went out of his way to help us, Great host and a perfect place",
+            "name": "Melita",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The room and private bathroom with shower was exactly as described, very private and perfectly clean. Really appreciated the Nespresso machine in the room for a morning shot of coffee with complimentary pods! The location is perfect for exploring Paris by foot, as well as being located just meters from a metro station for those that don't want to walk. Many restaurants and bars are just walking distance from the apartment, and the neighborhood felt safe even late at night. As a solo traveler exploring Paris for the first time, the accommodation was perfect and my best Airbnb experience so far :)\n+ Plus",
+            "name": "Dion",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Ideal location, apartment located at Metro entrance, bedroom is tucked in a corner of the house which allows absolute privacy.",
+            "name": "Joan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Julien and his family were great hosts. He was very responsive when we had questions. We found the apartment to be as described and appreciated the privacy provided by the long corridor separating us from the rest of the apartment. It wasn't our favorite part of town since all sites required a long walk or ride on the metro (though very convenient being right next to the metro stop).",
+            "name": "Jake",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Great location, only 1 min walk from the Metro. The room is very clean and comfy. You have your own bathroom so there is a high privacy. And there is a Nespresso machine in the room too so you can get your coffee everyday. Fully equiped.",
+            "name": "Mandy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "We had a really Nice stay at julien's place. Its a very central place, near the city centre. Julien is very helpfull and easy to communicate with. Really recommand his place if you want to visit Paris!",
+            "name": "Marlou En Reinald",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "It was perfect!",
+            "name": "한경",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Had a wonderful stay last week. Just steps from the Metro Station. Room is away from the rest of the flat and very quiet. Julian was very helpful. Wonderful first experience with airbnb. Would recommend this home.",
+            "name": "Bud",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "This place is no doubt amazing. The location is super convenient in that the metro station is just 100 m. away with various lines that takes you basically everywhere in Paris. Besides, the room that we are staying at is located at the end of a long corridor, which is well separated from the living space of the host. The room is clean and cozy. We also have our private bathroom, which is nice!",
+            "name": "Qidong",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Julien's house has a good location to use metro!",
+            "name": "소희",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Very clean and beautiful room in a local apartment, with private bathroom just like a cosy hotel room. Wonderful convenient place,within 1 min walk to metro station and can access to three metro lines. Easy to find lots of restaurants and shops around.",
+            "name": "Beibei",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Lovely room, felt very homely, quiet even though its in a very central area. Thanks.",
+            "name": "Grace",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Julien's Air BnB room is PERFECT!!! It is clean, quiet, close to transportation and, because you have your own bathroom, gives you an added degree of privacy. I loved the historic nature of the building and the location was great for me, there were tons of restaurants and cafes nearby to check out. The set-up of the room (it's separate from the family areas of the home) was perfect for me. I'm not a party animal but I did have later nights due to my evening plans (book readings, the theatre and the opera) and the room's location meant I didn't have to worry about disturbing anyone else when I'd arrive home at night. Although I never crossed paths with Julien himself (I saw his family in the mornings as I was leaving for my daily adventures), he was SUPER communicative and great during the check-in and check-out process. I had a wonderful time in Paris and a good part of that was having such a lovely room to use as my \"home base\". I cannot recommend Julien's place highly enough! :)\n+ Plus",
+            "name": "Kristyn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "The most private setup. The room is 2 set of doors and a hallway away from the rest of the house, so no worry of disturbing each other. Julien was very friendly, and punctual and accommodating. it was a little cold, but that was a particular cold weekend in Paris. aside from that, everything was perfect. You get a good combination of old paris charm and the benefit of clean, modern, newly renovated amenities. *do not click \"Get directions\" on Airbnb, that address is not the same! Follow the one Julien posted.",
+            "name": "Winnie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Julien is very helpful. The small room is quiet and good for one person. You should not mind going up or down 4 floors on stairs.",
+            "name": "Archana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "The staying at Julien's home was very comfortable. We arrive earlier than regular check in time and Julien arranged everything to let us acommodate by ourselves. The location was very convenient with the metro station under the building. Julien's keep in touch with us several times to ask if we needed something. He was very kind. We recommend the place!!!",
+            "name": "Gino",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "It was a pleasure to stay in Juliens apartment. He's a very friendly host and helped us quickly after we forgot some shirts in the room.",
+            "name": "Nicos",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "This was a wonderful stay! Arrival was easy and the room is perfect! The fact that the room and bathroom are separated from the rest of the house really makes it feel very private. Julien and his wife are truly good people; very gracious and willing to assist wherever they can. The Internet speed, which is important to me for work, was very fast and even allowed for video streaming, something I have often struggled with elsewhere. The location makes it really easy to get around; metro is right out front and lots of good eating nearby. Overall, I highly recommend this place!\n+ Plus",
+            "name": "Tracy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Everything went great at Julien's place. The location is great, you will have all the privacy you want and he is a wonderful person.",
+            "name": "Pedro Henrique",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Great location. Nice room with private bathoom. Good communciation by Julien. We briefly met and he was very nice. A lot of stairs!",
+            "name": "Nicholas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "it was really a nice and warm stay at Julien's place in Paris. it's really located well and we had easy communication to everywhere around. it's a happening nook within itself. cafés and pubs, book shops and theatres... all in one place. I prefer to visit Julien again. Srijato",
+            "name": "Srijato",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "This is a wonderful place to stay. The room is clean, comfortable, and offers plenty of privacy. It is centrally located in Paris (and is right next to a convenient metro stop), but isn't on a major tourist thoroughfare, so it's a little more quiet and offers more of a local experience. Julien was an accommodating and friendly host who offered help but also respected privacy. I would certainly recommend this listing.",
+            "name": "Jessica",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Julien is an excellent host. The room was very clean. The flat is located in a calm area in the centre of the city. I had a great stay. Thanks! Absolutely recommended!",
+            "name": "Markus",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "This is a very beautiful room and I really enjoyed my stay here. As promised, it offers good privacy as well. The location is extremely convenient and it takes about 15 minutes to reach the major tourist attractions by Metro. The Metro stop is right below the building. The neighborhood is also vibrant at all times, and has a number of convenient restaurants, supermarkets and pharmacies. Julien was a welcoming and accommodating host who provided great tips related to travel and food in the city. I will happily recommend this place to fellow travelers. A word of advice to those travelling with heavy luggage - the building does not have an elevator (which I suspect is the case with many buildings and Metro stations in Paris) which makes it a bit challenging.\n+ Plus",
+            "name": "Nidhi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "We had a very nice stay at Juliens place in Paris! The apartment has a perfect location directly at the Metro station. The room is in a separated part of the flat and has its own bathroom. It has a window towards the atrium and one night it was a little loud because some neighbors were having a party. Julien and his family are very nice, friendly and uncomplicated. We really enjoyed the stay and would definitely come back!",
+            "name": "Felix",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Julien is a very polite person, when I'm not familiar with the road, he showed very patient and careful. The room was clean, comfortable stay, location is also very good, reasonably priced, I really like it here.",
+            "name": "Choi Lai",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "It was a wonderfull experience! Julien and his family are very nice people. They helped us a lot, and they advised all! The bedroom is like you see in photografy, very confortable, separated from the rest of the house, with its own bathroom, and all is excellent. The house is near the center, and in the door there is a metro station. It will be my home again in my next visit to Paris!",
+            "name": "Ceci",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Both Julien and his wife were very lovely and helpful. The room is comfortable and you have your privacy as it is separated from the rest of the apartment. The area is really great, lots of nice cafés and restaurant near by. I would definitely recommend it!",
+            "name": "Karolina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The room in the private apartment of Julien and his family was just like in the pictures, with a private bathroom. The bed was very comfortable, and room was quiet although in the middle of Paris as the windows were facing the inner courtyard. The neighborhood was perfect, close to restaurants and shops. Julien was super nice and great in communicating everything. Thank you, I hope I can come back!",
+            "name": "Milla",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Julien was extremely helpful and friendly. Though we hadn't met the first day we arrived due to his hectic schedule, he made sure we were settled in and was in contact through texts. His home is beautiful and the room was perfect! We couldn't have asked for a better location too! Close to the station, with loads of shops and restaurants around It's so vibrant, we couldn't have picked a better place to stay!",
+            "name": "Zeenia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "The apartment was exactly as described. Quietly separate from the main area of the home. Bed was very comfortable and heating in both bathroom and bedroom kept me very comfortable. Both rooms locked for privacy but I felt very safe and Julien and his family were very respectful of my privacy. I had my own key to the apartment so I could come and go at my leisure. Toiletries were available for use and the shower was great with hot water . The bathroom was very modern with ample drawer space. I was invited by Julian to join his family at breakfast, a very nice gesture however I enjoyed sleeping in and did not have the pleasure. The metro was right outside his door and very convenient and many restaurants and cafes in this quaint neighborhood. There are 4 floors of a winding staircase to the apartment. Just a heads up if you have mobility issues. I would recommend Julian's place and would definately stay again\n+ Plus",
+            "name": "Mary",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Great place. Everything about the space is accurately described. Julian was very helpful and attentive and answered any and all questions I had. The room is off the side of the rest of the flat with its own entrance after the main door and bathroom, the bed and sheets were comfortable and the room was tranquil. The room is far enough disconnected to the main part of the flat that you have your own privacy. The only thing is it is 4 flights of stairs but pretty much all flats in Paris only have stairs, and if you have heavy luggage it can be a process but it wouldn't deter me from staying here again. The area is convenient and central to everything, the train station, the louvre, Notre dame, and lots of bars and restaurants are within walking distance.\n+ Plus",
+            "name": "Angelo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "The location is brilliant, literally right in front of you after the metro exit. So you don't have to walk too much during cold winter time. There are a lot of restaurants, cafés near by, fruit stalls, supermarket are on the next street, so you can buy some daily necessities while you stay. It's very easily accessible to all the tourist spots, Eiffel Tower, Musee de louvre, champs Elysee etc on the metro lines, like 15-20 mins commuting time. Line 4 & 9 are pretty much the lines you need visting in Paris. Julien is easy to reach, speak v good English. He invited me to his New Year's Eve pre dinner celebration, which was v nice of him! The room has high privacy as it is slightly separated from the living room, julien's bedrooms, and you have your own bathroom which is very clean. No table and wardrobe in the room but it didn't bother me much anyway. There is no lift in the building, however, julien helped me to carry my baggage down the stairs on the day I left, that's very helpful of him.\n+ Plus",
+            "name": "Lok Lam",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "This accommodation was exceptionally deal for me because during my short time in Paris, I was there for work/ business and this location was very convenient as it was just less than 5 mins to the office. The metro was easily accessible and loads of shops and eateries mins away. Highly recommended. Everything in the description is as it was said.",
+            "name": "Ahiaba Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Location was convenient to train. Easy access to the train stations and the Metro to Eiffel Tower. Julien was easy to reach and the private area was great since we arrived late from our tour. It was a quick trip but easy and great!",
+            "name": "Rebekah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "The room is fine but I missed having a table, bedsite table and something else than two hangers on the door for clothes. The bathroom is very good with everything renovated and well equipped. The location is excellent, just a few metres from a Metro station and surrounded by tens of cafes, braseries and restaurants. There are also supermarkets and anything you can need. The building doesn't have lift and there are some renovation works that start around 8.15 am and are very noisy in the room. It wasn't an issue for me as I was already packing but for any guest to take into account.\n+ Plus",
+            "name": "Mario",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Julien helped us out of a tight situation by agreeing to host us on the day itself after another host failed to make contact for the night we were staying. That in itself makes him a superhost to me. He was friendly in his contact with us, making sure to tell us where and when we could come over. The room itself was great and was in a separate wing from the rest of the flat, having an ensuite private bathroom right next to the lovely cozy bedroom. Overall an excellent, clean room, with towels provided and comfortable bed. Fuss-free and highly recommended.\n+ Plus",
+            "name": "Zaki",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Julien and his great family are friendly, respectfully and nice. The apartment is like Paris, it has been decorated with good taste very chic, the building is beautiful and close to everything you want in Paris. I love the room because is 100% private and a extra points is that you will have your own bathroom, it is like to be in a great hotel in Paris. I high recommend the room if you want to experiment Paris. The building is located close to the metro, monument and good restaurants.",
+            "name": "Antonio",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 4.5,
+    "nbReviews": 50,
+    "communication": 5.0,
+    "emplacement": 5.0,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 27,
+    "qualite-prix": 4.5
+}

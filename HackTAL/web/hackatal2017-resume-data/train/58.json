@@ -1,0 +1,1095 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Dans le vieux village et au clame. Un courette très agréable et à l'abri de regard. Très bon séjour.",
+            "name": "Pierre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Manque serviettes. Amener un torchon pour la cuisine. Le lit est un canapé plutôt confortable. La localisation est un réel atout ainsi que le petit patiot.",
+            "name": "Elodie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "C'est un logement très sympa pour une nuit ou un week-end. Très bien placé et douillet.",
+            "name": "Sandrine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Le logement est vraiment petit. Pour un couple sans enfant. La présence de torchon main et de sac poubelle aurait été pratique. Dommage car l'environnement est très mignon. De plus il y a une petite cour intérieure.",
+            "name": "Faissal",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Très bien . Je recommande",
+            "name": "Nani",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Petite maisonnette au calme dans le vieux gruissant. A deux pas des commerces.",
+            "name": "Laurent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Accueil, Localisation, courette et cuisine et télévision très agréables . A deux le lit est moyen .",
+            "name": "Sylvie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Annelyse et son mari ont été tres arrangeants pour notre arrivee et nous avons beaucoup apprécié . La maisonnette est typique et la décoration neutre et agréable, nous avons apprécié notre séjour ! Le plus étant bien entendu l'emplacement , en plein coeur du petit village donc extrêmement intéressant. Cependant, le canapé clic clac n'est pas de première jeunesse : grincements et matelas de mauvaise qualité... Nous aurions apprécié un meilleur lit pour le prix de la nuit... Nous vous recommandons le logement d'annelyse si vous aimez les endroits calmes et pittoresque :)\n+ Plus",
+            "name": "Eléa Baptiste",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Une maisonnette très bien placée au cœur d'un charmant village ouvert sur le grand large avec se immenses plages où on peut balader sans fin, des promenades très proches autour des étangs et dans les collines. La courette sans vis à vis et un plus appréciable.",
+            "name": "Mireille",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Nous n'avons pas croisé annelyse mais toutes les informations nous ont étaient communiquées avant notre arrivée. La maison se situe proche du centre et du port. La cours privatives est très agréable car nous cache du vent. Parfait pour un week-end à deux.",
+            "name": "Mathieu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Cabane de pécheur au centre du village de Gruissan. Petite mais bien aménagée. Calme, avec petite cour extérieure très sympa.",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Jolie petite maison pour un week-end, le lit est un peu mou mais très bon rapport qualité prix.",
+            "name": "Clotilde",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Le séjour s'est bien passé dans l'ensemble. Le lit était pas très confortable mais pour le reste rien à dire cela correspondait à la description. Nous n'avons pas l'hôte du séjour mais tout était bien expliquer pour arriver à trouver. De plus les dépliants de la ville et les autres nous ont bien aider à visiter les lieux sympa de gruissan",
+            "name": "Laure",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Petite maisonnée dans une rue calme du village historique de Gruissan avec une cour intérieure. Possibilité de parking pas très loin vers l'étang. Petit mais cosy...",
+            "name": "Muriel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "bon emplacement, moi qui suis maniaque, la propreté peut être mieux cependant très agréable pour quelques jours, merci pour l'aide pour la télé sinon ras",
+            "name": "Laurence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Agréable séjour dans ce village de Gruissan, nous avons découvert un lieu ou nous reviendrons! Notre logement était idéalement situé et hormis une literie moins confortable que l'on aurai pensé, cet endroit est tout à fait adapté à une escapade à deux.",
+            "name": "Myriam",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Maisonnette très agréable, dans le village de Gruissan, très bien placée. Il y a tout ce qu'il faut et nous avons beaucoup apprécié notre séjour. Nous recommandons!",
+            "name": "Alice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Logement de petite dimension mais fonctionnel et bien situé. Je n'ai pas vu les propriétaires mais très dispos par téléphone et très sympathiques.",
+            "name": "Valérie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Un endroit très agréable au coeur du village de Gruissan. Je n'y ai passé qu'une nuit mais je reviendrai avec très grand plaisir.",
+            "name": "Cécile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Jolie maison au coeur du village, très calme !",
+            "name": "Irénée",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Logement très charmant, idéalement situé pour ceux qui veulent découvrir Gruissan, coté village. Accès rapide au centre, à l'étang. Quartier calme et petite cour intérieure très sympa! Un vrai petit cocon!",
+            "name": "Vincent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Maisonnette très mignonne, emplacement idéal pour se balader, quartier très calme, on a pu garer la voiture très près. Par contre, les finitions pourraient être plus soignées.",
+            "name": "Romane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Un petit logement parfait pour une semaine de vacances au centre de Gruissan, au pied de la tour Barberousse. Bonne communication avec le propriétaire, tout s'est très bien déroulé.",
+            "name": "Marthe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Très agréable ! Bonne communication ! À recommander ! Merci encore !",
+            "name": "Guillaume",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Le logement est à quelques pas de la ruine de la tour de Gruissan en accès libre qui donne un beau point de vue autour. Si on veut faire des grillades il y a un barbecue portatif avec une cour fermée.",
+            "name": "Franck",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Bel appartement, propre et identique aux photos.",
+            "name": "Souhaila",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "J'ai passé un très bon séjour ; la maison est bien placée dans Gruissan (calme) et la cour permet d'entreposer son vélo pour les balades. Je reviendrai sûrement si j'ai l'occasion.",
+            "name": "Patricia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Cliclac pas terrible",
+            "name": "Colette",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Tout s'est très bien déroulé. Parfait pour un très court séjour !",
+            "name": "Margot",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Logement conforme à la description avec un hôte très arrangeant.",
+            "name": "Amélie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "La description très bien détaillée correspond à la réalité. Une maisonnette ravissante, propre et tout confort, un lieu charmant et paisible (en cette saison), tout proche de belles ballades à faire à pieds, des commerces et de la mer.Je recommande vivement ce petit coin privilégié et y reviendrais sans hésiter. Merci pour l'accueil prévenant et d'avoir pensé à la couette, j'ai fortement apprécié.",
+            "name": "Nicole",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Merci pour ce petit logement, idéalement situé, au calme, proche de toutes commodités. L'accueil très cordial s'est fait par téléphone.",
+            "name": "Yannick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Un petit logement vraiment sympa, une très jolie cour, idéal pour un petit séjour.",
+            "name": "Maxime",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "bon rapport qualite prix , literie correcte decoration un peu sommaire , la douche serait a ameliorer , mais pour le prix c' est tres correct",
+            "name": "Beatrice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Nous avons trouvé le logement comme la description Reviendrai",
+            "name": "Michelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Super petite escale à Gruissan dans ce charmant petit studio au Coeur du vieux village. Logement propre et pratique, parfait pour un couple. Je recommande!",
+            "name": "Agnès",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Merci pour ce delicieux petit sejour en amoureux au coeur du village de pecheur de Gruissan. Le logement est encore plus mignon que sur les photos. La terrasse est un regale. Bref adresse fortement conseillee. Tres certainement à une prochaine fois!",
+            "name": "Stephane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Nous avons passer une nuit dans l'appartement. Tout étais bien.",
+            "name": "Chloé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Petit logement très bien situé dans un quartier très calme et à proximité immédiate des restaurants, du marché ..Nous avons pu déjeuner dans la petite cour privée, sans vis à vis, c'était très sympa !!! Comme je l'ai signalé une meilleure literie est souhaitable .",
+            "name": "Michele",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Nous avons passé un excellent séjour dans la petite maison de pêcheurs qui est conforme au descriptif. Le village est très sympas. Il y a de très belles plages. Nous y reviendrons sûrement. Le seul petit regret c'est le canapé-lit qui manque de dureté à notre goût... mais l'endroit est très sympathique je le recommande pour y passer quelques jours très reposant.",
+            "name": "Angelina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Un séjour sympathique dans une maisonette agréable correspondant parfaitement à la description.",
+            "name": "Benjamin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Logement très bien situé avec une terrasse grande et sans vis à vis. Tout etait parfait.",
+            "name": "Cyril",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Annelyse est trés arrangeante pour les horaires d'arrivée et de départ, elle réponds trés rapidement aux messages. L'appartement est identique aux photos, la cour est vraiment très agréable. Le petit moins est le fait de devoir enjamber le lit pour traverser. La literie n'est pas super confortable. La cuisine est pratique et tous est disponible pour cuisiner correctement. Je recommande !",
+            "name": "Karine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Très bel endroit, agréable cour qui est réellement un plus dans le village. Parking à proximité Restaurant, marchés, balade, boutique à quelques pas. Merci",
+            "name": "Lucile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Annelyse est très arrangeante, le logement est bien entretenu et pratique pour un couple.",
+            "name": "Erwan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Super petite maison ! Je ne regrette pas du tout ma location, tout ce qu'il faut pour s'y sentir bien . Je recommande !!!!!!!",
+            "name": "Emeline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "quartier tranquille de gruissan petit appt bien agencé avec une cour agreable",
+            "name": "Dominique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Même en l'absence du propriétaire, j'ai été enchanté de découvrir ce petit havre de paix très fonctionnel et mignon comme tout avec un voisinage charmant. Je reviendrai avec grand plaisir chez vous. Bien amicalement.",
+            "name": "Fabien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Logement tres mignon, agreable et fonctionnel. De plus, il est idealement situe.",
+            "name": "Maya",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Un bon contact avec l'hôte qui propose un logement complet et très bien situé. Il ne manque rien pour passer un bon séjour. Nous étions juste la de passage pour une nuit mais je recommande ce logement à tout type de voyageur.",
+            "name": "Marion",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Charmante petite maisonnette, très bien située, conforme au descriptif et très propre. Nous n'avons pas vu les propriétaires, mais les échanges téléphoniques ont été très agréables. Dommage la pluie et le vent ne nous ont pas permis de profiter de la petite courette. Nous retenons cette adresse pour un autre séjour dans la région.",
+            "name": "Arlette",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Charmante petite maison,fonctionnelle, conforme aux photos,rue très calme et facile pour ce garer,accueil très sympathique, arrangeant pour l’arrivée et le départ ! Des réponses rapides. ...",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Un petit passage à Gruissan dans cette charmante maisonnette idéalement située !!! Avec sa petite coure privée et son emplacement idéal cette maisonnette nous à ravi.",
+            "name": "Capron",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "La maison est située dans une ruelle tranquille avec possibilité de stationnement à proximité, proche de la vieille ville. La petite cour privée est agréable et abritée. La récupération des clés se fait par consignes reçues par sms; La cuisine est fonctionnelle, par contre la salle de bain est vétuste et la douche \"hors d'âge\". Prévoir vos serviettes de toilette et vos sacs poubelle",
+            "name": "Gwen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "La maisonette correspond à la description. Très bien située, proche des plages de commerces",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Merci pour ce séjour dans cette maisonnette qui fut agréable. La maison est très bien située dans le cœur du vieux village. L'intérieur est propre. Même si je n'ai pas croisé l'hôte, l'échange au téléphone était super.",
+            "name": "Véronique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très bon contact téléphonique, mais un peu déçue de ne pas être accueillie par les propriétaires. Logement correct, mais (je ne dois pas avoir eu de chance) pas très propre. Pour mon premier Airbnb je m'attendais à mieux. Très bon emplacement",
+            "name": "Isa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Logement conforme à la description, proche petits commerces. Propriétaire arrangeant pour l'heure d'arrivée et départ. Tout le nécessaire pour une arrivée tranquille, à disposition . Facilité pour se garer pas loin. Lieu calme Gruissan est très agréable.",
+            "name": "Veronique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très belle maiSonette agréablement aménager... Se sens comme chez soi... Conford et propreté identique au photo. Très belles prestations",
+            "name": "Myriam",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "petite maisonnée très fonctionnel, avec une petite terrasse privative des plus sympathiques.Nous avion un peu peur du BZ mais il est plutôt confortable ! une réservation instantané qui porte bien son nom! nous fûmes très bien accueillis , pour un séjour sans nuage :) je vous recommande chaudement ce logement de choix au cœur de la garrigue . ( super bien placé )",
+            "name": "Aldébaran",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "de passage, l'appartement correspond à ce qui est proposé. Calme et bien situé !!",
+            "name": "Benoît",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Maisonnette très sympathique. Nous sommes restés qu'une nuit mais plus ne nous aurait pas dérangé !",
+            "name": "Laurine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Nous avons passé un agréable week-end dans la maisonnette de pêcheur, un confort simple, idéal pour profiter du vieux Gruissan. Tout est à proximité. L'accueil a été sympathique et confiant. Le tarif à la nuité en basse saison est tout à fait correcte. Nous reviendrons avec plaisir.",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Tout s'est bien goupillé et la localisation de la maisonnette était parfaite, calme et proche des petits commerces locaux et du petit fort de Gruissan (très belle vue). Des ballades toutes proches et de l'air iodée plein les poumons ! Le logement paraissait plus propre sur les photos (canapé, sol, salle d'eau,..) en fait on s'est demandé si notre hôte avait eu le temps de nettoyer avant notre arrivée.",
+            "name": "Alex",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Que dire de ce séjour... Des échanges vraiment très sympathiques par téléphone avec Anne Lyse et sa fille, très arrangeantes... Une très bonne surprise en arrivant dans ce mignon cabanon joliment décoré, situé au calme, avec absolument tout le nécessaire à l'intérieur (même un vélo !!) que nous en étions étonnés vu le prix.. Vraiment Je recommande vivement et un grand merci !! Si nous revenons à Gruissan, nous savons où aller !!",
+            "name": "Florence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Deuxième séjour à Gruissan dans cette chouette petite maison! Logistique de récupération des clés hyper facile, appart très pratique ét bien situé Â recommander !",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Agréable séjour dans cette petite maison agrémentée d'une cour, décorée avec goût, qui correspond à la description. Situation idéale au coeur du joli village de Gruissan. Accueil sympathique & serviable au téléphone. Nous avons apprécié la mise à disposition de documentation touristique et d'un vélo. Rapport qualité/prix imbattable. Je recommande chaleureusement.",
+            "name": "Lole",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Petite maisonnette typique très mignonne en plein centre de Gruissan.. Nous y avons passé un bon week end.",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Anneluse était présente lors de notre arrivée. Tout s'est trés bien passé. Logement agréable et trés bien situé. Juste quelques finitions trés moyenne dans le logement sinon cela est trés fonctionnel.",
+            "name": "Marie Et Gaël",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Studio conforme à la description à deux pas de l’étang et du centre, quartier calme et petite cour agréable. Nous n'avons pas rencontré Annelyse mais son ami a été très arrangeant pour les heures d'arrivée et de départ.",
+            "name": "Adeline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Très bon accueil dans cette petite maisonnette très bien située. On reviendra avec plaisir.",
+            "name": "Jean-David",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Je suis arriver a la maisonnette c'était salé par terre, j'ai du effectuer le ménage. Un travaux à côtés nous as réveiller le matin. On as pas vous annalyse ni personne et ils répondaient pas au texto, le frigo ne fonctionnais pas. Déçu de ce séjour",
+            "name": "Rafa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Logement conforme à la description. Fonctionnel, central et petite cour agréable",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "logement parfait pour 2 personnes au calme et sans vis à vis. joliment décoré et atypique proche des commerces du vieux village tout peut se faire à pied. la petite cour est mignonne à souhaits.",
+            "name": "Stella",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Nous avions réservé ce logement avec une amie pour deux jours. Il nous semblait largement suffisant pour deux et très mignon, de plus idéalement situé. Cependant nous avons été très déçues. Nous n'avons pas rencontré les propriétaires mais nous avons compris leur indisponibilité (arrivée et départ en milieu de semaine). En revanche, nous avions envoyé un message quelques jours avant pour convenir de l'heure de notre arrivée, message auquel nous n'avons jamais eu de réponse. Nous avons donc téléphoné le matin même au numéro indiqué. Et alors que nous pensions correspondre avec une femme c'est un homme qui nous a répondu pas de problème mais il aurait au moins pu se présenter. Nous avons correspondu avec lui pendant notre séjour sans réellement savoir de qui il s'agissait. Cela étant, lors de notre arrivée à la maisonnette, nous avons trouvé un logement sale, froid, pas accueillant. Les murs n'étaient absolument plus blanc, le sol plus qu’abîmé et sale. Le canapé noir était poussiéreux, il y avait des cheveux dessus, sans parler du tapis. La table de la cuisine n'avait pas été lavée il restait le reste du repas des précédents locataires. Quant à la vaisselle n'en parlons pas, nous avons tout relavé puisqu'il restait de la nourriture collée sur les assiettes, ainsi que le fond des casseroles. La salle de bain sent l'humidité, certes il n'y a pas de fenêtre mais peut-être qu'aérer rien qu'en laissant la porte ouverte serait nécessaire. Concernant la literie je pense que c'est le pire, le lit est inconfortable au possible. Les oreillers fournis sont plus qu'usés. De plus lorsque l'on déplie le lit nous avons la chance de trouver sur l'alaise les poils et cheveux du dernier locataire. Nous avons aussi regretté de ne pas avoir pris nos propres draps puisque les draps fournis étaient tachés, usés, il y avait des traces de semelles de chaussures comme si quelqu'un avait marché dessus. De plus, on ne nous a pas fourni de housse de couette, or nous sommes mi-septembre et les nuits se rafraîchissent, le drap du dessus ne nous a pas suffi. Nous avons donc à notre grand regret voulu poser la couette fournie sur le bas de nos jambes au moins. Cependant à notre grande surprise, en plus des cheveux et poils nous avons eu le plaisir de récupérer les sécrétions humaines de nos prédécesseurs (tâche de sang : règles peut-être ?). Autant vous dire que nous l'avons remise directement dans l’armoire. Quant à la seconde couette, toutes les plumes en sortaient et cela piquait... Nous avons donc fini par allumer le chauffage ! Bref hygiène plus que douteuse ! Peut-être sommes-nous trop propres... Enfin, peut-être est-ce trop demander que les locataires laissent à disposition un rouleau de papier toilette et un sac poubelle au moins pour l'arrivée. Ce sont de petites attentions qui simplifient l'arrivée et dont nous avons toujours bénéficié dans nos locations précédentes. En bref, ce logement à un fort potentiel sur les photos mais manque cruellement d'hygiène à l'arrivée !\n+ Plus",
+            "name": "Marine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Logement très sympa dans le vieux gruissan. Parfait pour un petit week-end en amoureux. Même si nous n'avons pas rencontré le propriétaire, il a toujours été dispo au téléphone et très sympa je recommande.",
+            "name": "Baptiste",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "On a apprécié la localisation de la maisonnette dans le petit village de Gruissant dans un quartier calme aux rues piétonnes. On a aussi aimé la cuisine joliment aménagée et la cour intérieure où prendre ses repas.",
+            "name": "Aude",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Un petit week end formidable dans cette maison de pêcheur. Idéalement située, elle offre toute commodité et son petit jardin est un vrai havre de paix. Vivement conseillé pour une découverte de Gruissan et ses alentours.",
+            "name": "Mathieu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Nous n'avons pas rencontrer directement le propriétaire, mais les échanges téléphoniques ont été très sympathiques. Le logement correspondait aux photos.",
+            "name": "Angelique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "bof ! pas cher mais .....",
+            "name": "Yves",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Très bon emplacement dans Gruissan. La maisonnette est super ! L'accueil a été très bon.",
+            "name": "Riss",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Appartement conforme en tous points à l'annonce et très bien placé dans le centre de Gruissan. La petite cour intérieure est très agréable pour un apéro-barbecue. A conseiller donc pour une escapade en bord de mer.",
+            "name": "David",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Nous avons été vraiment très bien accueillis par Mylène et son grand sourire dans ce logement idéal pour deux, à une minute à pieds de tous les commerces et 10 minutes de la plage en auto ! Décoré avec goût et très fonctionnel malgré sa toute petite surface, le gros plus est la petite cour sans vis à vis, très agréable pour les repas en extérieur. Le couchage est pour l'instant très rude mais le propriétaire est en train de faire le nécessaire pour le changer, donc pas de panique, foncez ! - Prévoir 20 euros de frais de ménage. - Concernant la mobilité, notez qu'on ne peut pas circuler \"normalement\" dans la maison quand le lit est ouvert, il faut nécessairement enjamber le clic-clac (assez haut). - Les maniaques du ménage et des finitions peuvent passer leur chemin, c'est une petite baraque du Sud sans prétention, avec le sable porté par le vent, les fourmis, les murs ou le sol pas forcément droits...rien de grave donc puisque l'essentiel (WC, cuisine, douche, couchage) sont nickels.\n+ Plus",
+            "name": "Maya",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Annelyse nous a très bien guidé et accueillie par téléphone. Le logement correspond complètement au descriptif, très agréable et très bien situé au centre du village. Nous avons passé un agréable petit séjour et nous reviendrons avec plaisir.",
+            "name": "Yoan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Un pied à terre de choix pour découvrir Gruissan et ses environs. En tout point conforme à la description et aux images présentes sur le site, nous avons pu profiter de cette charmante maisonnette pendant 3 jours, idéalement située dans le vieux village de Gruissan. Mentions spéciales pour le calme des nuits passées (à peine dérangé le matin par le cri des hirondelles) et pour la cour extérieure, propice aux bains de soleil de midi et aperos de fin de journée ! Pour notre 1ère expérience Airbnb, nous sommes ravi d'avoir pu découvrir ce lieu et le recommandons chaudement aux prochains visiteurs !\n+ Plus",
+            "name": "Charles",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Nous n'avons pas rencontré Anne-Lyse mais nous avons passé un très agréable séjour dans la petite maison. Elle est calme, bien équipée et située au centre du village. C'est petit mais coquet. Un brin de ménage avant notre arrivée n'aura pas fait de mal mais on s'est débrouillé. Je précise également que le canapé-lit est assez inconfortable, mais pour deux nuits, ca a fait l'affaire.",
+            "name": "Emilie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Appartement très sympathique au plein centre du village. Nous avons bien pu profiter de la cours extérieure c'était parfait. Les photos sont totalement conformes à la réalité.",
+            "name": "Léo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Bonjour, Vous etes la première expérience décevante au bas mot et de loin la pire avec airBNB: - appartement sale et crasseux: nous avons du passer le balai par deux fois en 2j, la crasse y étant incrustée, ainsi que la serpillière et ceci dès notre arrivée - canapé avec tâches douteuses qui se transforme en \"lit\" des plus inconfortables, les draps prêtés usés jusqu'à la trame.. Et un lit déplié qui bloque tout accès d'une pièce à l'autre. - la SDB qui laisse émaner des odeurs d'égouts et qui était toute aussi sale que le reste de l'appartement - des murs décrépis par l'humidité - une cour non entretenue En tout cas bravo les photos sont des plus réussies on croirait une charmante petite maisonnette, la magie des éclairages et peut être même de Photoshop.... Chapeau l'artiste!!! L'appartement a été rendu plus propre qu'au début de la location, du coup vous n'aurez pas a le nettoyer pour les suivants. Ce message n'attend aucune réponse, merci.\n+ Plus",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Appartement trés sympa, propre. Rien à redire !",
+            "name": "Violaine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Une petite maisonnette pleine de charme dans le vieux Gruissan ! dans laquelle nous avons passé un séjour très agréable. Annelyse nous a accueilli avec beaucoup de gentillesse - malgré un petit retard de notre faute et une difficulté de communication téléphonique. Si vous avez envie d'un endroit typique n'hésitez pas ...en tout cas pour nous c'était parfait ....",
+            "name": "Claire",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Le propriétaire était absent, mais il a trouvé une solution pour la clef et le guidage. Logement petit, mais très bien placé dans le centre du village.",
+            "name": "Jean-Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Très bon rapport qualité prix ! Appartement idéalement situé. Propriétaire arrangeant sur les horaires d'arrivée et de départ. Bref, on recommande !",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Séjour très sympa dans cette mignonne maisonnette! Tout était parfait pour un weekend sportif sur Gruissan, tout confort, très bien équipé. Un regret, la météo ne permettait pas de profiter de la petite cour! Parfaite disponibilité pour se caler pour l'arrivée et le départ. A recommander!",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Appartement mignonet et cosy. Proche étang et parking publics. Proche tous commerces (restau boulangerie tabac). Bien équipé. Contact très sympathique avec le propriétaire.",
+            "name": "Lisiane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Petite maison très bien aménagée et bien située dans Gruissan.",
+            "name": "Pauline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "Nous sommes ravis de nos trois jours de vacances ! Nous n'avons pas vu notre hôte mais sa disponibilité par téléphone, les présents laissés à notre attention, et l'organisation dont elle a fait preuve nous ont fait nous sentir à l'aise. La maisonnette se situe en plein centre du vieux Gruissan, très agréable pour des balades à pied, mais il est facile de s'y garer en voiture. Bref, merci d'avoir contribué à notre fabuleux réveillon !",
+            "name": "Claire",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "L'appartement proposé par Annelyse était tel que décrit, modeste mais arrangé avec l'intention de plaire à ses hôtes. Je n'ai pas rencontré cette dernière, nous avons communiqué via la messagerie du site. J'ai eu aussi un autre interlocuteur au téléphone, sans doute moins disponible, moins concerné. En effet, quant il s'est agit, de répondre à un problème (chauffage d'appoint trop faible, l'appartement était comme un frigidaire), la personne n'a pu se déplacer que le lendemain après midi)...c'est vraiment dommage. Deux détails encore, pas de tire bouchon et surtout pas de draps (pas annoncé dans la fiche pratique)..Sinon l'appartement est dans le centre historique, tout près de restos, de commerces...\n+ Plus",
+            "name": "Pierrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "text": "l'hôte n'était pas présente mais quelqu'un m'attendait pour m'accueillir et me montrer le logement. l'adresse est facile à trouver...",
+            "name": "Elsa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Lieu vraiment très charmant et authentique.",
+            "name": "Nathalie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Super! La maisonnette était conforme à la description. Très agréable! Et très bien situé dans le Gruissan. On reviendra.",
+            "name": "Marianne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Le logement est conforme aux photos. Il est idéalement placé, à deux pas du marché et des commerces, à 10 mins à pieds du port. Il est très bien équipé et sa déco cosy appelle au farniente. Le vrai \"+\" c'est la cour privée avec sa table de jardin et ses bains de soleil!",
+            "name": "Benedicte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Très jolie maison de pêcheur dans un quartier animé à gruissan. Le patio a beaucoup de charme et la maison est très bien décorée. Nous avons pu facilement se garer devant. Nos hôtes ont été très souples malgré notre arrivée tardive et notre départ tardif aussi.",
+            "name": "Kefah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "conforme au descriptif appartement net et propre idéal pour deux pratique au point de vue de la localisation accès commerces et ballades parking réserve jusqu' a mon arrivée parfait merci a la sœur pour ce bon accueil très sympathique et discret pas évident d attendre une arrivée un dimanche après midi salutations cordiales",
+            "name": "Andre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "C'est une petite maisonnette parfaite pour un séjour à Gruissan à deux! Propre et fonctionnel dans un quartier très calme même en pleine saison. Accès à pied pour découvrir Gruissan, parking devant, rien à dire. On reviendra!",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "lieu conforme à l'annonce en plein vieux GRUISSAN commerces à proximité, bon rapport qualité prix et hotes bienveillants",
+            "name": "Marie Claude",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "La maison correspond tout à fait à la description. Très bien située, très bien équipée et en plus bien décorée. Parfait",
+            "name": "Aurianne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "Logement tout à fait conforme à la présentation, confortable et bien équipé, situation idéale en centre ville, parking nombreux et proches, hôte disponible, nous sommes absolument ravis de cette semaine passée à Gruissan!",
+            "name": "Florian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Logement conforme à la description qui en est faite dans l'annonce: très propre, bien équipé, décoré avec goût et bien situé (au calme et proche du centre-ville). Attention: sacs poubelles, torchons, lessive et autres non fournis.",
+            "name": "Elise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Personnes très agréables et disponibles. Joli petit studio au centre du village. Nous avons apprécié l ensemble de notre séjour. Merci à vous.",
+            "name": "Vanessa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Logement très propre et sympa, quartier calme et beaux alentours. Vu notre arrivée tardive, l’hôte nous a déposé les clés pour l'arrivée et préparé le studio. Merci beaucoup!",
+            "name": "Florence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Mignonne maisonnette idéalement située au coeur du vieux Gruissan. Vie du village et commerces à proximité, parfait pour un couple davantage à la recherche d'authenticité que de plages bondées. Accueil et disponibilité des propriétaires par ailleurs très arrangeants.",
+            "name": "Alain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Très bonne adresse et accueil !!! Beaucoup de charme pour cette maisonnette du vieux Gruissan !!",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "logement conforme a la description et aux photos, la petite cour est très agreable pour le petit dejeuner ;) la deco est \"charmante\". tout le nescessaire est sur place",
+            "name": "Benoit",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "Un appartement bien aménagé et bien situé, qui nous a permis de profiter du coeur de Gruissan village, très typique et très beau. Le vieux chateau de Gruissan qui offre un magnifique point de vue est tout à côté, de nombreux restaurants sont présents dans le village, et la plage à quelques km seulement. Le logement correspondait à la description donnée sur le site d'airbnb, et notre rencontre avec l'hôte s'est très bien passé.",
+            "name": "Ella",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "Jolie petite maison au cœur du village de Gruissan, déco très mignonne. Idéalement placée pour les Festejades, nous avons passé un bon moment.",
+            "name": "Joséphine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "L'accueil a été agréable et le logement correspondait au descriptif.",
+            "name": "Sylvia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "Pour une arrivée en avion, il manque quelques produits de base dans la cuisine (difficile de tout emporté en avion)… Logement parfait pour un court séjour seule… Tout est accessible à pieds. Je garde l'adresse :-)",
+            "name": "Christine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "Rien a dire, n'hésitez pas ;)",
+            "name": "Elyess",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Petite maisonnette joliment décorée, avec terrasse ombragée où nous avons passé un agréable moment lors d'un court passage à Gruissan.",
+            "name": "Karine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Maisonnette coquette où l'on se sent comme dans un cocon. Au calme du bord de mer très bien situé; cour indépendante super commode pour garer les vélos. Une adresse que je garde. Le seul bémol: pas d'animaux...please pour un chat c'est super idéal...merci d'y réfléchir. A bientôt !",
+            "name": "Fabiola",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "The host canceled this reservation 243 days before arrival. This is an automated posting.",
+            "name": "Agnes",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Nice flat, well located. Checkin was easy and flexible. Bed not so comfy...",
+            "name": "Lara",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Good access to property. Great location. Everything we wanted for our stay. Loved the outside area.",
+            "name": "Helen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The host canceled this reservation 3 days before arrival. This is an automated posting.",
+            "name": "D-Bad",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "The reservation was canceled 65 days before arrival. This is an automated posting.",
+            "name": "Antoine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Small but cozy! Kitchen is great, but the bed/couch was not that good. The middle is deeper than the sides. Location is great though.",
+            "name": "Merlijn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Very cute and quant little place to stay. Very good value. Location good. There was a safe place to put our bikes in the little courtyard. We put the mattress from the fold up bed on floor to ensure a good sleep.",
+            "name": "Joyce",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "The accommodation was very charming indeed! It is located in Gruissan le village (the old village). To keep it short, if you happen to be on vacation in the Narbonne area or even in the department of Aude and you can book this accommodation, then I would do so immediately!",
+            "name": "Swen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "The location of this apartment is perfect for your trip to Gruissan. The walled backyard is a nice bonus. We had a few issues with the place that I'm sure the host will have corrected for the next guests. The sofa bed is an issue, it's uncomfortable. We managed by putting the mattress directly on the floor.",
+            "name": "Jean-Francois",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "The town is super cozy, with grandmothers sitting in the picturesque street come nighttime. Rent bikes or a car to easily get to the beach. We walked the mile or so from the town past the nature preserve (which was lovely). The apartment is also cozy and adorable. It's a good value for the money unless you have a bad back. I didn't finally get ahold of the host until we were actually 1 hr away by train. It was a bit scary. She was lovely when we got ahold of her. I was hoping for towels and handsoap, but we had to supply our own. The kitchen was perfect for cooking for two. It was nice that the sofa folded out for space but the bed itself hurt my back. I wish that the showerhead was attached to the wall so that I could wash with both hands.\n+ Plus",
+            "name": "Patricia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Great house for a few days, very comfortable and clean with a lovely yard!!",
+            "name": "Cris",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Everything went perfect, the little house is really charming and lays beautifully in this small City. Would come back anytime, thank you very much Annelyse!",
+            "name": "Johannes",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The little house is well placed in the village but in September there was an end of season feel until the market opened and the village came to life. The house is compact but the courtyard gives a private outside space which was great for a bbq. Great washing machine and dryer so clothes could dry outside in the fresh air.",
+            "name": "Maggie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "The accommodation is cosy, quaint and very convenient to Gruissan old town. The host is super friendly and very much willing to make your stay enjoyable. The house is as it is described. Quiet small but adequate for one or two people. It also has its own private courtyard.",
+            "name": "Adrian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "A lovely little apartment in the heart of the old village of Gruissan. Compact but with everything you need and the private courtyard is perfect for relaxing and eating in. Gruissan has a good selection of eating places and bars, and a proper market a few times a week as well. Quieter beaches are on the south side of the canal, but be careful on the 'rugged' track down to the water...",
+            "name": "Sebastian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2014"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.0,
+    "averageRanking": 4.0,
+    "nbReviews": 135,
+    "communication": 4.5,
+    "emplacement": 5.0,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 58,
+    "qualite-prix": 4.5
+}

@@ -1,0 +1,255 @@
+{
+    "precision": 4.0,
+    "reviews": [
+        {
+            "text": "Le studio est tel que décrit, très propre avec une belle vue sur le parc. L'insonorisation n'est pas optimale mais pour un samedi soir ça reste calme. Literie moyenne. Nicolas a été très arrangeant pour mon arriver et disponible, la vue sur le parc est très agréable. Merci !",
+            "name": "Nadia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Petit studio, parfait pour un court séjour. Coin tranquille juste à côté d'un parc agréable",
+            "name": "Aurore",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Hôte accueillant, ponctuel, flexible sur les heures d'arrivée et de départ. P'tit bémol sur les équipements du logement, il y en manque un peu!",
+            "name": "Marlene",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "nicolas est disponible, logement correct pour courte durée ( nous sommes resté 3 jours)",
+            "name": "Samuel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement et emplacement conformes à la description. En ce qui me concerne, j'ai trouvé l'immeuble ainsi que la rue très bruyants; j'ai peu dormi. Literie et studette très propres. Merci à l'hôte. Bon rapport qualité/prix.",
+            "name": "Francoise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement conforme à la description et pratique pour une nuit en guise de pied à terre. Nicolas a ete arrangeant pour la remise des clefs. Néanmoins j'ai pu être un peu surprise de l'état de l'appartement, sanitaires, par rapport au forfait ménage imposé lors de la réservation.",
+            "name": "Jade",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Nicolas s'adapte très bien sur l'heure d'arrivée et de départ. Niveau communication c'est super ! Je recommande et je pense re louer ce bien.",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Très bon séjour chez Nicolas ! L'appartement est bien situé juste en face du plus grand jardin public de Poitiers et à moins de 10 min à pied de l'hôtel de ville !",
+            "name": "Alicia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Logement tranquille à deux pas du centre-ville, Nicolas est très arrangeant pour la remise des clés.",
+            "name": "Mendy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Appartement correct pour le prix. S'attendre au strict minimum. Même si l'état général de l'appartement reste à revoir, il était globalement propre. Nicolas a été arrangeant pour mon arrivée tardive le dimanche soir.",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Appartement très bien situé, facilité pour la remise des clés. Manque de vaisselle et d'équipement pour cuisiner mais cela ne pose aucun problème pour un court séjour.",
+            "name": "Eylul",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Appartement conforme à la description, bon emplacement mais isolation phonique moyenne, si vous y allez comme moi pour travailler, emporter des boules quiès.",
+            "name": "Kinsy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Prévoir bouchons d'oreilles !! Parking souterrain à proximité.",
+            "name": "Cécile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Logement conforme au descriptif, le confort est sommaire mais suffisant pour une nuit. Il manque toutefois une cafetière... Nicolas est disponible et très réactif, et le logement est très bien situé.",
+            "name": "Blandine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Logement bien situé facile d'accés et fonctionnel. Nicolas est sympa.",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Petit séjour super sympa ! Nicolas est arrangent pour les horaires et disponible! Merci !",
+            "name": "Mellissa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "il est bien placé, la vue est agréable",
+            "name": "Lucienne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Bon séjour dans ce logement assez minimaliste, mais tranquille et indépendant.",
+            "name": "Catherine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Un séjour agréable! le studio est fonctionnel. Et a un emplacement idéal: 15 min de la gare et à 5 min du centre-ville. Nicolas est très accueillant et très réactif. Je vous recommande vivement cette location!!",
+            "name": "Jean-Noël",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Le quartier est très bien situé pour se balader sans trop marcher (environ 5 min - 10 min du centre). Le fait d'avoir le parc juste à côté pour se balader le dimanche avant le départ était très agréable. La studette était préparer: propreté et rangement fait. L'hôte a été arrangeant pour la perception des clefs et le rendu ainsi que souple pour les horaires.",
+            "name": "Alice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Petit studio équiper très sympa et confortable avec belle vue sur le parc je recommande sans problème",
+            "name": "Sami",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Nicolas a été très réactif à tous mes messages, il a pris la peine de m'expliquer où garer ma voiture, ses explications étaient claires et précises. Le logement est bien situé, l'endroit est calme, la vue sur le parc agréable et le couchage est satisfaisant. Il ne faut pas s'attendre à trop de confort dans les équipements.",
+            "name": "Nathalie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "un vrai coup de coeur ce petit appart! j'ai adoré l'atmosphère, l'emplacement..un réel potentiel...après les quelques travaux prévus il sera au top!",
+            "name": "Surelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Logement bien situé et quartier calme . La propreté reste à revoir mise à part ça identique aux photos . Nicolas est très sympathique",
+            "name": "Mégane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Tout s 'est très bien passé. C'est bien d'avoir pu loger dans le centre de Poitiers, même si on marche un peu, c'est tellement joli partout. En plus le logement est plus grand que ce à quoi je m'attendais.",
+            "name": "Lucette",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Nous avons passé une nuit dans cet appartement très correct et conforme au descriptif de l'annonce. Le linge de lit ainsi que les serviettes étaient fournis par Nicolas, présent à la remise des clefs. Un petit effort est à prévoir concernant l'état des sanitaires (problème de chasse d'eau). Comptez un peu plus de cinq minutes à pied pour rejoindre le centre-ville.",
+            "name": "Ludivine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Très sympa et réactif !",
+            "name": "Vincent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Emplacement bien pratique: sur la ligne de Bus no 2, et la ligne de nuit N2, et à 15mn à pied de la gare.",
+            "name": "Cyril",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "The host canceled this reservation 21 days before arrival. This is an automated posting.",
+            "name": "Sami",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 3.5,
+    "p_emplacement": "rate_me",
+    "averageRanking": 3.5,
+    "nbReviews": 29,
+    "communication": 4.5,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 4.5,
+    "p_proprete": "rate_me",
+    "arrivee": 4.5,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 67,
+    "qualite-prix": 4.5
+}

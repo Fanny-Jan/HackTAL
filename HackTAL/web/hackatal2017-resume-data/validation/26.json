@@ -1,0 +1,415 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Le logement est très bien situé. Entre la Tour Eiffel et l Arc de Triomphe. Pratique pour se promener à pied. Nous n avons pas rencontré la propriétaire mais est très rapide pour répondre aux messages. Très contents de notre petit séjour.",
+            "name": "Carine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "appartement conforme a la description,nous y avons passé un bon séjour. acceuil sympathique et hôte charmante.",
+            "name": "Anthony",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Séjour agréable. Appartement très bien situé tout en restant abordable.",
+            "name": "William",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Je n'ai pas rencontré Anica durant mon séjour mais tout était bien arrangé: notre entrée dans les lieux, notre départ... elle répondait rapidement à mes messages. Le logement est super bien situé et très propre ! Je recommande vivement !",
+            "name": "Nesrine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement agréable, calme et bien situé. Parfait pour un séjour pour deux personne. Ana a été très disponible meme si nous ne l'avons pas rencontrer.",
+            "name": "Estelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Excellent séjour, appartement très bien situé, bien équipé. Hôte disponible. Encore merci !",
+            "name": "Jean-Pascal",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Un mot de bienvenue et la wifi Serviettes de toilette sur le lit",
+            "name": "Frederic",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Superbe appartement très bien situé lorena était super je ne l'ai pas vu mais prend des nouvelles et très disponible pour dès réponses rapide je recommande !!",
+            "name": "Pauline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Appartement conforme aux photos. Je n'ai pas vu Lorena mais tout a été très fluide. Propre, bien équipé et décoré! pour moi c'est une pépite :)",
+            "name": "Aja",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Appartement très bien situé et très aménagé je le recommande très fortement merci de nous Avoir fait passer un très bon week end .",
+            "name": "Mamadou",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Appartement très bien situé, Lorena est sympathique et répond rapidement à nos questions par sms. Idéal pour deux, en court séjour.",
+            "name": "Ophelie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Accueil sympa mais pas très précis Portes difficiles à ouvrir Appartement propre mais cuisine sous équipée",
+            "name": "Luc",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "L'appartement est idéalement situé, très propre et calme (aucun bruit la nuit). C'est une adresse à retenir!",
+            "name": "M-Laure",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Lorena était très sympa et disponible pour toute question. L'appartement était vraiment propre, facile à trouver, et correspond aux photos. Je recommande !",
+            "name": "Hortense",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "L'appartement est bien placé et la petite terrasse extérieure nous a permis de profiter du soleil. L'emplacement est idéal, à 2 minutes de la station de métro Boissière.",
+            "name": "Morgan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Appartement agréable pour un court séjour. Le ménage laisse à désirer. Hôte très agréable et très disponible",
+            "name": "Romane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Appartement simple mais très propre, notamment la salle de bains. Petite cuisine d'appoint. Lit confortable. Très bon rapport qualité prix, je recommande !",
+            "name": "Aurélien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Le logement facile à trouver tres propre et tres simple pour l'accueil merci lorena",
+            "name": "Stephane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "We did not see Anica during our one-night stay in Paris, but she was nice, accommodating and quick to answer. The flat was nice, clean and comfortable, all of it for a great price ! I definitely recommend Anica as a host.",
+            "name": "Camille",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Ana was always available to answer our several questions before and during our short stay. It was literally the perfect location close to l'arc de Triomphe and La Tour Eiffel. We were 3 people, and it was alright, but I would say try to pack lightly if you're three ;) Otherwise, great time! Thanks again, Ana.",
+            "name": "Dzidzor",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Ana was amazing. We were not able to meet but it felt like it ! She was great and her flat is cosy and warm ! Thank you for everything !",
+            "name": "Ikram",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Lorena is a very nice and polite host, the location of flat is very nice, the flat is nice and beautiful too. We wish we can see the host at least once during check in or check out. And the towel smell little bit smoke. Except this, everything is nice!",
+            "name": "Florian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Great flat, great location and very friendly and helpful hosts. I have a very pleasant stay. Thanks!",
+            "name": "Thibault",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The host canceled this reservation 25 days before arrival. This is an automated posting.",
+            "name": "Nathalie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "very well situated apartment, the room is impeccable. Lorena is easily reached and our listening.",
+            "name": "Mathieu",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Lorena's studio is really nice and very convenient to everywhere! Metro station is just nearby and you can walk to both the Eiffel Tower and the Champs Elysee. She has everything we need in her studio and the area is quite safe. Sincerely recommend!",
+            "name": "Lin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Lovely place! Wonderful for a couple. Lorena responded very quickly to messages, all in all a very good experience!",
+            "name": "Emma",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Good flat with a nice access to the roof.",
+            "name": "Benoit",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "My husband and I decided last minute to go to Paris so there weren't many places available to stay, which made our decision to stay at Anica's easy. I'm really happy we decided to stay here. The location is absolutely amazing. It was about a 10 minute walk from the Eiffel Tower & Arc de Triomphe, and there are a ton of restaurants on the same road as Ana's house. The house itself was nice. Very small and cozy, and we felt safe the whole time. If we get the chance to go back to Paris, I would stay here again.",
+            "name": "Hannah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Check in: we were sent instructions on how to self check-in. We had a little trouble getting in. Had to message host a few times to figure out how to get in. Basics: no extra blanket for the pullout bed and only two towels for 4 people reservation. Cleanningness : place was neat and clean. There was a strong cigarette smoke smell the whole time. I don't know if it's coming from Anicas place or the neighbor. we got used to it but you might have a problem if you have an allergy to it. Location: is great and really can't beat that. It's a good deal. Overall: we would stay at Anicas again.\n+ Plus",
+            "name": "Ivonne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Great spot close to many sights, restaurants, etc. Had a great time.",
+            "name": "Bj",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Ana is an amazing host and the apartment is perfect for travelers on the go. Great location and amazing restaurants near by",
+            "name": "Brett",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Good place to visit Paris",
+            "name": "Vicky",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Good deal, great location! Plenty of shops and public transportation close by. Both the Eiffle Tower and Arc Dr Triomphe right on your doorstep!!!",
+            "name": "Dale",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Great space with a comfortable bed. Nice, warm apartment in a great location. It was clean and warm and served our needs well. It would have been helpful if the host had met us for check in. We never did figure out the key for the outer door but were able to enter as others exited. Had that not been the case, we would have been extremely frustrated. Other than that, we had a great time.",
+            "name": "Amy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Everything was just perfect!!! Ana, thanks a lot!!!)",
+            "name": "Anastasia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Ana is very attentive, she recommend us a transfer, Florin that was very servicial, he help us with our huge 6 bags, and also very funny. The apparment it's small but cozy, we stayed three friends, one because our job is near by, and The neighborhood is quiet. Thank you for let us stay at hoyr home Ana,",
+            "name": "Mercè",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Good value for the price. Very clean and comfortable for 2 people. A little trouble with the lock getting in from the lobby but spoke with Ana and managed to figure it out. Make sure she lets you know to finagle the key. Next door neighbors were a bit loud with music, but overall had a good stay!!",
+            "name": "Bianca",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Ana is a really nice host. She help us with everything that she could, i never met her in person but the communication is super good, she answered in matter of minutes. The place comfortable with a really good location, its super close to the arc de triomphe and public transportation. I recommend this place.",
+            "name": "Diana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Lorena is a great host, even we didn't manage to meet, but we had a very good communication through text massages. She was very flexible and helping me a lot with the check in and out. She was always trying to help as far as she can and her reply always came within in 5min. The apt is very small, simple, but perfectly located and a great and very nice building with a pretty entrance. Ver safe and nice neighborhood, best you can choose as a tourist.",
+            "name": "Yang",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "perfect location! very cozy room- It was nice in paris -",
+            "name": "Yong Eun",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "We had a great stay at the flat in Trocadero. Thank you very much :)",
+            "name": "Cecilia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Great location. The Eiffel Tour is just 10 min far from. Lorena's place is nice and cozy. Highly recommended",
+            "name": "Olha",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Lorena was a perfect host, she accommodated our awkward arrival time in the middle of the night after our flight was delayed. The flat was perfectly located for our needs. Easy to get to with great public transport. We hope to stay again.",
+            "name": "Nyamoi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Wonderful experience! Lorena was helpful, well-organised and friendly (even answering her phone late at night when we thought we needed help - sorry Lorena!). The place is in a great location and very comfortable. Highly recommended.",
+            "name": "Matias",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Lorena was very kind and flexible. Apartment and location was also perfect for us. Thank you Lorena!",
+            "name": "Anna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The location was excellent for both walking and the metro. A real bed was very welcome after walking around all day and night. I would recommend this place for a couple or single person wanting a place in Paris.",
+            "name": "Joel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Lorena was really quick in answering! Also after she confirmed it was easy to stay in contact with her, she was helpful with the check-in and check-out. The apartment is exactly like she wrote en like the pictures. We really liked the location its 5 min walk from the eiffeltower and also 5 min walk from the champs elysee. I would definitely recommend Lorena and her apartment for a stay.",
+            "name": "Carmein",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "My stay was absolutely amazing. Lorena always responded quickly no matter the time of day. Her place was lovely and the location was convenient. Definitely coming back",
+            "name": "Geni",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "p_emplacement": "rate_me",
+    "averageRanking": 4.5,
+    "nbReviews": 49,
+    "communication": 5.0,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 5.0,
+    "p_proprete": "rate_me",
+    "arrivee": 5.0,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 26,
+    "qualite-prix": 4.5
+}

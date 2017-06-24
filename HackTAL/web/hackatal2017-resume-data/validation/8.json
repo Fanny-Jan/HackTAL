@@ -1,0 +1,1223 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "La chambre est idéalement située au cœur du cœur de Paris à 2 pas des Halles ou de Beaubourg. Franck est un hôte accueillant et arrangeant.",
+            "name": "Patrice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Super emp'acement pour une ballade Parisienne et l'appartement est superbe !",
+            "name": "Helene",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Franck est très sympathique et la chambre qu'il propose se situe dans un quartier très agréable.",
+            "name": "Daniel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Un séjour d'une seule nuit, mais l'appartement est très bien situé, la chambre confortable et Franck est très accueillant",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Petite chambre très agréable, et accueille au top merci encore!",
+            "name": "Antonin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Franck est très sympa et disponible. L'appartement est idéalement situé à côté de Beaubourg, mais très calme. Nous reviendrons !",
+            "name": "Pierre Richard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Merci à Franck pour un excellent accueil ! l'appartement est très bien situé, en plein centre ville et quartier calme en même temps, rare à Paris. Appartement est décoré avec beaucoup de gout, très propre, notre chambre était suffisamment spacieuse pour 2, très jolie et fonctionnelle salle de bain. Franck est un hôte absolument charmant, discret et disponible. merci encore!",
+            "name": "Anna",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Super soirée parisienne dans l'appartement de Franck. Tout est conforme, le sourire en plus . Je recommande vivement. Anne",
+            "name": "Anne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Belle chambre calme et claire équipée d'une cafetière Nespresso , c'est top. L'appartement que l'on partage avec Franck est idéalement situé dans Paris et Franck est un hôte très accueillant.",
+            "name": "Brigitte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Un appartement decore avec beaucoup de soin, extremement calme, d une grande proprete et situe en plein coeur de paris. Je recommande les yeux fermes. Merci aussi a franck poir son accueil.",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Chez Franck, tout est parfait. Il est accueillant gentil et discret, tout est beau, son appartement est très bien placé. Merci beaucoup Carla. J ajouterais que la chambre est très au calme, ce qui est rare à Paris. Merci Franck pour votre accueil, nous reviendrons avec grand plaisir. Fabrice",
+            "name": "Dominique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Franck est courtois. Il a su nous mettre à l aise. Un week-end à Paris dans les conditions idéales pour en profiter. Merci Franck",
+            "name": "Stéphanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Frank nous a accueilli chaleureusement et nous a donné des conseils pour trouver un endroit où imprimer des documents rapidement. La chambre qu'il nous a confiée était agréable et très calme. Expérience à renouveler ! N'hésitez pas !",
+            "name": "Mickaël",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Super hôte et super appartement ! Rien a dire, je reviendrais avec grand plaisir !! Chambre et salle de bain privatif, propre bien décoré très agréable ! Dans le quartier du Marais a deux pas du centre pompidou ! Frank a su être a la fois présent pour nous, et discret nous laissant pouvoir profiter de notre week-end au max ! 1ere expérience airbnb parfaite ! Je recommande !!",
+            "name": "Chloé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Appartement magnifique avec une localisation idéale pour un séjour parisien. Franck est un hôte très agréable et accueillant, je n'hésiterais pas à y retourner lors d'un prochain week-end.",
+            "name": "Marine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Franck nous a fait faire le tour de l'appartement en nous montrant clairement les parties qui nous étaient réservées sdb entre autres. Indiqué des restaurants et offert un petit kf ce qui fait toujours plaisir. A pris le temps de parler avec nous.",
+            "name": "Jean",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Super nuit chez Franck ! L'appartement est très bien placé et facilement accessible.Le lit est tres confortable, la chambre assez spacieuse et la décoration chaleureuse. Merci pour cet agréable accueil. Ce sera un réel plaisir de revenir !",
+            "name": "Zoulal",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Super accueil très chaleureux de la part de Franck. Le logement est très soigné, le quartier proche des réseaux de transports. Tout est OK",
+            "name": "Xavier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Si vous voulez passer un moment agréable sur Paris l'adresse de Franck est à retenir. Vous serez accueilli dans un bel appartement ,spacieux, calme, et avec une déco très sympa. Tout cela est important mais pas suffisant, surtout pour une première expérience,l'accueil que Franck vous réservera est sympathique, chaleureux, il saura être présent si vous avez besoin de lui mais aussi discret si vous voulez prendre le temps de vous lever. Chez lui, le temps prend une autre dimension, vous pourrez vivre la vie parisienne à votre rythme, un bon moyen de faire un break, c'est ce que j'ai réussi à faire chez lui. Une seule envie...y retourner\n+ Plus",
+            "name": "Frederic",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Très bel appartement au centre de la capitale. Pratique pour aller partout. Très bon accueil de la part de Franck. La chambre et la salle de bain étaient nickels.",
+            "name": "Benjamin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "situé en plein coeur de la capitale j ai passé un tres agreable sejour dans ce tres bel appartement decoré avec beaucoup de gout. la chambre est parfaite ainsi que la salle de bain mise à notre disposition.franck est quelqu un de tres disponible et sera toujours a votre ecoute pour tous les renseignements que vous desirerez.franchement un tres bel endroit a recommander et sans moderation. merci",
+            "name": "Pascal",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Accueil très sympa, appartement très joli et emplacement incontournable.",
+            "name": "Jose Francisco",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Détente et simplicité, Franck vous accueille chez lui avec le sourire.",
+            "name": "Guy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "L'appartement de Franck est très bien situé, à côté de Beaubourg, néanmoins très calme; l'aménagement est magnifique, tout est beau et d'une parfaite propreté; nous y avons été parfaitement accueillis par Franck. A recommander sans réserves",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Appartement idéalement situé, décoré avec goût. La chambre et la salle de bains sont spacieux. Frank est un hôte très agréable et disponible. Une adresse à retenir pour vos séjours à Paris",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "De très courte visite sur Paris pour des raisons professionnelles, nous avons passés une nuit chez Franck et c'est un sans faute. Franck est un hôte exemplaire. Son appartement est magnifique jusque dans les petits détails. Très grande classe. Vous pouvez y aller les yeux fermés, et l'emplacement est idéal.",
+            "name": "Kevin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très bel accueil. Frank est tout à fait courtois, agréable tout en restant très discret. L'endroit est vraiment unique. A recommander absolument!",
+            "name": "Nathalie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Nous sommes restés à Paris pour une seule nuit seulement. Franck a été super flexible et accueillant durant toute la durée du séjour, et ce dès la prise du premier contact. L’appartement est idéalement situé et est magnifique. La chambre et calme et déposant. Nous n’hésiterons pas à retourner ici pour un prochain séjour, j’espère un peu plus long. merci",
+            "name": "Jonathan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Big beautiful appartement with many rooms, confortables and quite quiets for sleeping. And it's so easy to find it, just near the center Pompidou, even at night! Franc was so nice to wait us for a long time when the fight was late. A wonderful place to stay in Paris! You can get every famous site by subway or just on foot.",
+            "name": "筱蕙",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Wonderful host and beautiful apartment. The location is perfect for sightseeing in Paris. Super close to the RER and metro; although we ended up walking to our destination half the time due to proximity to Louvre, Notre Dame, Seine, etc. We had a fantastic stay and would return to Franck's apartment!",
+            "name": "Julie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Frank was great and helpful. Very welcoming atmosphere & a great location. I was out most of the time biking around and seeing the city. I highly recommend staying in this apartment.",
+            "name": "Hussein",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Sensational location and beautiful room/bathroom. I appreciated the little extras included such as bottled water and coffee machine in the room. Franck offered lots of helpful guidance and is a complete gentleman to talk to. Highly recommended for your next stay in Paris whether it be business or leisure.",
+            "name": "Carly",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "We had a nice stay and Franck was very helpful and responsive to the messages. Check in/out was smooth and the room was nice and clean. I highly recommend staying here.",
+            "name": "Ning",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "loved the loctionthe room was very clean & the hosts are freindly",
+            "name": "Calanit Elza",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Frank was awesome me and my fiancé hands down loved our stay. Will definitely be booking here again in the future one of my favorite Airbnb :)",
+            "name": "Dennis",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Franck was a lovely host :). He welcomed Glen and I with open arms into his home, which was also gorgeous. The room is sectioned off into a private space with your own bathroom. He also had waters and a little coffee machine for us in our room. He told us where to go for everything and what we should see! Highly recommend staying with him and the next time we visit Paris will 100% stay with him again :)!",
+            "name": "Luna Haley",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Although we only stayed at Franck's place one night, we loved the accommodations. The place was super clean, overall, and the bathroom was beautiful, with a great rain-shower, and lovely shampoos and soaps. Ah, Paris. The place is spacious, well-decorated, and in a walkable, beautiful neighborhood, sprinkled with little cafes and late-night drinking holes. It was an easy walk from the train station, as well. Franck let us check in early, which really helped us enjoy our 24-hour whirlwind of Paris.",
+            "name": "Melissa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Franck is a great host! He's so nice and very accommodating. The apartment is very clean, the beds comfortable, and the linens were nice. The apartment is so close to the station, on the second floor with lift so no problem for a pregnant lady like me. The check in process was easy. Theres nice Nespresso machine, and tea in the room which we appreciate. The room is nicely decorated with high windows and lots of light. there are so many bars, restaurants and shops just steps away, would definitely stay here again! Thanks Franck!\n+ Plus",
+            "name": "Debbie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Franck is a terrific host. You'll have your own bathroom and can freely enjoy the rest of the apartment. It's a beautiful apartment and Franck has great taste. The room itself is spacious and very clean. Highly recommended.",
+            "name": "Ves",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The appartment of Frank is excellent and exact what we see here. Frank is very freindly. And the location couldn't be better. Very convenient from airport and for any touristic spot. I just regret not to stay longer. But if you wanna total independent, it's not a case.",
+            "name": "미경",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Fantastic place! Professional and prompt communication with the owner, Franck who warmly greeted us on arrival. The place is exactly as described and is very easy to get to and from the airport. Excellent location in downtown Paris. Walking distance to most major attractions.",
+            "name": "Jordan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Franck's place was exactly as described. The location was perfect. His recommendation of restaurants was great as well. I would love to stay at his place again.",
+            "name": "Yoona",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Stayed in the apartment for 2 days, were all very satisfied! Very comfortable, clean and comfortable room. Frank is a very friendly host, ready to help with any question. We recommend you to stay here !",
+            "name": "Alexander",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Franck was a perfect host. The room was in a very central location close to mass transit, restaurants, bars, attractions. Very hip neighborhood. Nice and clean. Highly recommended.",
+            "name": "Ron",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Franck was a very gracious host. The room was exactly what we expected and needed. The bathroom very comfortable, clean and spacious. Best of all was the location with all the options and activities inthe vibrant neigjborhood and proximity to all public transits. Would definitely recommend this flat.",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "I would stay here again the next time I come to Paris.",
+            "name": "Caitlin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Awesome place, Franck is a great Host!",
+            "name": "Pablo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Beverly and I had a wonderful few days in Paris. Franck's home was quiet, welcoming and comfortable. The location is in a great neighborhood, close to nice cafes, easy metro access, and lively nightlife; yet the room was quiet and the bed was comfortable. Franck was a very gracious host. We look forward to staying there again.",
+            "name": "Rick",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Franck was a fantastic host, very attentive, friendly and helpful! The room was clean and comfortable and in such a lovely apartment. Would recommend it!",
+            "name": "Lauren",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Great and central place for a weekend trip",
+            "name": "Astrid",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "The location was excellent, perfect room and very friendly host. Very close to the metro therefore easy it get to and from the airport.",
+            "name": "Jessica",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Franck was very easy to communicate with and very helpful! His apartment is centrally located with several pubs within walking distance. He is also one block from the Pompidou Center, which was very convenient!",
+            "name": "Ashley",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Fracks place has a perfect location, just a few steps from the Pompidou, in a really nice neighbourhood, full of restaurants and coffee bars, the place is just like the pictures, with a lovely interior decor, Frack was very nice, he gave me a lot of tips, and communication was perfect.",
+            "name": "Ana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Ideally situated and within walking distance of many of Paris's top places to visit. Room very calm and surprisingly quiet. Room and bathroom very clean and comfortable. Franck is a very welcoming host",
+            "name": "Elpida",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "frank was a great host and has a beautiful home. He was very helpful and staying there was a great experience. I could not suggest it more! There is an amazing ice cream place and tea house within walking distance. Tons or interesting small shops in the area.",
+            "name": "Benjamin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Thanks Franck for everything! I only stayed die one night. Franck is a great, warm and open person. Hey gave me great advices and he was very hospitable. Looking forward to live at his place next time in Paris.",
+            "name": "Johannes",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Franck was a superb host! He is so friendly and helpful and keeps his home very clean. Absolutely a lovely and perfectly-located place to stay in Paris!",
+            "name": "Veda",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Nice place located near the louvre, with a good host!",
+            "name": "Lucas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Had a great stay at Franck's, he was very polite and friendly. The room was clean and there was wardrobe space to hang our clothes. The apartment was right in the heart of everything and we could walk to the majority of attractions within 15 minutes. The Metro was only a 5 minute walk away and there was a cool bar next door. Great location, great host and a lovely apartment. I would recommend this airbnb :-). Thanks Franck!",
+            "name": "Hannah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Franck is a great host who has interest in his guests and do his best to please them. The room is very nice and clean. The placement is good aswell, though we thought it was a little more central, but it wasn't a problem at all. Great restaurants nearby",
+            "name": "Joanna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Alojamiento recomendable, de calidad, y en uno de los barrios más céntricos y de moda de París. Franck es un anfitrión tremendamente educado y hospitalario",
+            "name": "Inge",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Franck's beautiful apartment is located stone's throw away from Pompidou centre in beautiful le Marais. Franck was very accommodating and flexible with check-in, check-out times and ready to answer any questions. I'll definitely stay here when I am back in Paris.",
+            "name": "Tshering",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "A \" cosy room \" is just what I found in the house of Franck. He was a very good host, when I arrived he welcomed me and I felt immediately at home. Everything, you can say was done well. The furnishing of the room , the bathroom and toilet everything was nice and clean. There was tea and coffee and water in the room and a little sweet. Also guides of Paris were available. The location is very central nearby all the restaurants, Les Halles, centre Pompidou and le Marais. I can recommend this location very much.",
+            "name": "Rineke",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Beautiful and comfortable house in a fantastic location, we had a brilliant time staying at Franck's, his recomentions of local restaurants etc were spot on.",
+            "name": "Natasha",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "One of the best Airbnb experiences. I had to book one night in Paris at the last minute during a trip to France and was lucky to stumble upon this listing. Franck's apartment is absolutely gorgeous and the room is charming, quiet, comfortable and relaxing. Location could not be more conveniently located for visitors-- 2 short blocks away from Les Halles metro and RER, and the building has an elevator (easy for getting your luggage around). Franck is a terrific host, friendly, communicative and easy going.",
+            "name": "Holly",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Franck apartment is probably even nicer than it looks in the pictures! The location and cleanliness were impeccable.. you have everything you need and more within a stones throw and Franck is a charming and delightful host. Thank you for having us!",
+            "name": "Holly",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "fran is so nice and kindly , waiting for our check in till 8:00 pm. Home is really warm and he is so kind to introduce nearby accessories and scenic spot . The hotel near to “蓬皮杜 Artistic center” and located in downtown area. It's a good choice when you came to pairs !",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Franck's place is absolutely beautiful and it is well located! He is always available for any issues and the check in process is easy.",
+            "name": "Stephanie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Very easy to orient yourself, as it is so close to the Pompidou Centre. Franck was a truly lovely host and the room is very comfortable. Nothing to fault!",
+            "name": "Nina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Frank is the best host of Paris",
+            "name": "Ruben",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Franck was friendly but also gave plenty of privacy. Great apartment in wonderful neighborhood, easy access to subway. Many shops and restaurants nearby. He offered coffee, toiletries, towels, a clean private room, and a fashionable space.",
+            "name": "Christine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "This was my first time ever staying in an Airbnb, so I was very nervous at first, but it was fantastic! Franck was a wonderful host, very helpful, and I would definitely stay with him again. Location was great and the room was perfect.",
+            "name": "Victoria",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Great place, Franck is a really nice guy",
+            "name": "Erika",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Perfectly located. The room was extremely comfortable and Franck was an amazing host for our first time in Paris. In short - stay here! Thank you Franck!",
+            "name": "Eric",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "This is a great place to stay! The location is perfect (you can walk to all major tourist spots) and the flat itself is wonderful. Franck is a great host that is very accommodating and provides you with keys so you can come and go as you please. It's definitely worth choosing this place to stay when you come to Paris.",
+            "name": "Aaron",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "I had a short stay (just one night) with Franck. He was extremely courteous and his place was absolutely beautiful. The location of the home is well-situated and has convenient access to attractions and transportation options. I'd highly recommend for any future stays in Paris.",
+            "name": "John",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Simply gorgeous - beautiful room, ever so centrally located in the heart of Marais near Pompidou, and I experienced Franck as a excellent host who had all the right answers to my questions how to participate in local life, let it be places for dinner, brunch or anything else of interest.",
+            "name": "Benedikt",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Franck was very sympathetic. We could leave our luggage the whole next day and pick it up when we wanted to. The room was smaller then we thought - it was just a sleepingroom - but everything else was great and for a city trip when you spend most time exploring the city you don't need much more then a good bed.",
+            "name": "Judith",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "If you get the opportunity to stay here, please do yourself the favor. Franck was so hospitable, his home was absolutely gorgeous. Minutes from the train station. A beautiful walk to all of Paris's best sightseeing.",
+            "name": "Meghan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "The location was excellent! Franck gave us some advise about Paris. We expected to get the big room(which was in de first pictures) as well but unfortunately it was only the bedroom. There was some noise the last night because there was a small party in the living room from Franck, the appartment had a strange smell after that. We did not had some good sleep that night.",
+            "name": "Lotte",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Franck was a really welcoming host and was happy to provide advice and guidance as to where and what to visit. His apartment is absolutely beautiful, tastefully decorated throughout and perfectly situated to allow access to this wonderful City. I would definitely consider using Franck again if we revisit Paris. Thank you Franck for your kind hospitality.",
+            "name": "Thomas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Great location, walking distance to most tourist attraction! Downstairs is lively but room is perfectly quiet and room is super clean. The place is way bigger than what it shown in the photo. Franck is a super host! Helpful and caring! Would definitely stay here again if I visit Paris again!",
+            "name": "Cher",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Franck was awesome, his place is great. Everything is impeccably clean, the bed is comfortable and the bedroom is very quiet. He provided towels, shampoo and shower gel, so if you are traveling without these amenities, don't worry. Also, the coffee machine and coffee packets were really useful, specially considering my boyfriend and I checked out at 4am. :) The location is very central and an easy walk to the Louvre, a little bit further you can find the Notre Dame cathedral, and there are plenty of restaurants and bars nearby.",
+            "name": "Cristina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Great location, very central and a gorgeous building. The room was exactly what we needed and the coffee and tea was fantastic! The only regret was that we only stayed one night, wish we could have spent longer in this beautiful home. Franck is a great host, welcoming, friendly and helpful. Really helped make our stay in Paris is perfect!",
+            "name": "Xanthe",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Franck was great! If you are going to stay a couple of days in Paris you should stay with him. All my questions were responded in time, he was asking if I were ok or in my way. The place is very cozy, the apartment exactly how you see in pictures. The location couldn't be more perfect, you have a Metro-RER station near the place, and you can walk to Le Pompidou and Notre Dame. He is also very friendly. Highly recommended.",
+            "name": "Ana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Franck was great. We didn't have a room and it was 4p. We saw Granck's place and booked it. He responded right away and 20 minutes later we were at his place. He was friendly and hospitable. Great experience!",
+            "name": "Bruce",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Great trip. Franck was very helpful and flexible. Appreciate his help and suggestions.",
+            "name": "Chad",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Franck was a wonderful host as our first time using Air BnB we could not have asked for anyone better. The place is exactly as described if not better, the location was absolutely amazing to close to many restaurants, bars, public transport and so short walking distance to the Lourve and Norte Dame. Would 110% recommend staying here. Perfect!",
+            "name": "Sami",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Franck's apartment is located in the heart of downtown Paris making it very convenient to walk to most sites. The apartment is tastefully decorated and the bedroom overlooks a quiet courtyard. Franck was a wonderful host and made us feel right at home. He gave us great recommendations and pointers for restaurants and attractions, you will find Franck very friendly and quite accommodating. We enjoyed our conversations with Franck and Olivier, we definitely want to be back and visit their place again.",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Franck was terrific, hospitable and very helpful with our computer problems. Beautiful home in impeccable condition.",
+            "name": "Linda",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Our stay was perfect! Clean space, comfy bed, amazing hot shower. Franck provided us with details on how to get to his place from the airport, with coffee every morning, with a map of the metros (which I accidently stole- I'm sorry Franck!) and he even let us use his washer to clean some of our clothes from our prior camping trip. The location was absolutely perfect- we walked almost everywhere. Franck was upbeat, friendly and kind- and I would definitely book his place again if I'm ever lucky enough to revisit Paris!",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Franck is a perfect host! Very charismatic, open and friendly personality. Gave useful insiders and recommendations. Location is non-to-a-second, close-by of almost everything, central but equally in a site-street without the Pompidou 'hectic'. AAA+!",
+            "name": "Fabio",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Perfect! Comfortable bed, a big bathroom. It's convenient to the Metro, but the stop in question, Chatelet, is hard to navigate. It's also near Centre Pompidou and the pleasant Café Beaubourg, which has good coffee and eggs Benedict. Our host was genial and helpful.",
+            "name": "Jacqueline",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Franck was very welcoming, flexible, and accommodating. Awesome place in a fantastic location. He gave us great ideas about where in Paris we should visit.",
+            "name": "Lukas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Franck was very nice and my stay was excellent. The location is amazing and the apartment exactly as shown on AirB&B. I would highly recommend staying here.",
+            "name": "Daniel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Franck is a fantastic host and is very helpful! Loved our stay in Paris with him!",
+            "name": "Bobbi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Franck was the perfect host, we could not have asked for anything more than he gave. Accommodating, helpful, informative, he was wonderful. The room and amenities were wonderful and great value for the money. Thank you Franck, you helped make our visit to your beautiful city and Country a wonderful time.",
+            "name": "Leland",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Frank was a very Great host very helpful and his house was beautiful, the description of his place is very accurate , the neighborhood was excellent, very close to nice places to eat , museums and the river seine.",
+            "name": "Irene",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Franck was very friendly and helpful and accommodating.",
+            "name": "Robert",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "What a nice place! Very private and clean. The host was amazing. Very helpful. The location is perfect and easy to get to and from to see Paris. Would definitely recommend this place to friends and family. Thank you Frank for being a great host!",
+            "name": "Maureen & Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Franck made us feel very welcomed in his beautiful home with lovely living spaces just like in the photos. This is a great neighborhood next door to the Pompidor Center- terrific people watching and restaurants every square foot outside the door.",
+            "name": "Robert",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Frank was really friendly and he explained us about places to go in the area. The apartment was really in the center, so very convenient for sightseeing. Thanks for everything Frank!",
+            "name": "Luis",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Franck was very friendly and flexible, the apartment was very clean and comfortable! Centrally located and Franck had the best restaurant recommendations! Easy to find as well! Would recommend in a heartbeat!! Thanks again Franck!",
+            "name": "Somi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "We arrived in Paris with the Euro's on and a city wide music festival, so Paris was buzzing ! Franck was the perfect host, gave us great updates and advice about catching the Metro from the train station to his flat. He welcomed us in, advised us on getting around and gave us a quick tour of the apartment. Well, the pictures do not do his apartment justice, is beautiful and much bigger than the photo's show. In amazing condition, spotlessly clean and the period details are just stunning. Our room was a nice size, very clean and had coffee/tea making facilities and we also had a private bathroom/shower and shared the main WC. As i said, the two days we were there the buzz and noise of Paris was huge, yet the bedroom is set back from the street looking onto an open atrium, our windows were open and the room was very quiet. Francks apartment is a rare fine, just truly amazing and we'll stay there again next time we are in Paris. By the way, it's perfectly placed to get the Metro all over Paris and right in the middle of cafe's and bars...just great, i would recommend this place to anyone who asked me where to stay in Paris. Thanks Franck !\n+ Plus",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Great location, close to Notre Dame and the Louvre, as well as the metro. Franck was a great host, would definitely recommend!",
+            "name": "Asha",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Franck was a wonderful and helpful host. The room was clean and the apartment was well located for sight seeing. There is a large walk in shower, which is a nice change from many smaller bathrooms in Europe. The entire apartment is upscale and nicely appointed. The neighborhood is quiet, with easy access to mass transit.",
+            "name": "Daniel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Franck's apartment was stunning and the location could not be beat, especially if you are into nightlife in Paris. There was a huge crowd congregating in front of the rock and roll bar next door but amazingly, the apartment was quiet with no street noise. We only had one night there but wish we had more time to explore that fun neighborhood. Franck greeted us warmly and was very helpful. The woderful Pompidou museum was just a block away.",
+            "name": "Lois",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Great place to stay, very cosy and comfortable. Highly recommended!",
+            "name": "Klaus",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Our first trip to Europe ever. American Mom & Daughter starting a backpack through Europe trip and first time AirBNB users. Such a pleasant experience in every aspect. Our room and shower were private and inviting and superb cleanliness. The location was wonderful and I don't think I wish to stay in hotels anymore. A hotel cannot give you this experience and Franck himself so charming and helpful. The apartment and location can't be better.",
+            "name": "Nancy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Franck is a great host who knows Paris well. His house is located at the centre of the city's public transport system which makes traveling anywhere within the city so easy. House is very good and all in all I had a great experience.",
+            "name": "Rohit",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Excellent location, very clean and tidy, highly recommend this accommodation and host very welcoming!",
+            "name": "Emma",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Franck's flat (and Franck himself!) was one of our favorite parts of Paris. It's the perfect location in the city - steps away from a few metro spots, great food, and was easy to get to. Franck was so sweet and his place is gorgeous. We wished we didn't have to leave!",
+            "name": "Abbie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Wow! Such a pleasure! Thank you Franck for your hospitality and kindness. Your apartment is located wonderfully central and perfectly placed for sightseeing! Bed was super comfortable and walk in shower a dream. I highly recommend this apartment for singles or couples travelling for 2 to 3 days.",
+            "name": "Kenneth",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Great stay; the apartment is perfect! well located, very comfortable, so spacious, very bright room (even better than the pictures), and Frank is a great host, kind and very supportive. I totally recommend this accommodation.",
+            "name": "Carolina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Franck was a welcoming friendly host who provided detailed information for our stay. This was our first ever visit to Paris, Franck and Olivier assisted us tremendously with their local knowledge and answering our many questions. We enjoyed a lovely stay, fantastic secure location for the many sights with a large choice of restaurants nearby.",
+            "name": "Julie And Mark",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Franck est très gentile! I was speaking my poor french with him and I had a terrific time in his wonderful apartment. I felt very much \"at home\" and it was a true airbnb experience, which I want to recommend to anyone who likes to be in a stylish atmosphere, in a nice area surrounded with friendly people. Go for it!",
+            "name": "Birgit",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "We had an amazing stay! Franck was very welcoming and helpful, he was always ready to give advices about where to go in Paris. The house is very beautiful and cozy, located in the heart of Paris, in the Marais area, the perfect place to discover the city. I highly recommend it! Thank you Frank!",
+            "name": "Dimitri",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "We had a great experience at Franck's. His place is absolutely amazing. In the heart of Paris, 2' walk to Pompidou Center and loads of other curiosities in the area, it's perfect to roam around the historical part of the city. Franck's apartment is spacious, neat and tastefully arranged. We loved it!",
+            "name": "Regis",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Franck is a terrific guy...very relaxed, and his place is in the best place to stay in Paris",
+            "name": "Dean",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Merci Beaucoup! Franck was very welcoming and his place is fantastic. Everything you need is all laid out and ready to go. Great location with many food and drink places nearby as well as easy access to Metro system. Will definitely stay here again next time we're in Paris. Totally recommend.",
+            "name": "Douglas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Lovely apartment in the centre of Paris, good facilities etc. Franck was extremely welcoming and helpful over the couple of days offering advice on places to go and places to eat. Would definitely recommend!! Thank you!!",
+            "name": "Ben",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Short walk from Metro station. Warm and friendly welcome from Frank when we arrived. Elevator. Apartment and room just as described. Quiet, clean and cosy. Bed very comfortable. Well appointed bathroom and beaut hot shower. WiFi great. Very central to Paris - lots of cafes and attractions very close. Would stay again. Highly recommended.",
+            "name": "Brian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "This is absolutely the best place to stay in Paris. Great location. Room was very warm and bed are comfortable like 5 star hotel. Frank is very kind. Highly recommend.",
+            "name": "Amy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Franck is a great host. He was very helpful throughout our stay - always proposing the best places in Paris to eat at visit. His hospitality was amazing and definitely matched by his beautiful apartment in a great location! Would highly recommend. Thanks Franck!",
+            "name": "Ben",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "My husband and I stayed with Franck during our vacation in Paris. His home is just as beautiful as you can see in the pictures, even better in person. The room was comfortable, clean, and quiet. The location was perfect, lots of restaurants and shops nearby. The Centre Pompidou is literally around the corner and the Louvre is walking distance. The subway was very close and we easily got around the city. Franck was an incredible host who gave us suggestions where to go and tips for our already planned stops. The apt is a few floors up, but there is a lift. I would absolutely stay here again and/or suggest his place to a friend. Great experience.\n+ Plus",
+            "name": "Brittany",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Franck was awesome! He got our times for check in beforehand and gave us all the necessary information immediately upon arrival, and he and Olivier were extremely helpful when we asked about public transport and things like that. The apartment is beautifully furnished and in an amazing location (very convenient, center of Paris, but still very quiet at night). Franck also let us leave our bags in a corner of their apartment beyond our check out time the next day (before we caught a flight to Lyon), which was a great help. Over all, would definitely recommend staying here!\n+ Plus",
+            "name": "Alice",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "The appartment was really nice, suberb location and Franck made us feel very welcome. We can recommend it to anyone visiting Paris.",
+            "name": "Thijs",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Brilliant stay and the host was really helpful!",
+            "name": "Anja",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "It was a wonderful experience to stay at Frank's house. It is close to the Louvre museum. He was nice, too. Introuced me everything when I fisrt got there.",
+            "name": "Kailin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Franck was an amazing host and had Such a cute and cozy place. He gave good directions from the airport to his place and the location was great! Very close to a lot of great places and good food. Franck was very helpful as to where to go and what to see and was genuinely very nice. I would definitely recommend this place!",
+            "name": "Deniella",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Far and away the best experience I've ever had on Airbnb. Franck is the ultimate host! From the warm, smooth welcome and check-in to the coffee, tea, water in the room, to a business card with his contact info and the wireless info. His apartment is unbelievably beautiful and spacious. The location is Paris' best. Can't recommend this stay more highly!!",
+            "name": "Brian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Franck was extremely welcoming and did everything he could to make sure we had a great stay. The apartment is spacious and wonderfully decorated. I would absolutely recommend staying here, it was an awesome experience.",
+            "name": "Dan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "my daughter stayed in franck's lovely apartment for 2 nights. she said the room and bathroom were beautifully decorated and comfortable, and franck was very helpful. the location is perfect - very central and convenient to everything. she thanks franck for his hospitality!",
+            "name": "Kitty",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Franck was a great host! He made us feel at home from the moment we entered his apartment. He is easy going and hospitable. The apartment is lovely and the location superb. It's in walking distance from the Seine (10 minutes), the station (15 minutes) and other important sights in the city. Franck had some good recommendations for restaurants and bars in the surrounding area. We had a great time!",
+            "name": "Lena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Great weekend break in Paris, fabulous central location and beautiful apartment. Thanks for having us",
+            "name": "Janine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "I very much enjoyed my stay at Franck's apartment. It's a beautiful and well decorated flat, super clean and in a perfect location, in the heart of Marais. Franck was an amazing host and gave us great tips.",
+            "name": "Paula",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Wow! An amazing apartment smack in the centre of paris. Super clean and open. Wish I could have stayed longer. Franck was great with communication pre arrival and very hospitable. Thanks again!!",
+            "name": "Mim",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "This was my first experience staying at an Airbnb and I couldn't have been more delighted! The communication I had prior to my arrival was immediate and I had a really good feel about the host Franck. I arrived via Eurostar and actually walked to the (URL HIDDEN) took about 35 minutes on foot! I used the city-mapper app, it was a great tool to get around Paris. Once I arrived at Franck's apartment I was overwhelmed at the the beautiful space and the cleanliness of the place...you could literally eat off the (URL HIDDEN) was very clean! My room was divine, I absolutely loved the light filled room and the beautiful palette of colour (URL HIDDEN) was very calming and a relaxing room to spend time in, I also had my own bathroom, which was really lovely, again I found it really clean and the large shower head was a bonus. Franck was really helpful with places to go and visit and with directions, and food places, he's very easy going and very friendly. The location of the apartment was Fantastic!!!!It's close to supermarkets, transport links and a great place to base from to travel around Paris! I loved staying at Franck's, I would definitely return on my next visit to Paris, I felt very safe staying at Franck's, I felt like I was visiting a friend. On my last day as I was leaving Franck gave me one of his Metro tickets to catch the train back to the station ( which took 16 minutes to (Gard de Nord) as I was running to late to walk to the station, trying to fit everything in... I just felt that was such a nice thing to do! Thank you Franck, I will definitely be back on my return!\n+ Plus",
+            "name": "Ines",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "The accomodation was just as described. The flat is georgeous is couldn´t have a better location. Centre Pompidou is in the next street and also other sights are just in walking distance. Franck was a very good host, providing us with insider information about restaurants and also nice places to hang out as well as general information. Warmly recommended!!!",
+            "name": "Adela",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Everything was great at Franck's house. From the first step into the apartment to exploring the beautiful neighborhood. Franck was always available for anything we needed. He would offer us coffee tea or wine which I thought was very generous. and was always available if we needed him for directions or recommendations. He actually recommended us to our favorite restaurant of the trip. Franck was not only a host but like a friend. He is very pleasant to speak with and we got along very well. He made sure we felt very comfortable and kept the house very clean. The house looks even better than the pictures, it's your typical french house in the middle of the city with everything right at your doorstep. The separate bedroom is far from the living room making it quiet and cozy. The bathroom is private and spacious. We really enjoyed our stay and would definitely come back! Merci Franck! A la prochaine!\n+ Plus",
+            "name": "Joao",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Franck received me very kindly. His appartment is very well located (in the heart of Paris, just aside of the Pompideu Museum). The bed is very comfortable and the amenities (shower + bathroom) were perfect. Definitely a very nice choice!",
+            "name": "Mauricio",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "We had an incredible weekend staying at Franck's flat. The location could not be better, it is buzzing with lots of great restaurants, bars and coffee shops and it is very easy to walk to all of the sites. It is a lovely flat and the room is very clean and comfortable. Franck is very helpful and friendly and he made our trip very easy. I hope to stay again one day. I would certainly recommend.",
+            "name": "Katherine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Your home makes Paris a city with a sense of warmth, be seeing u!",
+            "name": "Beatriz",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Our stay at Franck's apartment is exactly what Airbnb is all about. Amazing apartment, centrally located and an amazing host to boost. Franck made us feel like we were at home and was more than happy to provide recommendations based on what we were looking for. Really enjoyed our stay here. Highly recommend!",
+            "name": "Eoin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Franck's apartment is located in centrally located part of Paris, close to the Pompidou, Notre Dame, and other sites worth seeing. The apartment itself is very large & spacious, and the room included plenty of room for one's belongings. Franck was extremely generous and helpful and I would recommend any person stay at Franck's apartment should it be available.",
+            "name": "Evan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "I really enjoyed my stay: Frank's house is beautiful and Frank is really special. For sure I will choose his house again for my next trip to Paris.",
+            "name": "Serena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Franck's apartment is gorgeous. He was very accommodating to our needs and very helpful in recommending things to do around the city. I would recommend his place to anyone coming to Paris for a long or short period of time as the location was perfect and the price was very affordable as well. The separate bathroom is a great feature as well. L'appartement de Franck est très magnifique. Il était très obligeant à nos besoins et il a pourvu de bonnes recommandations pour des choses à faire dans la ville. Je recommanderais son appartement pour quelqu'un qui veut rester à Paris pour une période longue ou courte, car l'emplacement est bon et bien le prix aussi. La deuxième salle de bain est super aussi !\n+ Plus",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Franck is a cool guy, we talked a couple of times, he gave me suggestions for restaurants in the area and made me feel comfortable at his place.",
+            "name": "Jose",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "EN: Franck is an easy-going guy, kind, positive and respectful. He is always open for discussion and ready to help. His appartment is huge, beautiful and well maintained. We particularly loved its decor. Moreover, the location is great. There is a lot of restaurants and shops in the neighborhood and the tube station is closed. FR: Franck est quelqu'un facile à vivre, gentil, positif et respectueux. Il est toujours ouvert à la discussion et prêt à aider. Son appartement est spacieux, très beau et très bien entretenu. Nous avons particulièrement aimé la décoration. De plus, le logement est très bien situé. Il y a beaucoup de restaurants et de magasins aux alentours et le metro est à deux pas.\n+ Plus",
+            "name": "Anis",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Franck's apartment is everything the photos show and even more. It is a dream flat, very big, clean and comfortable. It is very well located, in a nice neighbourhood, close to many metro and train lines. Franck was extremely friendly and helpful and I really enjoyed my time at his place and would definitely stay there once again. If you are going to Paris, it is a great place to stay! =)",
+            "name": "Rodrigo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "p_emplacement": "rate_me",
+    "averageRanking": 5.0,
+    "nbReviews": 150,
+    "communication": 5.0,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 5.0,
+    "p_proprete": "rate_me",
+    "arrivee": 5.0,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 8,
+    "qualite-prix": 5.0
+}

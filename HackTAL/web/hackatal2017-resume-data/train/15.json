@@ -1,0 +1,103 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Edith est une personne accueillante et très disponible, son studio joli et fonctionnel. Le quartier est calme et permet un accès facile aux métros et aux monuments de Paris.",
+            "name": "Bastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Très bel appartement, rénové avec beaucoup de goût. J'ai passé une belle semaine dans cet appartement très calme.",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Très bien recu par Edith, le studio est renové et meublé avec beaucoup de gout. Très conformtable et calme",
+            "name": "Herve",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Appartement très agréable et parfaitement équipé. Je recommande.",
+            "name": "Michael",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Bonjour, Nous avons passé un agréable séjour. L'appartement d'Edith correspond à ce qu'on recherchait et aux photos et descriptions postés sur le site : refait à neuf, fonctionnel, lumineux, résidence et quartier calmes, commerces à proximité. Proche (à pieds) du quartier GRENELLE et du centre commercial BEAUGRENELLE, du Parc André CITROËN, des quais de Seine, et faisable jusqu'à la TOUR EIFFEL et le TROCADERO. Le Studio est prévu pour 4 personnes (couchage). Pour moi je le trouve un peu juste pour 4. Le lit et le canapé sont en l'ocurrence très confortables. Nous avons également apprécié leur accueil et leur disponibilité. Accueil chaleureux par Edith et son mari qui nous ont présenté l'aménagement de l'appartement et les parties communes de la résidence. Dans le studio tout était près pour recevoir. Nous nous sommes tout de suite sentis chez nous : pour preuve, le matin de notre départ, nous avions laissé une trousse de toilette et dans le réfrigérateur un pot de confiture et du fromage, comme si nous allions revenir ce tantôt....... Ce qui signifie que nous nous positionnerons en priorité sur le studio d'Edith lors d'un prochain séjour à Paris et serons heureux d'échanger à nouveau avec eux. Bien cordialement, Jean Jacques et Danielle LACOURTABLAISE.\n+ Plus",
+            "name": "Jean Jaques",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Lovely and affordable little space to stay in the heart of Paris, big enough for four people (I was travelling with relatives) and well-equipped and stocked, so that we all felt pretty much at home during our several-day stay. Communication was impeccable - Edith actually wasn't in Paris during our check-in, but her friend was within easy reach and gave us a very thorough introduction to the apartment. I was very pleased overall, and would heartily recommend.",
+            "name": "Daria",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Apartment is clean and at great location. Area is safe and well connected.",
+            "name": "Rohit",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "I loved Edith's place so much! Stayed here as a family of three adults and a 2,5 y.o. child. It was one of our best experiences at airbnb so far: quiet neighborhood, clean, comfortable and cozy apartment, close to different subway stations, RER Javel station in particulary - takes you direct to both Versailles and Eiffel Tower, museum d'Orsay or Notre Dame. Edith was very kind and friendly, easy to communicate with, even though I don't speak French (yet :) Very well equipped kitchen and bathroom. Did I mention everything was spotless? That's a crucial thing when traveling with a toddler. So, yes, I can strongly recommend Edith's place to everyone who wants to make their stay in Paris unforgettable and you know... parisian. Thank you Edith!\n+ Plus",
+            "name": "Anna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Edith`s apartment is a very cute and nice place to stay in Paris. It is a small apartment but really comfortable furnished. It is situated in a very nice, quiet district with many bakery shops (good for children). It was easy to communicate with the host and we really feel like home.",
+            "name": "Magdalina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "I would definitely recommend to stay in the studio for the following reasons: 1) the location is in city center. Close to Eiffel Tower, Beaugrenelle shopping center, many shops, some cafes, metro station, park Andre Citroen, forest and lake called le bois de Bouligne, close to Seina river; 2) neibourhood is safe, house entrance is very nice, it looks like your entered a good hotel; 3) price/quality relationship is the best I have seen in Paris so far; 4) the apartment itself is very clean! I came with 7 month old baby, I felt like at home. The apartment is has everything you need for pleasant stay and even more. 5) apartment owners are very pleasant and kind people, responsive, and very supportive. Edith met us, showed everything and explained how to get by metro to the desired placed. I would definitely recommend this apartment for families, with kids, for those who love cooking (in the kitchen there is everything to cook, bake, etc). I would love to stay in this studio when I come to Paris!\n+ Plus",
+            "name": "Aktolkyn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Edith was so welcoming and generous. The place was exceeding our expectation. It's an amazing studio. Very well equipped and very clean. The neighborhood is more than wonderful. We had a great experience and Edith hospitality was beyond expectation. The location can't be better",
+            "name": "Maha",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 5.0,
+    "nbReviews": 11,
+    "communication": 5.0,
+    "emplacement": 4.5,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 15,
+    "qualite-prix": 4.5
+}

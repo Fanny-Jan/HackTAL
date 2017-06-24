@@ -1,0 +1,743 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Le logement était à la hauteur de nos espérances . Très fonctionnel, bien situé et cosy ce petit cocon nous a permis de passer un agréable séjour sur Marseille.",
+            "name": "Thomas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "L'appartement a été parfait pour nous accueillir le temps d'un weekend ! Bien que petit, la vie à Marseille permet d'être constamment dehors donc ça suffit !",
+            "name": "Valentin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Très bon emplacement, bien situé proche gare sncf, tram, métro, centre ville",
+            "name": "Samir",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Studio bien situé dans un quartier vivant et près des transports en commun. Il est agréable avec tout le confort nécessaire pour passer un bon séjour. Je recommande.",
+            "name": "Laura",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Petite chambre très fonctionnelle et bien placée qui nous à permis de passer un super séjour à Marseille. Merci à Peggy et David!",
+            "name": "Margaux",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "C'est très cosy, un petit nid pour se poser à Marseille. David et Peggy ont été efficaces sur la communication et arrangeants sur les horaires.",
+            "name": "Raphaël",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Bien placé et studio sympa et super propre! David et Peggy sont accueillants, je les recommande!",
+            "name": "Paloma",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Logement conforme aux photos ;)",
+            "name": "Bakary",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Très bon accueil malgré une arrivée tardive de ma part. Logement suffit pour une personne ou un couple et l'aménagement de la chambre est très bien réalisé. Proche du tram et du métro, idéale pour un séjour court ou long. Je vous le recommande.",
+            "name": "Audrey(PHONE NUMBER HIDDEN)",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Petit logement idéalement situé dans Marseille. Propre, très lumineux et bien organisé et décoré . Très douillet, avec un lit confortable !",
+            "name": "Quentin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "L'appartement est comme décrit sur l'annonce. Fonctionnel, agréable, propre.",
+            "name": "Cerise & Valérie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Appartement conforme aux photos, petit mais tout confort et surtout très central. Très bon accueil, j'ai réservé la veille pour le lendemain et David a été très réactif. Je recommande.",
+            "name": "Camille",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Petit logement mais pratique et bien situé. Hôte accueillant et très arrangeant !",
+            "name": "Virginie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Petit appart très sympa avec tout ce qu'il faut pour être autonome ! A côté du tramway , pratique !",
+            "name": "Igor",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Appartement petit mais très bien situé pour visiter Marseille",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Appartement très propre et bien rangé tout s'est bien déroulé faut juste savoir que c'est petit aussi si non l'immeuble, le quartier tout etait parfait",
+            "name": "Ghizlene",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Petit appartement super bien équipé pour la surface proche toutes commodités et propriétaire sympa",
+            "name": "Raslen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Bon logement d'appoint pour un week end",
+            "name": "Gauthier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "logement conforme à la description. Bien placé pour visiter Marseille.",
+            "name": "Frédérique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Chambre totalement indépendante, bien agencée et proposant tout ce qui peut être utile au quotidien. Quartier tranquille, proche du métro et très peu éloigné de la gare saint Charles. Je recommande.",
+            "name": "Aline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Le logement en excellent état et l'hôte est accueillant.",
+            "name": "Ange-Désiré",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "David s'est rendu disponible pour le remise des clés. Petite chambre avec bon emplacement.",
+            "name": "Mélanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Effectivement la vu depuis la fenêtre est très agréable, sur les toits, les réformés... Le quartier est animé! Tout le nécessaire y est, les hôtes sont sympathiques et à l'écoute!",
+            "name": "Emma",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Très bien passé. Communication rapide, disponible et arrangeant pour les remise des clés. Je recommande.",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Cette petite chambre correspond parfaitement à la description et est idéale comme pied à terre pour une ou deux nuits lorsqu'on souhaite être proche de la gare. Peggy et David ont été très réactifs et disponibles lorsque j'avais des questions, et également très arrangeants sur les horaires.",
+            "name": "Jo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "David, a été sympathique et arrangeant. L'appartement est bien situé, un peu petit mais cela est précisé dans l'annonce donc aucune surprise. Je recommande à 100%.",
+            "name": "Léa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Tres bon accueil souriant et chaleureux. A pris le temps pour bien tout expliquer. Très réceptif aux appels et messages.",
+            "name": "Frédérique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Parfait ! Accueil chaleureux, petit appartement bien sympathique et propre. Je recommande vivement",
+            "name": "Romain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "L'accueil 'était cordial bien que notre arrivée était tardive.Le studio correspond à la description, c'est petit et fonctionnel.L'emplacement est ideal",
+            "name": "Farage",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Petite chambre très cosy propre et proche de la gare .Merci pour la disponibilité David malgré mon retard à l'(URL HIDDEN) recommande ce petit pied à terre pour un court séjour sur Marseille .",
+            "name": "Sabrina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "tres bien recu par david quartier tres vivant manque de place pour la voiture parking de la gare tres chere la nuit",
+            "name": "Jean Michel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Chambre sous les toits très bien située à 2 pas de la gare et du tram. Très bon rapport qualité/prix. Très confortable pour le petit prix.",
+            "name": "Kévin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "La chambre est très bien pour une nuit en couple.",
+            "name": "Claire",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Hôtes très sympathiques et disponibles, chambre exactement telle que décrite toute proche de la gare, propre, pratique, oarffaite pour les xourts séjours ou pour les gens qui comme moi sont habitués à peu de mètres carrés. Vraiment une très bonne expérience, à réitérer!",
+            "name": "Julie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Hote disponible et réactif. Chambre petite mais conforme aux attentes et description. Chambre propre et équipement succinct mais adequat",
+            "name": "Yoann",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Conforme à la description, accueil très sympathique, parfait merci!",
+            "name": "Chloé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Excellent rapport qualité prix pour cette charmante chambre sous les toits dans 1 quartier populaire et accessible à pied pour toute visite de la la ville sans tracas , gare SNCF à 10 min Hôte très sympathique et disponible au niveau des horaires",
+            "name": "Sylvie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Nous avons été accueillies par Peggy qui a été très arrangeante malgré mes problèmes de téléphone. L'appartement est très petit, mais conforme à l'annonce, et nous ne recherchions qu'un pied à terre, car nous n'y sommes restées que pour dormir. Je le conseillerai plutôt pour cet usage là. Propre et bien équipé, sachez tout de même qu'il faut avoir atteint un certain niveau d'intimité si vous partagez ce studio car il n'y a pas de porte entre les WC/douche et la pièce principale, seulement un rideau. Le quartier charmant, dans le centre, proche d'une station vélib et d'un arrêt de tram.\n+ Plus",
+            "name": "Joanna",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Bien situé ( il y avait un TRAM qui arrête just devant là ) et même si le logement était petit, il y avait tout vraiment toutes les choses! * Je pense que c'est mieux s'il y a un grand couteau pour cuisinier..! * Wifi était trop lent",
+            "name": "Yea-Seul",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "David a été très arrangeant pour la remise des clés et a su répondre à nos questions. Très bien situé, petit (comme c'est écrit dans le descriptif) mais il ne manque rien. La vue sur Notre Dame de la Garde est étonnante !",
+            "name": "Blandine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Bon séjour sur Marseille. Le logement est conforme à la description, propre et bien situé. David est arrangeant pour l'arrivée dans le logement. Je recommande.",
+            "name": "Lucie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Très bon séjour chez David et Peggy. Tout le nécessaire est à disposition. Disponibilité et gentillesse. Bonne continuation =)",
+            "name": "Nadège",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Peggy m'a très gentiment accueillie. Le studio est petit mais joli, bien aménagé et très propre. Le quartier est central et l'appartement calme. Avec un ascenseur, non négligeable au cinquième étage! Merci pour tout.",
+            "name": "Elsa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Studio idéalement situé, proche de la gare et accès aux lieux touristiques à pieds ou en transports. Merci pour les documents mis à disposition, même s'ils étaient majoritairement en anglais...",
+            "name": "Emmanuelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Tout est parfait. Le quartier est très sympa. Le studio est à côté du tramway et 5mn du métro et surtout il est propre. David nous prépare aussi beaucoup documents pour la visite de Marseille. Je recommande cette location.",
+            "name": "Phuong Thao",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Le nécessaire est là, l'emplacement idéal, l'accueil sympathique et constructif. David et Peggy ont été efficaces et disponibles, je les remercie.",
+            "name": "Sébastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Excellent accueil ! Le logement était bien décrit, c'est tout petit mais il y a tout ce qu'il faut et pour mon séjour d'une nuit c'était amplement suffisant. Bon emplacement proche de tous les transports.",
+            "name": "Séverine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Peggy nous a très bien accueillies, à l'heure convenue. L'appart était mignon et propre. Le quartier plutôt agréable et proche de tout (transports et petits commerces).",
+            "name": "Julie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très bon séjour sur Marseille avec ce très bon logement, pensé par leurs hôtes comme s'ils y vivaient jusqu'au moindre détail, rien ne manque. Logement très bien situé : arrêt tram, et commerces juste en bas du logement. Sites touristiques aisément accessibles même à pied. Très bon rapport qualité prix. David facilement joignable et réponses raides.En bref une seule chose à dire : à recommander !!!",
+            "name": "Ophélie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "L'appartement est très bien situé, il correspond aux photos indiquées. Bon rapport qualité/prix !",
+            "name": "Rerek",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Perfect! Tres agreable petit sejour; tres joli coin et proche du centre de la ville, on ce revera surement!",
+            "name": "Luc",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Petite studette bien situé (metro et tram à proximité), proche de la gare. Très propre et confortable (frigo, wifi, plaques de cuisson, rangements et ustensiles à disposition). Excellent accueil de David, je recommande!",
+            "name": "Ayat",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Chambre très agréable malgré que ça soit petit mais suffisant !!! La situation de la chambre est très pratique, à quelques minutes à pied du centre, du vieux port !! Juste en face un arrêt de tram puis à proximité il y a plein de petits commerces. Il y a tout se qu'il faut pour passer un bon petit séjour!! David est un hôte agréable, disponible et arrangeant (j'ai pu arrivée très tôt dans le logement). Je vous recommande la chambre sans problème !!!",
+            "name": "Marie Elise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très agréable, propre et bien placé. Un très bon accueil. David et Peggy sont très sympathiques. Je recommande.",
+            "name": "Léa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "David a été sympathique et soucieux de notre bien être. La pièce bien que petite, était propre et comportait tout le nécessaire: serviettes, sèche cheveux, savon (écolo en plus! ). La cuisine est bien équipée aussi. Jolies tomettes, peinture refaite, matériel neuf ! Situé à côté du tram, je recommande sans hésiter!",
+            "name": "Mélanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Un super lieu et très gentil David à l'heure de notre arrivé. Très recommandable",
+            "name": "Maite",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "La chambre est petite mais elle est très bien équipé vous ne manquerais de rien, et surtout elle est très bien située un arrêt de trame en bas de l'immeuble et le métro à deux minute de marche je recommence chaudement",
+            "name": "Bilal",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Bon accueil et ponctualité. Chambre super bien équipée, parfaite pour notre court séjour.",
+            "name": "Mireia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "L'appartement est petit, mais je l'ai trouvé très génial et confortable. Tout près des restaurants et magasins, facile de marcher au vieux port ou la gare.",
+            "name": "Janet",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "david était déjà en bas avant mon arrivée, très accueillant et sympa. il m'a expliqué le fonctionnement de tout dans l'appart.",
+            "name": "Macarena",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "J'avais fait cette réservation pour un ami qui a été vraiment enchanté de sa première expérience avec Airbnb! Comme je leur avais indiqué l'heure précise de notre arrivée en train, David et Peggy nous attendaient déjà dans la rue. Tout s'est très bien passé. La chambre est très mignonne. Je recommande.",
+            "name": "Sigrid",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Le logement est très bien placé. Parfait pour un court séjour. Je le recommande totalement.",
+            "name": "Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "L'appartement était super pour nous. Petit, mais fonctionnel. Merci pour votre bel accueil !",
+            "name": "Bénédicte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The host canceled this reservation 43 days before arrival. This is an automated posting.",
+            "name": "Joeline",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "A small room with all the essentiel conditions for a couple. It's near transport station, restaurant and city's center. We really recommend you!!!",
+            "name": "Hoang",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Due to the sudden change on my plan at Marseille, I was in urgent to look for a not expensive small room in the center of Marseille. It was thanks to David and Peggy's availability and quick contacte, I could find this very cozy small room! Thanks David and Peggy! The room was in fact very small(when we opened the sofa bed, there is no room to walk neither to open the suitcase), but absolutely fine for a person for a quick stay (I stayed a night). The contact between us went very smooth, in a rather business manner that I imagine welcoming several persons every day. They tried to arrange their schedule for my demanding request for the arrival time(I wasn't available during the morning till night, so I asked them if it's possible to leave the luggage at 9am or after 18pm. We finally made it up around 18h). Several positive points: good security with several entrance with locked key, the price/quality, the elevator to 5th(?) floor. Points that the host could improve: - the wifi: Actually their wifi is via portable connection. Peggy explained at the beginning that sometimes it doesn't work. And in fact it did't work. As my stay was for a night, I didn't take the effort to contact them and reset the wifi etc... - the window: it is also the thing that Peggy explained me at the beginning, but as she said, I couldn't open it and I felt a bit closed up completely. For the price/quality, it is absolutely ideal room for those who looking forward to sightseeing the city or to the business etc. Thank you David and Peggy!\n+ Plus",
+            "name": "Mayuko",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Very cozy apartment. Perfect location. Close (walking distance) to everything and public transportation but in a quieter neighborhood near the art museum. Highly recommend!!",
+            "name": "Carly",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Peggy's flat is nice, clean but really small- it's basically just one room, there is tiny kitchen, bathroom and sofa/bed so I recommend this flat for 1 person or 2 people who are close to each other because you will not have any privacy- if it is ok for you that you will be happy. I would say it's definitely value for money!",
+            "name": "Alice",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The communication with Peggy prior to our arrival was perfect and she was very flexible in terms of time of arrival and departure. The location of the room is central and close to everything. I give Peggy my warmest recommendations :-)",
+            "name": "Jette",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "The place is lovely, clean, in the middle of the city center and has everything one needs! From the window you can see over the roofs of the old town buildings. The toilet and shower are in the same room, seperated by a curtain. It can be reached from the central station in 10 min by feet. The only thing that bothered us was that the host didn't show up for the check-out at the time we both agreed on. Furthermore he wasn't available through messaging nor via phone calls. After waiting for him for half an hour we decided to leave the keys in the post box in order not to miss the bus. Even now, 5 days later, he has not responded. Still the place is recommendable and we would book it again.\n+ Plus",
+            "name": "Christian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Perfect small apartment, walkable to the train station and Vieux Port. Definitely would stay there again.",
+            "name": "Davy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Lovely little room - perfect for what I needed: A bed, WiFi and a shower as close as possible to the central station. Peggy was very nice and welcoming, the room had everything I needed and then some (even a kitchen), and I would definitely come back on my next trip to Marseille! :)",
+            "name": "Manuel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "David Et Peggy is a very good host and the apartment is really really nice, central, comfortable and situated in a cool quartier. Especially advisable for true lovers' couples. :)",
+            "name": "Enrico",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "The apartment was clean, cosy, and very well located (near metro but you can easily walk down to the Port, and Longchamp palace just a few minutes walk) with a cute view. David & Peggy were extremely accomodating, when we arrived David even greeted us with Peggy on speaker-phone to translate because David didn't speak much English! 8 minute walk from the central station we arrived and left from. Our favourite air bnb so far, would highly recommend",
+            "name": "Ailish",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "This place was perfect for our one night in Marseille! It's small but exactly as advertised! We arrived later than we expected and they were waiting for us at the apartment! Very friendly hosts!",
+            "name": "Genevieve",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Nice little apartment 10 minutes walk from the train station, in front of a tram stop Everything was perfect, better than the pictures",
+            "name": "Ladislav",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "This a great top floor apartment with a lovely view over Marseille. The apartment is cosy and you may struggle for room if you have more than one large suitcase. The location is fantastic and within walking distance to many attractions as well as a 10 minute walk to the train station. The wifi is also brilliant!",
+            "name": "David",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "David and Peggy met me when I arrived and provided everything just as promised. This is a great value for a solo traveler or couple, as it is only a ten minute walk to the Old Port. Overall, a fantastic place and great hosts.",
+            "name": "Jonathan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Warm welcome. David was right on time and explained everything. I could call him in case of a problem.",
+            "name": "Valérie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Great room for two people . Everything you need and very modern and clean :) David Peggy are both very helpful.",
+            "name": "Emily",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "The room is quite small but cleanness, and David is nice host.",
+            "name": "Ngoc",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "We had a great time in this cute little studio. Close to downtown, parks, restaurants, walking distance to the wharf, and minutes from the train station. Public transportation was just out the front door. Peggy let us stay until 6pm which was very kind and helpful. Would stay again!",
+            "name": "Jordan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Everything was great, the appartment was as descrbed, small but with everythinganyone might need to leave while doing tourism. It was very well located, to 15 minutes from the Vieux Port.",
+            "name": "Marcos",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Peggy tuli tuomaan meille avaimet ja esittelemään huoneen. Hän oli ystävällinen ja avulias. Huone oli kuten kuvailtu ja viihdyimme hyvin. Sijainti oli loistava! We met with Peggy and she was very helpful to us. The room was as described and we really liked and enjoyed our stay there. Location of the room was really good.",
+            "name": "Heidi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Very reliable host. Nice, safe environment.",
+            "name": "Tamas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "David is kind and friendly, the studio apartment is well located, clean and affordable for bagpackers. For people that want to save budget by eating in the room, kitchen has all the equipment that you need. Would definitely choose the room if i have a chance to live in Marseille again",
+            "name": "Yee Haw",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "My girlfriend and I had stayed in Marseille for six days. It's an awesome experience to travel around there. Peggy welcomed us while we was arriving. She is pretty helpful and friendly. The room is so clean and cute. Everything you need is all in this nice room. And this room is so private that no nor will bother you. If you want to stay with only yourself, it's a perfect place for you.",
+            "name": "柏諺",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "It was a really good place to stay!! It's clean and in a good location! Peggy is a really nice person! She helps you to make your stay comfortable! I definitely recommend it!",
+            "name": "Fernando",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Apartment 10 minute walk to the station, close to the town and port/beach. The apartment itself is very small but we really liked it was very quirky with a great view of all the French rooftops. As small as is is the kitchen is well equipped and the shower powerful. We met David who showed us the apartment and although he spoke little English (and our French is appalling) we managed to get buy and he was very helpful. They even left maps and city guides for us to browse through.",
+            "name": "Dan & Kitty",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Wonderful Airbnb. Everything was accurate, clean, and easy. St. Charles is a nice neighborhood close to the train station and Marseille, like always, is a wonderful place. Would stay here again.",
+            "name": "Brent",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "AMAZING HOSTS!!!!! seriously Peggy met me at the train station with her father who was so kind (carried my friend's huge backpack) and spoke great english while Peggy spoke just fine english as well. The flat is in a perfect location... 15 minutes walking from Vieux Port but just far enough to not be right in the hustle and bustle of the city. There is a stunning Palace at the end of their street as well. The front door is literally steps away from the tram, too. The room is a little tight but if you're going to Marseille to sit inside you're doing it wrong! It was perfect for a place to store our bags, shower and crash at night. Further, we ran into flight issues and ended up not departing when we thought. David let us keep our bags tucked away while they cleaned up and prepared for the next guests to arrive while we made other arrangements!! We ran up to grab our bags a little later and it was so so nice. I cannot say enough nice things about these hosts, they were incredibly accommodating.\n+ Plus",
+            "name": "Myca",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 4.5,
+    "nbReviews": 91,
+    "communication": 5.0,
+    "emplacement": 4.5,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 36,
+    "qualite-prix": 4.5
+}

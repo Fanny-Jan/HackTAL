@@ -1,0 +1,535 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Accueil trés agréable ,la maison est situé pas loin du centre ville ,vous avez pas mal de bus le 61 et 80. Le bus 83 pour aller â la plage. Table d'hote le soir chez Suzanne ou j'ai bien mangée merci Anderson pour la cuisine, pratique car le lendemain je partais tot. Vous avez pleins de commerces â cotè de la (URL HIDDEN) des fruits succulents chez couleur groseille..",
+            "name": "Maria",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Suzanne est très accueillante, elle nous a conseillé des lieux à visiter dans Marseille, nous avons passé un agréable séjour.",
+            "name": "Léa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Très bon accueil, maison agréable et hôtes sympatiques et de bon conseil.",
+            "name": "Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Maison très agréable, chambre très calme, et très bon accueil, à conseiller sans hésitations",
+            "name": "Florence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Séjour agréable dans une famille accueillante",
+            "name": "Billard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "très agréable séjour ! l’accueil est chaleureux, chambre spacieuse et bien équipé. Propreté des lieux top ! Bien situé, le bus est au pied du logement : rapide (10min du centre). Je recommande :)",
+            "name": "Charlène",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "La famille de Suzanne est très accueillante, le logement est propre avec tout ce qu'il faut à disposition, on s'y sent vite à l'aise, merci !",
+            "name": "Clément",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Suzanne et Anderson sont un couple charmant, leur fille un véritable amour ! Ils mettent tout en place pour qu'on se sente bien chez eux, le petit déjeuner est à tomber ! Je recommande vivement si vous êtes sur Marseille !",
+            "name": "Lisa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Logement confortable et conforme à la description.",
+            "name": "Youssef",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Bon séjour chez Suzanne et Anderson ! Marseille est une très belle ville à visiter !",
+            "name": "Aude",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Bien placé, calme et convivial, j'ai été parfaitement bien accueilli. Je recommande fortement !",
+            "name": "Emma",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Excellent accueil. Ce fut très convenable",
+            "name": "Mk",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Chambre confortable et très calme dans un appartement idéalement situé à Marseille. Accueil très agréable. Merci pour tout ! Nous reviendrons.",
+            "name": "Marie Cécile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Pas mal !",
+            "name": "Aziz",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Tout a été absolument parfait ! Je recommande vivement. Merci à Suzanne et à Henderson pour leur accueil sympa.",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Suzanne et Anderson sont des gens très accueillants, accessibles et font en sorte que le séjour se déroule à merveille ! Je recommande vivement ! De plus, leur petite fille est adorable ! Une famille très sympa ! Le logement est très propre !",
+            "name": "Mona",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Accueil très chaleureux ; on fait rapidement \"partie de la famille\". J'y reviendrais avec plaisir.",
+            "name": "Danièle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Charmante petite famille qui aime recevoir dans une maison de ville joliment décorée avec un jardinet calme où il est agréable de se poser après une journée de visite. Suzanne et Anderson sont accueillants et serviables. J'ai passé une sympathique soirée en leur compagnie. Surveillez bien Léon. Il apprécie tout particulièrement la bière des visiteurs. Bonne continuation à vos projets. Philippe",
+            "name": "Philippe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Nous avons séjourné 3 nuits en couple. Le logement est facilement accessible du centre ville en bus (2 lignes passent juste devant). Le quartier est calme, plusieurs commerçants à proximité permettant d'acheter de quoi manger. Nos hôtes ont été très souples sur les heures d'arrivée et de départ. Nous avions une petit place dans le réfrigérateur et de quoi se faire à manger dans la cuisine. Nous nous sommes sentis très à l'aise et le jardin est très agréable ! Merci pour tout !",
+            "name": "Sandrine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Dès notre arrivée nous nous sommes sentis très à l'aise. Susanne et Anderson sont des gens simples et accueillants. Leur convivialité nous a donné le sentiment d'être dans un lieu déjà familier. L'appartement est beau et propre et le jardin est la petite cerise sur le gâteau. A recommander sans aucune modération.",
+            "name": "Kamatcho",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Super accueil comme d habitude, Suzanne est adorable très sympa, vraiment je recommande cet endroit et ce super quartier.",
+            "name": "Karine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Hote tres sympathiques et arrangeant. Chambre très propre. Tout était parfait!",
+            "name": "Vincent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Une reception parfaite. Suzanne et Anderson sont très accueillants. La chambre était dans état impeccable. Une adresse à retenir pour l'avenir.",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Franchement ,mon amie et moi aime bien cette maison,surtout le jardin ! C'est vraiment très très jolie et confortable. Suzanne et Anderson sont gentils. Petite Ange toujours rit, elle est très heureuse,ça me fait tellement plaisir !On a passé deux nuits agréables. Merci beaucoup.",
+            "name": "佩",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "La petite famille saura vous mettre à l'aise au sein d'un quartier sécurisant :)",
+            "name": "Barbara",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Par ou commencer, Suzanne et ca famille sont sans aucun doute une des familles la plus cool que j ai rencontrer. La comunication a travers Airbnb est simple et rapide. L'ambiance familial est super chaleureuse et tres sincere. Je le recommande sans hesitation a toutes personnes; de jeune etudiant aux couples avec du vecu. Cette famille est mon coup de coeur de Marseille. Si j avais pu, je serais rester plus lontemps. Much love Sean et Mohamed",
+            "name": "Sean",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Merci pour le séjour passé à Marseille en très agréable compagnie.",
+            "name": "Sebastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Suzanne et Anderson sont vraiment très accueillants ! Nous y avons passé un très bon séjour ! Ils sont ouverts, disponibles et chaleureux ! Merci beaucoup :)",
+            "name": "Charlotte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Elle m'a proposé toujours de l'aide pour arriver et m'a donné l'info necessaire. La famille est très sympa et on s'a senti très bien accueillis.",
+            "name": "Marina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Un grand merci a Suzanne, Anderson & sa famille pour un accueil tres chaleureux et une tres belle chambre & maison, situation tres pres du centre ville et de la plage...",
+            "name": "Sam",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Nous avons passé un séjour formidable avec un accueil bienveillant ( Anderson a nous cherché à l'arrêt de bus) et c'était une merveilleuse chambre avec beaucoup d' espace, très tranquille. La famille était tout le temps serviable et sympa et nous avons eu les clés pour être independants. On peut dire que c'est vraiment un lieu recommandable et qu'il n'y a pas beaucoup des chambres comparable à ces conditions.",
+            "name": "Heide-Sophie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Anderson and Suzanne really hospital, make us like live in our own house. The small garden is fantastic. Suzanne is a perfect mom and a good landlord. Angie, the baby of this lovely couple, is a angel full of cute and give us many happiness. Wish Suzanne's home full of happiness everyday. lookforward a next time visit.",
+            "name": "Zhenhua",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "My stay with Andersen and Suzanne was amazing. They are extremely kind and friendly hosts and their place is very nice and welcoming. I would stay there again the next time I'm in town.",
+            "name": "Jason",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Suzanne and Anderson are nice people, relaxed and easy-going. Their little daughter is adorable. There is an excellent bakery a few doors down the street, as well as a fruit-and-veg place, etc. The Vieux Port is about 15 or 20 minutes' walk away, downhill. The bed was comfy and it was nice to have use of the kitchen. All in all a pleasant stay in a family home.",
+            "name": "Nils 'Jasper'",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Lovely place though a little bit far away from the port. Very peaceful and quiet location. Close to public transport that will take you straight to the port. There is a very cute garden behind the house. Suzanne and her family is very helpful and super nice. The house is clean and adorable. We really enjoyed stating here and very recommended!!",
+            "name": "Linh",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Suzanne and her family is so nice, warm and helpful. We stayed for 2 nights, the house and the room was amazing. We highly recommend!",
+            "name": "Ekin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Comfortable place and hosts were very accommodating, especially after we failed to give them adequate heads up about our arrival time. Very close to the bus. Highly recommend!",
+            "name": "Rushil",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "I stayed at Suzanne's place for a night only, but will be coming back there in a week. Suzanne is a great host. The house is very lovely, the room is nice and everything was as described. The apartment is located right in front of a bus stop and it takes 30 min to reach Vieux-Port on foot. In general, I really enjoyed my stay and would recommend Suzanne's place to anybody who is looking for a quiet cosy shelter in Marseille.",
+            "name": "Darya",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Suzanne and her partner were warm host and were very attentive to our need. Suzanne guided us clearly with proper instruction on which metro/bus number to board and direction of the bus located to reach their home. The room was spacious and cozy and very clean. The house was located very close to bus stand (few seconds walk) and can be easily commuted to any part of the town. There is a patisserie which is located just next to their home that sells off fresh oven baked items early morning and were useful for the day especially breakfast . Overall a very comfort stay for both of us and would recommend people to stay at their place while they are visiting Marseille.\n+ Plus",
+            "name": "Sumandeep",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Our stay at Suzanne's was short and sweet. We could only stay for one night and we arrived later than anticipated. However, we were welcomed warmly by Suzanne and her husband. We would definitely stay again...but maybe for a little longer next time!",
+            "name": "Hannah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "The rooms are beautiful and the house is well located. We had some problems with the wifi connection, but it generally works. Suzanne and her husband are very friendly and the house is very clean. We loved staying here!",
+            "name": "Ana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Wonderful family to stay with. Very kind and helpful definitely worth staying here!",
+            "name": "Delaney",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "This overall experience was great! A pity I have to catch the early train we didn't communicate much.",
+            "name": "Jingxian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "We had wonderful two nights at the place. Bus station right next to the place so that it is either a bus drive or walk down ways to Vieux Port. Suzanne and Anderson were extremely welcoming and made us feel at home even for such a short stay. The optional breakfast we made use of was very delicious and the perfect start in the morning. You can tell that they are Airbnb'ers out of conviction and happy to open their homes to others! Merci encore une fois pour être nos hôtes :)",
+            "name": "Annika",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "We really enjoyed the time we stayed at Suzannes home, it was really comfortable and I think, I would design my appartment the same way as she did! Especially the garden was beautiful and a nice place to hang out. Suzannes family was absolutely amazing, so friendly and helping with everything! For two days, we felt like home - merci beaucoup :)",
+            "name": "Helen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Very pleasent stay in Marseille!",
+            "name": "Marko",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "They were lovely hosts and we felt very comfortable :) They went above and beyond to make sure we had everything we needed.",
+            "name": "Holly",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Suzanne and his husband were very good host, the house was so nice and clean!! Thanks for sharing your space with us!",
+            "name": "Ricardo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "A nice house with nice landlords.",
+            "name": "Shujuan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Suzanne and Anderson are lovely persons who made us feel like home. The room and the house are nice and spacious. We were allowed to use the fridge, the garden and the washing machine. Also watching TV with them and relaxing in the garden was very nice. Their little child is very cute and lively. We could park our car right in front of the house and we were able to go to the center within just a couple of minutes (by bus). We would definitely recommend this room to other people.",
+            "name": "Ruud",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Suzanne and Anderson were so kind and helpful, they help us with everything we needed. The room and whole flat was cozy and clean and there was small beautiful garden too. It was really pleasure for us that we could have stayed there! Thank you, we definitely recommend this place to all.",
+            "name": "Simona",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Big and comfy room near the harbour of Marseille. Lovely hosts. Wish we could have stayed longer! Thanks",
+            "name": "Pamela",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "I felt sorry because due to Internet connection issues I couldn't answer Suzanne's message of arrival! But we got there without problems, and both Suzanne and Anderson were very nice and friendly. The house is not what you expect from outside, is much better! When you see the terrace they've got, you feel like staying there. Their daughter is super cute too! Thanks for everything!!! :)",
+            "name": "Judit",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Suzanne and Andersson are amazing hosts! The room was as in the pictures and very clean, it was just a little hot as the sun comes very early in the morning. Anyway our stay was perfect, they are very kind and nice to us. We loved having breakfasts in the beautiful garden with a lovely rabbit and a lovely cat! The house is in the perfect location to visit the city, it took only 15min by foot to get to Jardin du Pharo and Vieux Port. The parking was a little trouble as the street is small but we always found it eventually. Enjoy your stay at Suzanne's!\n+ Plus",
+            "name": "Paola",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Suzanne is Very nice, she wasn't at home when I came but she helped in everything I needed by message. The house is near the centre and easy to reach. So clean that I couldn't feel allergy from the cat (I do have allergy). Very beautiful and comfy house. I felt in home. Thanks for all, Suzanne!",
+            "name": "Fernando",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Located in walking distance to the historic port, but also with a bus stop just in the street. Very good and fast communication. Lots of pace in the boy's room. Clean and welcoming house. Lovely garden, where we had our breakfast. It's no problem to chat with Suzanne anf Anderson in english. Overall there are great hosts, I would stay with them again.",
+            "name": "Stefan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Very welcoming and very hospitable. Easy to get along with and they were more than happy to help with things to do and how to get places. Very accomodating with English",
+            "name": "Roger",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "It was an enjoyable stay. The family is very friendly and nice. For the restaurants they recommended, it was really good for me as a foodie. The location is convenient, with bus stop just at the doorway and walking distance to the port.",
+            "name": "露露",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Hi everyone, It was great experience in Marseille, highlighting host family who are so nice people. I love their place, they have small garden, and they cook delicious. I recommend this place to everyone, its easy to find and family of Suzanne can help you as well to find other directions of your interest. I would like to thank airbnb and Marseille family. Merci",
+            "name": "Fisnik",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "У Сюзан та Андерсена в Марселі ми провели 2 доби. Квартира затишна, цікавий дизайн. Ліжко зручне, кімнати чисті, просторі та комфортні. Господарі — дбайливі та веселі. Відпочинок вийшов казковим. Ми щиро вдячні господарям за дружбу. Сподіваємось, ще побачимось ;) In Susan's & Andersen's house we were just 2 days. The apartment is comfortable, interesting design. Bed cozy, room clean, spacious and comfortable. Owners - caring and funny. Our rest was fabulous. We sincerely thank the owners for friendship. Hopefully see you yet ;)\n+ Plus",
+            "name": "Illya",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Very welcome family. We have watched football game with husband till the night together. Very nice inner yard with cute rabbit and cool apartment interior in general.",
+            "name": "Volodymyr",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Suzanne's room was great and she was beyond helpful. The location was very convenient and walking distance to the center. We regret not trying the delicious breakfast that they offer :)",
+            "name": "Jonida And Ari",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "We had a very spacious room and Suzanne and Anderson mades us feel very at home :-) They are a wonderful family with a cosy and at the same time private home which is very nice for your Marseille trip.",
+            "name": "Kim",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "My boyfriend and I had a lovely time staying here. The bedroom was spacious and comfortable. The house had a nice atmosphere with scented candles and was very clean. Suzanne is very friendly and welcoming.",
+            "name": "Miriam",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "They were very hospitable. The room was clean and welcoming. Suzanne and Anderson were also very helpful in helping us figure out the bus and metro system as we prepared to come. As our travel plans changed suddenly they were very gracious and flexible with us.",
+            "name": "Erin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 5.0,
+    "nbReviews": 65,
+    "communication": 5.0,
+    "emplacement": 4.5,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 16,
+    "qualite-prix": 5.0
+}

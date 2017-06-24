@@ -1,0 +1,639 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Super appartement de taille très convenable ( pour un logement parisien) . L'emplacement est top pour qui vient faire du tourisme! Très propre et bien rangé ! Et comme il donne sur cour , il est parfaitement silencieux la nuit ! Bref , appartement parfait pour faire du tourisme pendant 3 jours !",
+            "name": "Diane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Super appartement, très propre, chaleureux et très bien situé !",
+            "name": "Mathilde",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Nous avons passé un excellent week-end parisien dans le studio tout mignon et fonctionnel de Margaux ! Toutes les commodités y sont présentes, rien ne manque. À 2 minutes (et encore) à pieds du métro, tout près de Beaubourg, Les Halles, des magasins du Marais ! Nous n'avons pas croisé Margaux durant notre séjour, mais les instructions pour la prise et la remise des clés étaient simples, rapides et très arrangeante. Margaux nous a permis d'arriver tard en soirée et de repartir tard lors du départ. Nous avons apprécié cette souplesse d'organisation. Bref, le studio de Margaux est un super point de chute parisien pour explorer la capitale. Nous y retournerons si l'occasion se présente :-)\n+ Plus",
+            "name": "Paul",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "La chambre de Margaux a beaucoup de charme. On est dans une pièce où il y a de la vie, une ambiance, une âme. Les photos/tableaux sur les murs, les livres sur les étagères, le frigo... Bien sûr certains regretteront l'absence d'ascenseur, de micro-ondes, de télé... pas moi! J'étais partagé entre visiter le quartier, si riche de commerces, restaurants, sites culturels, etc et l'envie de rester sous la couette et lire les bouquins et revues de cinéma. Du coup, je regrette de ne pas avoir rencontré Margaux (elle a tout parfaitement organisé à distance) car nous avons des intérêts communs.\n+ Plus",
+            "name": "Alexis",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Margaux a tout fait pour faciliter notre arrivée dans l'appartement. Nous l'avons eue au téléphone, elle a été vraiment charmante. L'appartement est tout à fait conforme à la description, un studio parisien très bien situé, confortable et fonctionnel ! Il ne faut pas hésiter une seconde !",
+            "name": "Pierre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "L'accueil chez Margaux a été parfait, l'appart était vraiment nickel niveau propreté, très cosy, je m'y suis sentie très bien :)",
+            "name": "Estelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Petit appartement très cosy et bien aménagé au coeur du Marais. A proximité du métro, et immeuble très calme ! Serviette de bain à dispo, et lit super confort :) Margaux a été très disponible par message et la récupération des clefs s'est fait sans problème ! Je recommande !",
+            "name": "Sharleen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "L'appartement de Margaux est très agréable, propre, au calme tout en étant au plein centre de Paris. J'ai été peu en contact avec Margaux mais elle s'est enquise régulièrement par email des grandes étapes de mon séjour (arrivée, départ) et de sa qualité.",
+            "name": "Vincent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Petit appartement tres agréable, bohème, ensoleille, tres central pour visiter ou travailler a Paris. Margaux a préparé ma venue avec soin. À recommander",
+            "name": "Christophe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Merci à Margaux, le studio est charmant et très bien situé. Nous n'avons pas rencontré Margaux qui n'était pas à Paris lors de notre séjour mais la communication était très facile. N'hésitez pas !",
+            "name": "Florence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2014"
+        },
+        {
+            "text": "Appartement vraiment charmant et agréable. Idéalement situé. Hôte disponible, bref, que du positif!",
+            "name": "David",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2014"
+        },
+        {
+            "text": "Studio agréable et propre. Conforme à nos attentes et à l'énoncé de l'annonce. Hôte très chaleureuse.",
+            "name": "Emmanuel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2014"
+        },
+        {
+            "text": "Merci à Margaux. L'appartement est situé idéalement dans un endroit calme, avec la possibilité de prendre le métro à 2mn et de nombreuses boutiques et restaurants. Il est très cosy, avec vue sur les toits. Très bonne expérience.",
+            "name": "Layla",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Je me suis sentie chez moi dans l'appart de Margaux. Très mignon, parfaitement conforme à mes attentes. Parfait pour circuler à pied dans le centre de Paris. Tout est à deux pas. J'y retournerai bien volontiers.",
+            "name": "Géraldine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "L'appartement de Margaux est super chouette et très confortable. Il n’est pas très grand mais il y a tout ce dont on peut avoir besoin. Situé au sixième étage, il offre une vue tranquille sur les toits Parisiens et l'ambiance est très paisible. Situé au cœur du Marais, l'appartement est entouré de boutiques et de restos intéressants. Toutes les principales attractions du centre-ville sont accessibles à pied. Margaux était très serviable et ses instructions étaient très claires. Fortement recommandé!",
+            "name": "Oliver",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Le studio est vraiment parfait - idéalement situé, très cosy, et Margaux est très sympathique ! je recommande sans hésiter !",
+            "name": "Pierre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Margaux a été une hôte parfaite. Elle a fait tout ce qui été possible pour nous faciliter l'accès à l'appartement et rendre notre séjour le plus agréable possible. L'appartement est très agréable et d'ailleurs très bien orienté pour profiter du soleil. Il est aussi idéalement situé, à 2min du métro et à 5min de Beaubourg. A recommander.",
+            "name": "Laurent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "le studio de margaux est super! tranquille, joli et central ... une solution parfaite pour un séjour au coeur de paris.",
+            "name": "Flavia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2014"
+        },
+        {
+            "text": "Margaux is a very nice and responsive person. Everything was simple, from my arrival to my departure. The flat is decorated with taste, the neighbourhood is very central and trendy but since the windows are on the backyard the flat is also very calm. I highly recommend it!",
+            "name": "Alice",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Margaux is a great host. She takes a lot attention to her guests. Thanks for her professionalism Besides, the apartment is lovely and perfectly located. By renting it, you'll have the unique opportunity of a lovely Parisian weekend! Don't miss this incredible possibility!",
+            "name": "Benjamin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Our stay at Margaux's apartment was great! The check in was really easy and we even could check in earlier than expected. The apartment is small but has everything a couple needs for a few days. It was really clean and tidy and furnished very nicely! The communication with Margaux was always easy and though we did not meet her in person she seemed very friendly :) would definitely recommend Margaux's apartment to everyone!",
+            "name": "Johanna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Lovely place, close to the centre of Paris and walking distance for all main attractions.",
+            "name": "Angela",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "The place is small but nice, and very close to the center.",
+            "name": "Olena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Amazing experience and apartment! Lovely place! Would stay again no questions asked. It is 6 flights of stairs but we didn't find it to be too much of a bother. Super quiet with a comfy bed. We really enjoyed our stay.",
+            "name": "Miguel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The apartment was in a really central location in Paris and was a lovely place to stay for a few days. Although small, the apartment had everything we needed and Margaux was really helpful with check in and check out. We had no problems and would definitely recommend staying there.",
+            "name": "Katharine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Everything was perfect! Immediate and warm communication, perfect location in town, nice cafés and brasseries where locals go to. The appartment is small, but you have everything you need! Whould definitely recommend it!! :-)",
+            "name": "Vera",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Lovely studio, very well located but not noisy (the window is overlooking the backyard) we could hear some people talking but It wasn't disturbing at all. You have everything you need in this well equiped studio: coffee machine, fridge, stove, shower and bathroom. the 6th floor without lift can be a challenge for people with heavy luggage or bad health condition.",
+            "name": "Isa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Everything was perfect. Cute apartment in the middle of the hip center. Walking distance to cafés, restaurants and bar. Still quiet in the apartment and comfortable bed. It was just great. Thank you for everything Margaux! :)",
+            "name": "Anna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Margaux's place is so beautiful, in a lovely neighbourhood and is the real Parisian experience. a charming apartment, would recommend",
+            "name": "Magdalene",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Margaux is a great host! Everything was clearly explained in advance which made checking in and settling into the apartment a breeze. The apartment is well located in central Paris and wonderfully decorated. I would happily stay there again!",
+            "name": "Sahra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "A lovely place to stay with your couple. The appartment was super clean and the location is perfect, is close to the Marais. A very good choise!",
+            "name": "Martha Helga",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Margaux's apartment was amazing. It really made us feel at home. Margaux was very clear with her check in and out instructions and always responds to messages in a timely manner. She had the essential necessities in her apartment and there was a small market a few blocks down the apartment which had everything else you would need. Her apartment is walking distance to many tourist sites. We were able to walk to the Louvre, Jardin des Tuileries, Musée d'Orsay, Notre Dame, the Archeological Crypt and many many more museums that we did not get a chance to go to. There is a cafe on ever corner near the apartment and the few that we went to were amazing. The public transportation stops were really close by and easy to use. The only complaint that I have is that the apartment is on the sixth floor and there is no elevator. It is seriously a pain to have to go up those stairs after walking around for Paris all day. Besides the stairs, Margaux's apartment was perfect and I would definitely rent the apartment if I ever get another chance to do so.\n+ Plus",
+            "name": "Juan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "A lovely apartment, just as it states - small but perfectly equipped. A great space to come home to on a whistle stop tour of Paris. Margaux keeps her flat extremely clean and provided everything we needed for our stay, including butter!",
+            "name": "Eleanor",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Margaux was super helpful before and during our stay, to accommodate our big suitcases. The location is great - walkable distance to many tourist attractions. The appartement is cute and well decorated. But it was not well-heated, and indeed the shower didn't have enough hot water for a long hair shower.",
+            "name": "Antoine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Margaux's place is absolutely stunning, in the middle of Marais and offering anything you could possibly want for your stay in Paris! We cannot wait to return and spend more time over there. Highly recommend!",
+            "name": "Andra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "This is a beautiful, peaceful studio apartment in the heart of Marais in Paris that I would thoroughly recommend. We had a fantastic time! It is perfectly located to explore Paris in a delightful cobblestoned neighbourhood, with lots of lovely cafes, patisseries and shops. Margaux is delightful to deal with, very friendly and accommodating. Everything is as described, the bed is comfortable, good shower, fridge & cooker if you want to self-cater, nice view overlooking the rooftops, lovely coffee machine- just perfect! We wished we were staying longer. Thank you for our lovely weekend Margaux!\n+ Plus",
+            "name": "Lucy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Margaux is very kind and helpful. We have been in touch by messages and she answer all of them really fast and clearly. The apartment is comfortable and everything was clean and well maintained. The shower is good and the bed was great. The internet access was fast and the metro is really close. The only consideration is related to the floor. It is in sixth floor and has no elevator. If you have stairs restrictions or if you are bringing some heavy suitcase it could be a problem.",
+            "name": "Ivan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Margaux was an amazing host. She was very professional with the service. I loved the apartment its was cosy and was beautifully decorated. It was everything i needed in Paris. Will come again soon! x",
+            "name": "Keith",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Was a very nice experience, charming apartment, very central location, safe building, quiet courtyard, liked a lot my stay there would love to come again.",
+            "name": "Irina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "This is the most authentic Parisian studio ever. It was a loverly experience, the apartment was very clean and everything has its right place. You show notice though it's VERY small, so it's best for 1 person or, at most, for a couple. One very important observation: there's NO HOT WATER FOR 2 SHOWERS in a row. I had to rub the soup in my body with no water running, so I could have a warm shower until the end... if your shower takes 7min tops, maybe it will be fine. It wasn't a great experience for me, luckily the weather was warm. Oh, there are no hangers either.\n+ Plus",
+            "name": "Liza",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Great location right across the metro and place is comfy, decorated really well. Margaux was very responsive too.",
+            "name": "Sathya",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Your apartment was perfect for us! Great location, clean and cozy! We would definitely stay here again. Thank you!",
+            "name": "Alissa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "The communication with Margaux was great: smooth and friendly. The little apartment is very beautiful and ideally located in the heart of everything in Paris. A great choice!",
+            "name": "Athina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The host canceled this reservation 16 days before arrival. This is an automated posting.",
+            "name": "Nikoaly",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Very nice stay in Paris. The apartment is located central but still quite, and is small but very cosy - perfect for 2 persons. We were actualy surprised how nice it was - better than the pictures :) Conversation and delivery worked without problems as well so everything was good, and we would definitly stay here again next time we visit Paris !",
+            "name": "Kenneth",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Margauxs place was perfect for our trip to Paris. Very easy to get to and near the metro so getting around the city is very easy. Her place is just like the pictures. Very clean and the bed was comfortable. Heater kept us (EMAIL HIDDEN)puter with internet worked the entire time. Neighborhood is very cool and safe with a lot of places to eat and drink. Margaux communicated well and was available in case we needed anything. I would stay here again without question.",
+            "name": "Logan And Caitlin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "First, Margaux is really nice and willing to communicate with us. It's a good place to stay for because its super near to the metro station, supermarkets, cafe stores and we are surprised for two chinese restaurants nearby! haha! Also, the room is small but absolutely cozy and clean to live. Yet, we didn't have a great shower since the water temperature was not that stable. After only 10 minutes bath, it turns cold and you have to wait for 15 more minutes to heat the water. The heater next to the bed seems not able to warm the whole room.\n+ Plus",
+            "name": "Christine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Margaux was a lovely host and was very easy to communicate with. Whenever we had a questions she would promptly respond. Her home was small, but very charming and made you feel a part of Paris. Perfect size for a couple people. Would definitely recommend and stay again!",
+            "name": "ArinJade",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "I had a great time in Paris thanks to the location of this flat. I walked everywhere. It's a small space but you'll love it when you see it. Everything I needed.",
+            "name": "Alistair",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "This studio was absolutely fantastic for a weekend stay in Paris. The space itself is small but efficiently laid out and has real charm. Les Marais is a fantastic spot with a real buzz and I loved exploring its streets. Plenty of cool shops around I need to recommend the nearby butcher for an awesome rottiserie! Close to central Paris as well, 15 mins walk to Ile de la Citie and Notre Dam. Margaux was an excellent host and provided very clear instructions as how to access the flat. The apartment provided everything that you could need for a short or longer stay. There is a decent climb up the stairs but this helps work off the fromage and it is reflected in the description. A really great stay for my first ever AirBnB!\n+ Plus",
+            "name": "Bruce",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "房间地理位置优越,距离地铁站仅有5分钟的路程。巴黎圣母院,卢浮宫,蓬皮杜等景点都在15分钟步行范围之内。周围超市,餐厅众多,生活非常方便。房间小巧,生活用具干净齐全。非常适合小夫妇在巴黎短期旅行居住。 The room is in good location, quiet, only 5minutes from metro station. The famous tourist places including Pompidou, Notre Dame de Paris and Le Louvre. There are many restaurants and supermarkets around, which makes the stay there very convenient. The room is cute, and has full and clean family appliances, suitable for couples short stay in Paris.\n+ Plus",
+            "name": "Quansheng",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "The apartment is charming, comfortable and with a super location. It had everything we needed to enjoy our stay in Paris - even a little espresso machine! My partner loved gazing out the window with a cigarette and coffee at the mismatched Paris roofscape. Basically a great find. Also, Margaux helped us out when when in a difficult situation - a great host!",
+            "name": "Benedict",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "We absolutely fell in love with this studio apartment. It wasn't big nor fancy, but it was perfect for two people. The studio and neighborhood were authentically Parisian and charming, as well as very close to the metro and walking distance from many of the sights. After staying a day there you feel as if you have lived there for years; after a few days you will never want to leave.",
+            "name": "Sylvia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "This little cozy spot was very convenient to everything and easy to walk to metro Arts De Metiers. ...a copper lined metro..wow! .Its VERY small but typical of Parisian places and had the basics. Dont expect to prepare food in the kitchen because it is only about one meter square.. but most people will eat out most of the time. We didnt meet the host but she was always available via email. The first few days were very beautiful and quiet but then it got noisy with people talking loudly and playing constant upbeat music from adjacent windows. ..i think this wouldn't be a problem in cooler weather when windows would be closed. I loved how we could see the neighbouring rooftops and old chimney pipes and sky from our window. This BnB would be perfect for a weekend but perhaps not for a longer period.\n+ Plus",
+            "name": "Bernadette",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Great little flat to stay in but remember as stated very clearly it is on the 6th floor with no lift. Marg was very responsive without any delay. I would recommend staying in this quirky little flat if you have the stamina to get up the stairs after a long day of walking around town.",
+            "name": "Rebecca",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Margaux's apartment is very conveniently located in the 4th arr. it is close to the metro and it's a very cool area to be in. Margaux was great at communicating arrival times and making sure we were well set up for our stay. The apt is very cute and clean.",
+            "name": "Mary",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "It has been a great stay in Paris! Margaux appartment is extremely central, nice, clean and cozy! Great for couples! Fantastic area full of boulangeries and stores. Super easy to talk and communicate with Margaux! Thank you Margaux!",
+            "name": "José",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "We loved Margaux's cozy apartment! Really typical of Paris in all of its details but also very lovely and well kept. The view from the window is quite beautiful in a very Parisian picturesque way. It's in a great location, close to the métro, restaurants, shops, museums... ideal. Margaux was great and super responsive! We would stay at her place again!",
+            "name": "Silvia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "This is the Paris attic apartment of your dreams, if your dreams include decor by someone with a very strong eye for design. The location is really superb, and Margaux really thinks of everything. The one small imperfection was that the mattress was not the most comfortable that we've ever slept on, but enduring this was totally worth it for the convenience of the location and the beauty of the apartment.",
+            "name": "Monica",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Margaux's apartment is wonderful! It had everything we needed and was light and cosy. If we come back to Paris, we'd definitely think of staying here again. We found great restaurants and cafes nearby, and it was quick to walk to several fabulous museums and galleries. Perfect! Thank you!",
+            "name": "Carron",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Margaux was extremely responsive before our stay in Paris, and she let us know exactly how we could access the apartment since she was out of town when we arrived. She also left a nice bottle of wine to welcome us, which was a really thoughtful touch. Her apartment was adorable and very tastefully planned and decorated, and I loved the location. It was very close to the Metro, and within walking distance of all of the shops, cafes and bars in Le Marais. She also provided a Nespresso machine and her desktop computer for our use, which was really kind of her. Everything was perfect, and I would definitely stay in her apartment again!\n+ Plus",
+            "name": "Jillian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "The flat is very lovely and the location is good with very convenient transportation. We had a great time! :)",
+            "name": "Wenqi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Margaux's apartment is just lovely and very french. The location in the beautiful Marais couldn't be more perfect. You can take the metro which is very close or just walk everywhere as it's a central location. Margaux was easy to communicate with and very responsive and helpful. We'd stay there again!",
+            "name": "Lisa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "The reservation was canceled 5 days before arrival. This is an automated posting.",
+            "name": "Francesca",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Margaux's flat was even more cozy and charming than I expected, and the location superb for seeing the sites of central Paris, yet still just far enough from the touristy bits to retain a neighbourhood character. I didn't have any issues with hot water that her listing mentions - and I'm not known for my short showers (could be a different story with 2 people tho). Margaux was quick to reply to my questions about the wifi and made me feel very welcome during my first trip to Paris in years. Will definitely be stay here again if it's available!\n+ Plus",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "text": "We had a great stay at Margaux's flat. It is very clean, cosy and comfortable. Margaux was very welcoming and flexible. The flat's location was great because it is very central but also very quiet and ideal to rest when you need it. We will definitely go back as soon as possible!",
+            "name": "Agnes",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Margaux has been very helpful and reachable at any time. A very smooth stay, lovely flat and great position! Staying at Margaux’ was a great choice and I really hope to come back there soon nest time in lovely Paris!",
+            "name": "Andrea",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "A perfect place to stay to explore Paris. Studio exactly as described, despite the central location it was very quiet. Bed very comfy, so lovely to come back to after a day out. Margaux very accommodating about late departure. Excellent host, would return in a heartbeat.",
+            "name": "Judith",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "We stayed in Margaux's flat for a long weekend, and it was perfect. The flat is easy to get to from the airport, has everything you could need, and is perfectly placed to explore Paris by foot. It is extremely clean, and well organised. We never actually met Margaux, but she organised out arrival perfectly, left us an umbrella, which was vital, and was at the end of the phone if we ever needed her. I would definitely stay in Margaux's flat again next time I am in Paris! Thank you for being a great host!",
+            "name": "Anna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "We had a wonderful experience with Margaux & her flat. The flat is atmospheric & comfortable, the location is perfect & communication was friendly & easy. We couldn't have been happier with our stay, thank you Margaux!",
+            "name": "Nicole",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "I loved everything about this apartment, from the rickety spiral staircase to the old wooden beams inside, and the views across the rooftops... Full of characters. Situated in a great location, I walked everywhere from here, lots of metro stations and restaurants nearby as well. Plus the host Margaux is very friendly too. I will definitely be staying here again next time I am back in Paris.",
+            "name": "Ming",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Margaux was a really nice host, we had a perfect long weekend in Paris.",
+            "name": "Oliver",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "Really cozy apartment, just what the pictures show. We felt like at home. Everything was very clean. Margaux was a great host and she took care right away about a little problem with the computer. Thanks a lot! The location was also great! We could walk to most of the main turistic attractions.",
+            "name": "Marina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "We had a very good experience with Margaux and her lovely little studio in central Paris. She was nice and clear in communication and organised everything well for our arrival. The place was spotlessly clean when we arrived and just exactly how it looked in the pictures. A compact, cute apartment in a great location, with everything we needed for our short stay. Highly recommended.",
+            "name": "Justin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2014"
+        },
+        {
+            "text": "Fantastic hostess, lovely flat, very charming and 100% authentic Paris vibes. Couldn't have asked for mre",
+            "name": "Alec",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2014"
+        },
+        {
+            "text": "We had the best time in Paris. The appartement is really close to the center and although it looks small on the pictures, it is really manageable. The place was clean, complete and had a homy feel. Margaux was a great host. She showed up exactly on time, was very welcoming, pleasant and reachable by phone during the visit. Good luck with the movie, hope it turns out good!",
+            "name": "Sanne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2014"
+        },
+        {
+            "text": "Great location, the place is very charming and has everything you need for a nice stay in Paris. Margaux is very accomodating as well. I definitely recommend.",
+            "name": "Yoo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2014"
+        },
+        {
+            "text": "This is a very adorable little apartment in one of my favorite neighborhoods in paris. The bed is very cozy wt very lovely windows. Margaux was a very lovely and responsive host. I wish that I could have gotten to hang out wt her while I was visiting. She was VERY sweet and responsive when i discovered an issue wt the hot water. Apparently in some of these old buildings in small apartments, you may only get about 3-5 minutes of hot water. Which can be very tricky for us spoiled Americans!! ;)",
+            "name": "Ashley",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2014"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 5.0,
+    "nbReviews": 78,
+    "communication": 5.0,
+    "emplacement": 5.0,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 13,
+    "qualite-prix": 4.5
+}

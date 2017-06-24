@@ -1,0 +1,79 @@
+{
+    "precision": 4.0,
+    "reviews": [
+        {
+            "text": "Joli appartement idéalement situé. Bien qu'Anthony n'était pas là à mon arrivée, il s'est arrangé pour que je récupère les clés sans souci, c'est un hôte serviable!",
+            "name": "Julia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Chambre propre,spacieuse et idéale pour une nuit en plein centre ville d'Orleans, avec un charmant petit balcon donnant sur la place de la République. Merci à Anthony qui nous avait même préparé le petit dej'. Tout était parfait.",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "tres bien placé pour profiter pleinement du centre. Anthony est adorable, avec ma copine on avait l'impression de débarqué chez un ami ;) on se sent comme à la maison ! Nous avons trouvé ce que l'on recherchais. Une nuit en toute simplicité.",
+            "name": "Nelly",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Anthony n'étant pas la, c'est son colocataire qui nous a reçu. Tout s'est très bien passé, la vue est top pour un petit dîner en extérieur.",
+            "name": "Arthur",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Tout s'est très bien passé. Malgré mes horaires assez peu prévisibles je n'ai eu aucun problème pour récupérer les clés. Accueilli par le colocataire sans problème.",
+            "name": "Lucas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Une chambre parfait le jeune homme est tres attente il contacte mois avant nous arrivé pour demander ou nous somme déja et il arive tout suite a la grand place pour une boisson a la terras pour dire bienvenu apres a la chambre vraiment beau chambre et vu sur la grand place bonne petit déjeuner aussi merci Anthony et peu etre a une autre fois",
+            "name": "Rudi",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "The host canceled this reservation the day before arrival. This is an automated posting.",
+            "name": "Linda",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 3.5,
+    "p_emplacement": "rate_me",
+    "averageRanking": 3.5,
+    "nbReviews": 7,
+    "communication": 4.5,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 4.5,
+    "p_proprete": "rate_me",
+    "arrivee": 4.5,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 80,
+    "qualite-prix": 3.5
+}

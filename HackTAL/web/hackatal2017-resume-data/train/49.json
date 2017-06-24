@@ -1,0 +1,263 @@
+{
+    "precision": 4.0,
+    "reviews": [
+        {
+            "text": "Un peu déçus, j ai eus la chambre juste à cotés de la réception, beaucoup de bruit !! Je recommande le logement si comme moi vous êtes 1 nuit à Paris, pour le coup ce logement m'a bien dépanné et l'hôte à était très réactif à mes messages ! Il m'a aussi aidé a me rendre de l'aéroport jusqu'au logement. Merci",
+            "name": "Christophe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "C'est une grande chambre qui est très bien situé propre par contre très ancien pas mal de travaux à refaire mais plutôt sympathique et agréable on C régalé bon qualité-prix",
+            "name": "Christophe Charlotte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Séjour conforme à la description. C'est un hôtel bien placé",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Ceci n'est pas un logement privatif mais un hôtel, ancien hôtel de passe dans ladite rue que je ne connaissais pas ... Visiblement rien à changer depuis la dite époque : chambre très glauque, literie défoncée, douche noire de moisissure. Seul bémol : toujours quelqu'un à la réception 24/24",
+            "name": "Florence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "ce n est pas une bonne experience :pour moi Airbnb ,c est de la convivialité entre particulier si j avais voulu un hotel ,j aurais chercher un hotel",
+            "name": "Evelyne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "C'est un hotel, pas une chanbre chez un particulier. Et pas un bon hotel avec ça, à éviter donc.",
+            "name": "Emerick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Riyad est un hôte aussi charmant qu'accueillant! Nous avons passé un super week-end dans un endroit idéalement placé à deux pas du marais. Tout est parfaitement identique à l'annonce !:) Nous reviendrons sans aucun doute pour notre prochain week-end sur Paris ! C'est un excellent rapport qualité prix :)",
+            "name": "Margaux",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "L'hôtel est bien situé. Cependant les bagarres en dessous des fenêtres mal insonorisées ont fortement nuits à notre sommeil. Propreté à améliorer (douche bouchée par des cheveux, poubelles, toilettes ..).",
+            "name": "Marjorie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Il m'a annulé ma réservation 3 h avant que j'arrive . Ce n'est pas Tres correcte . Le tout est payé d'avance , j'espère être rembourser le plus rapidement possible .",
+            "name": "Kelly",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Accueil très bien ryad et un hôte agréable et très sérieux. hôtel très bien situé propre et calme .A très bientot",
+            "name": "Fred",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Riyad est très accueillant, c'était super. L'endroit est au calme et la literie est confortable.",
+            "name": "Romain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Riyad a été disponible et gentil. Merci",
+            "name": "Domenico",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Ok for what you pay. But the toilet / shower smelt so bad I couldn't use them.",
+            "name": "Josh",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "As described. This is a hotel. Very nice location and good value for the money",
+            "name": "Ivan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "The location is the main advantage, since it’s so central (and it’s a hotel, so easy to check in and out). But if you have the room on the first floor it is then quite noisy. The bathroom is minimal, and it’s not the cleanest place ever. The people at the desk are very nice.",
+            "name": "Loraine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "It was a nice stay. The place is located in the heart of the city, 3 mins walk from the Metro. Everything is good, and the host is more than helpful. But there's a minor disadvantage that the bathrooms need to be fixed with a proper draining system.",
+            "name": "Vanessa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "As stated, this is actually a hotel. The location is good as theres plenty of cafes, bars, restaurants nearby. Riyad was very accommodating with check-in and check-out, which made things easy. For the price, this is a good spot to rest while in Paris.",
+            "name": "Tyler",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "This place (actually a hotel), was great for a short stop in Paris with my friend. We've both spent time in Paris before and knew where we wanted to go, and this was in a super central location for all the major sites. It's a short walk to Chatelet Les Halles, which has a direct train line to CDG Airport. Super close to the Louvre, Tuileries, Notre Dame, and the great bars and restaurants of Le Marais. It's a no-frills place to be sure, but great for the value - perfectly clean, safe, and easy to check in and out.",
+            "name": "Randy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "The host canceled this reservation 41 days before arrival. This is an automated posting.",
+            "name": "Paola",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Riyad was extremely accommodating. I accidently booked only one night instead of 2, and the room was not available for the second night. Riyad communicated with me over Airbnb messaging and he freed up another room in the building for me. The rooms were clean, with a view of the lovely Paris street. It is actualy considered a hotel, which I didn't realize. The staff was very friendly (spoke English and French) and always available at the front desk. The location is extremely convenient- very close to the Louvre, Centre Pompidou, and Notre Dame. Lots of restaurants in the neighborhood as well. I would 100% recommend this hotel!\n+ Plus",
+            "name": "Genna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "All excellent, loved it",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "agradable y amigable",
+            "name": "Emiliano",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "This place is walkable from Gare du Nord. It is cheap and clean, surrounded by numerous restaurants. The block is quiet at night. If you are looking for a place in a local neighborhood with a cheap price, Riyad's place could be your choice.",
+            "name": "Ophelia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "My friend and I never met Riyad, but the staff at Appi Hotel were all very friendly and made us feel welcome. The room was just as described, the beds were comfortable, and the location could't be better!! It's just minutes from the Pompidou, and super close to Sainte Chapelle and Notre Dame. It was the perfect home base for a couple days of walking in Paris. On the day we checked out they even let us leave our luggage at reception so that we didn't have to drag it around with us all day. Really great stay! And again, A++ location!\n+ Plus",
+            "name": "Haley",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Great! Riyad answered very quickly, great communication. The room is very good and the neighborhood is very nice, with many places to eat and shop. If you have big and heavy suitcases that will probably be a problem, since the staircase is a bit tricky. Despite that I really recommend and the overall experience was great!",
+            "name": "Victoria",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Riyad was great. Accepted my request instantly, emailed quickly, responded to all m y questions. The location is fab, based on a street with lots of lovely cafes and busy. Only 4 / 5 stops on the Metro from Gard du Nord, which made was practical. All in all, definitely a place I would recommend but do remember your slippers.",
+            "name": "Nazia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "If you are going to Paris and you want to stay in a budget-friendly place in the middle of the nicest neighborhood, go to Riyad's!",
+            "name": "Kim",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "The place was just as described and pictured with a towel, shampoo, and soap for each of us. Beds were comfortable. Located in a fun neighborhood with a lot of bars, restaurants, and shops. Only a few blocks from the metro. Riyad was very friendly and responsive to our emails.",
+            "name": "Megan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Riyad is located in the active and young part of Paris. Les Halles. his apartment was comfortable and he is very informative.",
+            "name": "Paul",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "avoid this place. it's in a bad part of town and the rooms are horrible.",
+            "name": "Saumil",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The host canceled this reservation the day before arrival. This is an automated posting.",
+            "name": "Valentina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 3.5,
+    "averageRanking": 4.0,
+    "nbReviews": 31,
+    "communication": 4.5,
+    "emplacement": 4.5,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 49,
+    "qualite-prix": 4.0
+}

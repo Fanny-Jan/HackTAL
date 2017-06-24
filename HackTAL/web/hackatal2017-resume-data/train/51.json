@@ -1,0 +1,407 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Parfait pour 2 personnes, bon emplacement",
+            "name": "Laura-Lou",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Appartement qualitatif, refait à neuf et bien situé, équipé du nécessaire, sans fioriture. Arrivée un peu compliquée (initialement prévue à 16h puis décalée à 18h puis 18h30 car appartement pas prêt). Mais le problème était certainement dû à une réservation tardive de ma part (la veille pour le lendemain).",
+            "name": "Céline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "FranCisco nous a paris de passe un tred bon séjour de dernière minute sur paris. L appartement est exactement comme sur la description, de très bon confort et a une tres belle décoration. Très belle appartement et vu sur les toits qui fais oublier les 7 étages à grimper.",
+            "name": "Coppélia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement conforme aux photos, très design et pratique, magnifique vue sur la Tour Eiffel",
+            "name": "Camille",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Très bel appartement, jolie vue ét quelle luminosité ! Cependant si beaucoup de bagages il est difficile de monter 7etages. Mais séjour très positif ! Merci Francisco",
+            "name": "Léa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Studio très moderne et bien aménagé. La vue sur les toits de Paris et La Tour Eiffel est très agréable.",
+            "name": "Laura",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Merci Francisco pour ce séjour dans un appartement de très bonne qualité dans un quartier particulièrement agréable et vivant.",
+            "name": "Michel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Francisco nous a proposé de venir entre 18 et 19h. Il nous a demandé si c'était un peu tard ou pas ? On a répondu que oui et si il était possible de venir à 16h. Ce que Francisco a répondu par un \"Oui\". Nous sommes donc arrivé a 16h comme convenu. Et Francisco était alors agacé qu'on arrive à cette heure ci, car il devait poser un miroir sur un mur ... Il nous a alors demandé de partir et revenir une heure plus tard ... Une heure plus tard, ils avaient toujours pas fini a poser leur miroir ... Francisco était alors énervé qu'on demande de rentrer dans l'appartement même si il avait pas forcément fini car il faisait froid dehors. Il nous a alors de nouveau redis de partir et ce n'est qu'une heure et demi plus tard qu'on a pu rentrer finalement dans l'appartement .... Je trouve ça d'un manque de politesse TOTAL d'agir comme ça !!! Si son miroir était si galère que ça, il aurait pas dire oui quand on a proposé de venir à 16h. Par ailleurs, il n'y avait aucun chauffage + bruit des voisins comme si ils étaient dans l'appartement. Sinon le reste comme décrit très bien et propre. C'est vraiment ce soucis de communication qui a tout ruiné. A déconseiller !\n+ Plus",
+            "name": "Xavier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "L'annonce correspond à la réalité. Le logement est très sain et agréable à vivre",
+            "name": "Jonathan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Calme et hauteur. Un living lumineux qui regarde les toits et la tour Eiffel, des équipements récents, fonctionnels et facilement utilisables, le confort et le cadre épuré permettent un séjour apaisant dans un quartier vivant. Je recommande l'adresse de Francisco et son efficacité.",
+            "name": "Fabien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Très bien sauf les 7etages à pied",
+            "name": "Abdel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Francisco est très arrangeant!! Service idéal pour une reservation de dernière minite",
+            "name": "Etienne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Appartement très confortable et bien situé. Je recommande ce logement",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Appartement très bien situé, proche du boulevard Voltaire. Peu utilisé mais tout est fonctionnel et de bonne qualité. Rien à redire. Il faut monter quelques étages mais ça fait les jambes et la vue est au rendez-vous. Je n'ai pas eu l'occasion de croiser Francisco mais il a répondu rapidement à mes questions. A recommander.",
+            "name": "Rudy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Appartement conforme aux photos, propre et sommaire. Quelque peu excentré des métros et centres d'activités de Paris",
+            "name": "Annabelle Constant",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Le studio de Francisco est parfaitement fidèle aux photos, très lumineux, avec une super vue sur les toits + laTour Eiffel, et aménagé avec gout! Tout y est pour passer un parfait séjour, seul le canapé lit est un peu inconfortable. Francisco a été très arrangeant pour notre arrivée et parfaitement joignable. Super séjour!",
+            "name": "Diane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Logement bien équipé, très calme, avec une vue superbe sur la Tour Eiffel. Je le recommande vivement !",
+            "name": "Jean-Philippe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Logement conforme aux photos très confortable bien agence et ensoleillé avec vue sur les toits donc personne au dessus...appréciable ...même s il faut gravir 7 petits etages Effectivement vue sur la tour (URL HIDDEN) loin mais on la voit presque entièrement..bonne boulangerie pas très loin ..le studio ne donne pas sur la rue ce qui est un bon point pour la tranquillité... Je recommenderais donc ce joli petit studio...!!!",
+            "name": "Frederique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Appartement très fonctionnel avec une magnifique vue sur la tour eiffel! Il s'agissait d une demande de toute dernière minute, Francisco à été très réactif. ..",
+            "name": "Mélanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Très bel appartement fidèle aux photos avec une superbe vue. Francisco a été très flexible pour mon arrivé et mon départ. Le quartier est très calme et dispose de tous les commerces + métro. Je vous le recommande sans hésitation",
+            "name": "Momar",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Nous avons passé un très bon séjour dans l'appart, il est propre, bien agencé, bien situé avec une belle vue. L'hôte était réactif et flexible au niveau de l'organisation. C'est donc avec plaisir que nous y reviendrons lors de notre prochain passage à Paris.",
+            "name": "Rachid",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "il s'agit d'un très beau logement avec une vue très agréable. Nous avons eu cependant un problème avec une tâche qui a été faite sur une chaise. Nous sommes en discussion pour l'instant.... Il est préférable de faire un état des lieux avant de prendre l'appartement car difficile de se justifier",
+            "name": "Fabien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Pour une première fois avec Airbnb tout était parfait. Francisco est efficace, discret. L'appartement très propre proche des transports. Nous recommandons.",
+            "name": "Patricia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Studio conforme aux photos , bien agencé, joliment décoré , bonne literie . 7eme sans ascenseur mais dans un immeuble très sympa avec une vue dégagée sur le Tour Eiffel Très bien situé ! Nous recommandons",
+            "name": "Axelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "L'appartement est plus grand que sur les photos l'hôte est sympathique et arrangeant Un bon séjour , merci !",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Le logement de Francisco est identique aux photos présentées, un beau studio refait à neuf, avec vue sur la tour Eiffel et localisé dans un bon quartier de Paris, tout est à proximité (métro, restaurant, supermarché...). Le studio est très bien aménagé. Cependant prévoir tout le nécessaire pour cuisiner (condiments...). Francisco est arrangeant, discret, très peu d'échange mais reste à l'écoute si besoin. Je recomande !",
+            "name": "Oriane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Francisco s'est montré très à l'écoute et compréhensif. Un échange bref et cordial, avenant et disponible Francisco s'est montré très à l'écoute et flexible lorsqu'il à fallu décaler notre RDV pour la remise des clefs. Je le recommande vivement d'autant que l'appartement est conforme aux photos et idéalement situé .Merci et à très bientôt",
+            "name": "Georges",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Hormis un souci lié à la douche qui devrait être résolu, l'appartement était agréable. Point faible sur la propreté de la literie mais signalé. Pour le reste l'appartement est parfait pour un très bon à Paris",
+            "name": "Steven",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Trés bel appartement et très propre !! Propriétaire sympathique. Prévoir néanmoins tout le nécessaire comme gel douche et shampoing ainsi que savon pour les mains qui ne sont pas fournis et que nous avions oublié... Nous conseillons cet appartement !",
+            "name": "Maxime",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Appartement très sympas, conforme aux photos, avec une belle vue sur la Tour Eiffel. Francisco a été très arrangeant au niveau des horaires d'arrivée et de départ. Je recommande !",
+            "name": "Claudie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Un super week-end à Paris dans l'appartement de Francisco ! Un logement très propre, très calme, très bien situé, a 5 minutes du métro. L'hôte a su être arrangeant sur l'heure d'arrivée et sur l'heure de départ, et est très accueillant. Je recommande vivement !",
+            "name": "Mégane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "C 'est un écrin aux lignes épurées et contemporaines que nous avons découvert! Absolument conforme aux photos et complètement rénové, ce studio propose une jolie prestation avec tout ce qu'il faut pour y passer un agréable moment . Propre, calme, literie de qualité, cuisine équipée, salle de bains design, équipement high tech... Très bien. Le plus, la vue sur les toits de Paris avec la Tour Eiffel au fond qui scintille toutes les heures! Le quartier est très bien desservi avec métro et bus. Quartier vivant. A noter que c'est au 7ème étage sans ascenseur.... impossible d'en installer dans ce type d'immeuble très atypique et originale. Notre hôte Francisco a été très réactif suite à la réservation et pour la mise en relation qui a suivi. Merci Francisco ! A bientôt\n+ Plus",
+            "name": "Myriam",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Superbe studio spacieux, bien agencé et très propre. Les nombreuses fenêtres donnent une belle lumière et agrandissent l'espace intérieur. Grande douche agréable, lit confortable, immeuble calme, rue avec tous commerces. Francisco était très réactif malgré une réservation tardive de ma part, c'est très appréciable.",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "The host canceled this reservation 2 days before arrival. This is an automated posting.",
+            "name": "Benoît",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Le séjour s'est bien déroulé les photos sont conformes à celles prises.",
+            "name": "Marianne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "The host canceled this reservation 3 days before arrival. This is an automated posting.",
+            "name": "Anne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "I did not interact with Francisco in-person - mainly through text message but the self check-in process was very straight forward and easy! If there was anything I needed, Francisco responded immediately and fixed the issue quickly The apartment was spacious, clean and in a lively neighbourhood. I would definitely stay here again for future trips.",
+            "name": "Carolyn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Francisco's modernized apartment was very cozy, cute, and perfect. No where near the Eiffel Tower but had a perfect clear view of it which was great. It was very close to restaurants, including those that are open late in case you wanted to run out for a late night snack. Also, isn't too far from shopping areas. I recommend his apartment to anyone visiting Paris. I'm very sure you would enjoy your stay just as much as my friend and I did. Thank You again Francisco for extending your home. It was a pleasant stay!",
+            "name": "Daryle",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "The location was great and easy to get to metro station. There is no elevator for this place and you have to take 7 flights of stairs. The place has incredible views of Eiffel Tower. The bathroom was a little bit dirty. Overall the place was great!",
+            "name": "Jaime",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Francisco's place has a great view of the city and that in itself is worth the stay!",
+            "name": "Brandon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Easy communication and nice location. But bathroom smelled of sulfur which was quite unpleasant",
+            "name": "Tarayn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Great apartment and hosts! Really spiffy spot with stunning views. Couldn't have been simpler or more idyllic.",
+            "name": "Tim",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Very nice place, clean and have everything needit. Thank You",
+            "name": "Elena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Having lived in Paris for a bit of time, I can tell you that this place is a typical Parisian apartment. 7th floor walkups are just how it works here. That being said, this apartment is more modern and updated than 75% of Parisian apartments I've ever seen. The three large windows provide lots of natural light, and while yes, two of the windows face into neighboring apartments, the third window truly does offer a beautiful view of the Eiffel Tower. The couch flips out into a bed, and even with it being extended all the way, you still feel as though you have ample space to move around in the studio. The bathroom was updated as well with a rain shower and even lights around the mirror to make you feel like you're in a nightclub (if you want?). The entire process was seamless. I clicked Instant Reservation, got a message two days later with all the information to get the key, and then I was in. I would most definitely recommend this studio - and after moving out to another, I can say, I should have stayed here longer!\n+ Plus",
+            "name": "Damon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Nice flat, located reasonable close to Gare de Lyon. Enjoyed it.",
+            "name": "Christian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Nice flat in Paris with Eiffel Tower view",
+            "name": "Dominique",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "We had a brilliant time staying in this apartment, it was clean, modern and very well equipped with great views and transport links. The sofa bed was large and comfortable, although the bed linen was slightly tatty. There were a lot of gadgets in the apartment, though it felt as if most of them were for show as we couldn't actually get them to work and found no instructions (television, iPod dock and mirror lighting). Our experience with Francisco however, was not as enjoyable. He was difficult to contact, and had no system as to the collection/deposit of the keys. He gave me the wrong address of the property and was very rude when I was late to meet him to collect the keys because of this. Upon our departure he accused us of damaging the sofa and having more than 2 people staying in the apartment without his permission - both false accusations. It is because of this that I would not return to this property, a shame as we had such a lovely stay.\n+ Plus",
+            "name": "Charly",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Whilst the studio was comfortable and clean, with lovely views, we had a disappointing experience on this visit. The host delayed our check in time by 5 hours and was uncontactable during this time. The reason given for delaying check was that he had had too much to drink. In addition bedding was forgotten and only replaced at 11pm. Whilst the flat could be really nice we were very disappointed and would not stay here again.",
+            "name": "Prasheena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Fransisco was very accommodating and helpful! The apartment looked exactly like its pictures, with a beautiful view of the Eiffel Tower and all the amenities you see in the pictures. Everything is so modern and sleek that it made sharing a studio between two people very easy and comfortable. I would definitely recommend this place to a friend and I hope to rent it again when I return to Paris!",
+            "name": "Marilyn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "averageRanking": 4.0,
+    "nbReviews": 49,
+    "communication": 4.0,
+    "emplacement": 4.5,
+    "arrivee": 4.0,
+    "resume": "",
+    "id": 51,
+    "qualite-prix": 4.5
+}

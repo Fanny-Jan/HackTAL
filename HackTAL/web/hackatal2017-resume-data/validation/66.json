@@ -1,0 +1,87 @@
+{
+    "precision": 3.5,
+    "reviews": [
+        {
+            "text": "Peu de description la photo ne correspond pas à la chambre mais je n'étais pas déçue grande chambre donnant sur artère passante mais avec double vitrage évitant le bruit.",
+            "name": "Dominique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Logement très bien situé au centre de Lorient, attention au bruit si vous dormez la fenêtre ouverte. Chambre correcte, accès à la cuisine, SDB collective. Bon rapport qualité prix, il faudra mettre beaucoup plus si vous souhaitez un meilleur confort (Logement entier).",
+            "name": "Ludovic",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Super bien placé pour le festival !!",
+            "name": "Alexandre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Appartement bien situé dans le centre de Lorient, hôte présent à l'arrivée, très disponible et prenant en compte toute remarque pour rendre le séjour plus agréable.",
+            "name": "Nolwenn",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "L'hôte n'était pas présent, et j'ai seulement contacté avec lui que par sms et airbnb. Le logement n'est pas très propre ni accueillant, mais il est bien situé dans le centre ville.",
+            "name": "Eugenio",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Pas de confort ni le moindre charme Pas conformé à la photo",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Gwenael était très flexible concernant les changements de date dans ma réservation même à la dernière minute. Il était présent pour m'accueillir et se met au service de son hôte sans hésiter. Si vous cherchez un logement en plein centre ville et sans complication, foncez !",
+            "name": "Alice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Très peu de contact avec l'hôte, logement pas très accueillant, bien situé dans le centre ville.",
+            "name": "Kevin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 3.5,
+    "p_emplacement": "rate_me",
+    "averageRanking": 3.5,
+    "nbReviews": 8,
+    "communication": 4.5,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 4.0,
+    "p_proprete": "rate_me",
+    "arrivee": 4.5,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 66,
+    "qualite-prix": 4.0
+}

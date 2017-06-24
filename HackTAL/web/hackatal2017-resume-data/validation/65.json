@@ -1,0 +1,183 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Anne, de nature joviale, nous a très bien accueilli et informé sur la ville de Lorient ! Petite chambre simple et propre, quartier très calme. Nous avons bien dormi, bon rapport qualité-prix ! :)",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Hôte tout à fait chaleureuse et accueillante. Prévoir linge de maison (qui n'est initialement pas compris). Centre ville accessible rapidement.",
+            "name": "Quentin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "logement correct, situé dans un secteur calme et tranquille. équipement utile pour être indépendant.",
+            "name": "Sylvie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Bon acceuil de l'hôte en début de séjour. Logement fidèle aux photos, tout simple mais espaces privé pour le locataire. Pas de contact avec la propriétaire.",
+            "name": "Benjamin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Très bon accueil d'Anne, chambre agréable, salle de bains et WC corrects.",
+            "name": "Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Très bon accueil de la part de Anne qui a pris le temps de nous présenter La ville de Lorient et les sites à visiter. Le logement était fidèle aux photos. Malheureusement nous n'avons pas profité de la terrasse car nous sommes arrivés sous l'orage... Le quartier est très calme.",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "À à répondu très rapidement à une demande tardive de ma part Ce n'était pas une étape prévu dans mon séjour Je la remercie vivement de sa réactivité Accueil charmant!",
+            "name": "Christele",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Nous ne nous sommes pas vu",
+            "name": "Marion",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Nous ne sommes restés que pour une nuit mais Anne a été très accueillante, logement proche de toutes commodités et du centre-ville",
+            "name": "Fanny",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Très bon accueil. Logement conforme à la description. Non loin de l'embarcadère pour l'île de Groix.",
+            "name": "Olivier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Logement idéalement situé pour le festival de lorient",
+            "name": "Jean",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Une maison très bien située en plein centre dans un quartier calme à 10 minutes de marche du festival interceltique. De plus nous avons reçu un accueil chaleureux. Une belle rencontre pour ce passage à Lorient.",
+            "name": "H",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Le logement est bien conforme à la description, Ç est à dire indépendant avec kitchenette. Il est bien situé par rapport au centre ville. Anne nous a accueilli agréablement et a été arrangeante par rapport à mon oubli des draps !",
+            "name": "Sophie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Très bien situé pour aller visiter le secteur. Le quartier est sympa avec des voisins agréables, tout comme notre hôte, Anne. Le logement est fidèle à la description et aux photos.",
+            "name": "Prisc'",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Logement conforme à la description faite. Quartier calme. Accueil agréable de Anne qui s'est montré disponible et arrangeante. A recommander.",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Un endroit idéal pour le festival celtique ou pour un séjour à Lorient. Notre hôte est très agréable et aussi très discrète. Nous y retournerons avec plaisir. L'endroit est très calme et le logement possède toutes les commodités.",
+            "name": "(EMAIL HIDDEN)",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Bon accueil, lieux très propre. La maison est très bien située, aucun bruits entendus même si nous étions en plein coeur de festival",
+            "name": "Léa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "accueil sympa, quartier calme et à 10mn du centre ville, donc plutôt bien.",
+            "name": "Joel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Super logement pas loin du port et du festival interceltique ... La chambre avec deux lits et plusieurs logements est très confortable. Très pratique pour mon fils et moi.. Je remercie Anne pour son adaptation par rapport à l'heure d'arrivée qui a changer plusieurs fois ;) je recommande vivement",
+            "name": "Valérie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Comfortable, friendly, simple, quiet, a short walk to the train station, recomended",
+            "name": "Aline",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.0,
+    "p_emplacement": "rate_me",
+    "averageRanking": 3.5,
+    "nbReviews": 20,
+    "communication": 4.5,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 4.5,
+    "p_proprete": "rate_me",
+    "arrivee": 4.5,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 65,
+    "qualite-prix": 4.0
+}

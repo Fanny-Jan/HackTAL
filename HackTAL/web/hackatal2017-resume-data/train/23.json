@@ -1,0 +1,895 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "super accueil et quartier en plein cœur de paris près des stations de métro, dans un quartier très calme.",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Super hôte qui nous a très bien accueillis! L'appartement est tout à fait conforme aux photos, un vrai cocon en plein coeur de Paris! Seul petit hic la lumière du jour qui peut empêcher certains de faire des grasses matinées. Nous avons adorée passer la soirée dans cet appartement, nous reviendrons avec plaisir!",
+            "name": "Astrid",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Un studio au top, tant dans la déco moderne, son emplacement idéal au coeur de Paris et 10 min à pied du Louvre, la literie confortable et les petites douceurs que l'hôte, arrangeante et très sympathique, nous a laissés!",
+            "name": "Samuel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Studio super agréable, l'accès aux transports en commun est très rapide (Métro Ligne 3, station Sentier à 2 minutes à pied). Laura a été très réactive aux messages et très sympathique. Je recommande vivement ce studio!",
+            "name": "Benjamin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Accueil très agréable. Appartement tout à fait conforme aux photos. Petit mais très bien agencé, très propre, matériaux de qualité, très bon matelas, beaucoup de gentilles attentions dans le placard : bonbons, café, confiture...Un véritable havre de paix fashion, en plein centre de Paris, près de rues animées, mais bénéficiant d'un grand calme. Certes...on entend un peu le métro, mais il faut savoir ce que l'on veut : on est en plein centre de Paris!!! Le top est évidemment la mini terrasse!!!!! dont nous avons pu profiter car il faisait très beau. Merci Laura. Nous reviendrons!\n+ Plus",
+            "name": "Sabine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Un appartement super sympathique, bien situé au cœur du 2éme. Lumineux et plein de charme. Laura à toujours été très disponible. A une prochaine fois c'est sûr.",
+            "name": "Laurent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "L'appartement est conforme aux photos. Il est beau et bien aménagé. Bien qu'en hauteur, le lit est confortable. Mais le plus intéressant est la terrasse : c'est juste génial d'avoir ça. Laura est très réactive aux demandes, ce qui facilite l'organisation du voyage. Je n'hésiterais pas à y retourner.",
+            "name": "Guillaume",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Laura a été super sur l'accueil. Les petites bouteilles de jus d'orange dans le frigo ont été bien appréciées. Appartement ultra bien arrangé, très propre, avec un bel espace de vie mis en valeur par la verrière. Le couchage en mezzanine est aussi de qualité. Le seul point à retenir est le bruit de métro que l'on entend légèrement. Perso ca ne m'a pas dérangé mais les oreilles ultra-sensibles pourraient l'être.",
+            "name": "Gilles",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "L'accueil, l'appartement et sa localisation était très bien. Rien à redire. Laura était disponible et agréable. Nous nous sommes senti très bien dans l'appartement. Et l'emplacement est assez central pour profiter du dynamisme de Paris. Merci Laura",
+            "name": "Séverine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Logement très cosy et joli. Comme sur les photos. Dans le pleins centre! Vraiment au top!",
+            "name": "Chloé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "L'appartement vient tout juste d'être refait à neuf. La décoration et les matériaux utilisés sont de toute beauté. Un vrai petit cocon au coeur de Paris. Laura est une hôte remarquable. Je recommande vivement cet appartement.",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "L'appartement de Laura est idéalement situé en plein centre de Paris. L'appartement qui vient d'être refait à neuf est très fonctionnel et agréable. La décoration est très jolie. Nos échanges se sont très bien déroulés avec Laura.",
+            "name": "Marion",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "L'appartement est parfait: très bien situé, très joli et bien décoré, dans un quartier tranquille. On entend effectivement le métro et les gens qui passent dans le hall d'entrée mais on s'y habitue vite et ce n'est un problème que si l'on a le sommeil très léger. Laura est accueillante, serviable et est très arrangeante (merci encore pour les sacs ^^). Je recommande chaudement cet appartement!",
+            "name": "Donia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Merci beaucoup Laura. Nous avons beaucoup aime notre sejour chez vous. C'etait un endroit parfait pour aller au Palais Garnier! L'appartement avait tout ce dont on avait besoin et Laura est tres sympa. Merci.",
+            "name": "Katherine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Emplacement idéal, nous avions envie de flâner à Paris, le temps d'un week-end en amoureux et nous nous sommes régalés. L'appartement est plein de charme, aménagé à merveille, complètement rénové. La petite cour est très agréable, pas de vis-à-vis et plein de lumière! Non seulement nous reviendrons mais nous allons aussi le recommander à nos amis!",
+            "name": "Marion",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Une personne a été diligentée par Laura pour venir m'accueillir. L'appartement était conforme aux descriptions et photos publiées sur le site. Les seuls bémols : - on entend bien le métro dans l'appartement - pas de volets ou rideaux au niveau des fenètres = réveil dès le lever du jour - pas de documentation sur la vie dans le quartier, les magasins et restos sympas à proximité... - serviettes lavées mais encore mouillées à mon arrivée",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Un mini loft au cœur de paris , la literie est excellente , l attention des hôtes remarquable avec café thé jus de fruit de petites madeleines pour le Ptit déjeuner... Situation idéale je vous le conseille un vrai petit nid tout joliment refait à neuf !",
+            "name": "Thelma",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Fantastic little apartment! Laura was friendly and quick to respond when ever I asked her something. I would recommend this place to anyone, and definitely stay here again on my next trip to Paris.",
+            "name": "Dean",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "The studio was simply perfect! Not only it was well equipped and very beautifully furnished, also it was very quiet and clean. I was overwhelmed by Laura's attentiveness. She was very helpful and flexible and always quick to respond. I had a wonderful time in the studio and would come back anytime!",
+            "name": "Pascal",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "This apartment is perfect for a solo traveler and was exactly as pictured. I think it would feel a little too crowded with two people in the loft bed - unless they were your significant other and you didn't mind snuggling with them. The location of the apartment was great - very close to the Sentier Metro line (3 min walk) and close to Rue Montorgueil (a beautiful street with lots of cafes and shops). It was also close to neighborhood grocery shops. I traveled alone and felt very safe in the neighborhood, even late in the evenings. The unit does not have AC or a fan and it was very hot the first few days of my stay. If you're sensitive to noise the rumblings of the subway into the wee hours of the morning may be bothersome. I didn't mind it though. As others have stated the shower leaked quite a bit and the water heater took a very long time to heat up so it's best to turn it on 4-5 hours in advance. The apartment was cute and I really enjoyed all of the natural light that filtered in. I enjoyed my stay overall.\n+ Plus",
+            "name": "Sally",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Laura's place is absolutely fantastic -- it's just as cute in person as it is in the pictures. It's very conveniently located to so many things on the right bank. Though there were at least 2 metro stations nearby, we were able to walk most places we wanted to go. I was a little worried about not having air conditioning and being there during a hot spell, but the apartment manages to be light and airy without getting direct sunlight and thus never got too warm. Laura was a very helpful host with great communication both before and during our stay. We would absolutely stay here again and highly recommend it!\n+ Plus",
+            "name": "Alyssa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The Location of this apartment is great! Very close to restaurants, shopping, and the metro. Laura is very kind and helpful. She was out of town so another person let us in. The door to the apartment is very difficult to open at first. I recommend asking how it works before you arrive. The electric shower takes a bit to warm up, so plan to turn it on in advance. It's a cute little apartment for two people to stay at in Paris.",
+            "name": "Laura",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "This apartment is very cute. Love the ceiling, the floors, comfortable bed, spacious, adorable coffee/breakfast terrace. Clean and bright. The location has both pros and cons. The pros are it's just outside what we would consider \"tourist central\", so lots of authentic shops and cafes within just a couple blocks. We really enjoyed walking down Rue de Petits Carreaux (3 min walk away)... so many small bakeries, cheese shops, ice cream, delicate pastries, restaurants, fresh vegetable stands, and coffee places. This street also leads directly to the nearby mall where you can find your typical clothing stores. Also not too far from the Louvre and Notre damn. From the apartment, it's a 45 minute or one hour walk (3 miles) to Eiffel Tower, arch de triomphe, and that whole tourist area. We walked both ways, and it wasn't too bad. But in bad weather, no fun. Also, it seemed difficult to get to directly from the airport. Our bus to/from airport was at arch de triomphe... so it was a bit of back and forth. But if you plan to use transit then it's probably not too bad. The one negative thing was that we found communication to be difficult, especially before arrival. We were supposed to get details a few days prior to arrival, but Laura did not send me check-in information until less than 24 hours before arriving.. which can be stressful when abroad and not always access to wifi to receive info. She also was not there for check-in (granted we were an hour late due to flight delay), and as a result we didn't receive any instructions on how to use anything. For example, I took a cold shower the first night because the hot water tank had been turned off before we got there. We also could not open the front door on our own (tricky key lock) so we had to wait outside 20 mins for her to send instructions. Anyway, other than having some delays in communication... everything was pleasant and what info we did receive was clear and easy to understand. Enjoyed our stay overall.\n+ Plus",
+            "name": "Kelleen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "very g(PHONE NUMBER HIDDEN)d",
+            "name": "Seunghun",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The place is just about right for a couple. It's a little and a very cute place right in the heart of the city with great access to public transport and restaurants. I will love to stay at this place over and over again. Even the host was very accommodating and polite. Thanks Laura for a great stay at your place.",
+            "name": "Akash",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Clean, great location, easy check-in and helpful host.",
+            "name": "Kristina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "The place was charming and in a great location. Laura is super sweet. The only issue was entering the home. The lock is one tough cookie! Lol make sure Laura shows you how. Unfortunately we got in too late and had to figure it out on our own.",
+            "name": "Beth Kristen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "This is a fantastic little pad to base yourselves for a short Paris trip. Has everything you need with easy access to the Metro for getting around the city. Would highly recommend.",
+            "name": "Antony",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Apartament molt ben situat, acollidor i decorat amb molt bon gust però on es nota el pas de l'espècie humana. Tot correcte però esperavem trobar-lo un xic més net. Petit pati amb molt potencial una mica descuidat. Un llit en alt on hem dormit sorprenentment molt bé. L'anfitriona molt amable i atenta. Contents amb l'experiència.",
+            "name": "Marta",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "The apartment was very clean and comfortable and close to everything really with a nice walk. Loved the area. Laura was always easy and quick to communicate with so made it very easy. Would recommend highly.",
+            "name": "Bev",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "This apartment is very simple and clean, with a modern layout. The natural light is astounding thanks to the small garden area with its open roof. The space is easy to find, and we felt very safe. It's right in the heart of downtown Paris, with only a short walk separating you from some of the best local restaurants (many of which Laura was happy to list for us). The Lourve and Eiffel Tower are about 30 and 45 minutes away, respectively, by foot! The kitchen has cups and plates, but no bowls. There is a small fridge with plenty of room for your basic necessities, a drying rack for dishes and plenty of utensils. The bed is comfortable, but you might consider bringing extra, more fluffy pillows for a longer stay. Taller guests, however, might find themselves lacking room. Overall, the bathroom was a mixed bag. The rainfall showerhead in particular was lovely, but, if you use too much water pressure, the water will overflow onto the floor. In order to have a hot shower, you must use an on-the-wall water heater. This must be turned on *at least* an hour in advance, if not longer, in order to ensure a decent shower time. The sink was very small and the mirror even smaller, which my girlfriend had issues with (me, not so much). We stayed at Laura's place towards the end of March, so the weather was nearly perfect for our entire stay. It got cold one night, however, so we had to use the heaters to warm up. The heather under the stairs has seen better days, but it certainly kept the place nice and toasty. There is a very small washer/dryer unit, crammed under the kitchen counter. We tried to dry some towels, but even after running for hours it never seemed to work that well. Perhaps it was our lack of understanding the directions (we looked up the manual online, due to the unit having French labels), but this situation might not be the best for staying longer than a week. There is a flat-screen TV with (SENSITIVE CONTENTS HIDDEN) Chromecast, allowing access to French cable, YouTube, and other video apps. The only time we had something playing was while getting ready to hit up the town or after coming back and preparing for bed. Overall, Laura and her apartment were fantastic, and we wouldn't hesitate to stay here again.\n+ Plus",
+            "name": "Austin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Laura's place was perfect for us as we were only in Paris for 48 hours. The location is a 1 minute walk from the Metro and the lovely old Rex cinema, and a few minutes walk to Le Bouillion Chartier. The interior of the space has high ce linings so although it is compact, it is airy, clean and bright! Laura is an absolutely sweet and superb hostess, happily helping us to find a mid week flea market (much appreciated) and helping with dining suggestions. My husband & I are already looking forward to staying at Laura's again. Thank you for your kindness Laura and best wishes for your little one. Clare & John in London.\n+ Plus",
+            "name": "Clare",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "The apartment was clean, functional and well located for sight seeing. The only part that took me by surprise was the train noise. Laura was a wonderful host that went out of her way to answer questions and direct us to restaurants.",
+            "name": "Tina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Great location, advice from Laura was accurate and always timely. Really enjoyed the location and it was a comfortable stay. Plenty of good cafes and restaurants close-by and main tourist attractions were within walking distance",
+            "name": "Sheree",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "I can't say enough good things about Laura's place! She was so kind and welcoming when we arrived and was very easy to communicate with. The apartment was very clean and the bed and pillows were comfortable! She went above and beyond to leave us breakfast and make our stay wonderful. The streets in that area are beautiful and there are several grocery stores right around the corner (the kitchen has plenty of dishes and pots and pans as well as an electric kettle for tea, so we cooked for ourselves both nights). Right near the metro station, and a quick scenic 15 minute walk from Notre Dame. Highly recommended! I can't wait to come back!\n+ Plus",
+            "name": "Taylor",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Great apartment, location very good close to bars/restaurants etc. Metro within 2/3 minute walk. Laura was very quick responding to any questions we had, great stay in Paris!",
+            "name": "Fraser",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "It's a small flat at ground floor. Perfect location! The metro is near the flat about 2 min walk. But you will hear the noise from metro. Laura is nice host. The flat have everything. It's a good experience for my first Airbnb.",
+            "name": "Wen-Che(Kyle)",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Fantastic stay at Laura's place. The apartment was clean and well situated. Laura kept in touch throughout our stay and was a perfect host! Would definitely stay again when we return to Paris.",
+            "name": "Daniel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Fantastic location, clean and modern apartment with a really welcoming host. Highly recommend.",
+            "name": "Megan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "We had a great stay at Laura's apartment - the location is great and enabled us to see lots of things easily. We had some difficulty finding the place and getting inside. The kitchen is very minimally equipped, with only 2 mugs and glasses, and no bowls or sharp knives. The bathroom is tiny and the shower had trouble draining and would flood. Overall, the apartment is very warm and cosy, well located and good value for money.",
+            "name": "Laura",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Wonderful little apartment in a great part of the city. Plenty of shops/restaurants/bars etc, just 5 mins walk from the metro. Would definitely stay here again.",
+            "name": "Ryan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Fantastic apartment centrally located. Laura was a warm and friendly host, and left breakfast foods for us, which was so sweet! The apartment is twstrfully decorated and incredibly clean, and we had a comfortable stay.",
+            "name": "Sienna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Thanks Laura! The place was great and in an amazing location. I would highly recommend this Air B&B, and Laura as a host. She was very accommodating with check-in when our flight to Paris was delayed. The space was nice and cozy.",
+            "name": "Clare",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Laura's apartment was everything we hoped for, walking distance to a great shopping area, very close to the metro and a wonderful place to relax after a long day in Paris. Check out Rue Montorgueil (2 mins walk) for great food! Thank you Laura. It was a pleasure, we hope to be back one day!",
+            "name": "Alyssa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "The apartment is located in a great place. It has several metro lines in walking distance and the neighborhood is full of cafés and bars.",
+            "name": "Alberto",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "We stayed at Laura's place for 6 nights during December 2016. Good things: Laura's attention to detail and taste in design is beautiful! It's a lovely little apartment. Oak floorboards and stairs which are accentuated with greys, greens and yellows in the decor. Good heating - two heaters in the room, one below the bed which made it very toasty at night. We loved the \"rainfall\" shower head. Soooo nice after a long day wandering around in the cold. The water heating was also really good - when it ran out it didn't take too long to reheat. Apartment is located in a great area - close to the metro, and a lovely walk down to the Seine and Notre Dame. We found we could walk pretty much everywhere. The location felt safe. Compared to places we visited like Montmarte we didn't feel worried about pick pockets at all. We were here in winter though, not sure what it would be like in peak season. Laura was very responsive to texts. She let us enter the apartment early because we were very tired from 36 hours of travel. She was also kind and understanding - we accidentally broke two glasses while washing up and she was fine about it. Not so good things: Place wasn't prepared for a longer stay. For example, no extra blankets supplied, no bowls supplied (so we ate our morning muesli out of mugs every morning), only two mugs and two glasses supplied (which is fine but gets a bit annoying after a few days), no extra towels or bath mats or hand towels supplied (6 nights is a bit too long to use the same towel), only one tea towel supplied, no washing line supplied, no garbage bags supplied (again, 6 nights too long to use one garbage bag). There was a very low supply of hand soap and detergent when we arrived. Laura brought us more hand soap upon request. The door is a pain to lock and open. I never got the knack of it so lucky my husband did, sort of. The washing machine was broken when we arrived and wasn't fixed during our stay. The low supply of towels etc might not have been so bad if we could have washed things. The shower floods easily, so we found that using the same bath mat to try and dry up the floor got a bit gross. As the bathroom is very small and not ventilated it took about a day for everything to dry. The bed loft was very comfy, but maybe just slightly too small lengthwise for my 6ft2 husband. He said it was fine and he wasn't uncomfortable but his feet could touch the wall. Anyone taller might want to keep this in mind. It would have been nice to have been supplied a list of instructions on things - how to work the heater, what to do with the key when we leave, how to empty the bin,...\n+ Plus",
+            "name": "Gabriella",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Lovely place close to good restaurants and attractions!",
+            "name": "Marianna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Beautiful apartment in a quiet & accessible location! Everything was as shown in the picture!! Laura was such a nice & understanding host. We loved our short stay there!",
+            "name": "Jazreel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Laura's place was great! Awesome location as it was 3 minutes walk from Sentier metro stop, and just a few minutes walk from Rue Montorgueil, which has awesome bakeries and restaurants. We even walked all the way to the River Seine from the apartment. The apartment is quite accurate to the pictures provided, very quaint and perfect for a couple. However an issue was that the apartment was in a building that was being renovated, so there was scaffolding on the building and we weren't even sure if we were at the right place. There were also some issues with opening the door to the apartment though, so please listen carefully to the instructions on how to open it when checking in. Would be best if you actually try it a few times while Laura is there. Overall it was a great stay in Paris! Thank you Laura!\n+ Plus",
+            "name": "Nurul",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Laura was very helpful in accommodating our late arrival. Great place to stay for a weekend in Paris thanks.",
+            "name": "Jane",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Laura's place is very small and located in the sentier neighbourhood which is an easy walk to the Notre dame, Louvre and Montmartre neighbourhood. We walked to the Eiffel tour and champs élysées and caught the metro home which was no problem. Laura's place is small, but good value for money. So maybe not the place if you like spending time at home while away but for us it was a perfect place too sleep, cook breakfast and have a rest and relax of an afternoon. It is located in a secure building with a door code. The neighbourhood is really nice with plenty of cafes, patisseries, butchers, pharmacies and supermarkets for all your needs while away.\n+ Plus",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "This apartment is exactly as pictured and there were nice little treats left for us when we arrived (OJ & grapes). The neighborhood is awesome and there are tons of restaurants & shops nearby. Laura was also very nice & helpful with some local sightseeing recommendations. Unfortunately we did have some issues with our stay... 1) We had alerted Laura that we would be about 15-20 minutes late for check-in due to train schedules which she was great about. However when we arrived, she was still in the middle of cleaning and we were forced to leave our bags there and kill some time until she was done. Once we got back, we noticed there were sheets still in the dryer from the previous people who stayed which we had to fold & put up. 2) After we checked in, we received a visit from the upstairs neighbor who had accidentally dropped a wine bottle on the kitchen ceiling and asked if we could follow up with Laura since she never heard back from her. We hadn't been told about this and hadn't noticed any real issues inside but there was broken glass on the patio so we weren't able to enjoy the outdoor space. 3) While there is a metro stop very close, we found this to be a drawback to the unit since you can actually hear the trains all.the.time. 4) We also had issues with very loud construction noise (i.e. jackhammering the walls) from 7:45AM-9:00PM which prevented us from really relaxing & enjoying our stay. Overall: Pros - great unit in a wonderful neighborhood with a nice host. Cons - scattered/incomplete communication and a noisy building that is under heavy construction for the foreseeable future.\n+ Plus",
+            "name": "Meghan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Great location close to metro and a boulevard full of shops, restaurants and bars. Apartment looked exactly how it did in the picture and is perfect for a couple or solo traveler. Laura was very welcoming and gave a quick tour of the place, was easy to communicate with. Would definetly refer her place to friends.",
+            "name": "Adrian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Thanks Laura for your kind hospitality. I did enjoyed the stay... Love ur place..",
+            "name": "Felicia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "This was a fantastic place to stay. Right in the heart of a thriving café strip with plenty of attractions in walking/biking distance. The apartment itself was beautifully presented, just like the photos. Only downside - we stayed at a time when there was construction next door, which was fairly noisy. However, not a drawback of the dwelling, per say.",
+            "name": "Tia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "This place was wonderful! It looks just like the pictures. It's in a great location for restaurants and not a far walking distance to some major sites. Laura was a wonderful host, she made sure that we were comfortable in the place before she left and was always available if we needed anything. It's a pretty quiet area at night the only thing we really heard during our stay was the metro under the building but it wasn't bad and it only runs during the day/evening. I would definitely return and stay at her place!",
+            "name": "Brianna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Laura's home was a wonderful place to spend a weekend in Paris. The studio was in a brilliant location and the studio itself was everything we needed for our Paris adventure. Laura met us at the agreed time and was very friendly and helpful. Would definitely like to stay here on our next trip to beautiful Paris.",
+            "name": "Daniel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Laura made the apartment very welcoming by providing some goodies (juice and breakfast foods) out on the counter upon our arrival. A nice touch! The apartment looked exactly as it is described on the listing and as the photos depict it. It is very modern and comfortable, and in a great location that's close to the Metro. The shower was a bit of a struggle - the water easily drips out onto the floor and the hot water supply is limited (not enough for 2 people). The door can be a bit tricky too (the secret - pull the door in as you twist the key to the right!). But otherwise, it was an enjoyable stay and great value for the price!\n+ Plus",
+            "name": "Bill",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "You're a 15 min walk away from the louvre and opera garnier so great location and close to many metro stations. The apartment is immaculate and so well thought through. I would love to come back!!",
+            "name": "Lottie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Laura made me feel at home in Paris. Her apartment was beautiful and clean. Laura was very helpful and considerate.",
+            "name": "Hannah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "The flat was as described and looked exactly like the photos. I didn't get an opportunity to meet Laura, however someone was at the flat awaiting my arrival. I struggled to locate the building because there was scaffolding up that masked the building number, however I just used the pictures on the advert to identify which end of the street it was on. I loved being so close to two Metro stations. It made getting around the city extremely easy. I found the flat a great little place to crash for the 4 nights I was there. The bed was comfortable and I slept well. There is hallway noise, but I didn't take much notice of it as I wake up very early. The wifi was great to have and had decent enough broadband speeds to stream a movie on my iPad one night. Laura was always responsive to my correspondence. I would stay here again and highly recommended it for a solo traveller like myself or a young couple.\n+ Plus",
+            "name": "Laura",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Laura's apartment was beautiful, well connected to public transport, and exactly as described! We took a two week trip throughout Europe, and this was one of our favorite Air B&B's. We looked forward to returning every night. It's cozy, but doesn't feel cramped due to all of the natural light. We would recommend Laura to anyone and would love to return someday!",
+            "name": "Adam",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "The location and the apartment itself is a dream! Laura was very helpful (also in questions apart from the apartment) and answered very quickly. Thanks for the host, and hopefully we will come again.",
+            "name": "Till",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "The apartment is very central and only about 10mins walk to the Louvre. Plenty of shops and cafes in the area and a short taxi ride to the train stations. The apartment was just as described and very clean. Laura was the perfect host and easy to communicate with.",
+            "name": "James",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Great place to stay! Very clean and close to everything in Paris",
+            "name": "Laurie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Great little apartment! It was an excellent home base for us during our stay in Paris. It's definitely a small studio, but works for two people assuming you're comfortable with each other. There's a great market a few blocks away and only a bit further to the Louvre and other central parts of the city.",
+            "name": "Kiersten",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "The apartment was very cool. We only stayed at the apartment for one night, but felt very comfortable at the location.",
+            "name": "Brooke",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Laura is wonderful host. She is kind & hospitable. Laura's apartment is cozy & looks exactly like pics. Also, there is metro station near her house.",
+            "name": "Dongkyun",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Laura's home is such a charming little place, I regret not staying longer! It's very spacious for two people and the little outdoor nook was the perfect relaxation spot after a long day out exploring. It's well located (close to a metro stop) making it accessible to many of the main attractions and has many bars and restaurants close by. I would highly recommend this listing!",
+            "name": "Pauline",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Note: this was our first-ever AirBnB experience. Laura's place was exactly like in the pictures, and the bed was bigger and more comfortable than we expected. The wifi worked great. Laura was unable to meet us when we arrived, so she arranged for a friend to let us in, which worked out fine. I can't say if the place was quite as prepared as Laura would normally have it... There was a very small amount of toilet paper which we quickly ran out of, and no tissues, shampoo, or toiletries available, and the hand soap in the bathroom was nearly empty. The apartment has no A/C, and at night in Sept it was a bit warm for us, so we opened the glass courtyard door for some fresh air, but a close neighbor was having a very loud karaoke party until about 3 am (Friday night) which was unfortunate. There is also no screen on the door, so a couple of bees flew in, but they quickly died. I will say that Laura's communication was excellent. She always responded to my AirBnB messages and provided other ways to contact her if needed. She even offered to help us if we got lost or needed a recommendation of a good place to eat.\n+ Plus",
+            "name": "Jess",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Great little place in an excellent location. Had a few problems with the door but other than that really great!",
+            "name": "Kirsten",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Due to a family crisis Laura could not meet us upon arrival and we were met by someone who faileded to pass on crucial information, including that the door to the building needed a code after dark, so when we retuned from dinner on our first night we found ourselves unable to access the building and no way of contacting the host, which was most distressing. So if you stay here, make sure you take the code with you. Other than that the flat is clean and although small has everything you need. It is very central and we found we could walk to most places within a few minutes, the area felt quite safe.\n+ Plus",
+            "name": "Suzanne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "My partner and I were delighted to stay at Laura's place for the night in between flights. She was very accommodating and the place matched the photos exactly. Thank you Laura! -Sebastien",
+            "name": "Sébastien",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Beautiful little apartment a stones throw form all the major sites and sounds of Paris. Super clean and well equipped.",
+            "name": "Fiona",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Our host Laura was brilliant, clear communication throughout, helped us find local places on a map, and was so kind. The flat was beautiful - just like the photos - and even though it was a very hot week as its on the ground floor was surprisingly cool! Am thinking of coming back with my best friend next summer and will definitely try book lauras place again!",
+            "name": "Anne-Marie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "wow, what a place!.. it has everything you need for a perfect Paris experience. feels like a home away from home and I highly recommend this place as Laura was a great host and the location is just what we were looking for.",
+            "name": "Jonathan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Laura was very helpful! Even though she couldn't be at the apartment when we arrived, she arranged for a friend to be there for us. She provided us with information about where to store our luggage before we could go to the apartment and offered to tell us anything about the city we might have wanted. The only down side to our stay was the towels weren't dry and were put in a closet.",
+            "name": "Shanlee",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Laura's apartment is très très chic and offers everything a visitor needs. It is exactly as pictured. I was there for two days and felt right at home. The neighborhood (the 2nd arrondissement) is pretty touristy (you are right near Opéra and the grands magasins) but that can have it's advantages. Transit is fairly simple with easy access to the 8, 9, and 3 lines. There were some initial communication issues, but once things were sorted out communication was great; Laura met me at the agreed upon time and stayed in contact for the duration of the stay. I would absolutely recommend her place.\n+ Plus",
+            "name": "Julie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Perfect location for exploring Paris. The apartment is small as you would expect from the photos, but ideal for two people. There is noise from the nearby metro but it shouldn't be a problem unless you are a very light sleeper. Overall it's a lovely apartment in a fantastic location.",
+            "name": "Sonya",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "This was a lovely bright studio apartment and lives up to it's photos. It's very modern and spotlessly clean. The location is great and about 15 minutes walk from the Louvre and less than 5 minutes from the metro. Laura was excellent to deal with and responded to any messages or requests very quickly.",
+            "name": "Jarlath",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Very clean and easy to find. I would recommend to others with no regrets.",
+            "name": "Adrianne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Laura's apartment is in a great position, is lovely and light filled and we felt instantly at home. Laura was lovely and very helpful. I would recommend Laura's apartment to anyone staying in Paris.",
+            "name": "Toni",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Laura” house is a decent and cozy apartment. The location is perfect. It's close to 3 metro stations of 2lines ( line 3 and 9).The kitten and the refrigerator is usable although a little bit small in size. The toilet is also on the small side but clean. The drawback is no air conditioner. It's quite hot in Paris in July. There's big fly and mosquito when we open the glass door. Moreover, there is low pitch noise regularly in day time. We guess that it's from the metro trains Anyway, we enjoyed the stay and love this apartment.",
+            "name": "Siu Ming",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "My husband and I stayed at Laura's apartment a few days ago. It's so beautiful. It's intimate, cosy & looks exactly like the pics. Great location with easy access to metro & shops. Laura was a great host. The waffles & juice were just a lovely cherry on top:-) I would highly recommend her apartment.",
+            "name": "Cokisa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Great little place centrally located in Paris. Modern and clean. Laura was very helpful and responded quickly. I would highly recommend it to anyone.",
+            "name": "Jeremy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The apartment was in a really great central location & apartment was standard small size for Paris . Overall an ok stay, some minor things were frustrating including check in and check out as the host wasn't available so we had to liaise with a friend.",
+            "name": "Vivian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "great communication! great location! everything we needed and more! would definitely stay here again!",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "My boyfriend and I stayed at Laura's charming apartment over the weekend and we liked it very much. The apartment itself is small, but it's got loads of character and it's very clean and welcoming. The area is probably the liveliest and most vibrant part of town with loads of cafes, bars, restaurants etc. Laura was very helpful and responsive when I reached out to her. I would definitely recommend Laura as a host. The only complaint I have is not related to Laura, but the neighbors. We woke up to drilling noises at 7-8AM during our entire stay which was not ideal\n+ Plus",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "It was the perfect place! Laura and her husband were so kind and were very responsive with any questions through email and texting all the way up to our stay! Great location, great communication, the place looks as wonderful as the pictures and we would love to come back at stay during our next visit!",
+            "name": "Jacklyn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Very cute place in fabric district! Also has nice bars and restaurants nearby!",
+            "name": "Loren",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Absolutely gorgeous apartment that looks exactly like the photos! It's in a great location that has access to the metro as well as allot of the main attractions within walking distance. Laura was lovely throughout as we had a few questions although we met her husband when we came who was equally as helpful. I would highly recommend staying here if you are looking for a little bolt hole while you are in Paris",
+            "name": "Abbie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "A truly fantastic location. A perfect and immaculate apartment with a lovely comfy bed. The host Laura was so warm and welcoming. She has been so kind and amazing to communicate with. I can't thank her enough for all she has done before during and after our visit. I would recommend this apartment to anyone. You won't be disappointed.",
+            "name": "Richard",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Very lovely apartment in the hear of Paris. Great location, great host, super friendly and helpful. I could even exten my departure time on the day of arrival. The apartment is modern, super clean and comfy just the perfect escape in this metropolitan city.",
+            "name": "Andy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "The apartment is exactly as described. Laura was very responsive in the beginning, but ended up having travel plans the week we were to arrive, so there was a slight delay. She did connect us with a friend to give us access to the apartment. He didn't seem to know the process as well and was pretty strict about EXACTLY what time we were to arrive. All worked out in the end, but the pressure wasn't fun to deal with after a long flight. The neighborhood was very quiet. It seemed to be a business district - possibly? It was a Sunday when we arrived and a holiday on Monday, so not many people walking around late night or early morning when we left. The bathroom was spotless and the shower was wonderful. The bed was comfortable. Wifi worked great. The outdoor area was very cute too.\n+ Plus",
+            "name": "Cari",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "We met Laura on arrival and she was lovely and welcoming. The flat is exactly as it looks in the photo, down to the positioning of the cushions! The flat is well equipped and exceptionally clean, and the bed was very comfortable. The neighbourhood is perfect as it is within walking distance of many major sights, and very close to a Metro station to access sights further afield.",
+            "name": "Josephine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Laura's apartment is adorable! It's newly remodeled, has everything you need and very bright and open floor plan. Pictures are exactly what you'll get! She's very nice and accommodating and excellent communicating. She provided maps and directions to places we wanted to visit; even offering suggestions for other \"must sees\". Confidently located with lots within walking distance. She met us to exchange the keys and explain the place. We had an incredible time. Thanks Laura! If you're ever in Colorado, we'll return the hospitality!\n+ Plus",
+            "name": "Karen",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Laura was a remarkable host. She was very helpful prior to our arrival and throughout our stay. The apartment was imaculate- great design and had everything that I required and more. It was clean and tidy and in a great location. We didn't need to take a train or bus during our stay as most areas of interest are in walking distance from the apartment. . Great selection of cafes, bars and restaurants a few meters away. Would definitely recommend/ return for a second stay in the future. Thanks again Laura!",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Laura was great! Super welcoming and helpful! The apartment was nice, clean, bright and functional. She showed us how to use the key in the door, as there was a little bit of a trick to get it open. The images Laura has provided are true to coming into see the apartment. It is small, but the apartment is normal in size considering you are in Paris! You do hear some hallway noise of other tenants as they all pass by as you are close to the front door, as well as I believe you could also hear the metro coming and going through the walls. However, these noises were not bad, and we were able to sleep fine.\n+ Plus",
+            "name": "Candice",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Laura's place was just perfect! Very good location, super clean, and she was available for my questions. I had difficult time learning how to open the apartment door but she gave me a sheet that described detailed instruction. Her place was so popular so I could only stay for one night. If I had a chance to come back to Paris, I would stay at her place again.",
+            "name": "Kyoko",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Laura was absolutely such a gem. Great communicator. She wasn't able to meet us but she let us know who would be meeting us. The neighbourhood was very well located. It is right by the metro station and has some great boulangeries in the area. The building the apartment is located in, is stunning and very typical of Paris. Would definitely return. It is cozy and very welcoming with great natural lighting.",
+            "name": "Samantha",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Laura's apartment is very nice and well furnished. It is in a good location in Paris close to dining, shopping, the metro and grocery market. The bed was very comfortable and her washer dryer comes in handy to clean your clothes if you are on an extended trip as we were. She is a great host and was responsive to our questions while we were there. We will be back.",
+            "name": "James",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "We had a great time and really liked our stay in Laura's apartement. Everything was perfect! The location is very convenient to get around in Paris and Laura is a perfect host.",
+            "name": "Veronika",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Very cute apartment in an ideal location to explore Paris. We were running slightly late after cycling from London... Laura and her husband were very accommodating and met us on arrival. All the you need for a short stay! Would recommend.",
+            "name": "Luke",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Very nice apartment in a great neighbourhood. Close to restaurants & the metro. Laura was very responsive and helpful. I would definitely recommend this to anyone looking for a place for a few days in Paris.",
+            "name": "Dan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Great apartment which is conveniently located.. nice host!",
+            "name": "Gabriel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Laura was a helpful and responsive host. My friend and I had a little bit of trouble with unlocking the apartment door, but Laura kindly worked with us until we figured it out. We found the space to be pretty spacious and met our travel needs. Too bad it rained during our stay, as we didn't get to enjoy the tiny garden terrace. Located close to the metro, we would hear the rumble of the metro from time to time in this 1st floor apartment. But with the bed lofted above, it didn't bother us whilst we slept.",
+            "name": "Stephanie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Laura's apartment was beautifully styled and central to everything we wanted to see in Paris.",
+            "name": "Maura",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "We stayed here for one night in Paris and it was great. The place is adorable and in a perfect location. Laura was sweet and very accommodating to our check in needs. What you see is truly what you get - the apartment is small! But it's chic, clean and cozy. My boyfriend and I stayed here comfortably (with a lot of bumping into each other in the bathroom) and definitely would again.",
+            "name": "Kat",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Laura was a perfect host! The apartment was really clean, she was helpful and prompt, and it was very comfortable. Thank you Laura!",
+            "name": "Siobhan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Laura was a perfect host, handing over the keys spot on time and even showing me around her studio with a very warm personal welcome. Her apartment is exactly as beautiful as shown on the pictures with a very nice living area, kitchen, bed and even terrace directly in Paris' city center. The apartment was super clean and I really felt very welcome by Laura and loved to stay at her cozy studio and would always recommend it and stay there again. A big thank you for hosting me Laura. :)",
+            "name": "Burkhard",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 4.5,
+    "nbReviews": 110,
+    "communication": 5.0,
+    "emplacement": 5.0,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 23,
+    "qualite-prix": 5.0
+}

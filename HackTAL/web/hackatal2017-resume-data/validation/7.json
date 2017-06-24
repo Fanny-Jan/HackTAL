@@ -1,0 +1,751 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "pos": [],
+            "name": "Françoise",
+            "text": "Une hôtesse très sympathique. La proximité des canaux est très agréable. Un cinéma et une librairie tout proches. Le métro et un arrêt de bus sont juste à la porte.",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Florence",
+            "text": "Logement très calme, facile d'accès et sécurisé, lumineux, chambre conforme aux photos, literie confortable et très propre, à recommander !",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Jonas",
+            "text": "Tout s'est parfaitement bien passé. Je recommande!",
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Caroline",
+            "text": "Super logement en face du canal Saint Martin. Vue sur le canal et Montmartre! Juste à côté de commerces, restaurants et ciné MK2. Super séjour chez Anna qui m'a très bien accueillie, je vous recommande.",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Catherine",
+            "text": "Chambre propre et confortable , pas de bruit , hôtesse accueillante et disponible . Ensemble reposant Je recommande vivement cette location",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Pascal",
+            "text": "Un accueil chaleureux, une hôtesse présente mais discrète, des conseils avisés sur les sorties et les restaurants. Une chambre propre et calme. Je recommande ce logement.",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Abdil",
+            "text": "Anna est une personne très accueillante, agréable, souriante... échanger avec Anna pour découvrir un autre Paris.",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Julie",
+            "text": "Anna s'est rendue disponible pour m'accueillir malgré mon arrivée tardive. Les informations apportées étaient précises. La chambre est agréable et calme.",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Julien",
+            "text": "Le séjour était parfait ! Anna est disponible et communicative donc aucun souci. Logement propre et fonctionnel ! Merci bcp !",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Thomas",
+            "text": "Anne est femme charmante, gentille, à l'écoute pour toute demande et conseille parfaitement bien. Rien à redire. Je recommande!",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Josiane",
+            "text": "J'ai été très bien reçue Anna a été à mes petits soins je recommande Anna",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Floriane",
+            "text": "Un accueil très chaleureux et agréable. L'appartement était très propre. Le métro à deux pas et vue sur le canal tres sympathique ! Je conseille fortement sans hésiter :)",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Blandine",
+            "text": "Anna m'a très gentiment reçue , très arrangeante sur les horaires d'arrivée, Ét l'appartement d'Anna , bien que situé dans un quartier très animé , offre des nuits tout à fait tranquilles . J'ai également apprécié la générosité d'Anna qui m'a offert de quoi prendre un petit déjeuner délicieux , the, confitures , café , .. . Séjour donc très agréable et tranquille .",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Cedrick",
+            "text": "Accueil très chaleureux malgré un retard de plus de 06h00. Suite à un incident sur les voies SNCF je suis arrivé à 03H00 du matin et Anna m'a très gentiment accueillie. Merci beaucoup",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Arthur",
+            "text": "Coucou Anna, merci pour l'accueil! Merci pour la cave et à une prochaine. The flat was conform to the description. Tidy and clean, it's very well located. I will recommend to stay at her place.",
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Jeannine",
+            "text": "Anna nous accueille chaleureusement dans son bel appartement, petit îlot de sérénité dans un quartier magnifique et étonnant.",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Jane",
+            "text": "L’accueil était royale chez Anne, elle était très attentive à nos besoins et elle m'a même prêter une châle pour sortir, car il faisait frais ce jour là. Elle était rapide avec ses communications et l’appartement corresponde aux images et attentes. Je recommande vivement un séjour chez Anne.",
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Veronique",
+            "text": "Belle adresse Anna est très accueillante elle est toujours là pour vous rendre le séjour chez elle et à Paris agréable . La chambre est petite mais confortable et très propre . La vue est belle et le quartier animé et vivant . On ne peux pas manger dans la chambre ;mais Anna nous a gentiment proposée le petit déjeuner en sa compagnie ,c est comme à la maison . C est très bien pour un court séjour. Merci Anna",
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Emmanuel",
+            "text": "En qlq mots, Un très bon accueil, fort sympathique dans un appartement que je trouve très bien également. Je conserve, pour une prochaine visite sans hésiter. Cdt Emmanuel",
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Fabienne",
+            "text": "Si vous désirez rentrer chez vous avec l'impression d'avoir passé le week-end chez une amie alors vous êtes au bon endroit. Anna vous réserve un accueil chaleureux et se montre très disponible pour vous conseiller dans l'organisation de vos visites de la ville. Son appartement est situé dans une rue très agréable avec quantité de restaurants à proximité. Merci Anna et à bientôt !",
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Vitali",
+            "text": "Communication parfaite. Très flexible est serviable. On se sent très bienvenu. Je recommande !",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "name": "Lucas",
+            "text": "Super hôte. A recommander. Chambre très bien située au calme et literie super confortable.",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Jorinde",
+            "text": "Je ne peux que recommender le logement d'Anna!",
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Mireille",
+            "text": "Cet hébergement chez Anna était parfait, accueil très chaleureux, chambre douillette, calme, rien à critiquer! en plus, Anna a été très conciliante quant à mon heure d´arrivée....vraiment à conseiller.",
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Luc",
+            "text": "Un excellent séjour dans une chambre d'hôtes située dans un des plus beaux quartiers de Paris, avec vue sur le canal Saint Martin. Je ne manquerai pas d'y retourner lors de mes prochains voyages à Paris. En plus, Anna est vraiment très sympa.",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Jingrong",
+            "text": "C'est une expérience très agréable !Anna est très gentille,la chambre est propre !",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Nicolas",
+            "text": "L'accueil et tous notre (court) séjour a été formidable. Anna a été extrement aimable et nous a aidé dans tous nos besoins. L'appartement est très bine situé, la chambre calme et propre. Je recommende vivement pour un séjour à Paris.",
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Benoit",
+            "text": "Excellent location, nice room and Anna makes your feel at home.",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Benedicte",
+            "text": "Great host eager to meet guests! Very comfortable place! I just stayed overnight but to wake up looking at the water is great also! All in all a good spot and a great host",
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Katy",
+            "text": "Had a great stay at Anna's with its lovely views over the canal. Cosy bed and great communications, thanks Anna!",
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Shaari",
+            "text": "The walking in the canals of the Seine is so nice. The bed is very comfortable. Anna is friendly and accommodating. Easy access to subways.",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Paradigm",
+            "text": "Anna's place was a great experience, prime location with an amazing view. Easy access to transit. She is warm, friendly, and helpful. Would recommend!",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Inbal",
+            "text": "Nice clean and comfotable place.",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Brett",
+            "text": "Booked last minute due to a schedule change. Anna was very accommodating and kind. We didn't have much time together but I would highly recommend her place for a short or extended stay.",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Charles",
+            "text": "Anna is great, it's clean, and very very close to the metro.",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Michael",
+            "text": "Anna deserves to be a super-host. She was very welcoming and helpful. She has such a beautiful apartment and you can see she takes great care of it. I would definitely stay here again.",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Yuliya",
+            "text": "Loved Anna's place. The room is very nice, comfy bed. The stairs to apartment are not too bad, but that's something that can't be avoided in any part of Paris. The bathroom is reachable through the kitchen, so if you want something more private, might not work for you. The room had a lot of space, which is very nice for the small Parisian apartments. Anna is so fun and so knowledgable, I wish I had more time to chat with her about France, my trip was too short! Great place on a budget!",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Nicola",
+            "text": "Anna was a very warm host and even though there was a bit of confusion about the check in time, stayed home from work to receive me, and also gave me a great recommendation for my later travels!",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Katharina",
+            "text": "Really interesting area of Paris, very good Metro access, very tidy room with nice canal view, thanks Anna for a really good time in Paris",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Jesus",
+            "text": "Anna's flat was perfect and the view was stunning, really close to the subway and a bunch of restaurants. She was super helpful and friendly. Thank you Anna for your hospitality!",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Felix",
+            "text": "Nice house and a friendly host!",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Ying",
+            "text": "Anna is very helpful and friendly, she makes my short time in Paris a pleasant journey.",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Renee",
+            "text": "A true Parisian experience. Stellar location. Fantastic hostess! I loved the building. As I walked through the atrium and up the winding stair case, I could faintly hear the chatter and laughter behind it's closed doors. It gave me a sense of security that even though I was traveling alone in a big city I was surrounded by the best of life itself. I can't wait to go back with my husband!",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Edge",
+            "text": "Anna is the most kindly person that I have known in Airbnb. It's beautiful the room which she rent. The zone is awasome. Pleae, don't hesitate to rent the room if you want to be near Jeurex.",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Cecilia",
+            "text": "Anna's place is just as described in the listing, she was helpful and very accurate. Great view, convenient location with many restaurants and bars, just a minute walk from the train station.",
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Hoi",
+            "text": "Ana is a nice person and a kind host.",
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Jisun",
+            "text": "1) The neighborhood maybe unsuitable for female solo travelers 2) 5 flights of stairs with no lift / elevator - if you are carrying a suitcase or have problems climbing the stairs 3) House key / access during your stay - maybe restricted as the host may refuse to give you the key (I had to negotiate for this as I cannot be contacting the host to see if she's home every time I go in and out) 4) Communication with the host - English language and nuances are not fully understood. Miscommunications and misunderstandings may happen. Might as well just avoid the emotional drain and waste of time",
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Jake",
+            "text": "The lift would be mentioned if there is one ! I'm still the owner of the flat so as an host I leave the keys to the guests showing me confidence. Hosts are not obliged to leave their keys !!The location is very safe. Nobody before you mentioned it. You are really a very snob person and typically a customer for Palaces. Sorry but Airbnb is functioning another way!",
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Lizzie",
+            "text": "Very well kept flat in an area that I really enjoyed seeing, view was lovely! Anna was very helpful and provided everything I needed",
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Damien",
+            "text": "Great place, easy to find, wonderful host. Great view from bedroom window.",
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Jake",
+            "text": "Very central apartment, my stay here was good and Anna is lovely!",
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Dushime",
+            "text": "Anna is awesome! I highly recommend staying here.",
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Frank",
+            "text": "Great location close to public transit! About 50m from a tube station. Anna could not have been nicer!",
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Koilee",
+            "text": "Anna was an excellent host. Very helpful and kind. Definitely recommend the place. So close to the metro. Easy to get around.",
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Jean-Francois",
+            "text": "Always a pleasure to stay at Anna's place! Fantastic location and great views, very nice flat and cosy room. I thoroughly recommend!",
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Yosi",
+            "text": "Anna was very nice and accommodating. Nice room.",
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Eric",
+            "text": "Anna is a really nice host.",
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Achim",
+            "text": "A nice room with a remarkable view on an almost seaside view - and very welcoming host.",
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "阳",
+            "text": "This must be the best living experience in Paris.The apartment,the entrance,the oak staris,everything will take you back into 1892.And Anna is a very thoughtful host,every detail things which she provide will definitely impress you,for example,the whole set of socket connector of all over the world.",
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Bobby",
+            "text": "Anna was a wonderful host! It's a super easy to find location that's so close to a local metro station. The bed is very comfortable and spacious, and it's super well lit. One of the best places I've stayed so far! Also there's kebab shops open until late at night right around the corner, so if you're needing a quick, inexpensive bite to eat it's not hard to find at all.",
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Julian",
+            "text": "Very clean place, comfty bed and close to the metro. Host was very kind and educated. 100% reommended",
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Tobias",
+            "text": "Great place to stay while visiting Paris!",
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Nicholas",
+            "text": "Anna is an amazing host! incredibly friendly and interesting, and does everything she can to make your stay comfortable. the apartment is lovely, perfectly clean and prepared for your stay, tastefully furnished in a wonderful location with a great view of the canal. Anna really goes above and beyond to make this bnb a pleasant experience for you. highly recommended!",
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Adam",
+            "text": "Amazing host, great place. Couldn't be better.",
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Alvin",
+            "text": "Had a lovely stay in an amazingly located flat",
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Fraser",
+            "text": "Welcoming and obliging host, very clean and homely place, only a few minutes to Gard du Nord Station. Much nicer than (SENSITIVE CONTENTS HIDDEN) street view would suggest!",
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Tobias",
+            "text": "Anna was very friendly and sweet. She was extremely helpful and flexible as well. The code system was a little tricky, but with her help easily managed. Not having your own key was a little odd, but did not affect my stay.",
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Jean-Francois",
+            "text": "Anna is a great host, very welcoming and happy to help. This is a very enjoyable part of paris and the room is lovely with great view on the canal. All in all very good experience and I would thoroughly recommend!",
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Monique",
+            "text": "Anne is the most gracious and welcoming host. The apartment is wonderful and accommodating. It is very clean and comfortable. Anne is delightful and has masterful knowledge of wonderful places to visit and can advise you on how and when to get there. She is an amazing help!!",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Steven",
+            "text": "Anne was a fantastic host. She was responsive prior to arrival and the apartment and room were very clean. Anne was great at giving directions by walking or using the Metro train. She made me feel very welcome in Paris. She was very talkative and gave great advice, but also gave privacy when it was needed. I would definitely stay with Anne again!",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Joy",
+            "text": "Anne was very welcoming and accommodating. She was very helpful with guiding me to places I wanted to visit in Paris and provided a map w/ clear options. I felt like we could have talked for hours she was so friendly, however she respected my privacy and space. The sea in Paris was a wonderful way to end this summer's French adventure!",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Ke",
+            "text": "The flat is located near a metro station and it is very convenient. The room is very clean. The effect of sound-proof of the window is very good. Anne is a nice and elegant lady.",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Daniel",
+            "text": "Anne is a kind great person who makes sure your stay in Paris is as amazing as it should be. She knows Paris inside and out, and gave us so many great tips about the area. The room is tidy, comfortable, and affordable. She makes sure that the sheets are clean and the place full of things you may need including water, tea, etc. I have nothing but praise for her. Also, if you're a jazz fan like myself, you'll get along with Anne! She loves jazz and has a great taste in music.",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Leesha",
+            "text": "Anne was very hospitable and accomodating. Our late night and early departure didn't bother her. Her apartment is right by a metro station and she was great with giving directions and instructions for the apartment. The room was cute and we were impressed by how the windows kept out street noise!",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Anna",
+            "text": "Anne is lovely, very accommodating and gives you great local knowledge of places to see and the public transport. The room is very clean and comfortable, it was a pleasure to stay there.",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Nathan",
+            "text": "Anne was the perfect host and gave us all the information we needed to make Paris a great start to our holiday. Would definitely recommend :)",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Lyndsey",
+            "text": "Anne was a lovely host. She gave me great advise on how to navigate the metro. Her place was very clean and welcoming. The location itself is perfect for traveling using the metro- there are many direct metro routes that stop within a 1 minute walk from her apartment.",
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Paula",
+            "text": "Our host was wonderful. We had a very pleasant chat with her, which helped connect us to Paris. She was very helpful with explaining how to get where we wanted to go, and she arranged for our very early morning taxi to the airport.",
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Court",
+            "text": "Host was very welcoming with excellent information about getting around Paris. Description was accurate, and the neighborhood, while a bit removed from center Paris, is charming interesting in its own way.",
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Christina",
+            "text": "We had some trouble getting into the apartment initially because we don't have cell phone data and could not contact her via (SENSITIVE CONTENTS HIDDEN). The wifi in the street did not work as she suggested when I told her I won't be able to call her without any data. Without a door bell or ability to be buzzed in from the entrance, you have to wait for her to come get you. We eventually did get inside the apartment complex after a neighbor let us in and a kind man called her using his phone. Without any knowledge on what floor level or apartment number she lives in, as it it wasn't provided in the directions, it was confusing. However, Anna was waiting for us too and was equally confused as to how we got into the actual complex. Perhaps this can be avoided by providing the apartment complex's main entrance with the directory and security codes so guests can buzz themselves inside. Anna was very kind and hospitable when we arrived. She offered us sparkling water and sweets. The apartment is very clean, roomy, and has a very nice bedroom for guests. We enjoyed talking to Anna and she has a loving and animated personality. Her apartment is perfectly located so that guests can travel Paris very easily, being that the metro is truly across the street. Anna provided us with great directions when we wanted to explore certain parts of Paris which was very kind. Overall, we enjoyed our stay--thank you Anna!",
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Mark",
+            "text": "Ana was very welcoming and very helpful. I've never been to Paris and she made sure I knew how to get around. She took the time to write down directions for me to get around to and from downtown. The room that she had was very spacious and had all that I needed.",
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Cham",
+            "text": "It was a very lovely room and convenient location. Anna was very helpful during our stay. Thanks.",
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Zubin",
+            "text": "Anna was a very nice and helpful host. Her place is located in a very nice neighborhood, with metro and groceries, restaurants located nearby. Will recommend Anna's place wholeheartedly.",
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Andrea",
+            "text": "Yes...you re right. In fact I didn t set one because most of the guests are staying only one or two nights. But I will do it.",
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Hong Wa",
+            "text": "Anna was very responsive and a great communicator. Unfortunately I wasn't able to come to Paris because my travel was interrupted, but up until that point Anna was awesome! Next time I make a trip to Paris I will try again :)",
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Terri",
+            "text": "Anna was a very lovely host. Even though we just spent one night, her help and the communication was super friendly. We will always come back to stay at her appartment. The room was very clean and cozy. Location was also easy to find. I highly recomment to stay at Anna's place.",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "name": "Joanna",
+            "text": "Anna was amazing! I had a sore throat when I arrived at her flat and as soon as I dropped my bags Anna had a hot cup of tea for me. As we talked I found that Anna is expert on directions and I navigated around the city with confidence. My room was exactly like the pictures and the rest of Anna's home was very clean.",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "name": "Amiya Kumar",
+            "text": "My husband and I visited Paris for the first time and Anna made our visit very easy and enjoyable. Let's start with the location of her flat, it's just less than 3 mins walk to Jaures station line 2 so going there from airport and any point from Paris would be very easy. Her flat overlooks a river and so you can see from bedroom, a very relaxing sight. Her entire home is very cozy and she let us use her kitchen equipment and many others. She has wifi which was helpful to us. But the most important for us is that is Anna very warm and friendly. She treated us like a dear friend staying in her home. She is very approachable and will readily answered all our questions. She patiently showed us instruction on how go to around Paris on our own just like a local. She even prepared coffee, tea and toasts for us for dessert. We will surely come back to her when we visit Paris again in the future. Thank you so much Anna!",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "name": "Mark",
+            "text": "Staying at Anna's place for a night was a charming experience. Highly recommended.",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "name": "Kirk",
+            "text": "We had a wonderful stay with Anna! She could not have been more welcoming or more helpful. Made sure that we had a good route so that got to where we needed to be on time. The flat was perfect, the room (the whole flat) spotless with a beautiful view from the bedroom window. We really appreciated the calm of the canal & being out of the traffic noise of central Paris. There was a metro just up the street but we also very much enjoyed walking into the centre along the canal st martin. Very comfortable bed so we slept well. English tea & tasty coissants for breakfast. We would love to come back if we visit again as just us two, a pity there would be no room for the whole family.",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "name": "Yantat",
+            "text": "I am literally the first guest for Anna, if you are looking to get some reference from the previous guest, I highly recommend you to be the guest in Anna's place. This is my first time in Paris, Anna is a perfect host for you in France. She speaks fluent English( I worried about language in France), very nice, helpful and informative. She walked me out to show me the way to the train and even offered to take my luggage up the stairs when I first arrived, and wrote me many notes before I went out. And about the room. It's very tidy, comfortable , the view is very good, and the location is very convenient(1 min walk from the train station, you can check it from the (SENSITIVE CONTENTS HIDDEN) map). And some friendly reminders: 1. Anna's flat is at 4th floor and you have to go there by staircase. 2. If you come back at night, the light system was not very user friendly, make sure you ask Anna how does it work before you go out. Hope that comment give you some reference about Anna's flat",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "p_emplacement": "rate_me",
+    "averageRanking": 5.0,
+    "nbReviews": 100,
+    "communication": 5.0,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 5.0,
+    "p_proprete": "rate_me",
+    "arrivee": 5.0,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 7,
+    "qualite-prix": 5.0
+}

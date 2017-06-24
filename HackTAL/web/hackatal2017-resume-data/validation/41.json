@@ -1,0 +1,103 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Centre ville, 7minutes de la gare, chambre propre et hôte accessible par message très facilement. Merci pour l'heure d'arrivé flexible :)",
+            "name": "Kim",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Le logement est idéalement situé, d'où la seule étoile. Par contre, nous avons été réveillés à 1h du matin pour ouvrir la porte à un inconnu (frère du coloc') sans avoir été prévenus. De plus, le loueur ne répondait pas au téléphone. Donc non seulement nous avons été réveillés en plein milieu de la nuit, mais en plus nous devions prendre la responsabilité de faire rentrer un inconnu sans pouvoir joindre le loueur par téléphone (nous avons été contactés au bout de 30 min!). Donc je déconseille ce logement malgré sa localisation idéale.",
+            "name": "Aziz",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Gwennael est ultra-sympathique (ainsi que Erwan son coloc), et super simples pour communiquer. L'endroit est idéalement situé en plein centre de Brest. A recommander pour l'excellent rapport qualité-prix !",
+            "name": "Georges",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Contact sympathique et organisation souple. Hygiène un peu limite même si c'est un appart étudiant et que ce n'est pas un surprise. Oreillers peu ergonomiques.",
+            "name": "Yann",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Excellent accueil, Gwennael est très serviable. Je reviendrai sans hésitation.",
+            "name": "Redouane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Gwennael est attentif et pragmatique. Le logement est spacieux avec toutes les commodités. Ambiance étudiante, calme, simple et flexible. Bon rapport qualité prix proche du coeur de ville et de l'embarcadère. Merci Gwennael !",
+            "name": "Christophe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Gwennael est super sympa, et l'appart est idéalement situé et la chambre offre un silence quasi-absolu : je recommande fortement et je reviendrai !",
+            "name": "Georges",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The host canceled this reservation 16 days before arrival. This is an automated posting.",
+            "name": "Gwenn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Nice place and very much in the middle of town. Got a little noisy at night with the bar right downstairs but being a central location to everything made it worth while.",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Nice little room in the centre of Brest.",
+            "name": "Jason",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 3.5,
+    "p_emplacement": "rate_me",
+    "averageRanking": 4.0,
+    "nbReviews": 10,
+    "communication": 4.5,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 4.5,
+    "p_proprete": "rate_me",
+    "arrivee": 5.0,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 41,
+    "qualite-prix": 4.5
+}

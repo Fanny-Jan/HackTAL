@@ -1,0 +1,663 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Logement au calme.",
+            "name": "Florence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Séjour impeccable, studio extrêmement bien placé dans un quartier calme et à moins de 10 minutes de la mer. Agnès nous a très bien recu.Merci pour votre accueil. A bientôt, nous reviendrons.",
+            "name": "Johanna",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement en sous-sol d'une maison, pas Bien isolé : on entend tout ce qu'il se passe dans la maison, le logement sent très fort l'humidité. Les draps avaient été lavés mais sûrement il y a un moment, car ils sentaient aussi très fort l'humidité. Pas de lumière dans la douche. Hôte absente, jai ete prevebue 5 mns avant l'heure de rdv. C'est sa fille est venue nous remettre les clefs, avec 1h de retard... Bref une expérience pas très agréable, à ne pas réitérer donc.",
+            "name": "Melody",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "hôte agréable et arrangeant, appartement propre au calme, tout le confort nécessaire même si l'on souhaite rester sur place la soirée. parfait je recommande vivement !",
+            "name": "Toto",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Calme chaleureux suffisamment spacieux. Tout le confort pour cours ou long sejour y est present. Je recommande Agnès :)",
+            "name": "Mehdi",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Studio qui a besoin d'un bon coup de ménage mais suffisant pour un week-end.",
+            "name": "Chloé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Un studio tres bien , tres bon rapport qualité pris , hôte très agréable , un peu loin du centre ville mais sinon tout est très bien à recommander",
+            "name": "Theo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Tres déçue, et studio sale je ne le recommande pas",
+            "name": "Juiie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Appartement correspondant a ce qui est décrit , tres bon hôte",
+            "name": "Moussa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Logement dans cadre tranquille et calme hôte très discrète et gentille ....agréable séjour",
+            "name": "Carolina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Belle emplacement au calme coforme au descriptif",
+            "name": "Jeremie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Super logement, propre, adapté, on s'y sent bien. Le prix est justifié également.",
+            "name": "Francois",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Très calme et très cosy studio parfait pour un week-end avec tout le confort dont on peut avoir besoin.",
+            "name": "Arnaud",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "très bonne expérience hôte très sympathique !",
+            "name": "Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Agnès a été très disponible et sympathique lorsque nous l'avons eu au téléphone, (nous n'avons pas eu l'occasion de la voir physiquement, mais cela ne nous a gêné en rien). Le quartier est calme, il est facile pour se garer. Le petit appartement est conforme à la description et aux photos. Agnès avait allumé le chauffage avant que nous arrivions, il faisait bon dès notre arrivée. C'est simple, mais propre, la literie (un canapé convertible) n'est pas parfaite, mais pas inconfortable non plus. Nous avons très bien dormi.Excellent rapport qualité/prix, à ce tarif là on ne peut pas exiger les prestations d'un 4 étoiles...\n+ Plus",
+            "name": "Stéphane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Tout c'est très bien passé. Le logement est confortable et calme. Le sèche linge est un vrai plus.",
+            "name": "Franck",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Logement à déconseiller fortement ! Très MAUVAISE communication ! Qui fut de 30secondes à l'entrée dans le studio et le temps d'aller chercher nos affaires à notre voiture et plus aucune nouvelle jusqu'à encore maintenant que j'écris ce commentaire. Une seule serviette pour 2 personnes. Pas de papier toilette dans la salle de bain. Ni de nécessaire pour un café ou autre. Logement pas entier comme décris mais faisant parti d'une maison dônc c'est une pièce de la maison ... Bref déçu tres déçu ...",
+            "name": "Guillaume",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "C'est ma fille qui a pris les clés ,et quand nous somme partie nous n'avons peu voir personne",
+            "name": "Alain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Tout à fait agréable puisque c'est mon deuxième sejour.",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Studio et quartier agréables. Une petite terrasse et des places pour se garer. Proche de tout : 10 minutes pour grand Var, 10 minutes pour rejoindre les plages du mourillon.",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Logement conforme à la description, malgré quelques choses : Vaisselle pas très propre et taches sur les draps. Le chien de la propriétaire est aussi trop présent mais gentil, il a mangé dans une assiette sur la table de la terrasse en notre absence et s'est échappé une fois lorsque nous sommes rentrés, nous avons du lui courir après pour le ramener. Et puis il y a eu qq soirs avec des vas et vient dans la nuit. Pour conclure c'est un logement bien pour deux,personnes qui le prennent juste comme un,pied à terre pour dormir.",
+            "name": "Nolwenn",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Nous avons été accueillis par Agnès avec laquelle, il faut le dire la communication a été difficile car elle ne répond jamais au téléphone.Mais très souriante une fois de visu. Nous avons été déçu par le studio: le ménage était succinct, une odeur d'humidité est déjà fortement présente dans le studio, la salle de bain est exiguë et la moitié des éclairages ne fonctionnait pas; le frigo était sale, les vitres également. Je ne parle pas des taches de sang sur la protection de canapé sous le drap housse.... Enfin , c'est sale mais peut être pas pour tout le monde.... Pour le plus, le quartier, tout a coté de la piste cyclable et bien au calme (mais attention c'est loin du centre ville et à 40 min de marche de la mer).Il y a également une énorme télévision dans le studio pour les amateurs. Les propriétaires ne sont pas désagréables même si nos rencontres ont été rares.\n+ Plus",
+            "name": "Estelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Nous avons passé un agréable séjour dans cet appartement. Il est très propre et très pratique. Il y a tout le confort nécessaire. Cependant nous n'avons eu que très peu de contact avec Agnès. Les clefs était simplement posé sur la porte. Nous avons fais de même pour partir. Tres bon séjour malgré tout.",
+            "name": "Laurène",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Le studio d'Agnès est bien situé et il correspond au description. Un grand point negatif serait la manque de communication. On a appelé Agnès avant d'arriver plus de 5 fois et on a même commencé de chercher des autres places pour dormir. On a décidé d'aller à l'adresse et Agnès nous a reçu comme rien c'est passé, avec son portable à la main. L'expérience c'était un peu bizzare.",
+            "name": "Karina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "L'appartement en lui même répond effectivement à la description faite et pour le prix cela est cohérent, en revanche nous avons vécu une toute autre expérience avec les propriétaires, les commentaires que nous avons pu lire précédemment ne reflètent pas la réalité, en effet à l'arrivé la propriétaire n'était pas là et sans numéro pour la joindre, nous sommes arrivés devant le logement et c'est son mari et son fils qui nous ont fait la visite en 5min, lors de notre séjour pas une seule fois ils nous ont demandés si tout allait bien, ni si nous avions besoin de quelque chose, alors que l'on se trouve chez eux... Sur toutes les expériences Airbnb que nous avons eu c'est la première fois que ça se passe comme ça ! Et pour finir en beauté le jour de notre départ les propriétaires sont partis, nous avons attendus 30min afin de les voir avant notre départ, mais personne et à ce jour aucunes nouvelles de leur part ! Si vous recherchez une expérience avec un contact ce n'est pas le lieu où il faut aller !\n+ Plus",
+            "name": "Delphine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "le logement est calme et bien équipé . le canapé lit est agréable, la kitchenette est pratique. j ai passé un bon séjour.",
+            "name": "Cyrille",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Le studio est agréable et bien agencé. Nous avons pu profiter de la terrasse pour prendre nos repas. Un très bon rapport qualité-prix ! Prochain passage dans le Var nous y reviendrons sûrement.",
+            "name": "Manuella",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Nous n'avons vu Agnès que 5mn pour la remise des clefs à 17h30 car pour elle pas possible plutôt malgré 16h indiqué sur l'annonce, Agnès proposait de nous donner les clefs qu'à 19h. ça nous a un peu surpris surtout qu'on était sur la route depuis 7h30. La remise a été expéditive. Le quartier semblait calme mais la maison l'était beaucoup moins (allez venu d'adolescents la nuit). La propreté du studio très négligée, le freezer était complètement givré avec un reste de sachet d'épinard. Nous avons été obligés d'éteindre le frigo toute la nuit pour pouvoir nettoyer un minimum et pouvoir utiliser le freezer avec nos bacs à glacière. C'était notre première fois dans la région, à Toulon il n'y a rien à voir et le studio est isolé de tout. Mais nous étions partis pour visiter les alentours et le studio n'était qu'un pied à terre pour dormir, donc ça ne nous a pas gêné. Nous avons quand même passé un bon week end.\n+ Plus",
+            "name": "Paula",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Agnes est venue me chercher à la gare de Toulon comme prévu. Ce qui était très sympathique de sa part. J'ai pu entrer dans le logement des mon arrivée. Le logement est conforme aux photos, toutefois Le convertible qui sert de lit est moyennement confortable. Le séjour aurait été parfait s'il n'y avait pas eu de fête le vendredi soir avec de la musique très forte et des cris d'invités jusque 3h30 du matin. Impossible de dormir.",
+            "name": "Stéphanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Très bon séjour chez Agnès, malgré le fait que nous ne l'ayons pas rencontré, quelqu'un nous a bien accueillis à notre arrivée mais nous n'avons pas rencontré les propriétaires du tout. Cependant cela ne nous a pas plus dérangé, nous avions l'impression d'être comme chez nous pendant quelques jours, le studio est propre, fonctionnel et très tranquille, pas loin de la plage, nous avons apprécié!",
+            "name": "Lisa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Merci Agnès pour cette nuit passée dans votre agréable studio!",
+            "name": "Veronique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Séjour agréable dans le studio d'Agnès, avoir une petite terrasse fût très appréciable.",
+            "name": "Marion",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Très bon accueil d'Agnès , merci . Quartier très calme , joli studio , facilité de parking. Parfait pour un week end en amoureux .",
+            "name": "Lucie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Très agréable séjour dans le studio d'Agnès. Il est au rdc de leur maison, parfaitement isolé, avec une terrasse où on a pu petit déjeuner en extérieur tous les jours. Le studio est joliment décoré, le coin cuisine est parfait, bien équipé, et la salle de bain est très bien. Agnès et son mari sont charmants. Le quartier est très calme, près de tout (arrêt de bus à proximité si besoin). Pas de problèmes pour se garer (énorme à Toulon !). je vous conseille vivement.",
+            "name": "Carole",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Agnès nous à directement mise à l'aise, elle a été à notre écoute . Très bonne accueil . Très beau quartier . Le logement étais jolie mais un manque de ménage au niveau des sanitaires ..",
+            "name": "Gwen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "J ai passé un agréable séjour dans le studio d Agnès. Déco sympa, calme, (URL HIDDEN) Agnès est très accueillante. Bref je recommande. A bientôt Agnès !",
+            "name": "Cyrille",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Le studio est agréable, bien situé, calme et conforme à la description. Je n'ai vu Agnès qu'à mon arrivée, les propriétaires étant très discrets. Je recommande.",
+            "name": "Edouard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Merci Agnès pour votre accueil, votre (URL HIDDEN) les merveilleux chocolats de Pâques ! Je reviendrai avec plaisir",
+            "name": "Boris",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Agnès à été très accueillante. Nous avons passés un agréable séjour, Je pense que nous reviendrons :)",
+            "name": "Auriane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Agnès est une hôte très accueillante. Le logement est spacieux et très confortable. Le séjour s'est très bien déroulé.",
+            "name": "Pierrot",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Bon accueil d'Agnès Séjour au calme et tranquillité du quartier",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Encore un très bon week-end dans le studio de Agnès",
+            "name": "Antony",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Agnès est trés acceuillante malgrè notre retard. Appartement bien situé (10 min du centre ville), et bien agencé.",
+            "name": "Stéphanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Agnès est une personne agréable, elle nous a très bien accueilli. Dans la terrasse il y a un chien et un chat, super sympas tous les deux.  Le studio est grand, propre et avec entrée indépendante de la maison, bien équipé. Par contre, on s'est rendus compte qu'il n'y avait pas suffisamment de papier toilette pour toute la durée de notre séjour, pas non plus de shampoing. D'ailleurs, ce n'est pas possible d'allumer le chauffage depuis le studio, il nous a fallu demander Agnès de le faire, car la chambre était assez froide. En arrivant le samedi soir, on s'est rendus compte qu'il y avait une soirée à la maison. Il aurait fallu nous prévenir car on pouvait entendre la musique jusqu'à 2h30. L'autre petit bémol c'est que le lendemain, en quittant le studio, on a appris qu'Agnès est partie en vacances sans nous avoir prévenu, et du coup on a dû laisser les clés dans le studio et on n'a pas pu parler avec elle, puisqu'elle n'était pas joignable au téléphone.\n+ Plus",
+            "name": "Rafael",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Très bon séjour et très très bon accueil merci Agnès , le logement était comme indiqué parfait merci.",
+            "name": "Yoan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Agnes est une personne souriante et accueillante . Un jolie studio propre dans un quartier calme. Une adresse a conserver.",
+            "name": "Philippe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Accueille très chaleureux, studio super sympas, séjour au top ! Merci Agnès",
+            "name": "Antony",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Charmant pied à terre où nous ne sommes restés qu'une nuit. Un joli bouquet nous attendait à l'arrivée... Dommage que nous n'ayions pu nous connecter au réseau wifi.",
+            "name": "Patricia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Je remercie Agnès pour ces deux nuits passées dans son accueillant studio à Toulon ! C'est vraiment très sympa comme formule ! rien à voir avec un hôtel à une prochaine fois !!! Merci pour votre disponibilité aussi ! violaine",
+            "name": "Violaine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Un accueil particulièrement chaleureux et un studio impeccable... Merci pour votre disponibilité. Je recommande vivement. Samuel.",
+            "name": "Samuel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "De passage très rapide chez Agnès, le studio est propre est bien meublé. Agnès est une hôte très discrète. Je recommande.",
+            "name": "Sabrina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Nous avons été reçu par Agnès comme des amis, elle nous a mit tout de suite très à l'aise elle est très gentille et serviable. son studio est très agréable un bon couchage et bien au calme. nous sommes très contents et nous reviendrons chez elle avec beaucoup de plaisir. nos meilleurs amitiés àAgnes",
+            "name": "Marie-Annick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Première fois sur ce site. Ce sont mes grands parents qui ont profité du séjour chez Agnès et ont été très surpris par son acceuil chaleureux et sa disponibilité. Ils l'a remercie énormément. Malgré la raison pour laquelle ils ont du aller à Toulon, ils sont très heureux de l'avoir rencontré.",
+            "name": "Cécile Aidan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Agnès est sympathique et arrangeante, pour la remise des clefs par exemple. Le studio est bien équipé et bien agencé, idéal pour un court séjour.",
+            "name": "Mathieu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Très charmant studio, bien placé dans un quartier résidentiel. Merci à Agnès pour sa disponibilité et son accueil.",
+            "name": "Thomas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Très bon accueil par Sultan ainsi que par Agnès Mignon petit studio bien équipé Nous reviendrons",
+            "name": "Brigitte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Accueil très agréable. Studio et rez de jardin conformes aux photos. Tout est propre et pratique.Nous avons très bien dormi avant de prendre le bâteau pour la Corse. Sans hésitation nous reviendrons.",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Merci Agnès pour son accueil chaleureux et sa disponibilité Studio bien équipé et propre. Le petit plus est la terrasse privée ou l'on peut déjeuner tranquillement. Quartier calme et à 15 minutes du centre de ville en voiture. Nous reviendrons avec plaisir si l'occasion se présente. Françoise et Joanne",
+            "name": "Françoise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Les echanges avec agnes ont etes tres rapide, et efficace. L'appartement était parfaitement conforme en tout point et propre et chaleureux . L'accueil d'agnes a ete tres sympathique .",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Le studio est cosy et fonctionnel dans un quartier calme. Coin jardin avec barbecue au top. Très bon séjour chez Agnès tout s'est très bien passé d'autant plus que c'était la première fois que l'on utilisait le service AIRBNB. Expérience à renouveler.",
+            "name": "Djasila",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Agnès nous a chaleureusement accueillis, et présenté son studio dans lequel, il y a tout ce qu'il faut. La terrasse est agréable, il n'y a qu à tendre le bras pour attraper une poire ou une prune.",
+            "name": "Véronique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Nous avons passé 10 jours de vacances très agréable et Agnès y a contribué avec sa disponibilité, sa gentillesse et son accueil. Très bien situé et très calme, si vous devez allez à Toulon, n'hésitez même pas de prendre cette location ! Elle est parfaite. Mehdi et Caroline",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Hôtes très sympathiques et accueillants, on les remercie pour leur souplesse et leur adaptabilité (en particulier lors de notre arrivée précoce). Studio vraiment charmant, fonctionnel, avec une superbe terrasse, et idéalement situé dans Toulon. Un très agréable moment.",
+            "name": "Laura",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Super accueil! Une famille charmante. Le studio est confortable et agréable. La ligne de bus pour le centre est juste à côté. Bref, idéal.",
+            "name": "Pierre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Accueil super agréable et chaleureux! Nous avons beaucoup apprécié la citronnade fraîche à notre arrivée! Bernard et Agnès sont des personnes qui savent recevoir et prendre soin de leurs hôtes! L appartement est nickel, conforme à la description. A recommander sans hésiter!!",
+            "name": "Amandine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Appartement très agréable, avec une jolie petite terrasse. Une voiture est cependant nécessaire pour son accès mais nombreux emplacements pour se garer. Ambiance chaleureuse et familiale. On n'hésitera pas à redescendre en cas de séjour sur Toulon.",
+            "name": "Emma",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Nous avons super bien été accueillis avec une petite citronnade pour nous rafraîchir! L'appartement était au calme dans un quartier sympathique!",
+            "name": "Fanny",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Agnès est une hôte agréable, accueillante et disponible (elle est joignable en cas de problème). Lit confortable et quartier calme. Le + : la mise à disposition d'une prise anti-moustiques",
+            "name": "Christel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Nous sommes restés 1 nuit étape pour prendre le bateau vers la corse. Très bien accueillis par Agnès, nous avons pu profiter du studio qui est très bien aménagé. Lit confortable. Des petites attentions à l'égard du locataire très appréciables (café, the, ...). Des hôtes très chaleureux et une rencontre sympa. Possibilité de stationner la moto dans la villa et en privatif. Quartier calme. Encore merci.",
+            "name": "Eric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Accueil très agréable, simple et discret, tout en étant attentionné. Merci !",
+            "name": "Pierre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Lieu parfait très agréable et très bien situé dans un quartier très calme et paisible idéal pour un cours ou moyen séjour studio très propre et très bien agencé idéal pour couple ou personne seul hôte très accueillant et très sympathique je vous le recommande vivement Ps:il y a un chien qui est en liberté mais il est très gentil et pas méchant du tout",
+            "name": "Stk",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Expérience correcte dans l'ensemble, excepté le canapé convertible qui n'est pas très confortable pour dormir.",
+            "name": "Souad",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Très bon séjour dans ce petit studio. Calme, propreté et simplicité. Bonne communication avec Agnès. Je recommande!",
+            "name": "Fred",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Nice value/price ratio ; the room is as described.",
+            "name": "Diviyan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "je vous recommande cette location le calme est au rendez vous le studio est d'un très bon rapport qualité prix et il est très bien conçu fonctionnel et clair de plus Agnès est vraiment a l’écoute de ses hôtes sans pour autant être envahissante nous sommes arrivés vraiment tard dans la nuit et elle nous attendu et reçu très gentiment (le lit était même prêt ) et ça ça n'a pas de prix ; ).C'est avec plaisir que si je repasse dans le coin je louerais de nouveau chez elle.",
+            "name": "Nathalie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Her teenager daughter \"welcomed\" us simply saying \"That's the flat and mom has written everything\". The flat was good with all comfort and in a good district. We werent able to meet the host till the end of our stay when we had to spend 1 hour trying to bring the dog (medium size and totally free) back home after it escaped. At home there was apparently noone (Agnes was in the backhome pool). All people at the near park were scared about the dog. Later we decide to enter at host home to allert her, but the answer was simply that it is normal for the dog to escape. Last but not least she didnt answer to our emails for months\n+ Plus",
+            "name": "Alessandro",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "A basic room with good kitchen facilities, area was perfectly quiet had the best nights sleep. Host was very friendly and so was their dog :) thanks Agnes.",
+            "name": "Alex",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "It was nice to be there. Very close to toulon.",
+            "name": "Felisa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "The host was very nice, good communication. The apartment is comfortable for 2 people. Also very clean. We enjoyed our stay. :)",
+            "name": "Alessandra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "The location was a bit difficult to find. It is not only a private room but rather a separate apartment below our hosts' house. Our hosts welcomed us very heartily and provided us with all we needed. The bed was comfy and everything was clean. Agnès gave us tips where to go for dinner and she offered any other kind of advice or help if need be. Wifi connection was not very reliable, but for one night it was ok. Overall we had a very pleasant stay at Agnès' and her family's - thanks!",
+            "name": "Bijan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.0,
+    "p_emplacement": "rate_me",
+    "averageRanking": 4.0,
+    "nbReviews": 80,
+    "communication": 4.0,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 4.5,
+    "p_proprete": "rate_me",
+    "arrivee": 4.5,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 56,
+    "qualite-prix": 4.5
+}

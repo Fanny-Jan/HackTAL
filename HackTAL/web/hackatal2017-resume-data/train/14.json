@@ -1,0 +1,143 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Endroit parfait, hôte au top, je conseille sans hésiter",
+            "name": "Rémi",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Nous avons passé un bon séjour, dans un quartier calme et agréable ! De bon restaurant et accès au métro facilement. Merci pour ce super week-end !!!",
+            "name": "John",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Iris a été patiente et très accueillante malgré mon arrivée tardive. L'appartement est idéalement située dans le 10ème à côté d'un arrêt de métro et de la vie nocturne parisienne. Je recommande!",
+            "name": "Kevin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Appartement idéalement situé. .. ligne directe depuis Montparnasse. .. ou pour les champs Élysées. .. 20 mn à pied pour être dans le Marais mais dans une ruelle calme sans voiture ni klaxon. Iris nous a accueilli avec le sourire et pourtant il était minuit à notre arrivée. L'appartement est petit mais bien aménagé et la literie confortable. Le quartier est très agréable.",
+            "name": "Gabrielle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Bon rapport qualité-prix, appart central, et excellente communication avec Iris. Super séjour. Great value for money, centrally located and excellent communication with Iris who has been super helpful. Great stay overall!",
+            "name": "Cecile",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Excellent emplacement pour profiter de la vie parisienne autant dans le quartier que dans le reste de la capitale",
+            "name": "Amélie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Nous avons reçus un très bon accueil chez Iris, l'appartement est très propre, bien équipé, chaleureux, calme, et idéalement situé dans un quartier vivant. La communication à été facile et nous n'avons manqués de rien. De plus, Iris à été très arrangeante pour notre arrivée comme pour notre départ. Je recommande vivement !",
+            "name": "Bertrand",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Iris' place is very convenient: well located, on the first floor, quiet because on a side street. We also loved the warm and cozy interior. Iris was very flexible on the check-in, she welcomed us and told us a bit about the neighbourhood. Thanks!",
+            "name": "Patoin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Even though our itinerary was quite full and we walked around Paris until the morning hours, I thoroughly enjoyed my stay at Iris's place. It was in a safe and central location. Just a short walk from the train station. The apartment was clean and had everything we needed. Iris was extremely nice and accommodating!",
+            "name": "Amelia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Iris is the perfect host - so friendly! The apartment was as described and well-located. Great base for exploring Paris for a few days.",
+            "name": "Graeme",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Very good location, metro station literally 2 minute walk away. Clean and iris was very accommodating",
+            "name": "Sal",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Nice woman, clean apartment, though very small.",
+            "name": "Lindsey",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Iris have made our stay very pleasent and memorable. We will consider to come back soon and I can recommend wormly to all who likes independence and active sightseeing, walking shopping in Paris. Very convenient located for easy access to the city and the airport train.",
+            "name": "Dan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Lovely apartment, well located and great host. I'm pleased we stayed at hers. Her apartment is well located, near to the Gare du Nord train station. It was the perfect place for the weekend. She was a perfect host trying to help us with some tips and making our trip more enjoyable.",
+            "name": "Diana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Iris is a great host! Easy to communicate with, arranging and all. The flat is very nicely done super well located in a quiet street in a very central location that allows you to get to anywhere in Paris very quickly and easily. All commodities around as well so all you need at your fingertips. Recommended",
+            "name": "Romain",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "It is a very beautiful and cozy urban apartment. The public transport stops are very close and hence you can reach any corner of Paris easily. Also there is a bakery and some supermarkets nearby for utilities. Iris is a very kind host, and is quick to respond to queries!",
+            "name": "Murtaza",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 5.0,
+    "nbReviews": 16,
+    "communication": 5.0,
+    "emplacement": 5.0,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 14,
+    "qualite-prix": 5.0
+}

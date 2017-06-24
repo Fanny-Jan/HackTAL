@@ -1,0 +1,111 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Très joli appartement, jolie vue et très bonne literie , bibliothèque impressionnante!!! Emplacement parfait commerces juste en bas de l'immeuble, séjour très agréable",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Logement conforme à l'annonce...Merci à Alexandre.",
+            "name": "Jean-Marc",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Location, location, location. The place is in the heart of real Paris. Walking distance to everything. The best food is on every street around the apartment. If you want to see real Paris and looking for a place to stay, book this place. Just keep in mind the apartment is on 5 th flood and no elevator.",
+            "name": "Syed",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "This apartment has great location! Suitable for tourists absolutely!",
+            "name": "Lin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Alexandre's place is in a great neighborhood to base out of in Paris. The 4 story walk up is no joke and the place is pretty tight quarters. We were three adults and I'd say four would be pushing it! Probably perfect for two. The water heater is small, so spreading out showers is a good idea and if you want to do laundry, have a translator on hand if you don't speak French :) Overall a lovely stay and a good workout walking up to the flat!",
+            "name": "Susie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Great place! Absolutely good located. This apartment at 4th floor (no elevator) is exactly like the photos. Clean, with a kitchen fully equipped., a fancy bathroom. The bed is very confortable, the wifi is powerful... we had a wonderful time at Alexandre's place. The neighborhood is exciting: full of restaurants, coffee places, the Centre Pompidou, mini markets and a few feet of subway's station. We recommend 100% this apartment in the Paris's historic Marais.",
+            "name": "Dulce",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The appartment is lovely, located in a central area next to Pompidu center. There is a supermarket, bakeries, cafes, and everything one needs within walking distance. Alexandre's description is accurate, we were 2 adults and 2 children - we had a very nice time. It may be a little small for 4 adults.",
+            "name": "Lee",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "My friends and I Liked the place. It's clean and fully furnished. Also, the location makes it easy to get around pAris.",
+            "name": "Sheila",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "We were welcomed with a friendly and helpful woman Jade who gave us a great start to our short trip in paris - she sent us helpful tips of where to eat and what sights to visit and we felt happy the minute we entered the apartment ... It was a clean and fresh space and the location was the superb as it was in the centre of most of the sights and places to see Thank you Alexandre",
+            "name": "Janine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "The property is good for two, young travelers who would stay outside for most of the time and use the property just for sleeping and bath. It's on the 4th floor with no elevator. The stairs are curved with less space for feet.",
+            "name": "Mahesh",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "We had a very nice stay in Alexandre's place. Lovely situated.",
+            "name": "Jolanda",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "p_emplacement": "rate_me",
+    "averageRanking": 4.5,
+    "nbReviews": 11,
+    "communication": 4.5,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 5.0,
+    "p_proprete": "rate_me",
+    "arrivee": 4.5,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 24,
+    "qualite-prix": 4.5
+}

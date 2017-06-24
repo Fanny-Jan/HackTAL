@@ -1,0 +1,87 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Sophie est très accueillante",
+            "name": "Corinne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Super accueil, chaleureux de Sophie, logement très spacieux et très bien tenu. Appartement bien placé, souplesse de l'organisation, séjour agréable garanti. Je recommande vivement !",
+            "name": "Perig",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Je recommande vivement de réserver une chambre privée chez Sophie. Sophie est très accueillante, sympathique et prévenante. Le logement est propre, le quartier est calme et la proximité avec les transports en commun, les commodités et le centre ville de Brest est très appréciable.",
+            "name": "Cécilia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Sophie a été très accueillante et est une personne souriante que je recommande.",
+            "name": "Adrien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Super semaine, I recommend :D",
+            "name": "Damien",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Une personne accueillante et attentionnée qui a tout fait afin qu'on se sente comme à la maison.",
+            "name": "Joël",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "super emplacement pour cet appartement très silencieux. Sophie nous à mis tout l'équipement à dispo et à été de bons conseils pour les ballades en plus de sa gentillesse. bon rapport qualité/prix",
+            "name": "Gerard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Charmant séjour chez Sophie qui est une hôte très agréable, spontanée et avec qui on se sent tout de suite à l'aise, dans un logement bien situé avec un bon rapport qualité prix. Le parking était facile et la connexion internet sans soucis.",
+            "name": "Stéfanic",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The host canceled this reservation 5 days before arrival. This is an automated posting.",
+            "name": "Elsa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.0,
+    "averageRanking": 4.0,
+    "nbReviews": 9,
+    "communication": 4.5,
+    "emplacement": 4.0,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 44,
+    "qualite-prix": 4.5
+}

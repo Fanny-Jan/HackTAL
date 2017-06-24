@@ -1,0 +1,207 @@
+{
+    "precision": 4.0,
+    "reviews": [
+        {
+            "text": "Logement propre, très bien équipé, situé dans une rue calme et à dix minutes à pieds du centre ville. En bref, un agréable séjour chez Agathe !",
+            "name": "Elise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Appartement extrêmement bien placé mais à fuir par beau temps car il y règne une chaleur étouffante. Le stationnement est payant dans la rue.",
+            "name": "Laure",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement bien situé dans le centre de Reims avec accès rapide à toutes les commodités. Adapté pour un séjour court pour découverte de la ville.",
+            "name": "Philippe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement situé dans un quartier calme à proximité de la gare, de la cathédrale et du centre ville. Pour les courses il y a un Monop et naturalia tout proche. L'appartement était propre et avait le nécessaire pour cuisiner. À recommander",
+            "name": "Ouardi",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Je n'est pas pu voir Agathe mais je n'est rien à redire sur l'appart. Très fonctionnel ! Proche du centre ville et quartier calme !",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Un petit appartement suffisant pour un court séjour. Il apporte le minimum, le confort reste limité. Notamment pas de douche et une baignoire avec un plafond très bas, pas pratique... Plus généralement le mobilier est vieillot et peu confortable. À par ça mon séjour s'est très bien passé et l'appartement est très bien situé à Reims (quartier calme du centre).",
+            "name": "Sylvain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Idéalement situé, en plein centre, avec parking pas loin, dans un petit et ancien immeuble, ce petit appart â l'essentiel pour passer quelques jours. Conforme au prix. Agathe est arrangeante.",
+            "name": "Philippe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Appartement très bien située, pas de problème de parking. Un peu bas de plafond... petit prix pour un petit confort.",
+            "name": "Pauline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Le logement correspondait en tous points à la description, idéalement situé pour découvrir Reims à pied. Stationnement facile à proximité.",
+            "name": "Charlotte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Appartement très mansardé, absence de produits de base hormis les serviettes de toilette, pas très propre. Hôte polie et serviable",
+            "name": "Aurélie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Un appartement simple et sympathique, très bien positionné dans le centre historique de la ville pour aller là découvrir à pied. Pour quelques jours à Reims pour vous changer les idées, c'est parfait.",
+            "name": "Séverine, Yumi-Rose & Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Appartement propre, et en bon état, très agréable malgré la canicule ^^'. Merci Agathe !",
+            "name": "Daphné",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Prestations sommaires Quasi aucune relation avec l'hôte Bon rapport qualité-prix, bien situé Il faut aussi savoir que l'appartement est très mansardé, ce qui ne convient pas aux personnes de grande taille. Lit, canapé et baignoire sont sous le toit, on s'y cogne facilement. Pas idéal.",
+            "name": "Nubia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "L'appartement était confortable et propre. Il y avait tout ce qu'il faut. Le quartier était très agréable, proche du centre-ville. Il y a un arrêt de tram à proximité mais beaucoup d'endroits sont accessibles à pied.",
+            "name": "Louise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "text": "Très agréable petit appartement très bien situé. Prendre le temps avec Agathe de faire le tour des différents équipements pour comprendre comment ils fonctionnent: t.v et radiateur de la pièce principale. C'est propre et facile à entretenir.",
+            "name": "Georges Et Dominique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2013"
+        },
+        {
+            "text": "Notre séjour chez l'appartement d'Agathe était très confortable, et pratique pour accéder la ville de Reims. Agathe était accueillante pour notre arrivée et nous a donné des recommandations pour visiter une maison de champagne. L'appart est petit mais très bien situé, et la douche n'est pas idéale mais les lits sont confortable! En generale, cette option airbnb est très bonne valeur pour l'argent",
+            "name": "Anna",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2013"
+        },
+        {
+            "text": "Séjour agréable. Bonne situation. En rapport avec le prix.",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "L'appartement est idéal pour un séjour allant de quelques jours à quelques semaines. Il est charmant et tranquille. Vive les puits de lumières! Tout est à proximité. La place du Forum ainsi que les petits commerces autour sont sympathiques. Agathe est gentille et disponible.",
+            "name": "Christian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Bonne disponibilité de l hôte,agréable .",
+            "name": "Sandra",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Great location to live and to visit Reims. The neighborhood is calm, it is near the central station, public transportation, the shops and the centers of interest.The apartment is clean and cozy. However, the bad points are the roof (we cannot stand up in the vast majority of the apartment), the bathroom (small, dark, and it is necessary to kneel down to have a shower because of the roof), the front door of the apartment which is a bedroom door so it can make the place a little insecure. I would say this place is perfect for short stays of 1 or 2 weeks .\n+ Plus",
+            "name": "Maïder",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2014"
+        },
+        {
+            "text": "This place should be used only as a last resort for maybe a day or two, the roof is sloping down making the already tiny tiny apartment accesible only to half the space, in the bathroom you cant stand and take bath as the roof slopes down, you are forced to sit in the tub. Further apartment is on the third floor with no elevator so beware if you have a lot of luggage. The only good thing about the apartment is the location, a 15 minute walk from Gare de Reims.",
+            "name": "Sidhanth",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Agathe was a very nice host, the apartment is just like in photos. Close to the attractions in town. Supermarket close. Overall a good stay.",
+            "name": "Dylan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "The apartment was exactly as described, there were not surprises. Fantastic location, everything is easy walking distance. I was here for a month and it suited my needs perfectly.",
+            "name": "Martin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "I stayed here for a month while studying at the University in Reims. The apartment was clean, airy and quiet, with everything I needed. The location could hardly be better. Agathe was quick to respond, and helpful when I needed her.",
+            "name": "Maria",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2014"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 3.5,
+    "averageRanking": 3.5,
+    "nbReviews": 24,
+    "communication": 4.0,
+    "emplacement": 4.5,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 76,
+    "qualite-prix": 4.0
+}

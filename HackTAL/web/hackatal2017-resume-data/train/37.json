@@ -1,0 +1,775 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Logement complet et très agréable. Séjour au top !",
+            "name": "Suzanne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Appartement très agréable et bien équipé",
+            "name": "Manon",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Un court séjour très agréable. L'appartement était conforme à nos attentes, et nous avons pu découvrir marseille sans voiture. Anne et Lionel sont très disponibles pour des renseignements.",
+            "name": "Adele",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Parfait pour une découverte de Marseille. Accueil chaleureux et studio agréable.",
+            "name": "Nicole",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Nous avons passer un agréable séjour à Marseille , située dans un très beau quartier du 5ème arrondissement , Logement irréprochable Anne et Lionel on étais à la hauteur de nos attente merci Je vous recommande beau clim",
+            "name": "Milisa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Nous avons été accueillies très gentiment par Lionel ! Appartement très agréable et conforme aux photos et à la description :-) On le recommande vivement !",
+            "name": "Damaris",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Très bon accueil d'Anne et Lionel, appartement sympa, correspond parfaitement à la description, idéalement placé pour se ballader dans Marseille.",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement très propre et fonctionnel. Rien à redire. Les photos sont bien représentatives. Il y a tout ce dont on a besoin. Notamment quelques épices et condiments, gel douche, savon... Situé dans une rue calme. Nous y avons passé un très bon WE. La communication avec Lionel a été très facile et agréable.",
+            "name": "Yessenia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Logement très propre et plutôt bien placé. Idéale pour une ou deux personnes. Je le conseille.",
+            "name": "Tristan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Lionel nous a reçus. Il est cordial et sympa. Nous a expliqué comment marche la maison et a été pendant notre séjour toujours disponible.",
+            "name": "Marco",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "J'ai passé un séjour magnifique dans ce studio parfait! Lionel m'a accueillie très agréablement, et l'appartement est bien situé en plein Camas, à deux pas de tout, calme, joliment décoré, confortable, avec tout ce qu'il faut en équipement et même plus encore... Juste parfait ! Merci encore Lionel et Anne!",
+            "name": "Eve",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Super séjour. Logement bien situé, fonctionnelle et cool",
+            "name": "Driss",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "J'ai passé un excellent séjour (une petite semaine) chez Anne et Lionel. L'appartement est très bien équipé et propre. La qualité du matelas est particulièrement agréable après une longue journée de marche. Bien qu'un peu excentré de l'hyper centre, il y a un arrêt de tram à moins de 5mn à pied qui vous y emmène en peu de temps. Le quartier est très calme et à deux pas d'une rue commerçante. Anne et Lionel sont très sympathiques et la communication a été souple. Habitant un appartement à côté, ils ont été discrets et disponibles en cas de besoin. Aussi, ils ont pu s'ajuster à mes horaires d'arrivées et m'ont donné des conseils touristiques. Je recommande cet appartement au bon rapport qualité/prix pour partir à la découverte de Marseille qui est vraiment une chouette ville!\n+ Plus",
+            "name": "Thomas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Idéal pour un séjour en amoureux, proche des commodités, 10 minutes de la cannebiere",
+            "name": "Éric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Très bon appartement , très propre et bien placé. Les 2 météo 1 et 2 sont à 10 min à pied et le métro à 4 min. Anne et Lionel sont des hôtes gentils et agréable . 5 étoiles pour cette appartement que je recommande fortement et sans aucun doute je le reprendrais quand je reviendrais à Marseille.",
+            "name": "Mohamed El Amine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Lionel est arrangeant et très accueillant. Je recommande cet appartement.",
+            "name": "Cécilia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "studio impeccable, très bien situé dans un quartier calme excellent accueil de la part de Lionel",
+            "name": "Marie Dominique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Un accueil toujours très chaleureux. Un lieu toujours impeccable avec tous les produits de premières nécessités ce qui est bien pratique lorsqu'on y passe que quelques jours. J'y retournerai avec plaisir !",
+            "name": "Amélie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Lionel est très sympathique et l'appartement impeccable, joliment décoré.",
+            "name": "Véronique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Nous avons été très bien reçus. nous sommes arrivés le vendredi soir à 23h et Lionel nous a gentiment accueilli et même indiqué le chemin pour arriver de la gare à l'appartement L'appartement est confortable le lit un délice de confort il y a tout ce qu'il faut y compris le calme.",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Logement confortable, bien équipé, lumineux, très propre et admirablement situé. Je le recommande.",
+            "name": "Alioune",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Logement idéalement placé pour qui veut découvrir le quartier de \"La Plaine\". Cuisine et douche nickels, lit confortable. Accueil très sympa. Une bonne adresse à Marseille. Merci à vous.",
+            "name": "Joan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Je remercie Lionel pour son accueil très sympathique et pour ses conseils avisés sur la ville. Le studio est bien situé (quartier très calme et à une station de tramway seulement de l'hyper centre).",
+            "name": "Laurent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Une excellente location, nette, commode et sympathique, au coeur de Marseille.",
+            "name": "Marie-Françoise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Appartement neuf, fonctionnel et très agréable pour un séjour de quelque jours, situé dans un quartier tranquille pour le repos et à proximité des transports, du coeur de Marseille et des commerces. Je recommande.",
+            "name": "Arthur",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Lionel est lhote quon recherche tous : disponible ponctuel arrangeant joignable. Lappartement est fidele a lannonce a 100%, tout le confort est a disposition. Ideal pour we en amoureux, voyage daffaires...a recommander +++",
+            "name": "Charlotte",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Super studio très bien placé entièrement neuf. Très propre. .. quartier super calme.... Lionel est disponible, accordant syppathique et de très bon conseil sur les visites. A recommander...",
+            "name": "Cecile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Lionel nous a tres bien reçu et nous a tres bien conseillé pour passer un bon sejour . Nous avons pris le pass qui nous a permis de prendre le bus et le tram pour nos visites de Marseille à cassis ,et cela sans toucher à la voiture pendant tout le séjour étant donné la proximité du studio vers ces transports. Je conseille vraiment ce studio pour son confort et sa grande propreté. Merci et à une prochaine fois",
+            "name": "Martine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Appartement conforme à la description, et aux photos. Agréable, confortable et bien équipé. Situé idéalement, dans un quartier (rue) calme, entouré de maisons typiques, à proximité de commerce, et des transports. Accueil de Lionel sympathique, bons conseils sur les visites!",
+            "name": "Hélène",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Séjour parfait dans ce logement fidèle à sa description. Lionel est très disponible et très arrangeant. Merci à lui pour son accueil et ses conseils. Pas d’hésitation à avoir. Encore merci !!!",
+            "name": "Clément",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Très bon séjour chez Anne et Lionel. Lionel était là pour nous accueillir et nous montrer le logement, il nous a donné de nombreux conseils et nous a fait profiter de sa connaissance de la ville. Le logement était très propre, confortable et identique aux photos, située dans une rue calme et presque sans passage, en bordure d'un quartier populaire et animé (pleins de bars et restaurants). Je reviendrais sans hésiter.",
+            "name": "Sébastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Accueil très chaleureux de Lionel qui a été fort sympathique, il nous a expliqué en détail les visites à faire .. Le studio est charmant et idéalement situé. Nous avons passé un très bon séjour :)",
+            "name": "Fatih",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Un accueil et un séjour impeccable, comme les précédents!",
+            "name": "Amélie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Très serviable et gentil, si je reviens sur marseille, sans aucun doute je reprendrais cette adresse. merci encore!",
+            "name": "Fabiola",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Le studio est tout à fait charmant et absolument conforme aux photos. Lionel a été adorable et nous a très bien renseigné. Nous sommes enchantés de notre séjour et reviendrons avec plaisir !",
+            "name": "Alexia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Appartement conforme aux photos publiées. Très propre et assez spacieux pour 1/2 personnes. Lionel est une personne accueillante et n'hésite pas à donner les bons plans sur Marseille.",
+            "name": "Andy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "le studio refait a neuf tres bien equipe dans un quartier calme nous a permis de passer un sejour tres chouette a Marseille lionel nous a fort bien accueilli et donner des conseils pour visiter la ville et les environs qui nous ont bien servi tres chouette sejour qui me donne envie de revenir",
+            "name": "Mimi",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Accueil très chaleureux de la part de Lionel. Le logement est conforme à sa description. Très bien équipé dans une rue calme. Un peu de bruit du fait d'un jeune voisin fêtard le samedi soir mais sinon impeccable! Merci.",
+            "name": "Amélie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "J'ai été accueilli par Lionel qui est très souriant et bienveillant. Il vous expliquera aussi quoi visiter si vous le souhaitez. Aucune mauvaise surprise sur l'appartement. Appartement propre et lumineux. Les appareils électro-ménagers sont en très bon état. Je recommande cet appartement.",
+            "name": "Sebastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Nous avons passé un agréable séjour à Marseille dans le logement de Lionel et d'Anne que nous recommandons fortement : très bien situé, propre, lumineux, confortable et dans une rue au calme. Un rapport qualité prix imbattable ! ! Merci au chaleureux accueil de Lionel! Cécile et Karl.",
+            "name": "Cécile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Logement très bien situé et très agréable pour un couple. Un appartement refait récemment et très bien équipé. Quartier calme et proche du centre Lionel est très sympathique, disponible et donne de bons conseils pour les visites.",
+            "name": "Corinne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "L'appartement était conforme aux photos, très propre, beau et fonctionnel, proche du tram et du vieux port. Lionel nous a très bien accueilli, et nous a donné de bons conseils sur les endroits à visiter et les restaurants. Je recommande cette appartement.",
+            "name": "Mélanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Le logement correspond à la description sur l'annonce!bien accueilli Nous avons passé un bon séjour. ..le logement est à proximité de la ville et du vieux port!endroit idéal",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "super accueil de la part de Lionel. Très disponible et donnant pleins d'astuces pour découvrir Marseille.",
+            "name": "Frédérique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Studio agréable, bien équipé et très calme dans un quartier sympathique et tranquille, à 10 minutes à pied des endroits qui bougent : La Plaine, Cours Julien, Longchamp. Le Vieux-port est à 10 minutes de tram. Marseille comme on l'aime, chaleureuse et populaire.",
+            "name": "Waheb",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Excellent accueil de Lionel qui est le propriétaire sympathique de ce joli studio au cœur de Marseille. Dans une jolie petite rue pittoresque , à deux pas de toutes les commodités ( métro, tramway, commerces...) et de la vie nocturne marseillaise un endroit tranquille et paisible où il fait bon venir. Excellent rapport qualité prix, je recommande vivement l'adresse pour un voyageur seul ou un couple.",
+            "name": "Fabrice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "L'appartement d'Anne et Lionel est central, propre et dans une rue calme de Marseille. Nous y avons passé un agréable week-end !",
+            "name": "Lucie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Super studio Propre-calme Propriétaire disponible et agréable Bien localisé au centre de Marseille dans un endroit tranquille",
+            "name": "Frederick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Accueil et communication au top. Appartement fidèle à la description, très propre, fonctionnel, très bien situé et au calme. À recommander!",
+            "name": "Marion",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Accueil très cordial de Lionel au moment de notre arrivée : explications pratiques concernant le logement (particulièrement soigné et agréable, en tous points conforme au descriptif et aux clichés), présentation du quartier (très calme) et des commerces de proximité. Une situation idéale pour visiter la ville (15 mn seulement à pied du vieux port, ou très nombreux moyens de transport en commun). Une excellente adresse.",
+            "name": "Claude",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Le studio était bien conforme à la description. Il est grand, très confortable et bien équipé. La localisation du logement est bien pratique surtout si on de déplace en transports en commun, il y a des commerces dans le quartier. L'appartement est proche du tramway et proche du centre ville, de la gare Saint Charles, des métros et du port.",
+            "name": "Marie-Claire",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Nous avons été très bien accueillies par nos hôtes dans ce joli quartier calme et authentique de Marseille. Un logement bien situé par rapport aux transports en commun, pas loin du Vieux Port et de la gare Saint Charles. Et surtout bien équipé, avec tout ce qu'il faut pour cuisiner et se détendre.",
+            "name": "Christine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Super séjour à Marseille! L'appartement est très bien situé. 1 arrêt seulement jusqu'au vieux port et c'est faisable à pieds pour ceux qui le souhaitent. Il est également très fonctionnel. Il y a tout ce qu'il faut dedans. Pour finir les hôtes sont très agréables et à l'écoute. Toujours là pour donner un petit conseil si besoin.",
+            "name": "Pauline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Hote tres accueillant, appartement propre et bien situe. Nous recommandons",
+            "name": "Veronique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Je me suis sentie bien accueillie. Les hôtes sont souriant et à l'écoute. Le studio correspond bien à la description que j'ai eu. Le quartier est calme et à proximité des transports en commun.",
+            "name": "Isaline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Appartement très propre, très agréable et fonctionnel. Lionel est très accueillant et fournit toutes les informations nécessaires pour découvrir Marseille, il est également très disponible et bienveillant. La situation de l'appartement est idéale, proche du tramway et du métro, mais surtout idéale car elle permet de rejoindre le vieux port à pied. De plus, il se situe proche du Cours Julien qui est un quartier vivant et animé (notamment le soir); mais l'appartement reste dans un quartier très calme et est donc préservé d'éventuelles nuisances sonores ! Merci à Lionel et à bientôt !\n+ Plus",
+            "name": "Luce",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Nous n'avons malheureusement pas pu venir chez l'hôte a cause d'une urgence de dernière minute!",
+            "name": "Gaëlle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Le studio est très propre et bien équipé, conforme aux photos de l'annonce. La cuisine est très confortable pour les gens qui font à manger pendant leur séjour. Il est proche de la station de tramway et du supermarché, et à 15 mins à pied du Vieux port. Lionel est très accueillant et disponible pour répondre à toute question sur le site ou par téléphone. A recommander pour les visites à Marseille.",
+            "name": "Quang Trung",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Ce studio est vraiment formidable ; il est clair , ultra propre , bien agencé et surtout conforme à la description et à la photo de l'annonce. Parfait pour deux voyageurs,il est proche du centre et des différents transports (métro et tramway). Lionel notre hôte nous a reçu avec chaleur et courtoisie et a répondu avec précision à nos différentes questions . Alors , voyageurs , découvrez vite cet appartement et les charmantes petites rues de Marseille qui vous y conduisent. dominique et jacques.",
+            "name": "Jacques",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Studio conforme à la description. Vraiment sympa. Quartier tranquille avec tram et métro pas loin. Hypermarché également... Anne et Lionel ainsi que leur ami qui m'a donné les clés ont été disponibles et attentionnés. Rien à redire. Je conseille.",
+            "name": "Chris",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "L'appartement d'Anne et Lionel est très propre et fonctionnel! Nous y avons passé une excellente semaine. Il est proche de tous commerces et nous avons pu faire pas mal de visite à pied! Je recommande!",
+            "name": "Nawel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Lionel a été très accueillant et a répondu à toutes mes questions concernant mon séjour, l'appartement est fidèle à la description faite sur le site. De plus, celui-ci était propre et contenait les éléments de base nécessaires à un agréable séjour. Le quartier est calme mais proche du centre ville (5 minutes en tram), de même pour le métro à quelques minutes à pied du logement qui dessert les plages du Prado et de la pointe rouge ainsi que la gare.",
+            "name": "Mohamed",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Logement conforme à la description et aux photos. Très proche du tram qui nous amène aux autres transports en commun, donc très pratique !",
+            "name": "Aude",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "L'appartement est tout neuf et très bien équipé. Je recommande cet appartement car on s'y sent très à l'aise. Un seul bémol: la rue où se trouve le logement. Elle est assez bruyante le soir tout comme les voisins.",
+            "name": "Daniel.Iglesias",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Sejour parfait, accueil et remise des cles rapides. L appartement est tres pratique et agreable par sa fonctionnalité et son emplacement dans un charmant quartier calme mais proche de tout. Je recommande.",
+            "name": "Sisco",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Logement conforme à la description. Appartement bien agencé, propre, équipé et décoré avec soin. Bon choix.",
+            "name": "Anissa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "J'ai beaucoup apprécié ce logement impeccable, très bien situé, équipé et ensoleillé! Rien à redire. Idem pour l'accueil : impeccable!!",
+            "name": "Gabriel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Bel appartement et bien pratique. Très propre, quartier bien situé pour ce balader à pied. Les photos représentent parfaitement le logement.",
+            "name": "Émilie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Très joli studio en plein cœur de Marseille, super bien équipé, très propre avec toutes commodités, quartier très calme. Station de Tram et super marché à 1 minute de marche. Hôte très accueillant et disponible a tout moment. Je recommande ce studio à tous ceux qui souhaitent passer un agréable séjour dans la Ville Soleil.",
+            "name": "Iften",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "The flat was really super clean, and really well equiped Supermarket 3 min walk Cours Julien 10min walk Lionel was always super fast answering our texts",
+            "name": "Morgane",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Apartment description conform to photos. Warm welcome from hosts. Recommended for a couple especially if doing business in the surrounding area. Approximately 25min walk to the old port.",
+            "name": "Arshia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "We had a great stay at Anne & Lionel's studio! Lionel gave us a warm welcome and the studio is very bright and well equipped. There are many nice dining and lunch places in the neighborhood, and the city center is walking distance. The only negative point is that we came from a wedding and were road tripping with a (beautiful) car, but we did not see that many beautiful cars in Marseille (we paid 30 euros a day for an underground parking to keep the car safe), there is also not that much parking space on the street. So I would not recommend to come by car.\n+ Plus",
+            "name": "Katrien",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "It was fantastic stay at Lionel's apartment in Marseille. It is 15-20 min by foot to the city center, in nice calm area. Apartment is very nicely arranged with everything you need. Perfect!",
+            "name": "Karel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Cannot fault, great accommodation in Marseille and close to everything - transport, supermarkets, restaurants. Anne and Lionel are caring, helpful and punctual. Thanks so much!",
+            "name": "Liana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The flat is really nice, clean and perfectly located. You can walk around a lot and be in a cool neighborhood... If the neighbors are home you can listen to their conversations, so be prepared to hear them/get heard by them. But it's a great place and I can only recommend staying there!",
+            "name": "Markus",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "We believe it is the best listing within Marseille. Location is walking distance to the city center, a supermarket round the corner. The apartment is very lovely. Small but it makes you feel like home. We really loved staying there. Lionel and Anne are very nice people. Lionel even reserved us a parking spot in front of the apartment; the neighborhood is a nightmare for parking and this was like a life saver. Would definitely recommend and will definitely chose for future visits. Thank you Lionel and Anne.",
+            "name": "Mehmet",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Overall, it's a nice and very clean apartment, located in a quiet, residential area. Walking to vieux port is about 20 minutes. To closest metro is about 8 minutes. It's pretty well equipped. Nice kitchen. Also a washing machine, which a lot of other studio apartment may not provide, and it helped me a lot. A lot lot of sunshine coming through during the day. I like the windows a lot. And Super super quiet in night. Didn't talk to the hosts too much, but they seem nice. I enjoyed my stay.",
+            "name": "Xiaoxiao",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "The Apartment is exactly as described and was perfectly clean. It was located centrally but nevertheless really quiet. Lionel gave us a warm welcome and lots of tips to discover Marseille. We recommend staying at his place!",
+            "name": "Naji",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "My girlfriend and I stayed two night at the apartment and we had a good time there. Lionel was very hospitable and took care of everything that came up asap. He speaks a little English, which was helpful, however if you speak French it's definitely easier. The apartment itself was really nice and modern and well-equipped. Unfortunately we can't really say the same thing about the neighborhood. As with most areas around the harbour it was quite dirty on the streets and pretty loud at nights. The next metro station is about 10 minutes walking. Overall, we'd still recommend the place if you're not staying too long.\n+ Plus",
+            "name": "Marcel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Very nice Location and very nice People",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "It was very nice staying at the apartment, Anne & Lionel were very helpful and helped us with a late check in due to a canceled train. The studio was beautiful, clean and very central.",
+            "name": "Leo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "The host was very welcoming and showed us the space when we arrived. The property is spacious with lots of natural lighting. We enjoyed our stay.",
+            "name": "Wei",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Anne and Lionel are 2 very nice people, I should go to check in before 10 but when I arrive there is almost 11 pm. And I couldn't find their house, Anne just went out to serve us. I am so sorry about that.",
+            "name": "Hang",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Clean, comfortable recently renovated apartment. Well equipped. The area is near the center of the city and very walkable.",
+            "name": "Dove",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Friendly host with pleasant living environment , hope I can meet more guys like Lionel through the journey in France !",
+            "name": "Yuan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "It was a great time at Anne and Lionel's place. Location is perfect, area very quite and close to city centre, apartment is just like on photos, very cozy and clean. There is also hairdryer! Thank you for hospitality.",
+            "name": "Giulia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Great apartment, everything was nice and clean; the apartment had everything we needed. We felt very welcome. Whenever we had question, Anne & Lionel were quick in helping.",
+            "name": "Anne-Rose",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "The room is exactly like the picture.",
+            "name": "Un",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Lionel is a very friendly person. The flat is very comfotable and in very good location to city center and train station (15 min by walking)... Also the flat has a good kitchen that has everything you need to cook.. There is a supermarket just near.. you can buy ready freezed meals and warm in microwave oven if you think the restaurants will become expensive...",
+            "name": "Ozgur",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Lionel and Anne are excellent hosts with a great, centrally located and fully equipped apartment. This is a real jewel to find with air bnb. Price = amazing. Host = amazing. Accommodation = amazing. There is nothing else to say!!!!! Thank you Anne and Lionel. Lionel et Anne sont d'excellents hôtes avec un grand , situé au centre et entièrement équipée appartement. Ceci est un véritable bijou à trouver avec bnb d'air . Prix = incroyable. Host = incroyable. Hébergement = incroyable. Il n'y a rien d'autre à dire !!!!! Merci Anne et Lionel .\n+ Plus",
+            "name": "Nick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Anne and Lionel they're very kind to let us earlier check in because we have some problems about the arrival time. And they send their friend to give us the key and their friend is also very nice :) it was comfortable staying in this studio",
+            "name": "Yinan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "If I could give Lionel 6 stars, I would: He was very communicative, very flexible, and very forgiving! My traveling companion and I arrived in Marseille one morning at 11 am (before checkin) and left two days later at 3 pm (after checkout). As we didn't want to lug our bags around while sightseeing, Lionel graciously offered to store our bags in his garage both times even though this meant he had to make two extra trips to the apartment. And on the first of those trips, he met us at the exact moment we arrived at the apartment even though (due to an error on my part) we had failed to agree on an exact time to meet -- in other words, luckily for us, he made the trip having no idea if we'd be there. As a result, our stay in Marseille went very smoothly. Regarding the apartment: It was clean and the many pictures represent it accurately. The washer worked fine, and the clothes we hung over the courtyard outside dried overnight. Importantly, we slept well -- the noise from the street was minimal. I would happily stay in this apartment (or any other apartment rented by Lionel) the next time I'm in Marseille.\n+ Plus",
+            "name": "Dan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "The apartment is GOLD! It is very big and everything looks like new. The place is very clean and calm. It is incredibly well furnished - you'll find ANYTHING you need for your holiday already in the apartment: Cutlery, plates, washing machine, maps,... The host Lionel was really friendly and welcoming and gave us a lot of good tips. When we had to check out early in the morning, he was very flexibel and communicating with him was easy. It'll take you around 20 min by foot to reach the city center. However, you can also take a tram line (2-4 min walk from the house) or a metro line (6-9 min walk from the house) to get to the old harbor. Putting it in a nutshell: I have only good things to say about the apartment and its hosts, we really enjoyed our stay there.\n+ Plus",
+            "name": "Carolin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Always very helpful and found a solution for every problem!! The appartement is exactly like in the pictures and very cleaned and modern. There was everything we needed.",
+            "name": "Johanna",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "The studio is clean and comfortable. Lionel gave us good tips on what to do in the city and nearby.",
+            "name": "Angela",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 4.5,
+    "nbReviews": 95,
+    "communication": 5.0,
+    "emplacement": 4.5,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 37,
+    "qualite-prix": 4.5
+}

@@ -1,0 +1,151 @@
+{
+    "precision": 3.5,
+    "reviews": [
+        {
+            "text": "Appartement avec un bon rapport qualité/prix, à moins de trente minutes de la gare à pieds.",
+            "name": "Victor",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Déçus. Un rafraîchissement s'impose. Cet appartement vétuste (literie, sanitaire, mobilier...)situé au 10e étage d'une cité HLM possède une plomberie capricieuse. Dans la SDB l'eau froide s'écoule quand elle veut et dans la chambre, la tuyauterie eau chaude fait un vacarme incessant que le radiateur soit ouvert ou non. Si vous voulez dormir pensez aux boules Quiès. Sinon il est effectivement situé à proximité d'un parc, des transports et supérettes. Mais cela ne vaut pas 50€/ nuit, même à 4...",
+            "name": "Dulin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Appartement très fonctionnel dans un immeuble très calme... facile d'accès... à recommander!!",
+            "name": "Marie Claire",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Ce n'est pas très cher mais je ne le recommande pas.",
+            "name": "Valérie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Appartement très propre, moyennement équipé mais l'essentiel y est!",
+            "name": "Lauriane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Hôte très arrangeant et sympathique. L'appartement correspond à la description et est très pratique. Je le recommande aux autres voyageurs.",
+            "name": "Paul",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Un très bon accueil de la part de Maya...l appartement peut surprendre par son emplacement mais très pratique et peu coûteux pr un séjour sur Belfort ! Je le recommande.",
+            "name": "Fanny",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Appartement très fonctionnel et bien placé proche de Belfort centre.",
+            "name": "Jannette",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Bon Acceuil, appartement propre et fonctionnel. Une belle vue sur parc et les environs, ce qui est agréable!",
+            "name": "Florian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Appartement au 10ème étage. On aurait aimé que la terrasse soit débarrassée d'affaires inutiles et qu'elle soit propre.",
+            "name": "Jean-Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Super gentil aimable sympathique, vraiment bravo ! L'appartement est bien équipé il y a tout ce qu'il faut. Je recommande vraiment !",
+            "name": "Tomazia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "The host canceled this reservation 4 days before arrival. This is an automated posting.",
+            "name": "David",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "The host canceled this reservation the day before arrival. This is an automated posting.",
+            "name": "Quentin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "The reservation was canceled 3 days before arrival. This is an automated posting.",
+            "name": "Benoit",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "text": "The reservation was canceled 34 days before arrival. This is an automated posting.",
+            "name": "Sebastien",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "The reservation was canceled 15 days before arrival. This is an automated posting.",
+            "name": "Aleksander",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "The reservation was canceled 33 days before arrival. This is an automated posting.",
+            "name": "Bastien",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 3.5,
+    "averageRanking": 3.5,
+    "nbReviews": 17,
+    "communication": 4.0,
+    "emplacement": 3.0,
+    "arrivee": 4.0,
+    "resume": "",
+    "id": 74,
+    "qualite-prix": 4.0
+}

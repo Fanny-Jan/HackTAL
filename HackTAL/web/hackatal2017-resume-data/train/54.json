@@ -1,0 +1,567 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "4 étoiles pour un logement propre, efficace et simple. Tres bon séjour de quelques nuits. Rien à dire sur l'appartement ou l'hôte c'est un très bon rapport qualité prix. 1 étoile en moins car quartier populaire assez bruyant.",
+            "name": "Aurélien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Hôtesse sympathique et disponible. Le logement est bien situé, à proximité directe de la gare et proche de la canebière et du vieux port. Quartier vivant quoiqu'un peu bruyant. En définitive, un très bon rapport qualité / prix.",
+            "name": "Thibault",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement bien situé Angélique est tres arrangeante Parfait pour un petit week end sur Marseille !",
+            "name": "Noemie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Le studio d'Angélique est particulièrement bien situé : très près de la gare, il est accessible en moins de 5 minutes. Tous les commerces nécessaires se trouvent de plus à proximité. Sa localisation permet de se déplacer à pied comme à métro et c'est très agréable ! Au niveau de l'aménagement, le studio d'Angélique comprend toutes les commodités nécessaires (petit frigo, micro-onde, sèche-cheveux) et il est particulièrement propre ! J'ai apprécié le fait que la décoration soit choisie avec goût, je me croyais presque dans une chambre d'hôtel ! Pour finir, Angélique est une hôte très disponible et elle répond rapidement à la moindre demande. Elle m'a prodigué des conseils quant aux restaurants à privilégier, et s'est très montré très précise lorsqu'elle m'a précisé l'itinéraire permettant d'accéder à son studio. En bref, la meilleure manière de découvrir Marseille !\n+ Plus",
+            "name": "Pauline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement propre, Bonne emplacement, proche de la gare et des deux lignes de metro. Très bonne communication avec la propriétaire, toujours à l'écoute si il y'a un problème.",
+            "name": "Fabrine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Un super studio en plein coeur de Marseille et à 2 pas de La gare ! Bien pratique pour deux et en plus Angelique est super arrangeante. Au top ! :)",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Le logement est très bien situé juste à côté de la gare. Petit mais tout y est. À 5' à pied de la du centre. Angelique est toujours disponible. Bon rapport qualité prix.",
+            "name": "Josee",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "BON RAPPORT QUALITE PRIX . PLUTOT BIEN SITUE MAIS UN PEU BRUYANT LE WE ; TRES PROPRE ET BIEN EQUIPE",
+            "name": "Catherine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Très bon emplacement malgré le bruit de la rue Logement plus adapté aux jeunes qui sont peut être moins regardant . .",
+            "name": "Lilou",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Studio très sympa idéalement situé. 10 min à pied du vieux port et à peine 5 min de la gare. Très bien dormi car le quartier est super calme la nuit.",
+            "name": "Christophe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Excellent rapport qualité-prix pour ce studio clair et propre, au plus près de la gare St-Charles. Facilité d'échanges avec Angélique, très arrangeante pour arrivée + départ. La rue est bruyante surtout le samedi soir, boules quiès conseillées ! Équipement très simple, mais conforme à la description. Nous avons passé un excellent séjour à Marseille !",
+            "name": "Alice",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Logement pratique proche des transports publics et de la gare St Charles",
+            "name": "Myrtha",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Un logement très bien situé, tout près de la gare et un accès facile au centre de ville. L'hôte est sympathique et joignable. Très bon séjour pour ma part. :)",
+            "name": "Ophélie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Le logement est à 300m de la Gare, des métros pas loin , le vieux port est à 5 6 minutes.",
+            "name": "Olivia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "L'appartement d'Angelique est conforme à la description, je my suis sentie très bien. Il est parfait comme pied à terre à Marseille de par sa localisation idéale entre la gare et le vieux port un peu plus loin.",
+            "name": "Gaïa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Apparemment propre, bien aménagé pour un petit séjour. Il est également très bien situé dans Marseille. Enfin Angélique est très disponible pour bien accueillir les nouveaux arrivants",
+            "name": "Amandine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Appartement bien situé, à 2 pas de la gare; et assez (URL HIDDEN) est équipé de l'essentiel pour un séjour agréable et il y a de nombreux restaurants tout autour...",
+            "name": "Maja & Chideric",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Appartement bien situé, proche de la gare. Angélique était disponible en cas de besoin. L'appartement est simple mais suffisant pour un court séjour. Dommage qu'il soit assez bruyant la nuit avec la route et les voisins.",
+            "name": "Alexandre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Très bon séjour pour le travaille. Angélique est efficace, précise et disponible. le logement est bien placé et très calme la nuit. Le wifi marche parfaitement.",
+            "name": "Rémi",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Studio agréable et très bien situé, à deux minutes de la gare. Angelique est très disponible. Bon séjour :)",
+            "name": "Yoann",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Lieu conforme aux photos, dans un quartier populaire. Ce n'est pas un appartement de charme pour escapade romantique, mais ceux qui cherchent un lieu pratique et central, à un bon prix, pour se faire la cuisine et dormir à Marseille, peuvent choisir cet endroit sans souci!",
+            "name": "Claude",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "L'appartement est très bien situé: juste à coté de la gare, près du métro et du tram et à une dizaine de minutes de pied du Vieux Port. Il est un peu bruyant le matin mais très calme pendant la nuit. Les équipements ne sont pas récents mais tout fonctionne bien et la communication avec Angélique s'est faite sans problème. Bon rapport qualité/prix!",
+            "name": "Celine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Appartement très bien situé, quartier populaire près du vieux port, un peu bruyant mais calme la nuit. Equipement de cuisine peut être un peu succinct. Séjour agréable et hôte à l'écoute.",
+            "name": "Sylvie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Très bonne communication avec Angélique. Quartier un peu \"vieillot\" mais plutôt calme et très bien situé par rapport à la gare et au vieux port. Bon rapport qualité prix.",
+            "name": "Pascal",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Angelique a vraiment été super. Très disponible et accueillante pour ma part. L'appartement est conforme aux photos, est très propre et contient tout le nécessaire pour passer un bon séjour. Pour mon prochain voyage, je reviendrais avec plaisir chez Angelique.",
+            "name": "Carine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Logement au top pour petit week end et angélique à été super et très disponible",
+            "name": "Jules",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Le quatier n est pas très chaleureux mais Angélique à tout fait pour que le séjour ce deroule bien... cependant l arrangement pour la remise des clefs.. la télèvision qui ne devait pas avoir lieu.. je le recommande pour y passer quelque nuit !!",
+            "name": "Cyril",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Le logement est comme sur les photos. Un appartement très pratique pour séjourner à Marseille, il est très proche de la gare. L'appartement est spacieux et propre . Aucun problème de communication avec Angelique. Je recommande fortement cette appartement. J'espère éventuellement y retourner lors de mon prochain voyage sur Marseille!",
+            "name": "Rabah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Comme Angelique l'a annoncé, il y a eu un incendie dans l'immeuble. Rien de grave mais un belle frayeur. ANGELIQUE À ÉTÉ SUPER : réactive, bienveillante, agréable, je pense que personne n'aurait été autant à la hauteur. Merci Angelique !",
+            "name": "Anne Laure",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Super endroit, très propre, vraiment au centre de toutes les activités à faire, même a pieds :)",
+            "name": "Soline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Appartement proche de toutes commodités: transports et commerces. Il est également bien équipé avec une machine à café et un micro ondes. Le quartier est un peu bruyant donc prévoir boulequiès si vous dormez les fenêtres ouvertes",
+            "name": "Fanny",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Mon séjour c'est très bien passé, l'appartement est fonctionnel et très proche de la gare, l'hôte est très gentille et très serviable. Je recommande cet appartement.",
+            "name": "Stephane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Apparemment agréable propriétaire à l'écoute :)",
+            "name": "Cassandra",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Bon séjour, appartement propre et bien meublé. Point + : ventilateur",
+            "name": "Lisa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Angélique est une hôte fort sympathique qui a été disponible à chaque fois que nécessaire durant mon petit weekend a Marseille. Je vous recommande ce studio idéalement situé à quelques pas de la gare et à seulement 15 minutes à pieds du vieux port. En été si vous rentrez dormir tôt, le bruit de la rue peut être parfois dérangeant, fenêtres ouvertes. Mais pour le rapport qualité prix, je pense que c'est un bon plan .",
+            "name": "Fa-Rah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Un super séjour. Communication avant notre arrivée par message, j'ai pu grâce à une annulation avoir 2 jours de plus dans l'appartement. Facile d'accès 10 mns à pieds avec deux valises et un enfant. Quartier vivant. Aucun sentiment d'insécurité. Commerces à 2 pas. Métro gare saint charles, 2 stations du vieux port. Appartement nikel, il fait chaud mais ok avait le ventilateur. WiFi.",
+            "name": "Caroline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Le logement était conforme aux photos. Nous avons eu à disposition un ventilateur bien nécessaire étant donné la chaleur. L'appartement est proche de la Cannebière. Tout est accessible à pied. C'est bien pratique. Angélique nous a accueilli avant l'heure prévue, ce qui nous a arrangé. Merci.",
+            "name": "Zineb",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Le logement est conforme à la description. Le lit n'est pas très grand et un peu bancale, la rue un peu bruyante, mais cet appartement convient très bien pour de court séjour. De plus l'appartement est propre et bien équipé.",
+            "name": "Romain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Très bon séjour dans L'appartement d'angélique qui est très bien situé et conforme aux photos. De plus Angélique est très sympathique, je recommande.",
+            "name": "Valérie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Hôte sympathique, logement bien décrit.",
+            "name": "Stephanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "accueil d'Angélique fort sympathique, logement correcte, rue un peu trop animée pour le repos du soir , mais dans l'ensemble a conseillé pour découvrir Marseille.",
+            "name": "Pascaline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Le logement est bien décrit, idéalement situé près de la gare pour ceux qui viennent un week-end, à une dizaine de minutes du vieux port et pareil des places tranquilles de Marseille, comme Notre Dame du Mont. L'appartement était nickel, et l'hôte est très gentille et très disponible en cas de problème. Elle n'hésite pas à conseiller de faire telle ou telle chose à Marseille ! Très bon voyage.",
+            "name": "Marc-Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Bon emplacement si on arrive par la gare. Appartement sécurisé et explications d'accès précises.",
+            "name": "Marine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Très bien et très près à la gare",
+            "name": "Sanghyeok",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Très bon rapport qualité-prix pour ce studio à proximité immédiate de la gare et du centre de Marseille. Angélique est facilement joignable et flexible sur les heures de départ/arrivée quand cela est possible. Attention toutefois au quartier (très bruyant la nuit) et à la salle de bain (propre mais défraîchie).",
+            "name": "Violaine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "On a passé une belle vacance dans la maison d'Angelique.",
+            "name": "Michiel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Quelques problèmes pour se mettre d'accord pour entrer à l'appartement. Apart ça, l'appartement très correct et propre. Le souci le plus important pour nous a été le bruit jusqu'à 4h00 du matin les 2 nuits que nous y sommes restées.",
+            "name": "Marina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "The flat is very nice, with a lot of light coming in, a minimalist design and clean. It's also very close to St Charles, the main railway station of Marseille. The bathroom is clean and quite big but the bathtub is quite old and small. I didn't use the kitchen which is in the room. The building seems secure with a doorcode and the flat has three locks. I didn't find the area to be unsafe (but it's not particularly nice either). Angelique also provided tips for my stay and checked on me tl see if everything is alright. I think it's a very good value for money this place.\n+ Plus",
+            "name": "Radu",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "The apartment is located in the centre of the city; it's very cozy and light. It was a pleasure to stay at Angelique's apartment.",
+            "name": "Rita",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Angelique's place was really close to the station and from there everywhere is walking distance. Check in/out was easy and the place was clean. The bed was not very comfortable but we still slept OK. With the price it's an easy pick!",
+            "name": "Taylan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Excellent apartment! Clean, comfortable, good wifi signal and walking distance to public transport, shops and restaurants. Angelique also gave us very clear instructions for finding the apartment - the best communication we've ever had from an Airbnb host so far. We highly recommend this apartment as a hassle-free and inexpensive accomodation option when visiting Marseille.",
+            "name": "David",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Really centrally located 2 mins from st Charles train station. Apartment not suitable for cooking due to rusted kitchenware and bed mattress larger than bed itself.",
+            "name": "Kristine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Angelique provided us with specific instructions as to how to get to the apartment, everything was really clean. It's really close to the Bus station, which was a huge plus for me and my travel companion. Recommendation for anyone!",
+            "name": "Nevena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "it was a very nice home and hostees",
+            "name": "Buğra",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "The place was perfectly located close to the train station and main shopping areas. The apartment was quite small but a good size for one person with most of the required necessities. I would've felt more safe if the entrance to the building was locked.",
+            "name": "Rachel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Angelique maintained excellent contact throughout, by email and text. She was very warm and friendly.",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "The host canceled this reservation 17 days before arrival. This is an automated posting.",
+            "name": "Amina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "The apartment was fine and accurately described. Angelique was helpful and easy to contact",
+            "name": "Brock",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Angelique was very instructive and understanding about our change in check in time. Awesome place, well equipped!",
+            "name": "Saerom",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "The apartment looks exactly as described. It has everything for cooking, fridge and microwave. The location is good, the main sightseeing is in a walking distance. The main streets with many small cafes and grocery will lead you to the old port. We had a good stay in Marseille",
+            "name": "Madina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Decent apartment in a convenient location close to the station. It was basic but good for the price because it was very cheap for an entire apartment.",
+            "name": "Tamaho",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Angelique was easy to communicate with and gave good instructions on how to get to apartment. Unfortunately did not meet in person. Good apartment for the cheap price we paid. Apartment as pictures described. Walking distance to Port (approx 15 mins) and only 2 blocks from main station. Entrance to building did not lock but apartment itself had three door locks for security.",
+            "name": "Emily",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "It was really clean and tidy room.",
+            "name": "Hyo Sun",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Angelique was a nice host. communication was quite good and she was quick to reply to my text. I can not say the same for the flat. The building is smelly and dirty. the front door doesn't have the lock. a lot of homeless live around there (no dangerous but anyway not really nice atmosphere for two girls). The flat is ok.. a bit dusty, but at least it has the bidet (good for italians). My friend and I have been to 3 airbnb in Provence and this one was the most expensive but at the same time the worst one. Sorry for Angelique who is a nice host, but I wouldn't recommend this place. Angelique è stata un'ottima host, disponibile e veloce nella risposta. L'appartamento, però, non ha soddisfatto le aspettative. Il quartiere non è dei migliori, il portone dell'appartamento non ha la serratura e non ha un aspetto di sicurezza in quanto chiunque potrebbe entrare nell'atrio. L'atrio è puzzolente e sporco. L'appartamento in se è abbastanza ok, un po' polveroso (ma almeno ha il bidet, buono per gli italiani, soprattutto per chi come me abita all'estero). Mi dispiace per angelique, ma non consiglio assolutamente questo posto, che tra l'altro è stato il più costoso dei tre airbnb in cui ho soggiornato in provenza.\n+ Plus",
+            "name": "Claudia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Awesome stay at Marseille! The studio is as the pictures shows, cozy place and very wel located near the Gare St Charles! Easy to go to bars and restaurants, tourist spots and as well public transportation. Angelique is such a great host, beautiful soul, always helpful. Merci, Angelique!",
+            "name": "Marcus Vitor",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Clean and located near attractions. Angelique is helpful and kind.",
+            "name": "Brittany",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Very well located apartment, easy to find and very central. The street outside was a little noisy, but otherwise the apartment was comfortable. Angelique was very flexible and we had no problems when our arrival time changed unexpectedly.",
+            "name": "Cameron",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Place exactly as advertised! Angelique carried out great communication and provided us with a private pad right in the center of Marseille.",
+            "name": "Brian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Ange is a very friendly host who made me more than welcome in Marseille! The apartment has everything you need including fast (5G) WiFi, TV, little kitchenette and bathroom. Apartment is perfectly situated close walking distance to the train station and the iconic Vieux Port. Would recommend to everyone. Thanks Ange!",
+            "name": "Luke",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "averageRanking": 4.0,
+    "nbReviews": 69,
+    "communication": 5.0,
+    "emplacement": 4.0,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 54,
+    "qualite-prix": 4.5
+}

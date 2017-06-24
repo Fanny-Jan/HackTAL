@@ -1,0 +1,1207 @@
+{
+    "precision": 5,
+    "reviews": [
+        {
+            "pos": [],
+            "name": "Antoine",
+            "text": "Le logement est top, le cadre est vraiment agréable puisque proche du centre ville. Célestin est très sympathique et accueillant. C'était un vrai plaisir d'être ici. Merci encore",
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "pos": [],
+            "name": "Julie",
+            "text": "Photos conformes à l'appartement dans lequel nous avons passé un très bon séjour. Célestin est accueillant et très disponible. L'appartement est très propre et parfaitement équipé. La place de parking est un vrai plus puisque l'appartement est à 10 minutes à pieds du centre d'Orléans. Je recommande à 100% !",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Olivier",
+            "text": "le studio est bien placé, très fonctionnel, très propre et dans une cours sécurisée",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "(EMAIL HIDDEN)",
+            "text": "On ne peut que louer les qualités de cet hébergement. Idéalement situé à 5 mn à pied du centre-ville, doté d'une cour intérieure pour le parking, ce studio est très lumineux et parfaitement équipé.",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Mathieu",
+            "text": "Célestin est très accueillant. Le logement est conforme à la description: propre, chaleureux, fonctionnel. Je recommande.",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Patrick",
+            "text": "Logement idéalement situé pour visiter Orléans à pied (centre ville et cathédrale à 10 minutes environ), la place de stationnement avec le studio est vraiment un plus. Quartier très bien desservi par les commerces, tout est à proximité ( moyenne surface, boulangerie, traiteur et autres commerces de bouche). Studio vraiment calme et très bien équipé. Nous reviendrons certainement.....",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Beatrice",
+            "text": "Pour ce troisième séjour chez Célestin, tout a été parfait comme toujours !",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Beatrice",
+            "text": "C'est le deuxième séjour dans cet endroit et nous le recommandons vraiment. Ce studio est très calme, propre et il y a tout le nécessaire pour passer un très bon séjour. A 5mn de la gare on peut aller dans le centre d'Orléans à pied rapidement. L'accueil est très chaleureux et les propriétaires sont très disponibles.",
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Beatrice",
+            "text": "Ce studio est très bien situé, dans une cour très calme. L'aménagement est très agréable et Célestin veille à ce qu'il ne manque rien. Des commerces sont juste à côté et le centre de la ville à 10mn à pied.",
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Christian",
+            "text": "Logement refait à neuf, très sympa, bien équipé et calme, avec l'avantage de disposer d'un parking. A 10 min à pied du plein centre ville. A recommander.",
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "David",
+            "text": "Excellent séjour et un super acceuil pour notre escapade orléanaise. Merci Célestin !",
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Sandrine",
+            "text": "L'emplacement de cet appartement est idéal. Il est très fonctionnel. Tout était parfait !",
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Célia",
+            "text": "Très bonne expérience chez Celestin. Appartement très mignon, très propre et fonctionnel. Communication facile et Celestin a été très arrangeant. Merci beaucoup pour ce week end.",
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Anna",
+            "text": "Très beau logement idéalement situé à proximité du centre d'Orléans. Magnifique cour intérieure, logement très propre. A recommander vivement.",
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Thomas",
+            "text": "Pour votre passage ou séjour à Orléans nous ne pouvons que recommander le logement de célestin : cosy, simple et très bien aménagé. Vous passerez une excellente nuit au calme . Pour ceux qui aiment l'animation le logement se trouve à deux pas du centre ville. Célestin était très disponible et tout s'est très bien passé. On recommande fortement !",
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Sylvie",
+            "text": "Très bon studio conforme aux photos et description Tous commerces à proximité et gare à 7 mn à pied Parking sécurisé",
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Alice",
+            "text": "Logement très agréable, bien situé, et particulièrement calme (ce qui n'est pas négligeable lorsque l'on vient à Orléans pour y passer un concours !). Très bon accueil également !",
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Elodie",
+            "text": "Studio cosy et tres propre dans une résidence sécurisée et pleine de charme Célestin est très arrangeant concernant l entree dans les lieux et le départ ce qui est très appréciable lors de déplacement professionnel",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Gabriella",
+            "text": "Joli appartement équipé avec tout ce qu'il faut pour un court séjour. De plus, il est bien situé entre la gare et le centre (3-5 minutes à pied). Merci, on a passé un super week-end à Orléans. :)",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Emmanuel",
+            "text": "Nous avons passé un excellent séjour dans l'appartement de Célestin. Nous recommandons vivement.",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Yhou",
+            "text": "Appartement très agréable pour séjourner à Orléans.",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Louise",
+            "text": "Parfait pour un séjour à Orléans, très propre surtout, nous n'avons pas rencontré Célestin mais il s'est montré très disponible au téléphone.",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Romain & Gwen",
+            "text": "Rapport qualité-prix imbattable!!! Central tout en étant au calme, la place de parking est un gros plus! Confort du sommier, propreté impeccable, une déco soignée qui rend le tout cosy et des petites attentions! Fortement recommandé!",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Adrien",
+            "text": "Célestin est un hôte accueillant et très arrangeant. Je recommande ce logement les photos correspondent parfaitement au bien",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "François",
+            "text": "Célestin est un hôte vraiment très sympathique, ayant une véritable connaissance de la région et des coins à visiter. L'appartement était vraiment superbe, fonctionnel et l'emplacement de parking est un véritable plus, quelque soit la taille de votre véhicule. L'endroit est calme et reposant. Le cadre et la structure en pierre blanche de la cour intérieure est vraiment superbe. Une adresse que nous vous recommandons.",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "name": "Alexandre",
+            "text": "Très bon accueil de Célestin ! L'appart décoré avec goût est fonctionnel et très propre. Endroit très calme bien. Rien à dire. Je conseil !",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Corinne",
+            "text": "Très bien situé pour un séjour à Orléans, avec un parking privatif, proche du centre et très au calme. Beau studio, bien équipé. A recommander vivement !",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Claire",
+            "text": "Un appartement de rêve! Décoré avec goût et très bien équipé! Tout y est! L'arrivée sur les lieux met tout de suite dans l'ambiance, la grande grille s'ouvre sur une cour intérieure très mignonne et qui dessert l'appartement. En plus d'être bien décoré, l'appartement est situé au calme et très bien entretenu. Je le recommande pour la qualité du lieu, les réponses très rapides et l'accueil chaleureux de la part de Célestin. Merci encore!",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Cecile",
+            "text": "Le logement est idéalement situé. Dans une residence calme. L'aménagement est fidèle aux photos et vraiment soigné.",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Tiphany",
+            "text": "Nous avons été bien accueillis. Célestin nous a fait visiter les lieux et nous a expliqué ce qu'il y avait à voir dans la ville. L'appartement est agréable et idéalement situé (entrée sécurisée et proche du centre ville), la décoration est très moderne. Si vous cherchez un logement sur Orléans, nous vous recommandons cette adresse !",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Christophe",
+            "text": "très agréable idéal pour déplacements professionels",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Gabrielle",
+            "text": "Célestin est un hôte accueillant. Sa petite maison est charmante, meublée, décorée et équipée avec soin. Très bien située et dans un lieu paisible.",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "name": "Nanou",
+            "text": "Appart très sympa, tres bien équipé ! Nous restions dans la ville pour fêter Noël, quel bonheur de ne pas avoir à utiliser la voiture garée devant notre porte , tout s est fait à pied !",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Cassandre",
+            "text": "Un accueil chaleureux et un logement très fonctionnel et décoré avec goût ! Le logement est bien situé et il est au calme, c'est super ! J'ai passé un très bon séjour chez Célestin, je vous recommande ce super studio!",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Frédéric",
+            "text": "Célestin offre un logement vraiment très confortable, très bien équipé, confortable, super propre et agréable, central et original. Je recommande chaleureusement son studio. de plus il se montre un hôte, attentionné, subtil et agréable, acuillant et facilitant. Bravo.",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Éric",
+            "text": "Le lieu est très agréable et parfait pour une nuit ou plusieurs jours. Tout proche de la gare et des commerces. Célestin est un hôte présent et discret. Excellent séjour à Orleans!",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "P",
+            "text": "Appartement bien situé, idéal pour 2 personnes, pratique et calme.",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Florentin",
+            "text": "Logement classe assez moderne, proche du centre ville, avec place de parking, rien à dire c'était parfait ^^",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Clemence",
+            "text": "Le logement était tout à fait conforme au descriptif. Célestin a été très disponible. Je recommande les yeux fermés. À bientôt.",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Maxime",
+            "text": "Logement idéalement situé avec parking, très propre ! Accueil sympathique et convivial Je recommande",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Ingrid",
+            "text": "J'ai passé un court mais agréable séjour à Orleans dans ce logement moderne, lumineux et très bien aménagé. Café et thé prévus pour le petit déjeuner, place de parking sécurisé, literie très confortable, cuisine et salle de bain fonctionnelles... Tout est là pour vous permettre de passer une nuit/un week-end (ou plus !) très agréable au coeur de la ville. Sans compter sur la sympathie de Célestin qui s'est montré arrangeant pour l'arrivée et le départ. Je note cette adresse pour un éventuel futur séjour ;)",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Christophe",
+            "text": "Bon Accueil, l'appartement est très chaleureux décoré avec gout, il ne manque rien très bon séjour à Orléans.",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Carine",
+            "text": "Célestin à ete tres disponible Ét surtout l'appartement très bien situer et surtout l'appartement étai tres propre et tres bien équipé. Le plus les seviettes propres et le cafe étai bienvenu. Tout ce que célestin à ecris dans son annonce est vrai. Grâce à ce logement très beau mon séjour à ete tres agréable! Merci à vous",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Franck",
+            "text": "Très joli appartement très bien situé au centre d'Orléans. Très bien rénové, il offre toute les commodité pour que votre séjour soit un vrai plaisir. Le parking privé est un vrai plus car vous êtes en plein centre. Petit plus qui a son importance, Célestin est très sympa et sais parfaitement accueillir ses voyageurs.",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Carine",
+            "text": "L'accueil a été très chaleureux, on s'est tout de suite senti à l'aise d'autant plus que le logement correspondait en tout point à la description et à seulement 5 min à pied du centre tout en laissant la voiture garée sur un emplacement sécurisé. Bref, parfait!",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Nathalie",
+            "text": "Le logement est super pratique. Facile d accès avec parking juste devant. C'est confortable et propre. Célestin a été très disponible pour les échanges.",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Laure",
+            "text": "Très bon séjour chez Célestin qui s'est montré très accueillant et disponible, modalités d'arrivée et de départ très simple. Le studio est refait à neuf et très bien aménagé, tout y est pour se sentir comme chez soi, et la propreté est irréprochable ! Pour ne rien gâcher, la localisation à 2 pas du centre-ville et le parking sont très appréciables ! Nous recommandons sans réserves.",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Marie",
+            "text": "Célestin est très accueillant ! L'appartement très joli, confortable et cosy, dans une belle résidence remise à neuf. Je retiens l'adresse pour un prochain séjour à Orléans !",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Guillaume",
+            "text": "Très bon séjour dans le logement de Celestin, Celestin a été très arrangeant et disponible, À recommander !",
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Olivier",
+            "text": "Un très joli studio, vraiment proches des rues commerçantes du centre ville. Accueil efficace et agréable. Une bonne expérience.",
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Valentin",
+            "text": "Celestin a été très accueillant et arrangeant. Il nous a même fourni un plan ainsi que des adresses de restaurants. L'appartement est à 5mn à pied du centre-ville, ce qui est fort pratique. Nous avons passé un séjour très agréable !",
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Émilie",
+            "text": "accueille agréable, un hôte très arrangeant ! je conseil vivement cette appartement qui est bien situé et calme",
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Laurent",
+            "text": "Logement idéalement situé, parfaitement équipé, d'un calme olympien, avec un accueil très aimable : Célestin a tout fait pour faciliter notre arrivée et notre séjour. Hautement recommandable !",
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Julia",
+            "text": "Accueil, appartement et emplacement impeccables. Merci encore pour tout!",
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Jonathan",
+            "text": "Appartement parfaitement conforme à l'annonce: au calme, très propre et à deux pas du centre ville. Accueil et disponibilité de Célestin sans aucun problème. A recommander!",
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Elise",
+            "text": "Nous avons été très bien accueillis par Célestin. Son appartement est idéalement situé dans Orléans (proche du centre ville à pied). Le parking sécurisé est un vrai plus ! Le logement est fonctionnel, décoré avec goût et parfaitement équipé. Le repos y est garanti, car il est au calme. Nous ne pouvons que conseiller ce logement aux personnes de passage à Orléans !",
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Gaël",
+            "text": "Nous avons passé un bon séjour chez Célestin. L'appartement est très agréable et fonctionnel. Nous avons également apprécié le cadre et la cour. Le parking est un vrai plus !",
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Nelly",
+            "text": "Studio tout neuf, chic et fonctionnel à quelques minutes du centre historique de la ville avec place de parking réservée dans une cour privée. De plus Célestin est sympathique et ponctuel. Vraiment l'idéal pour visiter Orléans et ses alentours.",
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Anne",
+            "text": "Un séjour parfait chez Célestin qui est un hôte très accueillant et attentif. L'appartement est très confortable, bien équipé et avec une deco moderne très sympa. Je retournerai très certainement lors d'une prochain séjour.",
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Oceane",
+            "text": "l'appartement est parfaitement conforme à la description sur le site Celestin nous reserve un accueil chaleureux. Tout a été pensé pour qu'on se sente bien. Le parking sécurisé est un atout très appréciable",
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Jean Pierre",
+            "text": "L'appartement de Célestin était très agréable et Célestin s'est montré très accueillant et ponctuel. Il est resté à la fois à l'écoute et discret durant tout le séjour. L'appartement correspondait parfaitement à la description, propre, clair et rénové avec goût. Proche du centre et dans un quartier proche de tous les commerces, je le recommande vivement!",
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Jorge",
+            "text": "Tout s'est très bien déroulé lors de notre séjour chez Célestin. Toujours à l'écoute et prêt à aider, Célestin à été un hôte formidable!",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "name": "Vikram",
+            "text": "Célestin et son amie sont très accueillants et disponibles. L'appartement est tel qu' il est décrit, propre, spacieux, bien agencé et proche du centre d'Orléans! Un vrai petit nid douillet pour en faire un pied à terre sur Orléans !",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "name": "Julie",
+            "text": "Excellent accueil de Célestin qui est très sympathique et serviable, l'appartement est super de plus il est placé à côté de tout et encore plus important juste à côté de la gare SNCF. Je recommande sans hésitation !",
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "name": "Laura",
+            "text": "Hôte très accueillant et très réactif malgré ma réservation tardive . L'appartement et très propre comme sur les photos proposer pas de mauvaise surprise. Très cosy! La télévision et un peu petite certes mais bon on ne vient pas pour ça. À recommander",
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "name": "Marie-Emmanuelle",
+            "text": "Pied à terre idéal sur Orléans. Célestin est très accueillant, arrangeant et se soucie du bien être de ses locataires. Logement chaleureux. Il ne manque rien. Il est même possible de se faire un petit café ou thé dès l'arrivée. ;-). Une place de parking juste devant le studio est à disposition. Je recommande sans hésitation. :-)",
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "name": "Camille",
+            "text": "Célestin, nous a accueilli chaleureusement malgré notre retard. Il nous a présenté notre logement, confortable très agréable et idéalement situé pour passer la soirée dans le centre ville d'Orléans en laissant la voiture sur le parking privatisé. Merci Célestin, à bientôt sans doute.",
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "name": "Sylvain",
+            "text": "Célestin est un hôte très sympathique. Il a pris de nos nouvelles lorsque nous étions sur la route et s'est montré très disponible pour nous remettre les clés. Le logement correspond parfaitement à la description. Nous recherchions un logement au calme, proche du centre ville. En moins de 10 minutes vous êtes dans l'hypercentre et le soir, vous retrouvez une ambiance très calme. La qualité du repos est donc très bonne. Idéalement situé avec la place du Martroi à moins de 10min à pieds, ce logement est entouré de commerces, boulangerie, presse, super marché... Vous ne manquerez de rien! Je vous recommande chaudement ce logement.",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "name": "Christine",
+            "text": "J'avais choisi ce studio en fonction des commentaires ou le mot calme revenait souvent, je ne peux que confirmer! Très silencieux, studio dans un état neuf, très bien placé et si l'on a une voiture parking sécurisé dans la cour même! Je ne peux que le recommander si j'avais pu relouer une nuit de plus je n'aurais pas hésité mais je m'y suis pris au dernier moment !",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "name": "Hana",
+            "text": "Séjour très agréable dans un logement très bien aménagé et conforme aux photos (encore mieux au réel !), avec tout le nécessaire et surtout le calme et la sécurité. Le quartier commerçant est tout proche du centre ville (5 mn) ce qui évite de prendre la voiture qui reste dans un parking sécurisé et privé. Notre hôte nous a réservé un accueil chaleureux, a été très conciliant sur les horaires d'arrivée et de départ et, malgré un gros problème de clé, a su rester cool et très courtois (nous avons beaucoup apprécié). Je recommande vivement ce logement entier, très propre, où on se sent comme chez soi.",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "name": "Lauren",
+            "text": "Merci Célestin pour cette accueil. Un premier contact très amical et en confiance. Les photos sont fidèles et l'endroit est plus que sympathique : nous sommes en ville mais en toute sécurité dans un endroit très calme. Je vous le conseille les yeux fermés. Merci pour votre accueil. à bientôt.",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "pos": [],
+            "name": "Etienne",
+            "text": "Nous avons été très bien reçus par Célestin, qui s'est montré disponible et arrangeant malgré une réservation de dernière minute. L'appartement est bien situé et très fonctionnel, au milieu d'une cour qui garantit un séjour dans le calme (et une place de parking!).",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Alain",
+            "text": "Séjour parfait, grand studio extrêmement bien situé dans le centre ville, le studio était impeccable (neuf, très propre et bien équipé). Célestin s'est montré flexible et très accueillant. Nous reviendrons, c'est sûre!!",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Régis",
+            "text": "Accueil très agréable, appartement très bien agencé ! Très pratique le parking dans la cour.",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Matthieu",
+            "text": "Appartement dans un etat parfait. J'ai juste trouvé la tv un peu petite. Il est vraiment en plein centre ville.",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Axel",
+            "text": "L'appartement est parfait ! On s'y sent bien et nous avons manqué de rien. Tout est moderne et Célestin est là en cas de besoin toujours près à s'adapter à vos besoins. Si on devait trouver un petit point négatif ça serait le vis à vis mais fermer les volets suffit pour se sentir pleinement chez soi.",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Clothilde",
+            "text": "Nous avons été bien accueilli par Célestin, très abordable et arrangeant. L'état du logement est excellente, propre et moderne. Le plus: le parking privé ! A recommander !",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Jean-Marie",
+            "text": "J'ai apprécié la disponibilité de Célestin à mon arrivée ( je suis arrivé un peu plus tôt que prévu et il m'a bien accueilli). Le logement est bien situé, au calme et à deux pas du Tram et de la gare. Il est propre et bien équipé. Les commerces sont à proximité, ce qui est pratique pour des achats rapides et prendre son petit-déjeuner sur place ou même un repas.",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Bernard",
+            "text": "Appartement super et accueil de Célestin très chaleureux. Tout est prévu et adapté à un séjour agréable. Bien situé, remarquablement fonctionnel, ce lieu est un endroit que je recommande et où j'espère un jour reposer ma valise. Quant à Célestin, il est en plus très serviable et attentif au bien être de ses invités.",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Jean-Louis",
+            "text": "excellent accueil. Célestin nous a permis de rentrer plus tôt pour garer la voiture car nous n'avions plus de vitre avant sur celle-ci. appartement nickel, très bien équipé. Meublé et décoré avec goût. Très calme. Vraiment très proche du centre. Une fois la voiture garée, on peut tout faire à pied ou en transport en commun.",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Catherine",
+            "text": "Très gentil accueil et disponibilité de Célestin Logement très agréable, bien agencé et calme - proche centre ville - Parking devant le logement (c'est vraiment un plus) C'était ma première location via airbnb et je ne fus pas déçue malgré ce court séjour. Merci Célestin, si je reviens à Orléans, pour sûr, je tenterai ma chance de réserver car je pense que cette location est très demandée ! Catherine",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Philippe",
+            "text": "Nous sommes ravis d'avoir passé deux nuits dans le studio de Célestin. L'appart est conforme à la description, parfaitement propre, idéalement situé dans Orléans et avec une place de parking privative. Exactement ce qu'il nous fallait en la circonstance. Notre hôte a en outre été très courtois malgré notre arrivée tardive. Voilà un très bon point de chute pour qui veut découvrir Orléans (à pied depuis le studio) et la région.",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Clémence",
+            "text": "J'ai passé un excellent séjour chez Célestin ! À deux pas du centre ville, disposant d'un parking sécurisé, l'appartement est très agréable. Meublé avec goût, fonctionnel mais chaleureux, j'y retournerai avec plaisir lors d'un prochain séjour à Orléans. En plus Célestin est un hôte très accueillant, disponible et sympathique! Je recommandé vivement cette location. Philippe.",
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Antoine",
+            "text": "Studio agréable et confortable avec le soucis du détail dans l'équipement (Draps de lit, serviettes, gel douche, thé, café, etc..). Idéal pour visiter le centre-ville situé à 5 minutes à pieds.",
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "name": "Alexia",
+            "text": "Hôte très disponible et aimable. Appartement super. Propreté et modernité au rendez vous. Résidence privé calme et synaptique (place de parking dispo). Parfait pour 2, près du centre et magnifique. Tout disponible à pied.",
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "name": "Audrey",
+            "text": "Très beau studio, confortable et conforme à la description, bien situé par rapport au centre d'Orleans. Excellent accueil, merci pour votre gentillesse!",
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "name": "Alain",
+            "text": "Célestin est un hôte vraiment très agréable ! Très bon accueil. Le logement est irréprochable, tant par la propreté que la décoration que j'ai adorée !!! Vous pourrez y aller les yeux fermés !",
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "name": "Clement",
+            "text": "Studio très propre, très bien placé, très bien décoré et très agréable à vivre.",
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "pos": [],
+            "name": "Magali",
+            "text": "Nos hôtes nous ont très bien reçu lors de notre arrivée, le logement est très agréable et très bien situé dans le centre d'Orléans. Il possède également un parking privé dans une résidence sécurisée ce qui est un grand plus en pleine ville. Nous reviendrons avec plaisir chez Nancy et Célestin lors de nos futurs visites à Orléans.",
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "pos": [],
+            "name": "Bruno",
+            "text": "Nous avons passé une seule nuit mais nous avons été très satisfait de l appartement de Celestin ! Celui est conforme aux photos, très propre et moderne. Nous avons apprécié le linge de maison fourni ainsi que la place de parking tout à côté de l appart. Le lieu est très calme. De plus celui-ci est idéalement placé non loin de la gare et du centre ville. Celestin n a pu nous accueillir, ce qui ne fut pas un problème, et a été très disponible par téléphone. Un très bon rapport qualité prix que nous conseillons à tous !",
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "pos": [],
+            "name": "Timothe",
+            "text": "Logement récent, propre et charmant, hôte avenant et attentif, bien placé et proche de tous commerces, cet appartement est idéal pour passer un bon moment sur Orléans! Je le recommande bien a tous!",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "pos": [],
+            "name": "Hanneke",
+            "text": "Célestin est vraiment très hospitalier, agréable et attentionné, a l'écoute du bien être de ses locataires. Son appartement a beaucoup de cachet, d'autant qu'il est dans une rue commerçante proche centre ville (restos sympas, boutiques, ambiances). L'endroit est très reposant, clme et à l'abris des passages car c'est une cours privée, et le LUXE: parking attitré, qui m'a fait choisir cet emplacement.",
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "pos": [],
+            "name": "Antonin",
+            "text": "L'appartement est idéalement situé et très bien agencé. C'est très agréable d'y vivre. Célestin est prévenant (comme je venais en covoiturage, il m'a proposé de venir me chercher), serviable (il rappelle plusieurs pour savoir si on ne manque de rien et se met en quatre pour nous satisfaire) et arrangeant pour les horaires, ce qui est appréciable lorsqu'on a des impératifs. Bref, j'ai rarement été aussi bien accueilli. Bonne continuation.",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "name": "Letitia",
+            "text": "Encore merci pour tout ! Nous sommes ravis de ce beau-weekend sur Orléans qui est une très belle ville ! Merci et à bientôt !",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "name": "Vincent",
+            "text": "Parfait ! Celestin a le sens de l'accueil et une hospitalité irréprochable. Nous sommes vraiment ravis d'avoir pu profiter de ce joli appartement bien agencé et confortable proche de toutes commodités. Merci Celestin pour la petite particularité que vous avez accepté avec beaucoup de compréhension... ;-) À très bientôt ! Létitia et Vincent",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "name": "Gauthier",
+            "text": "Le contact avec Celestin a été tout à fait cordial, il nous a permis de prendre le studio avant l'heure officielle ,de même pour la restitution des clés ce qui est fort appréciable lorsque l'on a des contraintes horaires à respecter .Deux produits locaux nous attendaient en cadeaux ,charmante attention .",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "pos": [],
+            "name": "Claudine",
+            "text": "Nancy et Célestin sont un jeune couple charmant et l'accueil qu'il m'ont réservé était à leur image. Attentif à mon bien-être, ils ont pris de mes nouvelles durant le séjour, ce qui est vraiment appréciable. L'appartement est joliment aménagé et décoré avec goût : un vrai petit nid où l'on se sent très vite comme chez soi. La cour intérieure est très belle et calme et la place de parking : ça aussi c'est très bien.",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "pos": [],
+            "name": "Berten & Lies",
+            "text": "Appartement parfait et parking sécurisé, je recommande !",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Anna",
+            "text": "Proche du centre ville, le studio a tous pour rester quelques jours en visitant Orléans. Le parking privé est aussi un plus, et Célestin habit à coté du studio, donc il est bien accessible.",
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Esther",
+            "text": "Le sejour chez Celestin a été magnifique. Le studio est tel qu'on voit dans les photos. Trés propre. Ça sent propre. Il est parfaitment équipé de tout ce que l'on a besoin. La place de parking devant la maison c'est un atout. Orleans c'est une ville jeune et gaie. Belle ambience aux rives de la Loire. Merci Celestin et Astrid pour votre gentillese. Nos ha gustado mucho el estudio de Celestin. Es muy bonito, muy limpio y muy completo. La plaza de aparcamiento delante de la casa en el patio privado es una gran ventaja. Orleans es una ciudad con gente joven y con ganas de disfrutar. Muy agradable el paseo con bici por las orillas del Loira. Orleans es un buen punto de partida para descubrir el Loira. Altamente recomendable.",
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Elisabeth",
+            "text": "Tout était parfait, l'emplacement est idéal pour visiter Orléans, le parking bien appréciable. Nous reviendrions sans hésiter!",
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Kim",
+            "text": "Très beau logement tranquille. Parfait pour personne seule ou couple. 1e expérience avec Airbnb et nous sommes très bien tombés :) Merci!",
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Peter",
+            "text": "Excusez-nous d'etere en retard, nous avons eu pas d'internet. Nous avons ete accuillis par M Gaceus qui etait gentil et charmant,pas du tout perturbes rue nous sommes arrives tot. Il nous a montre comment tout functionnait dans l'appartement. Le appartement etait excellent tout ceque vous voullions, a proximite du centre ville avec l.advantage supplementaire d'une cour securisee pour notre voiture. Il etait propre avec tout le necessaire pour un sejour confortable. Nous avons deja recommande l'appartement a nos amis, et j'y retournerais volantiers.",
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Giovana",
+            "text": "La convivialité, le lieu et la propreté du studio m'ont fait revenir chez Célestin. Âne conseil vraiment",
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Giovana",
+            "text": "Célestin s'est montré très pro dans l'organisation de mon accueil. Communication, présence... Le logement est tel que décrit. Très calme, proche du centre animé. Quelques commerces à proximité. Je ne peux que le recommander aux touristes ou pour des séjours professionnels.",
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Frederic",
+            "text": "Studio agréable, propre et conforme à l'annonce. Célestin est disponible. Et nous accueil chaleureusement. Je recommande vivement.",
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Sara & John",
+            "text": "Joli studio, très propre et bien équipé et vraiment au centre d’Orléans. 15 minutes à pied du bord de la Loire et 5 minutes du centre historique. Petit supermarché et un choix de boulangers à côté. Céléstin était très gentil quand il était venu nous accueillir. Wifi était bien, le lit était confortable. Parking sécurisé est vraiment commode. Nous aimerions revenir quand nous passons encore par Orléans. Merci. Sara et John",
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "name": "Henri",
+            "text": "Célestin nous a reçus avec une grande amabilité et s'est rendu disponible pour nous aider à quoi que ce soit. L'appartement est parfait et très propre. On s'y sent chez nous. Et très bien situé. Je recommande fortement.",
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "name": "Anya",
+            "text": "Celestin a été un hôte très disponible et accueillant. Son logement correspond à la description du site. C'est un studio urbain pratique et très calme à deux pas du centre ville. Une place de parc privée et sécurisée devant le studio est un vrai +.",
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "name": "Siobhan",
+            "text": "Nancy et Célestin sont très acceuillant. Le logement était parfait, récemment rénové ! Il n'y a pas de bruits environnants et le quartier est à deux pas du centre ville ! Le studio comporte tout ce qu'il faut pour un petit séjour. Je recommande ! En plus la boulangerie est presque en face ;-) Merci encore nous ne manquerons pas de revenir !",
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2014"
+        },
+        {
+            "pos": [],
+            "name": "Chris",
+            "text": "Celestin's place is comfortable, clean, quiet and close to the center.",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Louise",
+            "text": "Highly recommend! Beautifully renovated studio apartment in the centre of Orleans. Célestin was there to meet us on our arrival. Really friendly guy and very accommodating. We will definitely be back!",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Joe",
+            "text": "safe parking, great space, so convenient, such a responsive husband and wife team. very comfortable",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "name": "Florian",
+            "text": "Great apartment with secured parking. Very clean and close to the inner city. Definitely recommend it!",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Getter",
+            "text": "We had a nice stay at Célestin's apartment. It was just perfect for two persons for a short visit in Orléans. The apartment itself was cosy and clean and had all the needed things. The location was good, close to the Orléans center, railway station, restaurants and supermarkets. I recommend Célestin's place for your visit in Orléans.",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "name": "Rob",
+            "text": "This is a wonderful spot close to the centre of old Orléans. It was a compact but very well equipped room, clean and tidy. Célestin was a charming host.",
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "name": "Jonathan",
+            "text": "This was a great place to spend the night in Orléans. The parking is very convenient and in a very secure courtyard with an electric gate. The apartment is very nice also. I would stay here again!!",
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Sue",
+            "text": "Very chic studio apartment in a very special setting. Excellent host. This was our very first airbnb experience - I hope future airbnb stays will live up to this very high standard - highly recommended.",
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Nikolaus",
+            "text": "Nice room. Top furniture, very good location. Very clean!",
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Micky",
+            "text": "Célestin has an adorable apartment close to tons of great shopping, attractions and restaurants. It's quiet and immaculate. The parking couldn't get any better! For a country person like me, navigating one-way streets isn't easy but he was so kind to run and help me. He takes great care of his guests for sure!",
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Daniel",
+            "text": "Perfect appartment, perfect area, perfect host. We enjoyed our stay in this lovely new appartment. You have a private parking and everything is near by. It was no problem for a late check in. Very cool appartment and host :)",
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "name": "Eleanor",
+            "text": "Great communication before and during our stay in Orleans. The apartment is lovely, really modern and perfect for what we needed. Very safe and secure. Very close to the city centre walking distance within minutes. I would highly recommended Celestin as a air BnB host.",
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Jo",
+            "text": "Celestin was very welcoming at his apartment. The apartment itself was great, it had everything we needed and was in a pretty good location in Orleans itself. The secure parking was an added bonus and we would definitely want to stay there again if we return to Orleans.",
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Joe",
+            "text": "Celestin was welcoming and a good host. The studio flat was clean, tidy and modern. The flat is only a short walk into town and the secure parking was really useful as we stopped in Orleans for one night on our way through France. Its a nice flat and i would recommend staying here and in Orleans in general.",
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Peter",
+            "text": "Perfect place for two near the center of Orleans. Clean, quiet and save, located on a small private courtyard with a fence, where you can park your car in front of the apartment. Just a 5 minutes walk to the nice city center. There was a little kitchenette and enough room to sit, eat and relax, with all modern comfort. Célestin and Alicia are perfect hosts. Thanks!",
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "name": "Erwin",
+            "text": "Nice apartment, very easy going host who was willing to be flexible for us. Good experience!",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Tim",
+            "text": "Bonjour! We have had a wonderful time in Orléans chez Celestin. The appartment is perfect, with everything you need. The location near the city center is very nice, but also the train station is right around the corner; we used it to go to Paris for one day (one hour by train to Paris Austerlitz). The parking lot in front of the appartment was also very convenient. Contact with celestin is very easy, he answered quickly and clearly to our messages. For a nice stay in Orléans, we can definately recommend the appartment of Celestin!",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Elizabeth",
+            "text": "Celestin's place is comfortably furnished & very clean. I was welcomed by a friend of his as he was on holiday but everything was very satisfactory. It was a mere 5 minutes walk to the main square of Orleans & all the restaurants. I would certainly recommend his accommodation. Parking also free! Thank you, Celestin.",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "name": "Stephen",
+            "text": "My wife and I at the end of May 2016 stayed for one week at Celestin's apartment to explore Orleans and the surrounding countryside. We were very happy with our experience. The one-room apartment is modest, but clean and sufficiently roomy. It is adequately equipped with kitchen appliances and a small TV. It is very quiet despite being close to the city centre and has a comfortable bed. As it is at ground level, there are no stairs to climb. Security is good for both the apartment and car parking behind a locked gate. Shops, a shopping mall, restaurants, and the old city are only a short walk away. Celestin was a helpful and friendly host. Bravo, Celestin!",
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "name": "Tony",
+            "text": "The studio apartment was bright and clean. The kitchen was well appointed. We really appreciated Clestin's hospitality when we heard the the vin marche was not open on Sunday! Thanks so much. The little blue twinkle lights on the wall are a nice touch. Thanks again.",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "name": "Aura",
+            "text": "Excellent stay, beautiful courtyard. Very helpful people",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "name": "Tom",
+            "text": "What a great place stay in Orleans! Everything you need in a spotless, modern, very nice studio. Clean design and very practical, you can't ask for more. Had a great stay!",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "name": "Leeseul",
+            "text": "Our host came out to meet us across the road from the private block of studio flats as we had arrived early and were waiting for his arrival. It was extremely nice and made us feel very welcome straight away. The location was central but as it was set back very quiet.",
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "name": "Tim En Juliette",
+            "text": "Great apartment at an even greater location in Orleans. The place was brand new, very neat and clean. Celestine welcomed us at arrival and answered all of our questions. A big plus is the parking behind a closed fence right in front of the apartment. We only spend one night while travelling to the south of France so we didnt see much of the city. We will come back and definitely stay at Celestines from where youll walk straight into the city center!",
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Kelley",
+            "text": "We received a warm welcome from Celestin to his beautiful, quiet apartment. He gave us advice on nearby restaurants and shops and all the information we needed for our stay.",
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Marcus",
+            "text": "The apartment is truly wonderful, exceedingly comfortable and well-equipped. The lighting was beautiful! It was honestly hard to leave. Célestin worked through our terrible French with us too! Merci beaucoup Célestin!",
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Julie",
+            "text": "The Appartement was clean, nice and tidy. King size bed and blanket, every amenity you need. Perfectly located next to la gare sncf et 10 minutes à pied à le centre anxieux.",
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "name": "Maryanne And Graeme",
+            "text": "My husband and I spent 6 nights at Celestin's apartment. It was perfectly located, very clean, with secure car park and all facilities within waking distance. Celestin was delightful and very informative. We thoroughly enjoy his apartment and Orleans. Thank you Celestin.",
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "name": "Brian",
+            "text": "My husband, baby daughter and I had a great time staying in Celestin's lovely apartment. We only stayed one night but wished we had stayed for longer! Location - situated in a quiet and pretty courtyard just behind a main road, the apartment is just five minutes walk from the beautiful centre of Orleans. On the main road is a great butchers (which also sells nice wine!) and a florists which sells fruit and vegetable. Great for us as we ate in first before heading out after dinner. We walked to the centre of Orleans, all around it, returning about 11pm and we felt that we were in a nice safe neighbourhood Studio Apartment - small but perfectly formed, the apartment is really well decorated in a modern style. It has a well equipped kitchen for two with a two hob cooker, oven, plates, pans, glasses and a kettle. There is also a fridge where we stored our daughter's food. The bathroom is really nice and clean with a great hot shower and large mirror. The bed and sofa are comfortable and there was ample room for our pram and travelcot. The parking is also really good - off-street and private, just outside the apartment which was great for unloading - our car felt really secure. Host - Celestin was lovely and very accommodating. Even before we arrived he responded almost immediately to any questions we had. Very friendly and welcoming, Celestin met us on time, showed us around the apartment and told us where to ahead to see the best of the city. He also told us to message him if there were any issues as he was only five minutes away. He was fine about letting us stay a little later then the official check-out time to feed our daughter - which we really appreciated!! All in all we had a fantastic time and would highly recommend.",
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "name": "Annemie",
+            "text": "Celestin was a great host and very welcoming despite our late arrival. He also gave us some great tips on local eateries. The apartment was lovely, very cosy and brilliantly located near the centre of Orleans. As we had a fully loaded car we also appreciated the secure parking.",
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "name": "Sharon",
+            "text": "First of hall I must say thank you to Celestine , when I arrived I wasn't feeling well , I needed some fruit and jr went whit his car to buy some. The apartment is perfect , furnished with taste \"Ikea style\" but very very nice. Higly recommended",
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "name": "Anu",
+            "text": "A most wonderful place to stay, near downtown of a small town worth visiting. The apartment was in excellent condition, new and stylishly decorated, with all provisions we could imagine. Five minutes' walk to downtown, secured parking.",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "name": "Lucy",
+            "text": "Celestin's apartment is really lovely. The flat has been beautifully and newly decorated with very modern facilities and has everything you could need to stay here. It is only a ten minute walk from the central town so was perfect for us and our quick stopover. Celestin couldn't have been more helpful in greeting us. We had some trouble reaching Orlean and weren't able to reach the apartment until 1.30am. Celestin was very good about it and would reply very quickly to any messages sent. Definitely would stay here again.",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "name": "Frederico",
+            "text": "clean, new and a very flexible host who lives closeby. parking spot right in front of your appartment..",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "name": "Kevin",
+            "text": "Célestin was great and very welcoming. He was super flexible to welcome us and notably regarding check-in/-out times. The apartment is very close to the center of town and great restaurants. The apartment is charming and comfortable, all renovated, very quiet and with a very practical parking spot right in front.",
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "name": "Larry",
+            "text": "Best place ever! We stayed in the Fall of 2014. Loved Orleans so much that we returned in the Spring of 2015. In total we stayed over 120 days, and Celestin's place played a big part in our positive experiences. Simple, clean, place. Close to downtown, close to train station. Celestin is very friendly and helpful.",
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "pos": [],
+            "name": "Julie",
+            "text": "This is our second extended stay at this simple and well looked after studio flat located in a quiet courtyard that is close to old Olreans (excellent restaurants and a beautiful river), the train station, the tram lines, and a modern shopping center with a large food store. Along with Celestin’s considerations when needed, this is an excellent place to stay for either a few days or several weeks as we did. Very convenient and relaxing place to stay.",
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "name": "Teye",
+            "text": "Celestin greeted us with an English speaking friend and made us feel very welcome in his comfortable apartment. Everything was clearly explained and the 3 Days we spent in Orleans was delightful. The apartment is warm with all amenities. Free fast wifi...and room to move. The main benefits of staying at Celestin's property is the proximity by walking to Orleans attractions and good eating places. Not to mention what a charming person Celestin is would be remiss of us.",
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5,
+    "p_emplacement": "rate_me",
+    "averageRanking": 5,
+    "nbReviews": 148,
+    "communication": 5,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "qualite-prix": 5,
+    "p_proprete": "rate_me",
+    "arrivee": 5,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 6,
+    "emplacement": 5
+}

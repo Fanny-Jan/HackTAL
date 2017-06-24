@@ -1,0 +1,103 @@
+{
+    "precision": 4.0,
+    "reviews": [
+        {
+            "text": "Logement très propre et très fonctionnel. Bon rapport qualité prix.",
+            "name": "Florent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "L'appartement est calme et bien situé par rapport au tramway. Mais la propreté est à revoir et la literie est de mauvaise qualité",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Je recommande si c'est juste pour dormir. Pas de quoi faire la cuisine. On n'a pas envie de rester dans l'appartement. L'appartement n'est pas cher et très bien placé.",
+            "name": "Etienne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Ce logement est adapté pour les court séjour. Très fonctionnel",
+            "name": "Elsa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Nous avons passé un agréable week-end à Brest. Le logement était assez bien situé, était ni trop grand ni trop petit, Zazou est venue nous chercher à la gare et a été très accueillante et chaleureuse. Le rapport qualité prix est juste, nous recommandons vivement cet endroit.",
+            "name": "Rebeka",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Rapport Qualité/Prix imbattable. Très facile de se garer, et gratuitement. A 15 min de la mairie à pied, à 15m du tram sinon. Certes pas très grand mais tout à fait fonctionnel pour l'utilisation faîte. Merci !",
+            "name": "Louis-Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "excellent rapport qualité prix vraiment très proche du tram quelque détails qui vont être arranger je pense (wifi) et j'ai était agréablement surpris par la taille et le confort du lit et de l'appartement je recommende",
+            "name": "Jeremy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Très bon logement pour 2 très proche du centre et du tram",
+            "name": "Franck",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Appartement économique, pratique et idéalement situé. Le ménage laissait à désirer mais peut-être sommes-nous tombés à un mauvais moment...",
+            "name": "Morgan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "I can't recommend this place for more than a night's stay. Not very clean, no cutting board or decent knife or spatula. Half a roll of toilet paper. And a very strict cancellation policy that makes you feel trapped",
+            "name": "Kate",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 3.0,
+    "p_emplacement": "rate_me",
+    "averageRanking": 4.0,
+    "nbReviews": 10,
+    "communication": 4.0,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 4.5,
+    "p_proprete": "rate_me",
+    "arrivee": 4.5,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 42,
+    "qualite-prix": 3.5
+}

@@ -1,0 +1,1031 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Sébastien à été un hôte chaleureux et respectueux. Il m'a même donné des petites indications pour les magasins pas chers. Les lieux sont propres et l'appartement à moins de 5m de la gare St Charles. En plus, il est très sympathique et m'a offert de la citronnade! Un joyeux voyageur, je vous souhaite de le rencontrer même pour un jour!",
+            "name": "Anaïs",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Superbe appart au coeur de Marseilles. Près des transports et des commerces. Assez calme dans la rue et bon resto couscous pas cher à quelques mètres. Hôte sympa",
+            "name": "Alii",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Sébastien est un hôte arrangeant (arrivée à 23H30) discret, à l'écoute et très gentil! En plus l'appartement est proche de tout, l'environnement est calme :)",
+            "name": "Seb",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "très bien bonne situation par rapport a la gare saint charles",
+            "name": "Bruno",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Le logement correspond à la description et tout s'est très passé.",
+            "name": "Silviya",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Sébastien est très accessible",
+            "name": "Claudia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Sébastien est un hôte discret et serviable. Il nous a permis de laisser nos bagages chez lui et les récupérer le soir avant de prendre le train. L'appartement est très bien situé en centre-ville à proximité de la gare et de l'animation marseillaise. Bonne continuation et merci encore. Philippe",
+            "name": "Philippe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "L'accueil était chaleureuse, Sébastien est quelqu'un de très sympa, et avenant. Il nous a fait un tour des trucs cool à voir sur Marseille. L'appartement est trop cool et propre. Je le conseille vivement ! Merci beaucoup !",
+            "name": "Julie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Chambre agréable, particulièrement silencieuse et proche de la gare. Il suffit de descendre un peu pour trouver le port!",
+            "name": "Mathé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Un confort basique, des conseils touristiques sommaires, les yeux qui vous dévorent désagréablement, j'ai déjà passé un meilleur séjour... Je recommande pour les backpackers et les hippies.",
+            "name": "Andrea",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Un accueil très chaleureux et sympathique, une chambre propre et spacieuse, et un emplacement idéal pour visiter Marseille a pied ! Très bonne expérience !",
+            "name": "Anaëlle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Nous avons passé un 2 nuits top, on a vraiment tout à 5minutes. Quant aux photo, elles correspondent, bien que je trouve l'appart bien plus joli en vrai. Sébastien est un hôte super agréable et surtout super arrangeant!",
+            "name": "Adimir",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Sébastien nous a attendu jusqu'à minuit et très bien accueilli, c'est une personne très agréable. Son appartement est charmant, très bien situé, proche de la gare.",
+            "name": "Mp",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "C'est bien",
+            "name": "Guy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Une petite chambre idéale proche de la gare et du centre pour découvrir la ville. Sébastien nous a très bien conseillé pour nous permettre de découvrir la ville!",
+            "name": "Pierre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Sébastien est accueillant, sympathique et nous a très bien conseillé sur l'endroit où dîner. Il a su nous rassurer sur la sécurité à Marseille. Logement très bien placé : à 2 pas de la Gare St Charles et à 15 mn à pied pour rejoindre le Vieux Port.",
+            "name": "Sylvie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Un séjour rapide pour ma part mais super agréable ! Je recommande vivement :)",
+            "name": "Alexandre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Sebastien est quelqu'un de très sympathique, il nous à bien conseillé sur les endroits sympas de Marseille. Nous avons passé un week-end formidable ! Je le recommande vivement !",
+            "name": "Théo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Séjour très agréable, appartement spacieux et confortable Nous reviendrons avec plaisir !",
+            "name": "Elisabeth",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Logement très bien situé, à moins de 5 minutes de la gare et moins de 15 minutes du Vieux Port. Sébastien est un hôte très aimable, la chambre est grande et lumineuse.",
+            "name": "Margaux",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Accueil sympathique avec le sourire. Chambre calme et spacieuse. A 3 minutes de la gare St Charles à pied, et pas très loin du vieux-port. Sébastien vous donnera 2 ou 2 adresses de resto pas loin. Un super resto tunisien à 2OO m dans la rue avec un rapport qualité prix inégalé.",
+            "name": "Philippe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Sébastien était très accueillant et convivial. Ayant eu un programme très chargé je n'ai malheureusement pas eu l'occasion d'échanger beaucoup avec lui. Il avait pris la peine de laisser de la documentation sur la ville pour ses hôtes, super idée :) La chambre est calme et très bien située par rapport à la gare.",
+            "name": "Claire",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Très bien, Sébastien et d'une gentillesse Je me sentais chez moi chez lui incroyable non, très bon séjour merci encore Sébastien Chambre propre et lit très confortable 10 sur 10",
+            "name": "Raoff",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "L'accueil de Sébastien fut impeccable (bien que rapide :-). L'appartement est très bien situé et très confortable, idéal pour une découverte de la ville.",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très bon accueil et chambre tranquille et idéalement située dans Marseille",
+            "name": "Monique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Sébastien est très arrangeant et accueillant. L'appartement est bien situé et bien aménagé. Je recommande.",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Bien accueilli par notre hote,",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Impeccable ! Tout était comme cela avait été décrit dans l'annonce. Sébastien très sympa et discret. Je recommande sans hésitation",
+            "name": "Filippo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très bel appartement et bon accueil par Sébastien. Je recommande !",
+            "name": "Yoann",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Sébastien est très accueillant et sympathique. Son appartement est idéalement placé à 5mn de la gare et il s'est montré souple sur l'horaire d'arrivée dans la soirée. Je me suis restée qu'une nuit en transit. J'ai trouvé la chambre et le reste de l'appartement sont confortables.",
+            "name": "Emeline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Appartement très sympathique et très bien placé: on s'y sent comme chez soi! Un hôte vraiment agréable et serviable !",
+            "name": "Dressel",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Accueil agréable par Sébastien tout au long de notre séjour! Chambre qui correspondait à la photo et appartement bien situé dans Marseille ce qui permet de se déplacer facilement. Je n'hésiterais pas à revenir!",
+            "name": "Estelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Sebastien etait trés gentil, disponible et a su nous conseiller des bons endroits où se balader à Marseille et environs, je le reccomande!!",
+            "name": "Matilde",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Merci Sébastien pour le séjour ! Logement vraiment chouette, correspond tout à fait aux photos, à deux pas de la gare... Malgré une arrivée tardive et un passage rapide, Sébastien nous a très bien accueillis. Parfait!",
+            "name": "Antoine And Christelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Très bon accueil de Sébastien. Il est souple sur l'horaire d'arrivée. Son logement est idéalement situé près de la gare et non loin du vieux port.",
+            "name": "Audrey",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Emplacement parfait pour le logement, aucun problème d'hygiène et de confort. Sébastien était très accueillant et très sympathique, je recommande vivement ! Nous le remercions pour ses conseils et son hospitalité. Au grand plaisir! Un super weekend à Marseille avec mon amoureux.",
+            "name": "Jasmin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Un accueil très chaleureux avec des conseils qui ont été les bienvenus. Un appartement très proche de la gare ce qui est assez pratique.",
+            "name": "Gaëlle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "très bon accueil de Sébastien qui a su s'adapter à un horaire d'arrivée tardif, souplesse super ! très bon accueil, belle discussion et un emplacement à vraiment deux minutes de la gare. A recommander !!",
+            "name": "Mp",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Sébastien nous a très bien accueillis, mon fils et moi. L'appartement est harmonieux et cosy. Nous avons très bien dormi grâce au calme ambiant ! De plus, il est idéalement placé, près de la gare, des commerces, des moyens de transport...",
+            "name": "Marie-Hélène",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Sébastien nous a très bien accueillis, malgré l'heure tardive de notre arrivée. Son appartement était parfaitement fonctionnel, et nous avons instantanément trouvé nos marques. C'est ainsi que nous avons passé une très bonne nuit. Nous reviendrons sans hésiter si nous repassons par Marseille.",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Notre hôte nous a reçu très cordialement, nous savions qu'il ne serait pas très disponible et nous étions dans un quartier qui nous convenait, pas de soucis et l'hébergement correspondait à la description.",
+            "name": "Laurence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Sébastien a eu la gentillesse de nous accueillir à une heure tardive (arrivée après 23h). Par ailleurs, il a pris le temps de consulter les horaires de bus et de nous conseiller pour nos trajets du lendemain à Marseille. A noter : son appartement est situé à côté de la gare, ce qui est vraiment pratique.",
+            "name": "Aurélie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Super accueil ! Chambre et appartement très agréable et bien situé par rapport à la gare.",
+            "name": "Stéphane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Un chouette séjour! Merci Seb :0)",
+            "name": "Aurélie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Très bonne adresse tout proche de la gare . Nous avons passé deux nuits chez Sébastien ,pas beaucoup de temps car nous avions des obligations ma soeur et moi mais nous nous sommes senties \"comme chez nous\".Merci Sébastien et à une autre fois sans doute",
+            "name": "Sylvette",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Hôte très sympathique. Je le recommande.",
+            "name": "Alexandre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "J'ai été très bien accueillie, Sébastien est tes agreable. Un appartement calme discret et reposant pas très loin du vieux port, ideal pour un court sejour. merci encore :)",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Sébastien est vraiment sympathique et accueillant. Nous avons aimé séjourner chez lui bien que notre séjour fut très court. Son appartement est idéalement situé à seulement 2 rues de la gare Saint-Charles. Je recommande !",
+            "name": "Elise",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "sebastien est tres chaleureux, merci pour la map, il y avait un petit surprise, mais on a bien resolu.",
+            "name": "璐",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "J'ai été très bien accueillie chez Sébastien dans ce grand appartement, bien décoré avec quelques beaux objets. Une chambre au calme avec un très bon matelas. Il a su être discret et me laisser utiliser la cuisine quand j'avais besoin.",
+            "name": "Anna",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Idéal pour un court séjour en ville, car bien situé près de la gare St Charles et proche du quartier du Vieux Port; si la façade sur rue est peu engageante (tags), l'immeuble est calme et l'appartement très agréable. Et Sébastien est un hôte bien sympathique. A proximité il y a un restaurant tunisien excellent et pas cher.",
+            "name": "Claude",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "C'était super chez Sébastien, un très bel appart et il nous a recommandé un resto super! Merci encore",
+            "name": "Michaela",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "L'accueil est hyper (URL HIDDEN) chambre et l'appartement si sont très agréables. Le logement est à 2 pas de tout! Sébastien est toujours dispo pour quelques conseils de visites sur Marseille. Notre prochaine chambre à Marseille!",
+            "name": "Maryam",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Sébastien est trés agréable , j'ai été trés bien accueillit et bien reçu . Je le recommande fortement sans soucis .",
+            "name": "Angélique",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Sébastien s'est montré très sympathique dès mon arrivée, je me suis senti rapidement à l'aise. Malheureusement, nous n'avons pas pu vraiment discuter, étant donné que je ne suis resté qu'une nuit, que je suis parti tot le matin et qu'il avait une obligation en soirée. Une prochaine fois peut etre !!",
+            "name": "David",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Sébastien est très sympathique, la chambre est calme et à 5min de la gare. Nous recommandons chaleureusement !",
+            "name": "Marie-Pierre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Chambre bien située, idéale pour une nuit. Accueil sympathique. Sébastien est un hôte tranquille et d'une grande souplesse. Merci !",
+            "name": "Magali",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Vous pouvez aller les yeux fermés chez Sebastien.",
+            "name": "Fabien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Sébastien est très très sympathique. Très arrangeant. Nous avons eu peu de temps pour apprendre à nous connaître mais nous avons apprécié sa gentillesse. Son appartement est très bien situé pour des personne comme nous qui arrivions et repartions de la gare. La chambre est vraiment très calme. Nous sommes arrivés tard et reparti tôt nous n'avons donc pas vraiment pu profiter des équipement de l'appartement toutefois très sympathique. Un bon plan et une adresse à recommander.",
+            "name": "Erick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "très bon accueil, appartement propre et très sympa, recommandé.",
+            "name": "Jesus",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "L'accueil de Sebastien est très chaleureux et sa disponibilité pour vous renseigner est très apprécié. Son appartement , idéalement situé au pied du grand escalier de la Gare St Charles et du Métro, est très pratique d'accès en fait une très bonne adresse. La chambre comportant un lit double et une table-bureau confortable ( accès wifi) donne sur une rue calme donc le sommeil est garanti",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Sébastien est un hôte tres agréable, disponible,discret, attentionné et interessant. Il est également de bon conseil l'appartement est à 2 minutes de la gare saint charles et du métro. le logement est propre, la chambre bien insonorisée! je conseille vivement !!!!",
+            "name": "Stéphanie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Beau séjour. Sebastien est super dispo pour toutes les infos sur sa ville. Il est très sympa, aucun stress, tempérament calme. Son logement est très bien situé.",
+            "name": "Langis",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "La maison de Sébastien est centrale et la chambre est très lumineuse et confortable :) je vous conseille vivement.",
+            "name": "Arianna Angela",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "L'hôte était très accueillant",
+            "name": "José",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Hebergement tres facile d acces de la gare un plus et tres central pour se balader a pieds on peut negocier l arrivee et deposer son bagage deuxieme plus Hebergeur arrangeant",
+            "name": "Arlette",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Chambre idéalement située lors d'une arrivée en train, hôte super sympa et très arrangeant : à recommander !",
+            "name": "Stephane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Super expérience à Marseille chez Sébastien, l'appart est à 2 pas de la gare et du port. Notre hôte a été prévenant et très sympathique. Fortement recommandé!",
+            "name": "Lynn",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "J'avais pas le plaisir de faire de reconnaissance de Sébastien, mais il m'a aidé beaucoup. J'avais besoin d'une place à Marseille très urgente, et Sébastien m'a laissé rester chez il. Sébastien est très gentil et l'apartemente était bon.",
+            "name": "Jillian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très central, très propre, avec un hôte trés gentil. Même si on ne s'est preqsque pas vu, tout c'est bien passé chez Sébastien. Il nous a acceuilli chaleureusement et nous a fait sentir comme chez nous. Merci Sebastien. Very central and clean place. Sebastien is a very sympathic person, who received us very nicely and made us feel at home- even if it was just for one night. Thank you Sebastien!",
+            "name": "Lili",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "De très agréables moment passés à Marseille ou nous avons été très bien accueillis par Sebastien super dispo pour nous. Un tout grand merci.",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Superbe accueil Sébastien a tout de suite su me mettre à l'aise et m'as donner de nombreuses adresse sur Marseille chambres très spacieuse et appartement très reposant (décoration, équipement...)",
+            "name": "Dorian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "very nice landlord,friendly,we talk a long time,Mr Sébastien is a polite man, the house is near the railway station, it is very convenient,and he trust the tenants and leave me alone the room, that makes me enjoy the rest ,so a very good journey to marseille and a good place to rest",
+            "name": "舒畅",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Sebastien is a good host, friendly and respective. And the house is within five minutes' walk to train station. The street is not too much noisy at night.",
+            "name": "淑君",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "The host canceled this reservation 2 days before arrival. This is an automated posting.",
+            "name": "Pierre",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Sebastien is a great host, the room is nice, the apartment clean, cosy and safe. It is close to the train station. Recommended and I would definitely stay there again.",
+            "name": "Ioana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Sébastien is very friendly and welcoming! The room is as nice as the description, and the location is very good too, quiet and safe. If I will go back to Marseille I will definitely stay at Sébastien's home again!",
+            "name": "Wenyang",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The Host is very kind and sincerely welcomed us. The apartment is well organised and clean.Hopefully the bed sheet and quilt cover could be changed for every new guest.",
+            "name": "Xudong旭东",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Sebastien's apt is very cool and only a 5 minute walk to and from the main train station of Marseille! My son and I felt very comfortable and happy that we chose to stay with Sebastien! 110% recommended :-)",
+            "name": "Jason",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "The apartment is very nice, with high ceilings and big windows. The bed is super confortable. Sébastien is quite accommodating and very helpful if you need help finding your way around the city (he has lived there for a while). The location is perfect, right in the center of Marseille and close to the train, metro, tram, and bus (but the street is actually very quiet). Great value for the money, would definitely stay there again!",
+            "name": "Gauthier",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Me and my friend stayed at Sebastien's place for 2 nights. Place and location are great, in the heart of Marseille, 5min walking to the train station, which was perfect. He is very friendly and very flexible with check in and check out besides he helped us with our itinerary. Thank you!",
+            "name": "Iuri",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Sébastien was a great host, he gave us very detailed instructions on how to get there and ensured we could get a key as soon as we arrived. The apartment is beautiful and incredibly clean. The mattress was very comfortable with a nice breeze from the window (for the hot days). The kitchen had everything for cooking and he was very accommodating.",
+            "name": "Coryn",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Very patient and good explanation to the city for sightseeing.",
+            "name": "Florian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Sebastien's place was in the perfect location. Steps away from Saint Charles, while close to plenty of attractions, we really enjoyed our stay there. To top it all off, Sebastien was incredibly friendly, and even provided us with a wealth of information and tips. I would absolutely recommend staying with Sebastien - its well worth your money!",
+            "name": "Jerry",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "He is a great and friendly host. He gave a lot of help to me and also a lot of info about Marseille. We also had a nice talk. The location is very convient and it is near vieux port and SNCF . I didn't have lot of time to explore this time, but if I have another chance, would consider his place again",
+            "name": "Ya Chien",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "The room was very clean. Sebastien was a very nice person. His replies by Airbnb were very fast and nice! The bed at the room was very big enough and comfortable. Also the place is pretty close from St. Charles. It was easy to be there from Marseille airport. I recommend it!",
+            "name": "Chae Seon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Sebastien has been a great host. Discreet yet very friendly and helpful in the vacation planning!",
+            "name": "Martina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "We stayed here 1 night before catching an early morning train. Seamless visit. Would stay here again. Pros: Perfect location for our needs. 5 minute walk from Marseille's Saint Charles train station, 15 minutes from the harbor. Good food within blocks. Basic but comfortable amenities. Helpful, communicative host. Cons: Honestly nothing comes to mind. Our stay was short and sweet, and the place is exactly as described.",
+            "name": "Erik",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Extremely close to the station, which was perfect for me because I just had to stay overnight in Marseille so I could get a train first thing the next morning. The front door is broken and was a bit difficult to open. There is a great restaurant down the road that has amazing cous cous dishes. The area was a bit noisy at night with the window open so I didn't get the best night's sleep but really perfectly located for the station.",
+            "name": "Hannah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Sèbastien it's very kind and his room is very good. The room was very clean, he provided me towels, give some recommendations for places to see, he gave us permission to left our luggage at the room even after the check-out. Then, we realized that the room was being cleaned at that moment. It is not so near to the turistic places, but you could reach them by walking 10-15 mins. However, it's a very good option if you want to be near to the train station.",
+            "name": "Jorge Arturo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "We had a very nice stay at Sébastien's appartment. He is a very friendly host who can give good recommendations. The appartment was very clean and you just feel lile home.",
+            "name": "Antonia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Sébastien had been an extremely wonderful host! The room itself was pleasant as well, very close to the metro and SNCF station, and a short walk to the city-centre!",
+            "name": "Irfaanah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Great stay! The apartment was very close to town and easy to walk to. Great host with a lot of insight on where to go.",
+            "name": "Rachel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Sèbastien is a true gentleman. Very kind person who made me a tea on arrival and made me feel very welcome. He was away for the evening and trusted me to look after the place, and i slept like a baby. A lovely apartment in the very centre of Marseille. I will be back.",
+            "name": "Jason",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "I had a really good stay here. Sebastiens' flat is located in a perfect area. 5 min walk from St Charles Train Station, and still in a walking distance to the main attractions of Marseille. The room is clean and tidy, so as the bath room and toilet. The thing I like the most is the mattress. super comfortable. Important for those who are seeking a quality of sleep. Sebastian himself is an open minded guy. Thanks for having such a deep conversation. Overall: Great value for the money",
+            "name": "Rhoni",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Nice place. Quiet place and Sebastien is great person.",
+            "name": "Luis Hernando",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Sébastien is a very nice and layed back guy. At arrival he showed us some places to visit in Marseille, his tips were great, the Island \"Îles de Frioul\" was the most amazing place.. The apartment is very central and perfect to visit the sights. we were happy with the whole stay :)",
+            "name": "Jens",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Everything was clean, comfy & cosy and better than expected! It's a beautiful apartment. Sebastian was very sweet and considerate! Wish we go to stay a bit longer :)",
+            "name": "Sabrina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Perfect for casual trip! Comfortable, clean room near city center. Host was very helpful in offering tips and info about the city, and is comfortable in speaking English.",
+            "name": "Nadiya",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Very nice location and kind host! Excellent house!",
+            "name": "Yunjoo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Sebastien welcomed us and showed us everything we needed as well as giving us tips for where to go in the city.",
+            "name": "Olivia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Good place and host, recommended.",
+            "name": "Juan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Sébastien was a gracious host and very welcoming to me as a first time travel who didn't speak much French. Invited me along to explore the city and is an excellent place to stay.",
+            "name": "Cale",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Beautiful apartment and a perfect room for our stay in Marseille! Sébastien was a great host as we could always chat with hin, he gave us lots of tips and helped us exploring Marseille and its surroundings. Thanks again!",
+            "name": "Lara",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Sebastien is a fantastic host! His place is centrally located in Marseille - just a short 5 minute walk from the Gare de St Charles station and also super close to le Vieux Port. The flat is clean and has everything you could possibly need. Bed is big and comfortable and room is spacious! Lovely view as well of the Notre-Dame de la Garde! Sebastien was very helpful with suggestions of what to see in the city as well as knowing the transit system! I would highly recommend to anyone looking for a place to stay while in Marseille!",
+            "name": "Jennifer",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Sebastien is very friendly and helpful, and a good host. The flat is very nice and in a good location. The only thing I would warn people is that the flat is on the third floor and there is no elevator, so going up and down stairs is required; if that is not an issue for you, then I would definitely recommend staying with Sebastien.",
+            "name": "Dana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Great location. Sebastien is lovely and really makes you feel at home. Given the central location it can be a little noisy though.",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Sebastian is very kind person, I feel so comfortable, even there was room share. location is very nice cuz nearby Port!",
+            "name": "Sean",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Sébastien is a super nice person and has been a great host. I really enjoyed my stay at his apartment, which is located very close to basically everything you need. Iwould definitely stay there again if I go back to Marseille.",
+            "name": "Katharina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "We had a good time there! The room was nice and comfortable, all facilities were clean, the location is just perfect for travelers, train station in 2 min walk, city center in 20 min. We enjoyed our stay there!",
+            "name": "Karina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Sébastien was a great host, very welcoming and made my short stay very comfortable. Centrally located, clean and comfortable, a great little place to stay if you're exploring the city of Marseille!",
+            "name": "Neil",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Sébastien's apartment is located in central Marseille, very near the old port. Walking to the old port is very easy, and the apartment sits adjacent many restaurants and grocery stores. The apartment itself is comfortable, but the building's door is tricky to get into. Sébastien was very helpful despite this.",
+            "name": "Andrew",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Sébastien is a nice and very helpful host. The location of his apartment is great, only a block to the main train station and very close to the city center. I stayed there just for a day, but I'd definitely chose it again.",
+            "name": "Flor",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Kindly people.The apartment was difficult to find out.It closed on a steet which is too many Chinese shops. Because of the strike action,the street is dirty.But it is OK,the apartment is very clean.Thanks for trusting me that you could give me the key.It is impossible that you give the key to a stranger in China!Amazing!The apartment is not big,but I feeled like at home.Nice to meet you.",
+            "name": "煜",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Nice room, comfortable bed, and super easy walk from the train station! Sebastian is very knowledgable of things to do and was a delight!",
+            "name": "Cloud",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Sebastien was a very warm and friendly host! He gave excellent advice on places to eat and visit in Marseille. The house was very well furnished and the room was comfy. Thanks for a great stay Sebastien!",
+            "name": "Steffi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "This place is very close to St Charles station. It is easy to find.the apartment is neat and clean. It seems to be newly renovated.",
+            "name": "Jizhou",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Sebastian was one of the best hosts I have ever dealt with. He was waiting for us on time as agreed and he was very kind whe he allowed us to leave our luggage at his apartment after the check out time as our bus was a bit late. The location of the apartment is PERFECT .. It is 5 mins walk from the train station and very close to the old port which was amazing. I recommend this listing 300%. Merci beaucoup Sebastian :)",
+            "name": "Mohamed",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Sebastien was a very kind and welcoming host, and I felt very comfortable in his light, airy home, in the perfect location to explore the streets of Marseille. He was very generous and hospitable, and it was a pleasure to meet him - I hope to return to this beautiful city for a longer time in the future.",
+            "name": "Nick",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Sébastien is a warm and friendly host. He was able to accommodate my last minute reservation despite the previous guest's late check out. He provided a nice overview of the city and recommended an inexpensive restaurant where I had a delicious dinner. I'd stay with Sébastien again in a heartbeat!",
+            "name": "Jay",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "He was such a nice man and so kind. it has been located near train station. It takes 5 min by walk. I was happy to stay his house.",
+            "name": "Youngwoo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The host canceled this reservation 161 days before arrival. This is an automated posting.",
+            "name": "Dana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Awesome location...Beautiful flat....wonderful host...what more could you ask for. Thanks again for a great stay to an otherwise bad day.",
+            "name": "Daniel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Very easy to find from the train station. Sebastian was a great host - kind, welcoming, helpful :)",
+            "name": "Bailie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Sebastian was very hospitable and so nice! The room was very clean and comfortable. The apartment is very close to the train and bus station. A great host, location and room!",
+            "name": "Christa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Sébastien is a really nice guy, open minded, and he made us feel like at our home, we really appreciated that. I really recommend his location, cause is really close to the city center and just 5 minutes walking from the station, which is so confortable. Also we had a cup of tea together and a nice conversation about lot of things. Everything was really good.",
+            "name": "Antonello",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "p_emplacement": "rate_me",
+    "averageRanking": 4.5,
+    "nbReviews": 126,
+    "communication": 5.0,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 4.5,
+    "p_proprete": "rate_me",
+    "arrivee": 5.0,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 34,
+    "qualite-prix": 5.0
+}

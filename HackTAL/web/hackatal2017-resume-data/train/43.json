@@ -1,0 +1,95 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "Nadine a été très disponible malgré notre arrivée un peu tardive..studio simple et fonctionnel. Quartier un peu bruyant toutefois mais à proximité de tout.",
+            "name": "Patricia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "Un très bon accueil, un studio lumineux, bien insonorisé (double vitrage), une kitchenette avec tous les ustensiles permettant la préparation du petit-dejeuner, voire des repas, un emplacement intéressant proche d'une station de tramway et à 5 minutes du centre, facilité pour garer sa voiture, bref je recommande ce logement sans problème.",
+            "name": "Alain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "Notre hôtesse a été charmante et nous a mise à l'aise de suite. Nous la remercions encore pour son accueil chaleureux et son logement idéalement situé au centre de Brest!",
+            "name": "Xavier",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "Studio très sympathique et pratique au cœur de la ville! Accueil agréable, contact rapide et simple. Je recommande!",
+            "name": "Emmi",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2013"
+        },
+        {
+            "text": "L'appartement est très bien équipé, situé dans un quartier agréable avec toutes les commodités à proximité (magasins alimentaires, resto, tram...) Nadine m a bien informé pour mon arrivée et est qqn de confiance. A recommander.",
+            "name": "Yves",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2013"
+        },
+        {
+            "text": "Très bon contact avec la propriétaire, accueillante et arrangeante pour toute complication de dernière minute... Merci à elle, je recommande chaleureusement cette personne très sympathique.",
+            "name": "Myriam",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2013"
+        },
+        {
+            "text": "Nadine est une personne très agréable et accueillante. Nadine sait etre arrangeante. Ce fut un plaisir de passer 4 jours dans ce studio en plein centre de Brest.",
+            "name": "Kevin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2013"
+        },
+        {
+            "text": "Nadine m'a très bien accueillit. Elle est très avenante et vous met à l'aise tout de suite. L'appartement est très bien agencé à la manière d'un hôtel, très propre le tout avec une vue magnifique sur la mer. Très bon rapport qualité/prix et à proximité du centre ville de Brest. Je recommande vivement !",
+            "name": "Debby",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2013"
+        },
+        {
+            "text": "The apartment is located in very good place with nice view to sea. Also there is a nice crêperie downstairs across the street. However, there was a noise coming from street during the night and I had difficulties with sleep if the window was not closed. Overall, for this price the apartment was very good.",
+            "name": "Linda",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "The host canceled this reservation 4 days before arrival. This is an automated posting.",
+            "name": "Huw",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.5,
+    "averageRanking": 4.0,
+    "nbReviews": 10,
+    "communication": 5.0,
+    "emplacement": 4.0,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 43,
+    "qualite-prix": 4.5
+}

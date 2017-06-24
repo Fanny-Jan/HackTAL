@@ -1,0 +1,671 @@
+{
+    "precision": 4.0,
+    "reviews": [
+        {
+            "text": "Surtout n'oubliez pas vos draps qui ne sont pas fournis. Attention également pour les personnes agées ou handicapées, c'est au 4ème étage sans ascenseur. Ce studio est un très bon rapport qualité prix",
+            "name": "Richard",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Très bon accueil de Mireille , élue est très disponible et réponds rapidement très efficace ! Le studio est très bien situé à 2 min à pied du centre ville . J'ai passé un très bon week-end je vous recommande le studio.",
+            "name": "Sophie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Mireille a été disponible et accueillant. Mon séjour de 3 jours s'est très bien passé.",
+            "name": "Marion",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Très bien je recommande pour étudiant et jeune actif",
+            "name": "Anthny",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Super séjour ! Appartement nickel, je recommande",
+            "name": "Marjorie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Le logement est très bien situé, accessible. Mireille semble très disponible et attentive... par message. C'est le hic : elle n'était pas présente pour nous accueillir. En soi ce n'est pas gênant, cependant, les locataires précédents avaient laissé les lieux dans un état épouvantable. Mireille ne l'a pas su et nous avons dû faire le ménage dès notre arrivée. L'appartement n'était pas propre. Cela fait, c'est plus accueillant : très bon accès à internet, appareils fonctionnels.",
+            "name": "Lucie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Mireille s' est montrée très aimable et disponible. L' appartement est idéalement situé pour un petit week end à Nantes. Petit mais fonctionnel, le confort du couchage pourrait cependant être amélioré!! Hormis ces quelques détails, ce fut une bonne expérience et nous avons passé un très bon week-end. Merci Mireille",
+            "name": "Marie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Studio très bien situé, en plein centre de Nantes",
+            "name": "Justine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Studio très bien situe. En revanche dommage que les draps et les serviettes ne soient pas fournis pour une nuitée. ( je loue moi meme un bnb pour 50 euros et je les fourni) La poubelle de salle de bains non vidée, les draps et serviettes des précédents locataires usages dans la penderie, la vaisselle non rangée, le menage non fait, le lit avec lattes cassées, tuyauterie de WC qui fuit, aucun contact sauf par SMS avec l hôte, j ai laisse le studio plus propre en partant que ce que je l avais trouve en arrivant ce n'est pas digne de l'esprit airbnb. Grosse déception.a éviter .\n+ Plus",
+            "name": "Alexandra",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Nous sommes étudiants et pas trop regardant en temps normal lorsque nous voyageons avec mon ami. Néanmoins cette fois, lorsque nous sommes arrivé les draps sales des anciens voyageurs ainsi que leurs serviettes n'étaient pas enlever. J'ai du passer un coup d'aspirateur car le sol était sale, de même pour la salle de bain. De plus l'appartement est très humide, ce qui inflige une mauvaise odeur. A 40e pour une nuit j'ai déjà vu beaucoup mieux.",
+            "name": "Amandine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Logement très bien placé, très petit, mais fonctionnel.",
+            "name": "Emilie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Bon séjour Convient aux très très courts séjours. l'annonce n'est pas conforme ce n'est pas un vrai lit, mais un canapé convertible bz auxquelles il manque trois lattes!!! Il faudrait nettoyer entre deux locations. Les toilettes, la douche et le lit enfin le canapé! code wi fi difficile à obtenir!",
+            "name": "Benjamin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Accueil agréable de la part de Mireille malgré mon heure d'arrivée tardive. Elle est disponible et à l'écoute.",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Appartement bien situer et ressemblant aux photos.",
+            "name": "Capucine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Accueil très chaleureux de mon hôte. Studio fonctionnel dans l ensemble Salle de bain humide si bien que la serviette ne sèche pas après utilisation. Connexion internet ne fonctionne pas ou pas bien ou pas longtemps.",
+            "name": "Malika",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Un petit studio fonctionnel, ultra bien situé dans un quartier très tranquille et à deux pas de tout : commerces de qualité ( un peu chers...on est à Graslin quand même..!!), transports, vie nocturne. Une ambiance \"sous les toits\" très sympa !!! Mireille est disponible, réactive, discrète et arrangeante !!",
+            "name": "Yann",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Mireille est une hôte très arrangeante, le séjour s'est très bien passé",
+            "name": "Paul",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Première expérience air b'n'b très satisfaisante pour moi! a",
+            "name": "Guillaume",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Le studio est vraiment très bien situé, et son tarif tout a fait adapté. L'accueil, même à distance, a été très simple et fluide.",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Bon rapport qualité prix. L'accueil de notre hôte fut cordial. Le logement est idéalement situé au centre de Nantes. Nous y retournerons très certainement.",
+            "name": "Coco",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "appel au bon moments et disponible pour mes appels",
+            "name": "Coline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Le studio de Mireille est idéalement situé dans la ville et tout est accessible à pied. Parfait pour quelques jours pour découvrir la ville à deux ou en solo.",
+            "name": "Pam",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Nous avons qu'un contact par téléphone, l'entrée de l'appartement de fait par des codes. Pas de ménage a été fait avant notre arrivée, le logement n'est pas clean. Nous avons eu que de l'eau froide pour la douche, en été ça aurait pu quand même aller mais pour l'hiver c'est pas génial ! La situation de l'appartement est pratique à proximité de tout.",
+            "name": "Cécile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Le studio est bien equippé, il y a tout ce qu'il faut. En plus, Mireille est très accueillant. La maison se trouve à dix minutes de commerce et elle est donc bien situé. J'ai bien apprecié d'y ai passé mon séjour et je récommande!",
+            "name": "Nick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Appartement très bien placé dans un joli quartier, Mireille nous facilite l'arrivée dans l'appartement. Nous avons cependant eu un problème de fuite d'eau en plein de milieu de la nuit, et aucune réponse de l'hôte meme le lendemain matin concernant ce probleme ...",
+            "name": "Marion",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Logement très bien situé et fonctionnel au cœur de Nantes, proche de tous commerces ce qui est très pratique. Connexion internet un peu juste pour pouvoir regarder la TV sur son ordinateur.",
+            "name": "Kévin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Mireille m'a très bien accueilli et a répondu très rapidement à toutes mes questions avant et pendant mon séjour. Le logement est conforme au photos et à la description qui en est faite. Je recommande!",
+            "name": "Arthur",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Tout s'est très bien passé. Nous n'avons pas vu Mireille mais elle a été très réactive au téléphone et nous a donné toutes les informations nécessaires pour notre arrivée. Aucun souci à l'entrée dans les lieux, ni à la sortie. Le studio est idéalement placé, proche de tout, de nombreux commerces au pied de l'immeuble (attention tout de même, tout est fermé le dimanche, y compris les boulangeries). En bref, impeccable pour un petit séjour!",
+            "name": "Ondine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "C'est le Airbnb le plus glauque que j'ai fait, déprimant dès notre arrivée. Le prix de la nuit ne vaut pas du tout l'appartement. Beaucoup trop cher pour ce que c'est. Point positif : Bonne situation de l'appartement en centre-ville. Point négatif : L' hôte, Mireille, nous a fait attendre un quart d'heure dehors à notre arrivée, son portable est constamment éteint, directement sur répondeur et elle ne nous a pas accueilli (envoie d'un texto avec le code de l'appartement). Nous n'avons donc ni vu à l'entrée ni à la sortie notre hôte Mireille. Déçu...où est \"l'esprit\" Airbnb ? Le chauffage ne fonctionnait pas ou plutôt créait de la fumée toxique lorsqu'il était allumé mais comme nous a dit l'hôte par texto \"ce n'est pas grave il va faire beaux\" alors que nous avons eu froid et de la pluie tout le week-end. Pluie que nous avons très bien entendu vu que l'appartement est sous les toits. Toit avec des fenêtres sans rideaux et sans volet laissant rentrer la lumière extérieur. La chasse d'eau du Sanybroyeur est difficile d'accès... Enfin, le frigo faisait un bruit de fusée qui décolle régulièrement dans la nuit. Point saugrenu : La seule décoration est un set de table avec des photos de plages Corse accroché au mur du studio Nantais... Weed end en amoureux à exclure.\n+ Plus",
+            "name": "Florent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Logement pratique pour profiter de Nantes centre. Le logement est conforme aux photos et reste fonctionnel!",
+            "name": "Mélissandre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Petit studio tres bien placé dans le centre de Nantes, très calme. Nous n'avons eu aucun souci. Mireille a été disponible et accessible. Je recommande.",
+            "name": "Lorraine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Studio fonctionnel, propre et bien situé. Mireille fut une excellente hôte, merci encore !",
+            "name": "Anthony",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Nous avons passé un séjour agréable dans cet appartement très bien situé à Nantes!",
+            "name": "Agathe",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Logement correct à l'annonce, il est propre . Très facile de se garer. Mireille est venus nous accueillir , je recommande et je reviendrais.",
+            "name": "Régis",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Nous n'avons pas eu de contact physique avec Mireille. Uniquement par téléphone de vive voix. Il y a un code sur la porte d'entrée du studio afin de faciliter les choses. On sent que ce n'est qu'un logement pour du airbnb. La douche était cassée, il y a une fuite au niveau des toilettes et des lattes du lit son cassées. Le prix est excessif pour ce type de bien. Nous louons nous même notre appartement en airbnb, il fait 60m², il y a tout le confort, télévision, internet, serviettes de toilette, produit de douche et draps fournis pour 45 euros la nuit, et le service n'est pas comparable. Heureusement que ce n'était que pour dormir et que nous sommes rentrés tard le soir sinon nous n'aurions pas été à l'aise sous les toits surtout avec cette chaleur. C'est un peu décevant et c'est la première fois que nous sommes aussi surpris d'un voyage en airbnb.\n+ Plus",
+            "name": "Romain Et William",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Quartier tranquille ,bien situé près du centre. Le contact a été facile.",
+            "name": "Andre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Quartier très bien avec toutes les commodités à proximité immédiate. Troisième étage sans ascenseur toute seule ... dur dur avec mes bagages. Oui, effectivement, j'effectuais mon voyage seule et n'ai eu de contact avec l'hôte que par téléphone et texto donc pas de réel accueil (les affiches de recommandations collées dans le studio rendent d'autant plus l'accueil impersonnel). Le lit est en réalité un canapé-lit. On n'y dort pas si mal, mais il faut le souligner. Le studio est simple et assez petit. On y trouve tout le nécessaire, même si les prestations dans leur ensemble ne sont pas exceptionnelles (peintures faites à la va vite, trous dans le sol masqués par le lino imitation parquet, absence de télé et le sanibroyeur semble fuir un peu). Propreté correcte et de quoi pendre les vêtements.\n+ Plus",
+            "name": "Morgane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Studio petit mais propre et confortable. Convient très bien pour une personne seule ou un couple. Mireille est facilement joignable et très arrangeante.",
+            "name": "Diane",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Bon appartement et très bien situé bien que le lit soit un peu trop fin pouvant donner lieu à quelques maux de dos",
+            "name": "Tanguy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "L'appartement de Mireille etait tres pratique pour notre passage sur Nantes. Nous étions tranquilles dans le grand appartement de ville. Mireille a été très agréable et serviable.",
+            "name": "Flora",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Nous sommes restés 2 nuits et nous avons surtout vadrouillé dans Nantes. Nous n'avons donc pas passé beaucoup de temps dans le studio. La communication avec Mireille était bonne (par SMS). Nous sommes arrivés assez tard donc l'ouverture de la porte par code était pratique. Le studio était donc bien à ce niveau là. Après, il ne faut pas vraiment espérer y passer du temps, c'est assez petit, le lit est en fait un clic clac et l'accroche du pommeau de douche était cassée. Pour des jeunes et durant un court séjour ce studio fait parfaitement le job.\n+ Plus",
+            "name": "Mwika",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Il faudrait nettoyer entre deux locations. Les toilettes, la douche et le lit était infâme. Cela nous a dégoûté. C'est un appartement qui vraisemblablement, a en juger par d'anciennes réservations posées sur la table, sert uniquement pour faire des locations airbnb.",
+            "name": "Damien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Studio sympa. très bien situé et très pratique ( système d'ouverture par code) Je recommande",
+            "name": "Jonathan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Mireille est disponible et réactive, l'appartement très bien situé, aucun problème!",
+            "name": "Clément",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Mireille a été très agréable disponible et à l'écoute. En revanche l'équipement notamment le matelas du lit laisse à désirer par rapport au prix.",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Ayant besoin d'une chambre proche du départ et de l'arrivée du semi-marathon de Nantes 2016, je me suis tourné vers le studio de Mireille. Si un cocon est quelque chose de soyeux, je dirais alors qu'on devrait plutôt parler d'une chambre sous les toits spartiate. On est loin du cocon à mon sens donc mais pour une nuit cela fait très bien l'affaire. Literie confortable mais frigo et rue plutôt bruyants. Pas de volet, ce qui peut gêner certains. Mais à ce prix il ne faut pas trop faire la fine bouche. Par contre, très bien située si on ne veut pas trop marcher ainsi Château, Machines, commerces sont proches. Souplesse dans \"l'accueil\" et le départ ce qui est pratique.\n+ Plus",
+            "name": "Michael",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Parfait petit studio pour deux jours à nantes. Conforme à la description. J'ai juste été surprise de trouver un digicode directement sur la porte de l'appartement pour entrer dans le logement. J'ai espéré fort que le code soit changé souvent pour ne pas avoir de mauvaises surprises ;-) et puis j'aime mieux voir les personnes en vrai mais bon ce n'est qu'un détail.",
+            "name": "Pauline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Mireille est une hôte très sympathique. Son studio est conforme à la description. Très fonctionnel. Parfait pour une personne seule. Le studio est idéalement placé et son prix très correct pour un studio de centre ville. Je n'hésiterais pas à le réserver à nouveau si je dois retourner à Nantes.",
+            "name": "Virgile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "une hote qui a été très agréable et très pro, l'appartement plus que conforme a la description et ca sera avec plaisir d'y retourner a notre prochain voyage.",
+            "name": "Yoann",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Mon rdv professionnel sur Nantes a été annulé, je n'ai donc pas pû dormir chez Mireille.. Dommage que les conditions d'annulation soient si strictes, la nuit a tout de même été encaissée. A bientôt pour un prochain déplacement peut être.",
+            "name": "Pauline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Logement conforme à la description, rien à redire.",
+            "name": "Dimitri",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "Hôte très agréable et accueillante. Petit studio bien placé.",
+            "name": "Chloé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Petit studio tres fonctionnel et bien place. Mireille est tres reactive et à l'ecoute. Super séjour!",
+            "name": "Mathieu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Appartement bien situé dans Nantes, cependant ATTENTION, après plusieurs expériences sur Airbnb, c'est ici la plus mauvaise! Nous devions arriver à 11h30 à l'appartement, Mireille nous a précisé au dernier moment que nous ne pouvions entrer dans les lieux car la précédente locataire était toujours là. Nous avons dû attendre 16h pour entrer dans l'appartement mais notre hôte nous a généreusement proposé de déposer notre bagage dans un petit placard même pas fermé!!! Même si Mireille reste une hôte disponible (texto et téléphone uniquement) l'appartement est vétuste : plaques électriques ne fonctionnant pas, le lit est en fait un canapé convertible avec des lattes cassées, une lucarne est occultée maladroitement au plafond, les murs ont des traces d'infiltration d'eau et surtout le ménage est négligé. Cela sans doute car la locataire précédente venait juste de quitter les lieux. Cet appartement permet sans aucun doute une succession de locations beaucoup plus rentable grâce à Airbnb qu'une location au mois avec un contrat de location normal. Cela est très dommage car l'esprit Airbnb est normalement convivial et non spéculatif! Autre chose, en plus d'amener nos draps et serviettes de bains pour 2 nuits (et pas juste 1) pensez surtout à votre papier de toilette!!! Voilà, donc en bref nous ne vous conseillons pas cet appartement.\n+ Plus",
+            "name": "Mathilde",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "J'ai été un peu déçu de l'appartement car à mon arrivé il n'était pas vraiment nettoyé ex: poussière un peu partout, douche bouchée, tâches..Le lit n'est pas un vrai lit, c'est un canapé lit et je me demande si les draps étaient propres étant donné que l’hôte m'a demandé de les plier et de les remettre au même endroit... Vous devez prévoir votre papier toilette! Je n'ai pas vu l’hôte, elle m'a communiqué les codes par téléphones. Points positifs: il est bien situé, je n'ai discuté que par téléphone, mais Mireille est agréable et disponible si vous avez besoin.\n+ Plus",
+            "name": "Anais",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Le logement est très bien situé et la propriétaire en rend l'accès facile par sa disponibilité, son organisation et sa simplicité Parfait pour passer un week end dans cette charmante ville qu'est Nantes.",
+            "name": "Delphine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Ce qui m'attire dans le principe Airbnb, c'est la convivialité, le contact. Ici, rien de tout ça. Tout est prévu pour éviter le contact : (codes d'accès transmis par SMS pour éviter tout déplacement ) Apparemment le but unique est ici de \"faire du fric\". En effet, pour le reste c'est service minimum. Je peux comprendre de ne pas fournir draps et linge de toilette pour les séjours d'une nuit, mais j'aurais cru que le papier de toilette serait fourni ceci constituant pour moi un minimum. Dernier point, si on peut considérer qu'un canapé convertible peut être décrit comme un vrai lit, comment la deuxième personne qui au passage représente un surcoût de 5€ fait-elle pour s'asseoir ? L'étanchéité des ouvertures serait aussi à revoir, le plafond commence a présenter de sérieuses séquelles.\n+ Plus",
+            "name": "Jean Jacques",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Petit studio en plein centre donc pratique pour les déplacements! Merci à elle!",
+            "name": "Jennifer",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Appartement très bien situé pour découvrir Nantes. Nous y avons accédé avec une simplicité appréciable. Nous recommandons.",
+            "name": "Grégoire",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "J'ai passé un très bon séjour dans ce petit studio idéalement situé. Mireille était très disponible et à l'écoute. Il y a tout le nécessaire avec des commerces à proximité, un bon plan pour le Voyage à Nantes !",
+            "name": "Mathilde",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Très difficile à contacter au téléphone ou par mail, donc d'accéder au logement sans code. Sur place, le linge de lit des précédents locataires était sur le sol, le lit pas fait, une seule taie d'oreiller pour deux, une housse de couette une personne pour deux...... pas de linge de toilette, donc hébergement vraiment pas sérieux.",
+            "name": "André",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Petit, petit studio, au 4ème étage sans ascenseur, idéalement situé pour découvrir le centre de Nantes mais qui manque cruellement d'équipements ...",
+            "name": "Joelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Logement agréable, bien placé, au calme et facile d accès. Quartier agréable avec commerces et transports au pied de l immeuble. Mireille est disponible et facilement joignable. Très bonne adresse pour un séjour à Nantes.",
+            "name": "Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "L'appartement est fidèle à la description et aux photos. Il est assez petit mais fonctionnel et idéalement situé dans le centre ville de Nantes. Pour n'y être resté qu'une nuit, j'en suis très satisfait (facile d'accès, propreté...), d'autant plus que Mireille est très disponible pour répondre à nos questions. À recommander !",
+            "name": "Mathieu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2015"
+        },
+        {
+            "text": "Accueil très chaleureux. Hôtesse disponible. Logement fonctionnel et propre. Situation optimale. Excellent rapport qualité prix. Je reviendrai !",
+            "name": "Isabelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Le studio de Mireille est d'accès facile et très bien situé dans le centre de Nantes. Mireille a été disponible à tout moment par téléphone pour répondre à nos demandes.",
+            "name": "Léa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "L'appartement est très central et Mireille est très accessible et arrangeante quant aux horaires d'arrivée et de départ. Parfait pour un weekend nantais !",
+            "name": "Violette",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Tout était parfait, le quartier est très sympa. Mireille est disponible et arrangeante.",
+            "name": "Marie-Odile",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Super appartement bien placé, mireille est très arrangeante !",
+            "name": "Chloé",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Appartement très bien situé au coeur de Nantes dans un quartier disposant de ttes les commodités. Mireille est très arrangeante concernant l'heure de départ et d'arrivée et les dispositions pour prendre possession des clefs sont d'une simplicité très appréciable pour démarrer un séjour !! Merci encore, Laure",
+            "name": "Laure",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Studio très agréable et à proximité de toutes choses, comme supérette, posté, poissonniers et autres,je recommande vivement.",
+            "name": "Guillaume",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Très bon séjour. Un studio très agréable,propre et idéalement situé en hyper centre. Un grand plus pour l l'indépendance. Proche d d'une supérette et de la poste, parfait.",
+            "name": "Guillaume",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Le studio correspond plutôt bien à la description, il est bien situé par rapport au centre et Mireille était très disponible par téléphone. Le studio même est vraiment très très basique, mais suffisant si vous restez quelques nuits seulement.",
+            "name": "Lukas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Séjour très court d'une seule nuit, appartement vraiment très petit, mais bien placé en centre ville.",
+            "name": "Martina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "The host canceled this reservation 9 days before arrival. This is an automated posting.",
+            "name": "Christelle",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "The host canceled this reservation the day before arrival. This is an automated posting.",
+            "name": "Anne Fleur",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "We had a nice stay. Great location - in the very center of Nantes. Studio clean, small, but well equiped. Mireille provided all necessary information in a pratical way.",
+            "name": "Janis",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Studio corresponds to the description. Everything was clean. We haven't seen Mireille, but we have accessed to the apartment without problems.",
+            "name": "Yana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "The apartment was not located in the indicated place. Once in Nantes I called the owner and she told me that the apartment was in another location. Regrettably the the location of the new apartment was not in the heart of Nantes as the publication said. There was not Wi-Fi (as the publication indicated). When I asked the owner about the Wi-Fi she told me that I could use the the public Wi-Fi (but is necessary to pay to use it) or go to McDonalds (more than 10 min waking). There was just one towel for two people for two nights.\n+ Plus",
+            "name": "Juan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "The reservation was canceled 2 days before arrival. This is an automated posting.",
+            "name": "Médéric",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Very small but cozy room close to the city center. Everything was good.",
+            "name": "Bianca",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "The apartment smelt horrible the whole time we were there. The window did not open either and the sheets were also dirty so we slept on top of the doona. The door padlock was not easy to open either.",
+            "name": "Rachel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.0,
+    "averageRanking": 3.5,
+    "nbReviews": 82,
+    "communication": 4.5,
+    "emplacement": 4.5,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 61,
+    "qualite-prix": 4.0
+}

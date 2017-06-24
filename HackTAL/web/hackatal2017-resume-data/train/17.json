@@ -1,0 +1,559 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Superbe accueil, plein de petites attentions à l'égard des voyageurs. C'est top !!",
+            "name": "Vincent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Appartement au top : très propre, calme, à 5 minutes de la gare. Ce qui fait la différence reste néanmoins la gentillesse exquise de Insaf et de sa maman. On a été très touchées par les petites attentions qui nous ont été réservées à notre arrivée. Encore un grand merci pour tout ! Benedetta & Sara",
+            "name": "Benedetta",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Appartement bien équipé et très bien situé pur visiter la ville!",
+            "name": "Luttmann",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Appartement bien situé, près de la gare Saint-Charles et à distance proche à pied du Vieux-Port. Chambre très au calme et fraîche, même par forte chaleur.",
+            "name": "Jean-Marc",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Super sejour, tres bon rapport avec la proprietaire qui est toujours disponible et tres chaleureuse ! Appartement conforme aux photos, propre, des jus de fruits etaient meme au frigo pour notre arrivee ! Nous reviendrons!",
+            "name": "Lévana",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Appartement bien situé à deux pas de la gare saint Charles, avec tout ce dont on peut avoir besoin, et Insaf est très réactive. Je recommande sans problème!",
+            "name": "Théodora Et Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Super bien organisé et localisé, l'hôtesse est trop gentil",
+            "name": "Bianca",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "logement très agréable très propre insaf et sa maman sont très sympas plein de petites sucreries dans l'apartement mon fils y était tres bien merci",
+            "name": "Laurence",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Le séjour chez Insaf s'est extrêmement bien passé ! La localisation, la propreté et la qualité de l'appartement étaient juste parfaites. Et que dire de l'accueil avec pleins de petites attentions comme le petit déjeuner, quelques provisions, tout était prévu. C'est avec plaisir que je recommande l'appartement d'Insaf",
+            "name": "Laura",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Hôte très disponible. Appartement très beau et non loin du vieux port et de la gare saint Charles, très pratique. En somme un séjour parfait !!",
+            "name": "Noemie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Appartement bien situé avec tout ce qu'il faut pour la vie quotidienne. Insaf est agréable et professionnelle. Si on revient à Marseile on n'y retrourne :) Nous recommandons ce logement.",
+            "name": "Cheikh Ibra",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Nous avons passé un agréable séjour chez Insaf. L'appartement est fonctionnel et proche de tout (surtout de la gare). Il y a plein de petits restaurants dans le coin. Bref, merci à Insaf pour son accueil et ses petites intentions.",
+            "name": "Galla",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "un super appart et une accueille très chaleureuse il ne manque rien dans l'appartement, il y a même plus que prévue et il se situe a deux pas de la gare et des arrêts de tram se qui est bénéfique pour bouger dans Marseille",
+            "name": "Sullivan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Insaf est une hôte très sympathique. Nous n'avons manqué de rien. L'appartement est super bien situé. La gare, le port et le centre ville ( shopping etc..) sont accessible à pied. Je recommande!!",
+            "name": "Paul-Brian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "je recommande vivement ce logement ! et l'hôtesse est super avec toutes ses petites attentions ! vraiment au top !!",
+            "name": "Kathleen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "L'appartement est idéalement situé à 2 pas de la gare saint charles et du vieux port. Le logement est très bien équipé et surtout très propre ! Insaf a etr tees arrangeante au niveau des horaires et sa maman nous a tres bien accueillie à l'arrivée. Grand merci !",
+            "name": "Naoil",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Superbe appartement avec un emplacement idéal pour visiter Marseille. Un accueille irréprochable et d'une grande gentillesse. A recommander sans aucune hésitation.",
+            "name": "Ouail",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Superbe appartement situé à deux pas de la gare Saint Charles ! Insaf a été super et très arrangeante malgré nos petits soucis d'organisation. Merci beaucoup pour tout ! Julie, Margaux, Alizé et Léa.",
+            "name": "Julie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Appart’ propre, bien situé et très pratique. Les petits plus : les chocolats et les draps léopards ! :-) Merci encore Insaf et à bientôt ! Fanny",
+            "name": "Fanny",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Je conseil vraiment cette appartement, bien situé, hôtes très sympathique et disponible avec des petites attentions très appréciable comme (fruits, confiserie, gâteaux, jus de fruit, etc...) idéal pour le petit déjeuner !!",
+            "name": "Pierrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Le logement d'Insaf est conforme aux attentes, dans un quartier très vivant, avec de nombreux restaurants et commerces le tout à quelques pas de la gare donc idéal pour les voyageurs. Insaf est très attentionné avec ses hôtes (il ne manque rien dans l'appartement, tout est pensé pour le confort des hôtes), elle ne laisse rien au hasard, disponible si nécessaire avec une communication fluide et simple. Je recommande fortement",
+            "name": "Hassan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "L appartement de Insaf est très bien situé à 2 minutes de la gare à pied. Il est très agréable très pratique une cuisine est mis à disposition. Je recommande vivement",
+            "name": "Sam",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Un logement très bien placé, à côté de la gare et pas très loin du vieux port, du mucem,... si vous voulez visiter, ce logement est parfait. L'accueil, la disponibilité d'Insaf et de sa maman parfait. Plein de petites attentions (les placards sont pleins pour les gourmands ;-)) que ce soit dans la cuisine et dans la salle de bain très pratique en cas d'oublie. Merci pour tout. Je vous conseille ce logement si vous voulez visiter Marseille.",
+            "name": "Magali",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Toujours un super accueil, insaf et sa maman sont aux petits soins. je recommande vivement ce logement",
+            "name": "Francois",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Merci beaucoup pour mon séjour professionnel, du calme, de la propreté, un très bon confort. Insaf et sa maman sont des hôtes d'exception. Bienveillance et convivialité sont les maîtres mots. Merci pour tout! Francois.",
+            "name": "Francois",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Super week-end dans le logement, bien situé avec tramway métro et à deux pas de la canebiere et du vieux port de Marseille. Insaf et très attentive et sa maman très accueillante . Merci je recommande pour un week end en amoureux .",
+            "name": "Eddyy",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Rien de spécial à dire je vous recommande. Proche des transports et du vieux port",
+            "name": "Lucka",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "En tous points cette location était géniale, insaf pleine de petites attentions, même pour les heures très tardives notre hôte était présente! Notre court séjour dans ce T2 était parfait. Encore merci pour tout insaf, à bientôt!",
+            "name": "Mathilde",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "LE TOP. Appartement propre avec tout ce qu'il faut. N'HÉSITEZ PAS 1 seconde à réservé . Merci beaucoup Insaf et à BIENTÔT",
+            "name": "Adia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Ce séjour d'une nuit a été parfait, nous avons été très bien accueillies et nous avons bien dormi ; l'appartement est propre spacieux et disposait de tout ce dont nous avions besoin. Merci à Insaf et à sa maman qui a été très gentille.",
+            "name": "Emi",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Super séjour ! Appartement spacieux, très bien situé. Insaf est très accueillante et arrangeante. Il y avait même de quoi faire les petits déjeuner. Je recommande vivement !",
+            "name": "Joseph",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Appartement vraiment PAR-FAIT avec tout les besoins nécessaire. J'ai halluciné l'accueil de OUF. J'ai aimer toute ces attentions, Insaf merci mille fois en plus de ça tu es super cool. C'est sûr que mon prochain séjour je reviens chez toi. Je m'abonne hihi allez BYE à très bientôt ;)",
+            "name": "Adia",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Pour une première à Marseille s'était réussie ! Un appartement propre, qui sent bon et regorgeant de victuailles dans les placards. Très bien situé côté cours, avec transports et commerces a proximité. Un grandmerci à Insaf pour avoir mis à disposition pleins de petites choses qu'on peut vite oublier lors d'un séjour, ainsi que pour sa disponibilité et sa gentillesse !",
+            "name": "Clothilde",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Super séjour dans l'appartement de Insaf. L'appartement est très bien situé, Insaf est très gentille et a un grand sens de l'hospitalité, c'est une hôtesse pleine d'attentions qui met à disposition un logement de vie, plein de victuailles, de confort à l'adresse des voyageurs. On pourrait rester y vivre :)",
+            "name": "Fatima",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Super accueil d'Insaf , plein de petites attentions ( goûter pour notre fille de 5 ans par exemple) et aussi tres bien situé , à 2 pas de la gare !",
+            "name": "Aurore",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Petit pied-à-terre proche du Vieux Port, l'appartement d'Insaf nous a permis plusieurs excursions dans et autour de la Cité phocéenne. L'accueil et la disponibilité d'Insaf sont un vrai plus pour notre court séjour.",
+            "name": "Tiffanie Et Mathieu",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Expérience marquante et je ne manquerai pas de revenir chez vous :)",
+            "name": "Youss",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Un tres agréable séjour chez Insaf! Nous ne sommes restés qu'une nuit mais l'accueil était tres chaleureux (même à une heure tardive) et l'appartement impeccable, mention spéciale pour le pti dej'. Nous reviendrons ! Merci pour tout, Aurélie",
+            "name": "Aurelie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Insaf est l'hôte PARFAITE ! Accueil chaleureux et souriant, elle est d'une gentillesse incroyable. Son appartement est superbe et impeccable ! Bien équipé, lumineux agréable. Idéalement situé car à 2 minutes à pieds de la Gare. Je recommande les yeux fermés et y retournerai très vite sans hésiter :)",
+            "name": "Solène",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Super séjour super appartement super hôtesse car cela va de la place de parking réservée au frigo plein et le petit déjeuner toutes ses attentions qui font d'insaf une superbe hôtesse.Un séjour au top à Marseille. On reviendra sans hésitation",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "L'appartement est très bien placé tout en étant très calme. Il est bien équipé, fonctionnel et gros plus Insaf laisse dans la cuisine de quoi se faire un petit déjeuner (et il y a du choix!). Appartement parfait pour un séjour à Marseille entre amis. Insaf est une super hôte et nous a rendu un service bien pratique alors qu'elle n'était pas obligée. Je recommande.",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Par où commencer ? Et bien l'accueil : très chaleureux, je me suis tout de suite sentie à l'aise un peu comme à la maison . L'appartement : simplement et joliment décoré , spacieux avec ses hauts plafonds , une chambre avec du rangement.. Rien a dire. Je n'ai manqué de rien. L'emplacement : une réelle proximité de la gare saint Charles ce qui est plus que pratique en tant que voyageur, des commerces .. Le vieux port à cinq minutes , bus métro et tram à deux pas. Génial L'hôtesse : très avenante, très attentionnée elle se soucie de notre confort. Ce qui est très appréciable . Satisfaite, je reviendrai ! ☺️\n+ Plus",
+            "name": "Maë-Lee",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Insaf est une hôte exceptionnelle. Super flexible sur les horaires pour nous satisfaire. Concernant le logement, tellement de belle choses à dire.Une hospitalité et générosité exceptionnelle. Frigo et armoires remplie digne des hôtels de luxe. Je recommande très fortement Insaf et son logement. et Je reviendrai avec plaisir.",
+            "name": "Onur",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Le logement se trouve au pied de la gare st Charles et du métro, très pratique pour découvrir la ville. les rues sont pourtant calmes le soir avec des restaurants abordables. Il est plus spacieux que ne le laissent penser les photos. Insaf est très à l'écoute et ses petites attentions alimentaires (fruits, café, boissons) très agréables pour les voyageurs. un seul bémol: nous avons eu chaud, mais il est vrai que nous y étions durant une période de canicule .",
+            "name": "Alain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "L'appartement est mieux que les photos ! Insaf est adorable et nous a même offert de quoi faire un super petit dej :) Parfait si besoin d'être proche de Gare saint Charles !",
+            "name": "Edwina",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "L'appartement est parfait ! Il est à la hauteur de ce que j'attendais, en centre ville proche du vieux port, de la gare saint Charles et des transports. Très propre et avec tout ce dont j'avais besoin à l'intérieur. L'accueil de la propriétaire était également très correct, elle m'a donner beaucoup de conseils sur les lieux à visiter sur Marseille. Je conseil cet appartement car j'ai passer un excellent séjour dans celui-ci!",
+            "name": "Kristine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Tout était parfait, L'appartement est très propre, de plus Insaf pense à tout, eau, jus, fruits, café, petits gâteau, jusqu'à une bouteille de rosée, Wow! Tout près de la gare, tout près du Vieux port et à proximité des bus et tramways. Quoi demander de mieux! Je recommande vraiment cet endroit .",
+            "name": "Maryse",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Belle expérience à Marseille avec un logement de qualité et bien situé.",
+            "name": "Benoît",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "excellent emplacement près de la gare. Rien à redire",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "C'est le lieu idéal pour découvrir Marseille, être au calme et bien accueillis! Nous avons une grande expérience de rbnb mais celle ci est vraiment unique ! Insaf et sa famille sont vraiment disponibles, accueillants, généreux... l'appartement est très bien équipé avec des victuailles en plus! Il n'y a pas mieux, allez-y les yeux fermés ! Insaf encore merci pour tout !",
+            "name": "Stevie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Insaf a été très aimable et les comunications entre nous ont été très faciles. La maison est comme on la voit dans les photo et l'accueil est formidable, avec fruit, café, et beaucopup d'autres choses. Sa mère qui est venue pour le check -in et le check-out a été très gentil et explicative . Je recommande cet endroit a tout le mond des voyajeurs. Annalisa",
+            "name": "Annalisa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2016"
+        },
+        {
+            "text": "Parfait sur tout les plans :)",
+            "name": "Nabil",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Insaf est extrêmement généreuse, sympathique et disponible - séjour agréable dans un appartement idéalement situé Je recommande vivement cette hôte pour une expérience idéale.",
+            "name": "Sylvain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Séjour agréable. Insaf est très généreuse et disponible",
+            "name": "Mélissa",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Highly recommended place to stay for your trip in Marseille. The apartment located perfectly in the city-centre; few steps from main train station (Marseille St. Charles) plus main hub of local public transport. The apartment's perfectly designed for your trip in Marseille, Insaf pays high attention to details requires for your stay.",
+            "name": "Pramis",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Great place to stay, near the main train station, foot distance to the centre. Insaf was really welcoming, the flat is very well appointed, even including all the necessary for breakfast. Highly recommended to anyone looking for a base in Marseille - we will be back!",
+            "name": "Franziska",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Perfect location for those who are going to spend time in nearby cities such as Avignon and Arles, as it's so close to the train station. The house is spacious and clean, and the kitchen is fully equiped which was the most amusing to us. Very flexible checkin and checkout time. I can't recommend more.",
+            "name": "혜연",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2016"
+        },
+        {
+            "text": "Insaf was a caring and considerate host--she provided us with lots of drinks and snacks, as well as maps and guides for the area. Her apartment was clean and well-kept. It was a great experience!",
+            "name": "Alex",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Insaf is a great hostess and provides everything you could imagine. The apartment is very well presented and the bed is very comfortable. It is very close to the railway station and the port area. Found a cruise and the tourist bus trip great if you have limited time. Thanks Insaf.",
+            "name": "Teresa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Insaf's place is super close to the Gare St. Charles, which was just what we needed. The unit is big and clean and has more than everything you need. We wish we could have stayed longer. Nervous travelers should note the building and neighbourhood are a bit rough, but the unit itself is clean and secure. Insaf was also super accommodating to our check in and super early check out needs. Great host.",
+            "name": "Ashley",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Insaf and her apartment were amazing! The apartment's location was very close to the train station and very comfortable. Insaf was also very communicative and active in making sure we had the best time. Thanks!!",
+            "name": "Tracy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "My husband and I were really tired after a 16 hour long journey, and Insaf's place turned out to be really great for getting a good night's rest and ready for our vacation! It was a really cozy, comfortable place & she really made it feel like home. Thanks to her mum also for receiving us at the house! The house is also very accessible and close to the city center and station. She also helped us find a way up to the station without having to take many stairs, and helped us with the directions for eurail at the station. That was really her going above and beyond, and was extremely helpful.\n+ Plus",
+            "name": "Saujanya",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "The apartment is very clean and cosy place! It is in a very convenient location as well, just minutes away from the train station and a short walk away from the port. Insaf is very friendly and responds very quickly. She very kindly accommodated our arrival and departure times even though we had to leave extremely early the next day. Insaf's apartment is a lovely place to stay if you're in Marseilles!",
+            "name": "Haley",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Perfect place to stay in Marseille! Insaf is a really special host - incredibly friendly and helpful. The place was clean and a short walk away from the Port.",
+            "name": "Lauren",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Insaf's place was clean, neat and had all the items necessary. It had sweet buns, chocolates, cup cakes, milk, water bottles, fruits and much more. It was so close to the station. The station is walkable from the flat. Insaf is the best host we met so far in our journey. She was very kind that she walked us down the station and guided us till we took the shuttle to airport at early 6 AM in the morning. If we visit Marseille again, then definitely we will check in at Insaf's place :)",
+            "name": "Saravanakumar",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Best location in Marseille. Clean apartment with complimentary fruits, water, coffee etc which was very appreciated. Helpful hostess who let us in at midnight. We really recommend this place. /Zara & Erik",
+            "name": "Zara",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Insaf was the perfect host (one of the best from my experience so far of using AirBnB!), my train arrived over three hours late but that wasn't a problem and she stayed in regular contact. The apartment is in a great location near the station but only a short walk from the historic areas of the town. There was great attention to detail with water waiting in the fridge and a variety of breakfast options already waiting for me. Overall it was great value for money.",
+            "name": "Paul",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Insaf was extremely welcoming and friendly during my entire trip to Marseille. Her place was full of all the amenities described and much more! I would highly recommend staying at her place as it facilitated a wonderful trip to Marseille!",
+            "name": "Alec",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "averageRanking": 5.0,
+    "nbReviews": 68,
+    "communication": 5.0,
+    "emplacement": 5.0,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 17,
+    "qualite-prix": 5.0
+}

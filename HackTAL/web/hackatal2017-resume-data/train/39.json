@@ -1,0 +1,799 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "merci à Michael qui nous a fait un super accueil et qui nous a donnés plusieurs conseils pour notre parcours à marseille. Une personne très gentille. Un petit plus il nous a offert de super croissant maison",
+            "name": "Laurie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Bon séjour chez Michael et ses deux petits chats ! Nous avons dormi dans une super grande chambre ! Je recommande ce logement",
+            "name": "Mélinda",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "La nuit s'est parfaitement bien passé avec un hôte très réactif ! Merci",
+            "name": "Jérémie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Séjour parfait. Michaël est très accueillant. Merci pour tout !",
+            "name": "Florian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Michael est un excellent hôte. Il est très accueillant et très bon cuisiner. La chambre est agréable et l'appartement est bien équipé et plutôt bien situé dans Marseille, je recommande!",
+            "name": "Mathilde",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Bon appartement et Michael est gentil",
+            "name": "Quicogiovanni",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Michael est super sympa, il vous accueillera comme un pote retrouvé! Et si vous aimez les chats, vous aurez aussi la conversation!",
+            "name": "Maya",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Mickaël est un garçon sympathique et avenant",
+            "name": "Martine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "1er séjour Airbnb ! Je souhaite que les prochains soient à la hauteur de cet accueil si chaleureux. Je recommande bien-sur. Bon séjour !",
+            "name": "Delphine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Proche du stade et de la ville..réservation de dernière minute qui nous a été très utile..michael est très sympathique et accueillant..très arrangeant sur les horaires merci beaucoup.",
+            "name": "Alexandre",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Michael est très arrangeant. Je conseille fortement. Séjour très agréable.",
+            "name": "Charline",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2017"
+        },
+        {
+            "text": "Personne accueillante et sympathique. Il est très arrangeant pour les heures d'arrivée et de départ. Mickaël est très ouvert à la discussion.",
+            "name": "Rayan",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Petit chambre, mais confortable, parfait par deux personnes.",
+            "name": "Zabdi",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Très agréable séjour chez Michael, qui est ouvert à l'échange et à la communication. Nuit calme pour une pause professionnelle en ce qui me concerne. Ces matous sont adorables.",
+            "name": "Patrick",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Sympathique séjour chez Michael avec qui nous avons eu de supers discussions :) ! Appartement bien situé près des clubs de plongée !",
+            "name": "Massadoh",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Tout était parfait, Michael est très accueillant. Nous y sommes donc retourner deux fois, petit déjeuné a disposition le matin. Nous le recommandons fortement. Merci encore !!",
+            "name": "Melvin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Michael par son envie de rencontrer et connaitre l'autre sais accueillir les personnes qui ont la chance d'avoir réservé leur séjour chez lui. Ses 2 chats ne refuserons pas les grattouille de votre part.",
+            "name": "Léopoldine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Malgré son absence, tout était prêt et bien indiqué. Chat très câlin. Nuit agréable.",
+            "name": "Maxime",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Hôte super sympa. Accueil génial. Appartement propre et bien situé. Je recommande",
+            "name": "Naïm",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Tout s'est très bien passé. Le voyage à eté super grâce à son hospitalité plus que remarquable. N'hésitez pas",
+            "name": "Élo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "logement facile d acces, hote tres accueillant!",
+            "name": "Stéphann",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Mickaël est un hôte très accueillant. Il nous a tout de suite mis à l'aise, des notre arrivé dans son appartment. Nous avons pu discuté, ainsi il a pu nous conseiller dans nos programmes du lendemain. L'appartement est super pour deux personnes, il faisait très chaud en plein août mais Mickaël s'est adapté en nous laissant un ventilateur. De même pour les moustiques Mickaël a su anticiper et a ainsi acheter un répulsif. Il nous a offert le petit déjeuner à plusieurs reprise. Concernant le parking nous avons pu trouver une place tout de suite juste à côté de l'appartement. Concernant la proximité, nous marchions une quarantaine de minutes pour atteindre le vieux port, en bus seulement 15min. En clair Mickaël saura vous mettre à l'aise dans son logement, vous ne manquerez de rien, pas même d'une enrichissante conversation accompagné d'une bonne bouteille de vin.\n+ Plus",
+            "name": "Nicolas",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Le logement est situé dans une rue à fort passage qui peut gêner le sommeil.",
+            "name": "Florimond",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Très bon séjour dans cet appartement. Michael est un super hôte , sympa et souriant ! Le quartier est cool, agréable à vivre et l'appartement top, ordinateur et télévision à disposition. Michael nous a même concocté un bon petit plat ! Merci Micky",
+            "name": "Laleh",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Excellent acceuil de la part de Michael trés accessible et sait aussi etre discret. logement conforme a l annonce. Belle surprise pour ma 1ere utilisation airbnb.",
+            "name": "Noureddine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Un très bon accueil ,logement qui correspond parfaitement à la description.",
+            "name": "Midsou",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Très bon séjour, hôte très accueillant et disponible. Nous n'hésiterons pas à revenir si nous revenons à Marseille.",
+            "name": "Anais",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Merci pour le séjour et votre discrétion",
+            "name": "Sebastien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "réactif malgré ma demande tardive",
+            "name": "Laurent",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Michael très sympa et très acuellan, on a bien aimé ce logement. Je recommande.",
+            "name": "Blanca",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Chambre située à 10min en bus de la station Castellane, c'est très pratique ! Environ 20min de marche depuis le stade vélodrome. La chambre est spacieuse pour deux personnes. Je recommande pour l’accueil chaleureux, le croissant le matin et pour les chats :)",
+            "name": "Sylvain",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très bien accueilli, bon contact, appartement propre, chats sympa, tout s'est très bien passé ! Je recommande",
+            "name": "Etienne",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Très bon accueil,appartement chaleureux et proprietaire très sympathique. Je recommande!",
+            "name": "Kawtar",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Notre plus mauvaise expérience AirBnB à ce jour. S'il a été facile de joindre Michael et de récupérer les clés de son appartement, l'expérience fut globalement très déplaisante. Très forte odeur de pipi de chat dans tout l'appartement, Le sol de la cuisine à été nettoyé à la va vite avant notre arrivée mai pas celui de la chambre/salon. Le lit (clic clac) n'est pas inconfortable mais les draps étaient sales et le lit n'était pas fait. 1 seule taie d'oreiller pour deux personnes... La salle de bain est minuscule et était sale également. Nous avons prévenu le matin à 9h de notre arrivée dans le début de soirée fin d'après midi. Michael a accepté notre venu immédiatement et nous à dit rester à l'appartement toute la journée il avait donc a priori le temps de nettoyer et préparer notre venue un minimum. Nous n'avons pas croisé Michael donc ne pouvons juger de sa gentillesse et disponibilité mais nous lui recommandons fortement de respecter un peu plus ses hôtes en préparant leur venue consciencieusement. Nous ne recommandons pas son hébergement.\n+ Plus",
+            "name": "Anne-Elen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "très bon séjour chez Michael qui a su nous donner des bons conseils!il a également un lit très confortable et une grande chambre!à recommander!",
+            "name": "Celine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Logement conforme à la description. Hôte aimable et très accueillant. Je n'hésiterais pas à réserver à reserver ce logement à nouveau.",
+            "name": "Alioune Badara",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Les indications que m'a données Michael étaient précises et utiles. J'ai été très bien accueillie. Le lit est confortable. Je me suis garée à dans sa rue. Avec Michael on ne peut qu'être tout à fait à l'aise, il est à l'écoute et répond clairement à toutes les questions.",
+            "name": "Sylvie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "C'était parfait ! Bien que je sois arrivée en avance, Michael a été dès le départ chaleureux et simple. Il m'a concocté un savoureux repas et nous avons passé une très agréable soirée, émaillée de discussions intéressantes. Ses chats sont adorablement câlins ! Et pour couronner le tout, son appartement était exactement entre les deux lieux où je devais me rendre :)",
+            "name": "Marie-Hélène",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "logement qui correspond parfaitement à la description.très bien accueilli.recommande vivement pour vos séjour à marseille",
+            "name": "Antoine",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Merci encore pour ce merveilleux séjour Michael, je me suis sentie comme à la maison avec un ami de longue date, j'étais déjà sûre que nous allions passer de bons moments! Tu es chaleureux et accueillant, simple et généreux, l'hôte idéal! Nos repas ensemble ont été des moments de pur bonheur et de convivialité, tout ce que j'attendais d'un séjour airnb, c'est sûr, on garde contact!",
+            "name": "Emmanuelle",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Séjour sympa à Marseille en plein soleil au mois de Novembre! Michael est cool aussi",
+            "name": "Fred",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Michael est très accueillant, arrangeant, et sociable. Nous avons passé de bons moments avec lui dans son appartement. A la prochaine Michael!",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Comme pour ma première venu rien a redire. Très bonne acceuil",
+            "name": "Ludovic",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Mickaël est très arrangeant et disponible, nous étions très libres de nos allées et venues chez lui. Gentil, humain, honnête, il sait intégrer naturellement ses invités à son quotidien, sans chichi. Le seul bémol qui en découle: une propreté toute relative... :) Mais cela ne doit vous faire reculer que si vous êtes un peu maniaque ou sensible! L'appartement est à 30 minutes de la gare en transport en commun, très pratique. Le quartier est calme. Pas de parking privé, mais stationnement gratuit dans la rue.",
+            "name": "Élodie",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Avec un acceuil très chaleureux. L appart correspond bien a la description.",
+            "name": "Ludovic",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "J'ai passé un très bon moment chez Michael! Un accueil très chaleureux ! Le lit est fait ! Vous n'avez rien à amener ! Il paye même le petit déjeuné ! Chose très remarquable. Je vous le conseille fortement si vous voulez passer un bon moment sur Marseille !",
+            "name": "Damien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Merci à Michael pour sa gentillesse, son aide pour visiter marseille et les calanques, son café et ses jolie petits chat.",
+            "name": "Florian",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Michael fut un hôte très sympa ! On a été très bien accueilli et nous garderons, je l'espère, contact ! Le canapé était fort agréable et tout s'est très bien déroulé. Si vous cherchez à dormir sur Marseille et passer un bon moment, n'hésitez pas !",
+            "name": "Hugo",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Michael - un gentleman cordial et convivial. Nous avons passé trois jours à Marseille et il a fait tout pour nous faire sentir aussi confortable que possible - du café et un bon dîner à des informations utiles sur la ville. Avec lui, vivre chat et chaton. Gingembre nommé Noisette très affectueux). Michael nous a accueillis chaleureusement à la maison, a passé et il n'y avait aucune raison de l'accuser de quoi que ce soit pendant notre séjour. La maison est pas dans le centre, mais à distance de marche du Vieux-Port en 35 minutes ou prendre le métro beaucoup plus rapide. Nous pensons que ceci est une combinaison digne de prix et de qualité pour ceux qui veulent rester un certain temps à Marseille et n'a pas peur des chats :)\n+ Plus",
+            "name": "Kati",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "rien a dire , hote et endroit agréables , je recommande",
+            "name": "Karim",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Très sympà et attentif :) Je le recommande sans hésiter. En plus le lit est très confortable. Je vous dit donc à la prochaine. José.",
+            "name": "Jmroca",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Michael est tres gentille et aimable. La chambre est tres jolie, spacieuse. L'appartement est petite mais la chambre est gran. Il a deux incroyable chats, Noisette est le meilleur chat du monde! Merci pour tout! à bientôt!",
+            "name": "Alba",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Michael est une personne très sympathique en revanche sont logement n est pas du tout adapter pour accueillir du monde . Le logement n est pas chauffer j ai passer une très mauvaise nuit. De plus la salle de douche est minuscule pas plus grande qu une cabine téléphonique pour rentré dans la douche il faut enjamber les toilettes :-((((( déçu",
+            "name": "Julien",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Michael m'a fait me sentir comme à la maison. Au top! La localisation était parfaite pour moi allant au parc des expositions. Très bon Hôte, je recommande. Sympa, arrangeant et interessant. M'a ramené des croissants succulents pour le petit déj. Très humain et ouvert. Au top Merci pour ta générosité Michael. Cheers Mate",
+            "name": "Matt",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Our host was very nice with us ! Even though me and my boyfriend we checked in late he have been waiting for us , plus he offered to make us breakfast in the morning! As for the room, it was nice and comfy, perfect for a deep nap.",
+            "name": "Camelia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "The host canceled this reservation 3 days before arrival. This is an automated posting.",
+            "name": "Médérick",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Close to a bus location, easy to find. Good place to stay in Marseille. Michael is very nice, helpful, and thoughtful.",
+            "name": "Carlos",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Everything was cool. Michael is responsible and communicative person. Big dormitory room, small kitchen and bathroom. One big red cute cat loves this room also. Thanks for breakfast and presents",
+            "name": "Dimitri",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "When I arrived, he was not at home. But he taught me how to find the keys and get into his home. He is very nice and friendly. He got up early and bought me breakfast in the last days. The size of the bed is very satisfied as well! The bathroom is a little small, but that's fine for me.",
+            "name": "Catherine",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2017"
+        },
+        {
+            "text": "Michael wasn't home when I arrived but he left me good instructions on where to find the keys. The apartments don't have any names on them so I was a bit confused which was the right door but I found it soon. I tried to call Michael to make sure but I couldn't reach him (this might have been because I had bad service at the area). The flat was quite small, but my room was spacious, clean and nicely decorated like in the pictures. The shared bathroom is small but manageable. The neighbourhood was quite noisy at times but it got quiet in the evening and I slept very well. Michaels two cats were cute and friendly. :) I didn't see Michael much on my stay but he seemed like a really nice and trustworthy guy. He made me coffee in the morning and gave some tips. He speaks good english. If you don't mind the location I recommend the place!\n+ Plus",
+            "name": "Mikko",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Michael is a very nice guy and I really liked to stay at his place. It is not a luxury place but had everything I needed. The two cats are so calm!",
+            "name": "Tiago",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Very nice, interesting and sympatic person! I recomment!",
+            "name": "Florian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Nice guy and place",
+            "name": "Alfred",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Michael is very friendly and communicative host with two lovely cats. His apartment is located in quiet area of Marseille, the bus stop is just around the corner. P.S. My girlfriend is in love with Garfield :)",
+            "name": "Igor",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Short but pleasant stay! It was very funny to see the cats waiting for us upon arrival. Proper bed and room just as expected. The bathroom was good but the sink was very small and a bit clogged. Checking in late was no problem with the host as we had a late arrival by plane.",
+            "name": "Edward",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Michael was a great host and a pleasure to stay with. He offered to drive us to Les Calanques and surprised us with several treats, including a fresh croissant and a strawberry tart homemade by his friend. The apartment itself was small but with character. Our room was private, and he allowed us to use his kitchen and laundry machine. The location is outside of the city center but about a 30 minute walk from more tourist areas. Overall good value!",
+            "name": "Kaitlin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Muy buen anfitrión , muy amable y el departamento está muy Agusto",
+            "name": "Francisco",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Unfortunately I did not get to meet Michael personally, as I was only staying very briefly - but I found the place without any trouble, and it was possible to check-in and check-out at my own convenience, which was good. Michael was helpful and communicative by SMS and AirBnB so I had no problems. His flat is not the biggest, but it has charm and character, and it suited my needs fine. Merci Mika! :)",
+            "name": "Jakub",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "he was really kind and helpfull and his cats are super cute . Thank you for the nice room :)",
+            "name": "Barbara",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Perfectly comfortable room with two very friendly cats who like attention, pretty easy to get to from city center.",
+            "name": "Julian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "Michael was a great host. We loved his place because it really felt like home, it is very cosy. He has two friendly cats (which you should keep in mind if youre alergic).",
+            "name": "Irena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Mika is a very hospitable and nice person. Even when we arrived early and he was still at work, he made sure we could get into the apartment. He is very communicative and fun to talk to. Also he recommended restaurants and helped us getting a day trip organized AND had breakfast prepared! Merci :) We've had a great time! Only people with heavy cat allergies might get into trouble ;)",
+            "name": "Lisa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "I highly recommend this place because Michael was very nice and friendly. And the room was cozy and clean.",
+            "name": "Marcela",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2016"
+        },
+        {
+            "text": "Michael is very nice and the apartement is small, but perfect for a stay in the city like Marseille. We had a great time and there was no bad things. Thanks Michael",
+            "name": "Tim",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2016"
+        },
+        {
+            "text": "Very nice cool guy with two friendly cats I recommend him.",
+            "name": "András",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Great host and a great stay! Thanks Michael",
+            "name": "David",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2016"
+        },
+        {
+            "text": "Very nice host with two playful cats. Room was as the description was. We had our privacy and could use his laptop and sound system. Though the bathroom was very small you could handle it. If you go out late at weekend: the last bus from the metro station Rond-Point du Prado is 9:15pm - 25 min walk or just use other ways from Castellane or Ste. Marguerite Dromel.",
+            "name": "Hoa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Michael was great! He helped us find parking and offered beverages and breakfast! His cats were friendly and the room was pleasant.",
+            "name": "Lea",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Mica was first of my own account experience and third experience of using Airbnb. Even we were so late from the heavy traffic from Spain, He waited for us till late night and gave us such a warm welcoming. Also, as a cat lover, 2 cutest cat rubbing my face made me so relaxed from the stress from the hard driving. That might have been the happiest moment of Marseille. His room were so perfect for two of us and even we could cook for ourselves. In the morning he've got us croissant for the breakfast and that was so delicious. When we left his home, he walked with us to the car to say good bye. Such a wonderful man he is. Thanks for him, we did well in Marseille. If I go back to Marseille, I would love to stay in his flat again. Thank Mika so much!\n+ Plus",
+            "name": "Seo Kyung",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "All perfect",
+            "name": "Lorenzo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Very friendly! My friend and I stayed four nights at Michaels. He was very kind to pick us up from the train station as we arrived at night where there were no more buses. The place is about 30 minutes from the center by foot. Or you can take a bus. The room is cozy and big. And there is a kitchen you can use. The bathroom is very tiny:). Make sure you are okay with cats!:) There are two cat's witch are pretty active and like to cuddle a lot.. All in all well recommended!! :)",
+            "name": "Aljona",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "No good really, was not clean and Cats al around",
+            "name": "Oscar Jose",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Great apartment with its own good atmosphere. Its really very comfortable to stay here. I felt like it was at my own home. Kitchen, bathroom, my own room and great host! All that needs!",
+            "name": "Andrei",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "A very pleasant, nice and disponible person! He gave me many advices and he let me cook whenever I wanted! A very pleasant stay",
+            "name": "Federico",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "Michael is extremely friendly, he made dinner and we had a great time together. He has two cats so the place smells a little, great for a night though!",
+            "name": "Dylan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "In the center of Marseille, the place is quite ok and Michel very Sympathic.... It is a realy small appartment with a very small bathroom but in general it is a nice place... Breakfast was nice:-)",
+            "name": "Γιαννος",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Michael made us feel welcome and even waited for us for a late check-in. It was a perfect listing for our one night stay in Marseille. The breakfast was really appreciated.",
+            "name": "Joseph & Lisa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Michael is very nice and the cats are adorable! The house is like the pictures. The bed is very comfortable and the room is tidy. The only thing that we had a little trouble was parking the car. The area is full of cars and it was kinda hard to find a spot. But other than that, the rest was fine.",
+            "name": "Rafael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Amazing! Mika is so kind! Took me on a tour as soon as he picked me up! Spent a few days eating well with him! The place is tidy and he is a great host. Super nice/safe neighbourhood! Merci encore!!!",
+            "name": "Tash",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Perfect one night stopover in Marseille. Michael was very friendly and helpful! Thanks for having us Michael!",
+            "name": "Cameron",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "My husband and I had a very nice stay at Michael's apartment. He is very nice and makes a wonderful \"bouef bourguignon\" (so, we enjoyed dinner, good talk and some wine together). The bed (sofa) is very comfortable, even for tall people. The two cats are lovely and we had no problem with them. We suffered a little bit with the stairs in the building and the small bathroom. Anyway, we strongly recommend Michael's apartment.",
+            "name": "Natália",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "My boyfriend and I arrived with incredibly short notice but Michael nonetheless provided us with a great experience for one night before we boarded an early morning train the next day. He was very friendly and welcoming, providing us with dinner and breakfast in the morning. His apartment is clean and comfortable, and the bed was very nice! I was so happy to be able to stay here for a night.",
+            "name": "Colette",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Michael was a wonderful host! His place was affordable, clean and his cats adorable! He was helpful in providing us a crashcourse on French, and valuable information on Marseille. He was very kind, providing breakfast for us, and sending us off to the bus station on our morning departure. Given the opportunity, we'd love to visit Marseille again and we'll be sure to visit Michael if the opportunity allows it!",
+            "name": "Eu Min",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "A very nice place. Comfortable and clean room, kind and caring host. And it is reasonable price for you to live in such a wonderful place.",
+            "name": "Star",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Michael is really nice, his place is so special and beautiful and located in an old beautiful town. He prepare the breakfast for us, it was really really great. The bread so delicious, and so did coffee, he brew the coffee for us, so sweet!! If you love whisky, Michael will be the best partner for you!!!",
+            "name": "Yvette",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Thank you for the great experience Mika :) C'etait supper bieen!!!",
+            "name": "Sarah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "He was very kindly! He took us from train station and and he showed us Marseille with his car! He was so clean! He has two friendlier cats! He cooked breakfast for us! He was really good person!",
+            "name": "Charles Batuhan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Michael was a very welcoming host and he made me to feel as if I am staying in my home. I really loved the breakfast he served me and will never forget the quality of the tea he made me. The most interesting thing about Michael was, he gave me a 2hr ride by his car around the beautiful beaches of Marseille and I never forget the trip we had. I loved it very much. I would have never seen that place, if he hadn't gave me the ride. Merci beaucoup,",
+            "name": "Samuel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.0,
+    "averageRanking": 4.5,
+    "nbReviews": 98,
+    "communication": 5.0,
+    "emplacement": 4.0,
+    "arrivee": 5.0,
+    "resume": "",
+    "id": 39,
+    "qualite-prix": 4.5
+}

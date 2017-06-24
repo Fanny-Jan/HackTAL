@@ -1,0 +1,759 @@
+{
+    "precision": 5.0,
+    "reviews": [
+        {
+            "text": "Super voyager, la tour Eiffel, la seine, notre dame de paris, tout est très beau. Les cuisines françaises, le foi gras, micu chocolat, la signature, le théâtre, l'écharpe. Merci beaucoup Thierry(URL HIDDEN) David",
+            "name": "Siguang",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Top! Excellent accueil, très bonne situation à deux pas de métro, l'appartement et propre et fonctionnel. Et Thierry est un hôte exceptionnel! Merci!",
+            "name": "Svetlana",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "Thierry nous a accueilli agréablement du début à la fin. Bel appartement jusqu'à la terrasse dont on aurait aimé profiter si le temps nous l'avait permis. Toutes les commodités (transports, restaurants ...) sont là pour profiter de Paris au maximum !",
+            "name": "Jerome",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2014"
+        },
+        {
+            "text": "Thierry est un hôte discret, attentionné et disponible. L'emplacement est très pratique dans un quartier vivant à deux pas du métro et des boulevards. L'appartement est propre et fonctionnel. Excellent pour une escapade!",
+            "name": "Svetlana",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "février 2014"
+        },
+        {
+            "text": "Le lieu correspondait très bien à l'annonce sur le site. Thierry est quelqu'un de très sympathique et disponible. La chambre était très confortable et spacieuse. Je vous recommande cet endroit de surcroît bien situé en plein coeur de Paris.",
+            "name": "Jun",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "janvier 2014"
+        },
+        {
+            "text": "Il y a magnifique, très très bon.je voudrais séjour ici à la prochaine à paris",
+            "name": "Linlin",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "L’appartement de Thierry est tel que les photos publiées sur le site. Vous y découvrirez des œuvres d’art significatives du goût éclectique de votre hôte. Dans la chambre, Thierry dispose de livres sur Paris ainsi que d’une carte pour vous orienter. Nous nous sommes rencontrés non loin de la Gare du Nord. L’empathie de cette première rencontre a été déterminante. Thierry est aimable, cultivé et à une personnalité secrète. À vous de la découvrir au fil des conversations : un soir, nous avons parlé jusqu’à 4 heures du matin. Un resto à ne pas manquer: la Brasserie Flo. Merci Thierry. La richesse du 10e arrondissement réside dans sa mixité sociale. Allez voir La Porte St-Denis (seulement 25 minutes de marche jusqu’à la rue Rivoli, 1er arrondissement) et La Porte St-Martin. De la rue Martel aux sites touristiques les plus importants, vous pouvez tout faire à pied lorsqu’il fait beau. 13 jours à Paris chez Thierry a été d’une trop courte durée. Salutations cordiales à Thierry.\n+ Plus",
+            "name": "Robert",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Chez Thierry on est a la maison! Merci pour tout!!!!!!",
+            "name": "Miriam",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "text": "The host canceled this reservation 135 days before arrival. This is an automated posting.",
+            "name": "Joanne And Charlie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2017"
+        },
+        {
+            "text": "Thierry and Romeo were very kind hosts, they were gone most of the day so we were alone there much of the time we were there. They were very helpful in showing us the metro station and how to get around Paris. The apartment was lovely and very clean.",
+            "name": "Anita",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "Thierry was one of the most responsive hosts I have had the chance to meet on AirBnB so far. All communication was perfect and the check-in was seamless. I would recommend staying here, especially if you have a keen eye for design and decor. Quintessential Parisian apartment with a very generous and kind host!",
+            "name": "Tamy Emma",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2017"
+        },
+        {
+            "text": "The apartment is beautiful! Exactly like the pictures in every way. The art is phenomenal. The location is great, near many shops and restaurants. Not very touristy either which is something I appreciate. Thierry was a great host. We couldn't figure out how to open the door and had to unfortunately wake him in the night, but he was understanding. The door is a different lock style than American doors, so be sure to practice this! We used his recommendations for restaurants, all of which were great. He was more than willing to help you find places and how to get there. Overall a fantastic stay.\n+ Plus",
+            "name": "Khadesha",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Thierry was a great host, he picked us up at the metro and showed us around...he and his partner were really considerate so we felt like we had the place for ourselves.",
+            "name": "Jaka",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2017"
+        },
+        {
+            "text": "Thierry and Romeo were the most lovely hosts, always smiling and very hospitable. For a first time in Paris, the time we spent at Thierry and Romeo's place made us feel like home. They are welcoming and the apartment was beautiful, in every sense the Parisian home. I would recommend Thierry and Romeo's home in a heart beat! Thank you to both of you.",
+            "name": "Rosie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Very very cool place Thierry and Romeo are very kind and good people. he also recommended tourist attractions by map. The house was very nice and I wish I could see them again. Thanks!!!!! Thierry & Romeo",
+            "name": "Mighi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2017"
+        },
+        {
+            "text": "Thierry was a terrific host. Even though this was an apartment share, it was like we were there alone. Thierry gave us great instructions & tips to get around Paris to see as much as we could in 3 days. His apartment is clean and perfectly located from sightseeing. We would love to stay there again if we are so lucky to get back to Beautiful Paris",
+            "name": "Jim",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2016"
+        },
+        {
+            "text": "My husband and I stayed in Thierry's home for 7 days. Our stay was awesome! Thierry is such a great help with showing you around the neighborhood. The area is filled with local bars and restaurants where we had a great time. He is accomodating to anything you may need during your stay. There when you need him, and he gives you enough privacy. Thank you so much Thierry! I highly recommend his place.",
+            "name": "Briana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2016"
+        },
+        {
+            "text": "Very nice, clean and cosy apartment - looks exactly the same as in the pictures. The flat is in a great location. Thierry was a great host, kind and helpful. I can highly recommend a stay in this beautiful apartment.",
+            "name": "Tomasz",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Thierry and Gali were fantastic hosts of a fantastic apartment in perhaps the most vibrant area of Paris. They were both very welcoming, fun, sociable and interesting hosts with great suggestions for the area. In terms of the apartment - it looks exactly as it does in the photos (Thierry has great taste in art and decor) and is a beautiful place of respite within the busy city. Because the area is so vibrant, there are cafes in nearly every corner of the nearby streets, and you are just a 10 minute walk from the Canal Saint Martin, 5 minutes from the Metro, and 5 minutes to Republique. Thierry and Gali represent what is truly great about the Airbnb experience - great people with great insight that are willing to share a bit of their city with those traveling through. Thanks for everything Thierry & Gali, I look forward to staying with you again in the future!\n+ Plus",
+            "name": "Simon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2016"
+        },
+        {
+            "text": "Beautiful apartment with best location in the city of Paris. Only 5 mins walking distance to Metro. Fast WiFi speed! Very wonderful place for a short stay!",
+            "name": "晔",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The host canceled this reservation 19 days before arrival. This is an automated posting.",
+            "name": "Vanja",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The host canceled this reservation 131 days before arrival. This is an automated posting.",
+            "name": "Jo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The host canceled this reservation 54 days before arrival. This is an automated posting.",
+            "name": "Dani",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The host canceled this reservation 139 days before arrival. This is an automated posting.",
+            "name": "Nancy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The host canceled this reservation 97 days before arrival. This is an automated posting.",
+            "name": "Nabila",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Our stay at Thierry's apartment was wonderful! The apartment is very stylish and well-situated. The 10th arrondissement is beautiful and very lively with a lot of nice cafés and shops. It is very central, we used the metro maybe 4 times in the 5 days we were there. You can walk to Marais or the Seine in around 30 minutes and can reach Montmartre in 25 minutes. There is also a metro station nearby. Thierry provided us with maps and books about Paris and was very nice. We could use the kitchen, which had almost everything you need in order to cook. We will surely try and get the same apartment again should we go to Paris again.\n+ Plus",
+            "name": "Vivienne",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "The host canceled this reservation 91 days before arrival. This is an automated posting.",
+            "name": "Michael",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "This was our second stint at Thierry's beautiful flat. He is a wonderful person. He lives in a great part of town. And his partner Ghali is a sweetheart, too. What's not to love about this place?! I highly recommend Thierry as a host and as a great friend.",
+            "name": "Martha",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Such a beautiful apartment. In a great and lively part of Paris. And Thierry and Gali couldn't be sweeter. I'm so happy we chose to stay here. I love hearing the children going to school in the morning, eating at so many amazing neighborhood cafes, and being 2 blocks from the #4 Metro line. So easy to go anywhere, including the airport. Thank you!",
+            "name": "Martha",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "Was easy to reach the appartment. Orly + Bus then Subway then walk 3 blocks. Appartment is beautifull. Clean. The kitchen looks brand new. Tyerry was waiting for us outside. That was nice. I used (SENSITIVE CONTENTS HIDDEN) maps to get there and (SENSITIVE CONTENTS HIDDEN) to stay in contact. We had a nice chat the first night. He got us a car to get to CDG the last morning. A lot of art in the appartment. Good Price, great Place. The subway will take you everywhere.",
+            "name": "Daniel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2016"
+        },
+        {
+            "text": "We had a wonderful time at Thierry's apartment. Thierry is an excellent host who makes your visit to Paris and your accommodation easy. His apartment is beautiful and exactly how it is in the picture. Thierry was very accomidating with us even leaving work early to manage our changing flight schedules. I would highly recommend Therry's if you want excellent accommodation in an easy to get to, central and lively part of Paris.",
+            "name": "Grant",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2016"
+        },
+        {
+            "text": "The reviews are true! Thierry is such a nice man. His style is impeccable and his apartment is adorable. We felt very comfortable and welcome in his home. He gave us metro passes, earplugs, slip on sandals, coupons for seeing French plays and numerous other things we could possibly need. The bed is really cozy; it got a bit hot at night sometimes but we kept the door to the room open to let air circulate and it was fine. The room is close to Thierry's (only separated by a door) but that was not an issue. The neighborhood was jam packed with cute places to eat at any time of day/night (hence a little noise at night but the earbuds did the trick) and it was so close to the metro.\n+ Plus",
+            "name": "Abigail",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2016"
+        },
+        {
+            "text": "The apartment is just as it looks in the pictures. A bright, clean, extremely well decorated apartment in a great part of town. Lots of cafes and restaurants around. Thierry even suggested a great restaurant for me to take my clients to. Overall a wonderful experience. I would definitely recommend it.",
+            "name": "Ezgi",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "The reviews are true! Thierry is a wonderful host, very generous and welcoming! His apartment is beautiful, clean and comfortable (great winter heating!) and is well located to public transport and lovely Parisian cafes and restaurants. The bed was very comfortable. Thierry's collection of art was also very impressive and although we felt like we were staying with a friend, we never felt in the way and could completely relax. Thank you Thierry for looking after us (especially as I was unwell!) and all the best for the future!",
+            "name": "Trina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2016"
+        },
+        {
+            "text": "Thierry has a beautiful apartment in a very cool area in Paris. There are lost of nice restaurants and bars in the area. My friend and I stayed there for 2 weeks and the apartment felt like home. The kitchen is very well equipped. Thierry is also a very friendly and kind host. I would definitely recommend this apartment!",
+            "name": "Hanne Sofie",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2015"
+        },
+        {
+            "text": "Apartments don't come more Parisian than this. Every room is true to pics in the site. It's beautiful and kitchen is well equipped. Art work is so interesting. Bedroom has classic Parisian balcony. Do wander through neighbourhood and find cafes and bars in the little laneways. Thierry was the perfect host. Met us at train station. Great. Gave us a lot of privacy yet made time to chat over a glass of wine. Offered help wherever possible above and beyond our expectations.",
+            "name": "Angelene",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2015"
+        },
+        {
+            "text": "Thierry was very communicative before and during our stay -- he made sure we had all the travel info we needed to navigate from the airport to his flat, gave some good advice for getting around the city during our stay and stayed in contact to make sure we were having a wonderful time (he was away on business during our stay)!",
+            "name": "Kelsey",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Thierry got in touch with us a week before we arrived to find out all the travel details and met us at Gard de Nord and walked us to his place which is just 10mins away. Lovely spacious and well decorated just as you see on the photos only better in real life with lovely balcony Windows. Thierry recommended places to go and told us to make ourselves at home. Thank you Thierry we really enjoyed your place and Paris.",
+            "name": "Isabella",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2015"
+        },
+        {
+            "text": "Thierry and his apartment were wonderful. Before our arrival, Thierry was in contact with us in order to arrange for a smooth arrival. We arrived at the Gare du Nord and Thierry met us and escorted us to his fabulously designed apartment. He was very helpful in giving us suggestions about where to go and what to see. Our room was an excellent size and comfort for the two of us. The apartment itself is beautiful, with interesting artwork displayed throughout. The location is in a very central area, with all of the major sights easily accessible. Overall, we had an excellent stay at Thierry's apartment.\n+ Plus",
+            "name": "Ben",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "septembre 2015"
+        },
+        {
+            "text": "Thierry is a very nice host!we live happily with him! And he has very good taste in art!hope to go Paris again!",
+            "name": "Hsin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Absolutely superb. We could not have asked for a better pad for our visit to Paris. We will be back :)",
+            "name": "Jared",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Thanks to Thierry’s friendliness, enthusiasm and helpfulness, this time we experienced Paris in a surprisingly different way. We discovered places we would never have visited without his suggestions. A beautiful memory, never to forget. During our short stay we could even taste the real Parisian life. We felt immediately at home in the beautiful decorated apartment and felt inspired by his passion for contemporary art and design. We had an amazing time. Thank you so much for having us, Thierry. We definitely will return very soon…\n+ Plus",
+            "name": "Filip",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Thierry met us at the station which was fantastic. His apartment is stunning and I felt welcome sharing his space. The apartment is in such a great location for the metro and food outside of the tourist trap. Thanks so much for having us and giving us a helping hand in Paris!",
+            "name": "Emily & Christian",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2015"
+        },
+        {
+            "text": "Thierry was a tremendous host, going over and above what we expected. He made refreshments available to us, he met us at Gare du Nord to travel with us back to the apartment, and he graciously answered many of our Paris-related questions! The apartment is beautiful and spotless, true to the photos. It is a 20 or so minute walk to central Paris (i.e. to the Seine), and the neighbourhood the apartment is in has many metro stops nearby that take you/connect you to all over Paris. Definitely recommend this apartment, especially since in the busy tourist months, this nice spot is a little off the beaten path so you can experience life more as a local.\n+ Plus",
+            "name": "Jacqueline",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Thierry is a fantastic host. He picked us up at the Gare de Paris Nord and walked us to his place. His flat is gorgeous and decorated with beautiful art. It's very conveniently located within walking distance of most attractions.",
+            "name": "Bruno",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "Thierry has a beautiful and spacious apartment in the 10th arrondissement. If you like art, you'll be very pleased. The kitchen is very well equipped and quite big for parisian standard. So is the bathroom which I really liked. Thierry is a true gentleman, even offered to pick me up at Gare du nord on my arrival. I would recommend this place without hesitation if it's in the neighborhood you are looking for.",
+            "name": "Isabel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2015"
+        },
+        {
+            "text": "gThierry is really kind host. and the place is really classic and awesome. location is good too. Thank you thieryy!",
+            "name": "Yeoleum",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "I felt very welcome from beginning to end of my stay with various gestures which made me feel like I was staying with a friend instead of being a renter. For example, Thierry went way out of his way - literally went across Paris - to pick up my suitcase when I arrived in Paris so I didn't have to haul it around with me on a side trip before moving in to his apartment a few days later. During my stay, he was very helpful with suggestions and answering questions. His apartment is beautiful and well decorated and very, very clean and organized. During my stay, he treated me out to dinner along with a friend which, again was completely unexpected and sincerely appreciated to have such a pleasant evening. On the day I left, he hauled my bag to the bus stop for me snd waited until I was on the bus on my way to the trsin statin to continue my trip.\n+ Plus",
+            "name": "Maria Cristina",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Thierry was a terrific host. He met us at the train station and walked us back to the apartment. He gave us a high level overview of the sites and locations we might want to visit and provided his first-hand recommendations and suggestions. Our room was very clean and well-appointed and had a lovely little balcony with big doors for fresh air and the sounds of Paris. His apartment was centrally located and very close to both train and metro stations. I would stay with Thierry again.",
+            "name": "Deirdre",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Thierry is he consummate host, he very kindly met us at Gare du Nord, showed us some places using his local knowledge and described how best to get around from his apartment. His apartment is absolutely lovely - a true Parisian style, very clean and wonderful to stay. His language skills are also at a top level. Thoroughly recommended - next time we stay on Paris we will stay with him for sure!!",
+            "name": "Kinga",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2015"
+        },
+        {
+            "text": "Thierry was excellent! He came and picked us up from the train station (that's a 15min walk away) with umbrellas as it was raining a bit. Thierrys place was a beautifully refurbished classical apartment that was full of heaps of funky artwork. Would definitely stay again!",
+            "name": "Brad",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "Thierry is a great host and he came to Gare du Nord station pick us home. The apartment is just as same as the picture, very bright and clean, it makes our journey really comfortable :) Thierry is a good owner that very kind to the foreign tourists and I highly recommended for everyone who want to experienced the traditional Paris' house.",
+            "name": "Daisy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2015"
+        },
+        {
+            "text": "The reservation was canceled 107 days before arrival. This is an automated posting.",
+            "name": "Meu",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Thierry was great - he even came and found us at the train station when we were lost. The apartment is comfortable, not far from the metro, wish we could have stayed longer!",
+            "name": "Derek",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "The best host we could have asked for, a true gentleman, courteous and charming--gallantly escorted us from the station to his lovely apartment on the first day, kindly recommended many wonderful places to visit in Paris, generously took his time to supply us with the best directions to the aforementioned places, and was always available for questions during our stay--above and beyond everything we could have asked for! Apartment was conveniently located next to a metro stop, and surrounding area with many wonderful cafes and shops, and overall area felt safe to walk around even late at night. Rooms were beautifully decorated, with real French character. Thank you dear Thierry for such a warm introduction to your beloved city. We will remember Paris in our hearts forever!\n+ Plus",
+            "name": "Sherry",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Thierry was very welcoming, he picked us up from the metro and took us right to the apartment. He gave us assistance on what to do and where to go, very helpful. The place was lovely, just like the photos and description. The apartment was close to a Metro and you could also walk into the city centre in 20mins.",
+            "name": "Ashleigh & Calum",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2015"
+        },
+        {
+            "text": "Thierry thank you for everything! We had a great time! I highly recommend this place! Its very clean, and its on great location.",
+            "name": "Dejana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "The reservation was canceled 22 days before arrival. This is an automated posting.",
+            "name": "Felipe Y Julia",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2015"
+        },
+        {
+            "text": "Thierry is a very polite host precise clean and pleasant. his house is really the top especially for someone like me who was there for work. the neighborhood convenient and central. the house is like from the photos indeed much more beautiful and welcoming, I will definitely return to Thierry whenever I'll move to Paris. is a bit 'noisy but I do not bother. advice",
+            "name": "Giacomo",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "thank you Thierry for the chance to stay in your place! we enjoyed it and appreciated your hospitality in your sophisicated designed flat. highly recommended for art lovers! some impressive art works you will find in Thierry´s flat, which are not shown on the pictures yet! (for those, who aren´t used to sleep beside ticking steam pipes: carry some ear plugs with you, if they aren´t part of your travel equipment anyway ;-) )",
+            "name": "Martin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "Thank you Thierry. I have never met such a caring and wonderful host. Thierry apartment is very stylish, with amazing design. I love this apartment and will definitely be back there again. Thierry was very caring about us, he offered to meet us at the station. Everything was perfect with him. 300% would recommend this apartment to all. cleanliness, taste, design, style, comfort and a great location.",
+            "name": "Maxim",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "We have had a great time at Thierry's place. The apartment looked exact the same as advertised. Comfortable and well equipped. On arrival ( we were a little late due traffic jam) Thierry was already waiting for us outside in front of the apartment. Very welcoming. Thierry was very helpful explaining the neighborhood en other area's of Paris. We loved the neighborhood also very much. Nice restaurants and hardly any tourists( what we love). Again we had the best time and for Thierry: Thank you very much! Hugo and Inge",
+            "name": "Inge(Borg)",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2015"
+        },
+        {
+            "text": "The location of the apartment is pretty good, very close to metro station and easy to get any sight seeing spot in paris. Thierry was very welcome and nice during the trip. He is a really friendly person, also he take care of the apartment very well. It's a good place to stay when you visit Paris.",
+            "name": "Anita",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2014"
+        },
+        {
+            "text": "Thierry was the best host possible, picking us up from the train station and walking us back to the apartment, just a short 10 minute walk! The apartment was absolutely stunning and in a perfect part of paris, me and my boyfriend walked to all of the classic sights and it was really perfect. Thierry was an amazing host and I would love to come back again!",
+            "name": "Felicity",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Thierry was a great host. Very friendly and helpful in directing us to things around Paris. His place is lovely, very elegantly decorated. The room is clean and spacious and you are able to access the kitchen and living areas. The location is very close to Gare du Nord. It is also very close to other sites. My girlfriend and I walked everywhere, from Thierry's place ( Eiffel tower, opera, scare Coeur, pantheon, louvre). Very much enjoyed our stay. We would recommend staying with Thierry if in Paris!",
+            "name": "Akshay",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "novembre 2014"
+        },
+        {
+            "text": "Thierry was the best host we could have ever hoped for. He met us at the railway station, took us back to the apartment and made us feel totally at home. At the end of our stay, he walked us back to the station and helped us with our luggage. The apartment is extremely clean and tidy and just as shown on the photos.Location is very good and so easy to get around Paris from. Metro is very near by. We could not recommend Thierry highly enough will definitely come and stay again if we get the opportunity. Thank you so much Thierry.",
+            "name": "Bronny",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "octobre 2014"
+        },
+        {
+            "text": "What I can say, we are very happy that we have selected this particular flat. The flat looks even better in reality than on the photos. It’s very bright, clean, romantic, very… Parisian. Located in famous ‘the Belly of Paris’ apartments sometimes looks even slightly unreal, like a dream, or scenery for good old French movie about vacation in Paris. Thierry, the owner of the host, is very open, friendly and welcome. I gladly recommend the flat to everyone who want to have unforgettable stay in the most beautiful city in the world.",
+            "name": "Denis",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "août 2014"
+        },
+        {
+            "text": "We had a very easy and comfortable stay at Thierrys place! He picked us up at the station and it was just a 10 minute walk from there to the flat. At all the flat is very good connected to all the spots of the city, you can reach all by walking (except from Tour Eiffel). Thierry gave us also a metro map and explained a lot to us, how to come around. The balcony was our favorite place at our stay, you can really enjoy Parisian flair there, having breakfast, lunch or dinner... Even if Thierry was at home, he left us the whole flat for our own and we could use everything as we needed. It was a really nice stay and we will remember it a very long time, thanks again!\n+ Plus",
+            "name": "Moritz",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Thierry is a really nice and courteous host. His flat is absolutely gorgeous and very neat. The furniture are unique and the balcony is perfect for a nice parisian breakfast. The flat is near the center and two minutes away from the metro station. We felt very comfortable and had a nice time. Thierry even picked us up at the metro station and showed us his home. He was always accessible and answered us every question. We had a very nice evening with him after a great football match with champagne that we will never forget! Thank you Thierry! We think that we will come back, Paris is always worth a trip!\n+ Plus",
+            "name": "Leah",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Thierry was a fantastic host, The room is as good if not even better than the photos, its a beautiful, stylish apartment, a true home in Paris Thierry went well and truly out of his way to make us feel at home, even coming to meet us at the train station to make sure we did not get lost, we will most definitely be heading back",
+            "name": "G",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juillet 2014"
+        },
+        {
+            "text": "Thierry has been a great host throughout: friendly, discreet and extremely clean. He picked us up at the subway station and has been extremely patient with my language limitations. I would have loved to have spoken better English so we coulld enjoy talking about wine and macarons. Maybe next time ... The flat is a real beauty. The furnishings are amazing and a they are in a fabulous shape, the distribution is perfect and he has anything that you may need at your disposal. The area is awesome. Very near the center and so close to the metro that allows you to move around easily and experience Paris properly. It was a very good experience. It has been a wonderful stay.\n+ Plus",
+            "name": "María Luisa",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "The reservation was canceled 22 days before arrival. This is an automated posting.",
+            "name": "Jennifer",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "A lovely apartment in the inner North of Paris - it is just like the pictures... really is very nice. Close to bikes and underground, plus loads of cafes, bars and restaurants. The neighborhood is on the more grungy side, but the immediate street is small and quieter. Thierry was very helpful and friendly, meeting us at the station and providing everything we needed.",
+            "name": "Mark",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "Thierry was a great host! Thierry met us at Gard Du Nord and made us feel very welcome! The apartment was beautiful and in a good location. We loved beautiful Paris .Thankyou!",
+            "name": "Tim",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "Привет всем! Прекрасная квартира в центре Парижа. Одновременно старинная и современная! Тьери замечательный хозяин, который сделал наше пребывание у него в гостях приятным и удобным. 2 шага от метро, есть все необходимое. Нереально чисто!!! Рекомендуем самостоятельным путешественникам!!! Спасибо, Тьери!! Перевод с русского языка на английский Hi, everybody! The beautiful apartment in the center of Paris. At the same time ancient and modern! Thierry is amazing owner who made our stay on a visit pleasant and convenient. 2 steps from the subway, there are all necessary. It is unreal purely! ! ! We recommend to independent travelers! ! ! Thanks, Thierry! !\n+ Plus",
+            "name": "Elena",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "Our host Thierry was genuine, friendly, helpful, made us feel very comfortable and he respected our space. He met us at the train station and he pointed out areas of interest. Thierry spoke English very well and we enjoyed our conversations. After a long flight we were happy to see a lift/elevator in the apartment building to transport our heavy luggage.The apartment was as beautiful as seen in the pictures. Thierry has great taste. The bedroom and bed were comfortable. We enjoyed having a glass of wine on the balcony. He had all the amenities needed. There is a grocery store just around the corner and we had full use of the kitchen. The neighborhood was lively and safe. The apartment is close to the Metro (subway) and train station giving easy access to all of Paris in short time. We are looking forward to going back and staying with our new found friend and explore more of the area. We would recommend Thierry's apartment to anyone.\n+ Plus",
+            "name": "Bernard",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "juin 2014"
+        },
+        {
+            "text": "Thierry and his place is awesome. The house is a art with vintage to the decoration. Thierry himself is very friendly and we exchange our culture and learnt a great deal. Thank you Thierry for your hospitality once again.",
+            "name": "Melvin",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2014"
+        },
+        {
+            "text": "It was an unforgettable trip, and Thierry made that possible. He is a perfect host and his house is indescribable, but i will try it, It makes you feel like home, it has a antique air but modern at the same time, it's really pretty. The house is next to two metro station but you can walk to the center too (as we did every day) and next to Gare du Nord and Gare l'Est. It has a couple of supermarkets next to it so you can buy some food and cooked it at home. Thierry is a very nice person that picked us up at the railstation and got us home, there he explained us all that we needed to know about Paris. I totally recommend it!!\n+ Plus",
+            "name": "Raquel",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2014"
+        },
+        {
+            "text": "My husband and I had a wonderful stay in Thierry's apartment during our short stay in Paris. He was very kind and helpful. He met us at the train station even though our train arrived very early on a weekday. The apartment is gorgeous as shown in the pictures. The location was great, not a super touristy area but still a lot to do and see there and close enough to touristy things. We would definitely stay here again and have already recommended it to friends!",
+            "name": "Stephany",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mai 2014"
+        },
+        {
+            "text": "The place is in great location, few minutes to metro station and when there - all Paris is accessible in a few moments. The flat itself is very clean and neat. It still has some authentic stuff like old style water tap and the most beautiful fireplace I've seen in paris (including Louvre and Versailles :)). Overall, it is very nice authentic place with modern improvements for top comfort. Thierry is a very nice guy talking very good English so can be asked for tips and hints. Great value for price!",
+            "name": "Domas",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2014"
+        },
+        {
+            "text": "We spent a nice vacation in Paris at Thierry's place. He was very helpful during our stay and picked us up at the train station on our arrival. The flat is very nice and clean, we absolutely can recommend it if you want to spend some days in paris. Thank you Thierry. Dennis & Johanna",
+            "name": "Dennis",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2014"
+        },
+        {
+            "text": "What a fantastic apartment! We had a brilliant time at Thierry's and used it as a base from which to explore the city. The area really suited us - vibrant, exciting and up-and-coming. It reminded us of Hackney or Brixton in London. Plus it was really close to the Gare du Nord - a bonus. Thierry was a fantastic host and provided us with really useful maps and invited us to help ourselves to drinks etc. We felt very welcome. I'd highly recommend staying here if you're visiting Paris.",
+            "name": "Becky",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2014"
+        },
+        {
+            "text": "A beautiful apartment in a central location, just as the photos illustrate. Close to shops and cafes yet it was quiet for sleeping. Thierry is very thoughtful and helpful. It was a shame we did not have the time to stay longer than the two nights.",
+            "name": "June",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "avril 2014"
+        },
+        {
+            "text": "Thanks to Thierry! It was really great spending time in Paris. The apartment is very close to the Northern Railway Station and the metro. It was so kind of Thierry to meet me at the station, provide me with maps and explain everything about Paris to me. I had a really great time. The apartment is very French style;) it's gorgeous. Gonna miss the place.",
+            "name": "Евгений",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2014"
+        },
+        {
+            "text": "Thierry is a great host. He picked us up at the train station and helped us a lot. His place is quite near to the metro station. There's a few of good restaurants nearby. You're in good hands if you stay with him.",
+            "name": "Erwan",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2014"
+        },
+        {
+            "text": "Thierry is a SUPERB host! He met us at the station and walked us to the apartment where he showed us around and gave us information about the metro and Paris as a a city. The apartment was incredibly beautiful and the Interior decoration is out of this world. I could have spent the whole holiday there with Thierry. It was incredible staying here and I shall be coming back again very soon!",
+            "name": "Zack",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2014"
+        },
+        {
+            "text": "Thierry is an extremely accommodating host and his apartment is beautifully decorated. It's about 7 mins walk away from the metro and the apartment is right above a busy nightlife area. All in all, the neighbourhood is pretty safe and location is pretty near some attractions. :)",
+            "name": "Shirley",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "mars 2014"
+        },
+        {
+            "text": "Thierry was a great host. He met me at the metro stop, showed me where everything was and made sure I had everything I needed. The apartment was very stylish and perfectly clean. The metro was very close which made it easy to get anywhere. Definitely recommend staying here!",
+            "name": "Emily",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2014"
+        },
+        {
+            "text": "I had a wonderful experience living in Paris and visiting the sights, thanks to Thierry. My new home away from home. Thierry was extremely helpful, courteous, and available. Forever grateful.",
+            "name": "Tracy",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "février 2014"
+        },
+        {
+            "text": "AMAZING APARTMENT! Thierry was a perfect host picking us up from the closest metro stop to his place. He even took time out of his Sunday afternoon to show us around his neighborhood. It's centrally located, being only one stop from chatelet/les Halles. The apartment is gorgeous in every way with a small balcony great for admiring the 10th arrondissement. I will stay here whenever I travel to paris from now on.",
+            "name": "Liana",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "janvier 2014"
+        },
+        {
+            "text": "The reservation was canceled 18 days before arrival. This is an automated posting.",
+            "name": "Dragon",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2013"
+        },
+        {
+            "text": "Superior in all aspects! Thierry took time off to greet us at the train station when we arrived, walked us to his apartment, showed us around and went back to work. He made us feel very welcome and even loaned us a map-book of Paris for our stay. His apartment is simply AMAZING. Not only is it spotless (I've never seen such a clean place!), it is decorated with impeccable taste: an elegant and soothing combination of old world charm and modern design with all the amenities . Comfortable bed in a nice room. Thierry even took care of closing the exterior shutters for us while we were out so when we came in late at night, we didn't have to worry about closing them ourselves. The apartment is on the 3rd floor (with elevator) , with a nice view of parisian roof tops, Note: windows are street-side, so bring earplugs if you are a light sleeper - Paris is a busy city! I only wish we could have stayed longer to fully take advantage of Thierry's hospitality and wonderful home. Un très grand merci, Thierry!\n+ Plus",
+            "name": "Paul",
+            "pos": [],
+            "lang": "english",
+            "neg": [],
+            "date": "décembre 2013"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 5.0,
+    "p_emplacement": "rate_me",
+    "averageRanking": 5.0,
+    "nbReviews": 92,
+    "communication": 5.0,
+    "p_precision": "rate_me",
+    "p_productTitle": "rate_me",
+    "p_qualite-prix": "rate_me",
+    "emplacement": 4.5,
+    "p_proprete": "rate_me",
+    "arrivee": 5.0,
+    "resume": "",
+    "p_communication": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_arrivee": "rate_me",
+    "id": 9,
+    "qualite-prix": 5.0
+}

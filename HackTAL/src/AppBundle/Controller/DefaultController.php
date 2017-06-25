@@ -361,6 +361,7 @@ class DefaultController extends Controller
                 }
                 $nbWords++;
             }
+
             $total1 = '';
             $nb1 = 0;
             $total2 = '';

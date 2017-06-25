@@ -16,7 +16,7 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         //séparation des comments
-        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/43.json';
+        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/49.json';
         $save = file_get_contents($path);
         $savedData = json_decode($save, true);
         $clean = new Regex();
@@ -285,19 +285,19 @@ class DefaultController extends Controller
             'vulgaire',
         ];
 
-        $j = 0;
-        for ($i = 0; $i < count($savedData['reviews']); $i++) {
-            if ($savedData['reviews'][$i]['lang'] == 'french') {
-                $dataFR[$j]['text'] = str_replace($prep, ' ', $savedData['reviews'][$i]['text']);
-                $dataFR[$j]['name'] = $savedData['reviews'][$i]['name'];
-                $dataFR[$j]['date'] = $savedData['reviews'][$i]['date'];
-                $j++;
+        $type = 0;
+        for ($word = 0; $word < count($savedData['reviews']); $word++) {
+            if ($savedData['reviews'][$word]['lang'] == 'french') {
+                $dataFR[$type]['text'] = str_replace($prep, ' ', $savedData['reviews'][$word]['text']);
+                $dataFR[$type]['name'] = $savedData['reviews'][$word]['name'];
+                $dataFR[$type]['date'] = $savedData['reviews'][$word]['date'];
+                $type++;
             }
-            if ($savedData['reviews'][$i]['lang'] == 'english') {
-                $dataEN[$j]['text'] = str_replace($prep, ' ', $savedData['reviews'][$i]['text']);
-                $dataEN[$j]['name'] = $savedData['reviews'][$i]['name'];
-                $dataEN[$j]['date'] = $savedData['reviews'][$i]['date'];
-                $j++;
+            if ($savedData['reviews'][$word]['lang'] == 'english') {
+                $dataEN[$type]['text'] = str_replace($prep, ' ', $savedData['reviews'][$word]['text']);
+                $dataEN[$type]['name'] = $savedData['reviews'][$word]['name'];
+                $dataEN[$type]['date'] = $savedData['reviews'][$word]['date'];
+                $type++;
             }
         }
 
@@ -310,19 +310,47 @@ class DefaultController extends Controller
             $keywords[] = preg_split("/[_]+|[\s,]+/", $pos->tag($value['text']));
         }
         $k = 0;
+        $nbWords = 0;
 
         foreach ($keywords as $values) {
+            for ($word = 0; $word <= count($values) - 1; $word = $word + 2) {
+                $type = $word + 1;
+                $array[$k][$nbWords][0] = $values[$type];
+                $array[$k][$nbWords][1] = $clean->grandNettoyage($values[$word]);
+                if ($values[$type] == 'ADJ' && in_array($values[$word], $negatif)) {
+                    $array[$k][$nbWords][2] = $values[$word];
+                    for ($l = 2; $l <= 4; $l = $l + 2) {
+                        if ($word == count($values) - 2) {
+                            $typeNext = $word + 1;
+                        } elseif ($word == count($values) - 4) {
+                            $typeNext = $word + 1;
+                        } else {
+                            $typeNext = $type + $l;
+                        }
+                        $typePrev = $type - $l;
+                        $wordPrev = $typePrev - 1;
+                        $wordNext = $typeNext - 1;
+                        if ($values[$typePrev] == 'N' || $values[$typePrev] == 'NC'
+                            || $values[$typePrev] == 'NPP' || $values[$typePrev] == 'VINF'
+                            || $values[$typePrev] == 'V'
+                        ) {
+                            $array[$k][$nbWords][2] = $values[$wordPrev] . ' ' .$array[$k][$nbWords][2];
+                        }
 
-            for ($i = 0; $i < count($values) - 1; $i = $i + 2) {
-                $j = $i + 1;
-                $array[$k][$clean->grandNettoyage($values[$i])] = $values[$j];
-                if ($values[$j] == "ADJ" AND in_array($values[$i],$negatif)) {
-                    var_dump($values[$i]);
-                    die();
+                        if ($values[$typeNext] == 'N' || $values[$typeNext] == 'NC'
+                            || $values[$typeNext] == 'NPP' || $values[$typeNext] == 'VINF'
+                            || $values[$typeNext] == 'V'
+                        ) {
+
+                            $array[$k][$nbWords][2] .= ' ' . $values[$wordNext];
+                        }
+                    }
                 }
+                $nbWords++;
             }
             $k++;
         }
+
 
         var_dump($array);
         die();

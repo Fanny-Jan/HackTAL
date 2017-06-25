@@ -16,7 +16,7 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         //séparation des comments
-        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/77.json';
+        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/testneg.json';
         $save = file_get_contents($path);
         $savedData = json_decode($save, true);
         $clean = new Regex();
@@ -163,7 +163,7 @@ class DefaultController extends Controller
             'degueux' => 1,
         ];
 
-        $negatifNom =[
+        $negatifNom = [
             'infiltration' => 1,
             'moisissure' => 1,
             'insecte' => 1,
@@ -173,7 +173,7 @@ class DefaultController extends Controller
             'fumeur' => 1,
             'odeur' => 1,
             'tabac' => 1,
-            'saleté' => 1,
+            'salete' => 1,
             'poussiere' => 1,
             'ordure' => 1,
             'fuite' => 1,
@@ -183,33 +183,41 @@ class DefaultController extends Controller
             'humidite' => 1,
             'insalubrite' => 1,
             'cheveux' => 1,
-            'poils' => 1,
-            'insalubrite' => 1,
-       ];
+            'poils' => 1
+        ];
 
         $adv = [
-            'absolument' => '',
-            'assez' => '',
-            'beaucoup' => '',
-            'completement' => '',
-            'extremement' => '',
-            'fort' => '',
-            'grandement' => '',
-            'moins' => '',
-            'passablement' => '',
-            'peu' => '',
-            'plus' => '',
-            'plutot' => '',
-            'presque' => '',
-            'quasi' => '',
-            'quasiment' => '',
-            'quelque' => '',
-            'tellement' => '',
-            'terriblement' => '',
-            'totalement' => '',
-            'tout' => '',
-            'tres' => '',
-            'trop' => ''
+            'absolument' => '2',
+            'assez' => '3',
+            'beaucoup' => '4',
+            'completement' => '2',
+            'extremement' => '2',
+            'fort' => '3',
+            'grandement' => '2',
+            'moins' => '2',
+            'passablement' => '4',
+            'peu' => '2',
+            'plus' => '4',
+            'plutot' => '2',
+            'presque' => '4',
+            'quasi' => '1',
+            'quasiment' => '2',
+            'quelque' => '2',
+            'tellement' => '1',
+            'terriblement' => '5',
+            'totalement' => '4',
+            'tout' => '4',
+            'tres' => '2',
+            'trop' => '3'
+        ];
+
+        $categories = [
+            1 => 'propreté',
+            2 => 'communication',
+            3 => 'emplacement',
+            4 => 'arrivée',
+            5 => 'qualité / prix',
+            6 => 'précision',
         ];
 
         $type = 0;
@@ -240,13 +248,14 @@ class DefaultController extends Controller
         $nbWords = 0;
 
         foreach ($keywords as $values) {
+            $nbCom = count($keywords);
             $m = 0;
             for ($word = 0; $word <= count($values) - 1; $word = $word + 2) {
                 $type = $word + 1;
                 $array[$k][$nbWords][0] = $values[$type];
                 $array[$k][$nbWords][1] = $clean->grandNettoyage($values[$word]);
 
-                if (array_key_exists($values[$word], $negatif) || in_array($values[$word], $negatifNom)) {
+                if (array_key_exists($values[$word], $negatif) || array_key_exists($values[$word], $negatifNom)) {
                     $array[$k][$nbWords][2] = $values[$word];
                     for ($l = 2; $l <= 4; $l = $l + 2) {
                         if ($word == count($values) - 2) {
@@ -275,12 +284,22 @@ class DefaultController extends Controller
 //                            $array[$k][$nbWords][2] .= ' ' . $values[$wordNext];
 //                        }
                     }
-                    $comNeg[$k][$m][0] = $array[$k][$nbWords][2];
+                    $comNeg[$k][$m]['tag'] = $array[$k][$nbWords][2];
                     if (isset($negatif[$values[$word]])) {
-                        $comNeg[$k][$m][1] = $negatif[$values[$word]];
+                        $comNeg[$k][$m]['cat'] = $negatif[$values[$word]];
                     } else {
-                        $comNeg[$k][$m][1] = $negatifNom[$values[$word]];
+                        $comNeg[$k][$m]['cat'] = $negatifNom[$values[$word]];
                     }
+
+                    $expl = explode(' ', $clean->grandNettoyage($comNeg[$k][$m]['tag']));
+                    $result = array_intersect($expl, $adv);
+
+                    if ($result != null) {
+                        $comNeg[$k][$m]['rating'] = intval($adv[current($result)]);
+                    } else {
+                        $comNeg[$k][$m]['rating'] = '3.5';
+                    }
+
 
                     $m++;
                 }
@@ -288,8 +307,11 @@ class DefaultController extends Controller
             }
             $k++;
         }
-        var_dump($comNeg);
-        die();
+
+        $nbNeg = count($comNeg);
+        $ratioCom = ($nbNeg / $nbCom);
+var_dump($comNeg);
+die();
         // replace this example code with whatever you need
         return $this->render('default/index.html.twig');
     }

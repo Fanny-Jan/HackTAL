@@ -1,0 +1,23 @@
+{
+    "precision": 4.5,
+    "reviews": [
+        {
+            "text": "La proximité (en plein centre de lyon) reste le plus gros avantage de cet appartement. Il est assez bien agencé et peu bruyant, nous avons bien dormi. Nous avons été bien reçues, draps propres, serviettes à disposition et gentillesse de la propriétaire surtout ! Malheureusement l'appartement était sale et surtout la cuisine (nous avons dû laver le micro-ondes pour pouvoir l'utiliser) et là salle de bain en mauvais état (siège de toilettes pas fixé, placard inutilisable (planches empilées)... Cela nous a suffit pour une nuit mais je n'aurais pas pu rester plus longtemps... Cependant l'appartement est fidèle à son prix ce qui reste une bonne solution pour des étudiants en court séjour comme nous !\n+ Plus",
+            "name": "Nolwen",
+            "pos": [],
+            "lang": "french",
+            "neg": [],
+            "date": "mars 2017"
+        }
+    ],
+    "productTitle": "rate_me",
+    "proprete": 4.0,
+    "averageRanking": 4.5,
+    "nbReviews": 18,
+    "communication": 5.0,
+    "emplacement": 5.0,
+    "arrivee": 4.5,
+    "resume": "",
+    "id": 32,
+    "qualite-prix": 4.5
+}

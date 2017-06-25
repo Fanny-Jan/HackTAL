@@ -16,7 +16,7 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         //séparation des comments
-        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/43.json';
+        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/77.json';
         $save = file_get_contents($path);
         $savedData = json_decode($save, true);
         $clean = new Regex();
@@ -103,11 +103,11 @@ class DefaultController extends Controller
             'renferme' => 1,
             'rigide' => 3,
             'ringard' => 3,
-            'sale'=> 1,
+            'sale' => 1,
             'sombre' => 3,
-            'superficiel'=> 1,
+            'superficiel' => 1,
             'approximatif' => 6,
-            'bof'=> 3,
+            'bof' => 3,
             'merdique' => 3,
             'minable' => 3,
             'moyen' => 3,
@@ -125,7 +125,7 @@ class DefaultController extends Controller
             'vulgaire' => 2,
             'delabre' => 3,
             'climatise' => 3,
-            'vieux' => 3,
+//            'vieux' => 3,
             'humide' => 3,
             'degoutant' => 1,
             'vetuste' => 3,
@@ -184,24 +184,48 @@ class DefaultController extends Controller
             'insalubrite' => 1,
             'cheveux' => 1,
             'poils' => 1,
+            'insalubrite' => 1,
+       ];
 
-
+        $adv = [
+            'absolument' => '',
+            'assez' => '',
+            'beaucoup' => '',
+            'completement' => '',
+            'extremement' => '',
+            'fort' => '',
+            'grandement' => '',
+            'moins' => '',
+            'passablement' => '',
+            'peu' => '',
+            'plus' => '',
+            'plutot' => '',
+            'presque' => '',
+            'quasi' => '',
+            'quasiment' => '',
+            'quelque' => '',
+            'tellement' => '',
+            'terriblement' => '',
+            'totalement' => '',
+            'tout' => '',
+            'tres' => '',
+            'trop' => ''
         ];
 
-        $j = 0;
-        for ($i = 0; $i < count($savedData['reviews']); $i++) {
-            if ($savedData['reviews'][$i]['lang'] == 'french') {
-                $dataFR[$j]['text'] = str_replace($prep, ' ', $savedData['reviews'][$i]['text']);
-                $dataFR[$j]['name'] = $savedData['reviews'][$i]['name'];
-                $dataFR[$j]['date'] = $savedData['reviews'][$i]['date'];
-                $j++;
+        $type = 0;
+        for ($word = 0; $word < count($savedData['reviews']); $word++) {
+            if ($savedData['reviews'][$word]['lang'] == 'french') {
+                $dataFR[$type]['text'] = str_replace($prep, ' ', $savedData['reviews'][$word]['text']);
+                $dataFR[$type]['name'] = $savedData['reviews'][$word]['name'];
+                $dataFR[$type]['date'] = $savedData['reviews'][$word]['date'];
+                $type++;
             }
-            if ($savedData['reviews'][$i]['lang'] == 'english') {
-                $dataEN[$j]['text'] = str_replace($prep, ' ', $savedData['reviews'][$i]['text']);
-                $dataEN[$j]['name'] = $savedData['reviews'][$i]['name'];
-                $dataEN[$j]['date'] = $savedData['reviews'][$i]['date'];
-                $j++;
-            }
+//            if ($savedData['reviews'][$word]['lang'] == 'english') {
+//                $dataEN[$type]['text'] = str_replace($prep, ' ', $savedData['reviews'][$word]['text']);
+//                $dataEN[$type]['name'] = $savedData['reviews'][$word]['name'];
+//                $dataEN[$type]['date'] = $savedData['reviews'][$word]['date'];
+//                $type++;
+//            }
         }
 
         $pos = new POSTagger();
@@ -213,24 +237,60 @@ class DefaultController extends Controller
             $keywords[] = preg_split("/[_]+|[\s,]+/", $pos->tag($value['text']));
         }
         $k = 0;
+        $nbWords = 0;
 
         foreach ($keywords as $values) {
+            $m = 0;
+            for ($word = 0; $word <= count($values) - 1; $word = $word + 2) {
+                $type = $word + 1;
+                $array[$k][$nbWords][0] = $values[$type];
+                $array[$k][$nbWords][1] = $clean->grandNettoyage($values[$word]);
 
-            for ($i = 0; $i < count($values) - 1; $i = $i + 2) {
-                $j = $i + 1;
-                $array[$k][$clean->grandNettoyage($values[$i])] = $values[$j];
+                if (array_key_exists($values[$word], $negatif) || in_array($values[$word], $negatifNom)) {
+                    $array[$k][$nbWords][2] = $values[$word];
+                    for ($l = 2; $l <= 4; $l = $l + 2) {
+                        if ($word == count($values) - 2) {
+                            $typeNext = $word + 1;
+                        } elseif ($word == count($values) - 4) {
+                            $typeNext = $word + 1;
+                        } else {
+                            $typeNext = $type + $l;
+                        }
+                        $typePrev = $type - $l;
+                        $wordPrev = $typePrev - 1;
+                        $wordNext = $typeNext - 1;
+                        // Analyse des mot précédent le tag
+                        if ($values[$typePrev] == 'N' || $values[$typePrev] == 'NC'
+                            || $values[$typePrev] == 'NPP' || $values[$typePrev] == 'VINF'
+                            || $values[$typePrev] == 'V' || $values[$typePrev] == 'ADV'
+                        ) {
+                            $array[$k][$nbWords][2] = $values[$wordPrev] . ' ' . $array[$k][$nbWords][2];
+                        }
 
+                        // Analyse des mots suivant le tag
+//                        if ($values[$typeNext] == 'N' || $values[$typeNext] == 'NC'
+//                            || $values[$typeNext] == 'NPP' || $values[$typeNext] == 'VINF'
+//                            || $values[$typeNext] == 'V' || $values[$typeNext] == 'ADV'
+//                        ) {
+//                            $array[$k][$nbWords][2] .= ' ' . $values[$wordNext];
+//                        }
+                    }
+                    $comNeg[$k][$m][0] = $array[$k][$nbWords][2];
+                    if (isset($negatif[$values[$word]])) {
+                        $comNeg[$k][$m][1] = $negatif[$values[$word]];
+                    } else {
+                        $comNeg[$k][$m][1] = $negatifNom[$values[$word]];
+                    }
 
-                if ($values[$j] == "ADJ" AND in_array($values[$i],$negatif)) {
-                    var_dump($values[$i]);
-                    die();
+                    $m++;
                 }
+                $nbWords++;
             }
             $k++;
         }
-
-        return $this->render('AppBundle::index.html.twig', [
-
-        ]);
+        var_dump($comNeg);
+        die();
+        // replace this example code with whatever you need
+        return $this->render('default/index.html.twig');
     }
 }

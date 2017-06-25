@@ -161,6 +161,7 @@ class DefaultController extends Controller
             'dangereux' => 3,
             'inutilisable' => 3,
             'bruyante' => 3,
+            'degueux' => 1,
         ];
 
         $negatifNom =[
@@ -169,8 +170,20 @@ class DefaultController extends Controller
             'insecte',
             'cafard',
             'hygiene',
-            'fume',
+            'fumee',
             'fumeur',
+            'odeur',
+            'tabac',
+            'saleté',
+            'poussiere',
+            'ordure',
+            'fuite',
+            'bruit',
+            'wifi',
+            'wi-fi',
+            'humidite',
+            'hygiene',
+            'insalubrite',
 
 
         ];

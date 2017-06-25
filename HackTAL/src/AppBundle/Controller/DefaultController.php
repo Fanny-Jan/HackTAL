@@ -16,7 +16,8 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         //séparation des comments
-        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/testneg.json';
+        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/75.json';
+
         $save = file_get_contents($path);
         $savedData = json_decode($save, true);
         $clean = new Regex();
@@ -44,35 +45,26 @@ class DefaultController extends Controller
         $negatif = [
             'accro' => 2,
             'accusateur' => 2,
-            'acerbe' => 2,
             'agressif' => 2,
-            'aigri' => 2,
             'amateur' => 2,
-            'amorphe' => 2,
             'angoisse' => 2,
-            'anxieux' => 2,
             'arrogant' => 2,
             'associable' => 2,
             'asocial' => 2,
             'assiste' => 2,
             'autoritaire' => 2,
             'avare' => 2,
-            'bagarreur' => 2,
             'baratineur' => 2,
             'bavard' => 2,
             'blase' => 2,
             'blessant' => 2,
             'borne' => 2,
-            'boudeur' => 2,
-            'brouillon' => 6,
             'brute' => 2,
             'bruyant' => 3,
             'cachottier' => 2,
             'calculateur' => 2,
             'capricieux' => 2,
-            'caracteriel' => 2,
             'caricatural' => 6,
-            'carrieriste' => 2,
             'cassant' => 2,
             'casse' => 2,
             'catastrophiste' => 1,
@@ -183,34 +175,90 @@ class DefaultController extends Controller
             'humidite' => 1,
             'insalubrite' => 1,
             'cheveux' => 1,
-            'poils' => 1
+            'poils' => 1,
+        ];
+
+        $positif = [
+            'lumineux' => 3,
+            'lumineuse' => 3,
+            'degagee' => 3,
+            'spacieux' => 3,
+            'spacieuse' => 3,
+            'eclaire' => 3,
+            'eclairee' => 3,
+            'agreable' => 3,
+            'confortable' => 3,
+            'pratique' => 3,
+            'impeccable' => 3,
+            'tranquille' => 3,
+            'calme' => 3,
+            'irreprochable' => 1,
+            'raffine' => 3,
+            'raffinee' => 3,
+            'ensoleille' => 3,
+            'illumine' => 3,
+            'radieux' => 3,
+            'grand' => 3,
+            'immense' => 3,
+            'doux' => 3,
+            'douce' => 3,
+            'clair' => 3,
+            'claire' => 3,
+            'conforme' => 6,
+            'accueillant' => 2,
+            'accueillante' => 2,
+            'serviable' => 2,
+            'arrangeant' => 2,
+            'incroyable' => 3,
+            'gentille' => 2,
+            'gentil' => 2,
+            'communicant' => 2,
+            'silencieux' => 3,
+            'silencieuse' => 3,
+            'disponible' => 2,
+            'parfait' => 3,
+            'fonctionnel' => 3,
+            'fonctionnelle' => 3,
+            'satisfaisant' => 3,
+            'aeree' => 3,
+            'aere' => 3,
+        ];
+
+        $double = [
+            'cher' => 5,
+            'chere' => 5,
+            'propre' => 1,
+            'agencee' => 3,
+            'agence' => 3,
+            'structure' => 3,
+            'structuree' => 3,
         ];
 
         $adv = [
-            'absolument' => '2',
-            'assez' => '3',
-            'beaucoup' => '4',
-            'completement' => '2',
-            'extremement' => '2',
-            'fort' => '3',
-            'grandement' => '2',
-            'moins' => '2',
-            'passablement' => '4',
-            'peu' => '2',
-            'plus' => '4',
-            'plutot' => '2',
-            'presque' => '4',
-            'quasi' => '1',
-            'quasiment' => '2',
-            'quelque' => '2',
-            'tellement' => '1',
-            'terriblement' => '5',
-            'totalement' => '4',
-            'tout' => '4',
-            'tres' => '2',
-            'trop' => '3'
+            'absolument' => 2,
+            'assez' => 4,
+            'beaucoup' => 3,
+            'completement' => 2,
+            'extremement' => 1,
+            'fort' => 3,
+            'fortement' => 2,
+            'grandement' => 2,
+            'moins' => 4,
+            'passablement' => 3,
+            'peu' => 3,
+            'plus' => 3,
+            'plutot' => 4,
+            'presque' => 4,
+            'quasi' => 4,
+            'quasiment' => 4,
+            'quelque' => 4,
+            'tellement' => 3,
+            'terriblement' => 2,
+            'totalement' => 2,
+            'tout' => 3,
+            'tres' => 3,
+            'trop' => 2
         ];
-
         $categories = [
             1 => 'propreté',
             2 => 'communication',
@@ -284,35 +332,201 @@ class DefaultController extends Controller
 //                            $array[$k][$nbWords][2] .= ' ' . $values[$wordNext];
 //                        }
                     }
-                    $comNeg[$k][$m]['tag'] = $array[$k][$nbWords][2];
+                    $comNeg[$k][$m]['tag'] = $clean->grandNettoyage($array[$k][$nbWords][2]);
                     if (isset($negatif[$values[$word]])) {
                         $comNeg[$k][$m]['cat'] = $negatif[$values[$word]];
                     } else {
                         $comNeg[$k][$m]['cat'] = $negatifNom[$values[$word]];
                     }
 
-                    $expl = explode(' ', $clean->grandNettoyage($comNeg[$k][$m]['tag']));
-                    $result = array_intersect($expl, $adv);
+                    $expl = explode(' ', $comNeg[$k][$m]['tag']);
+                    $result = array_intersect($expl, array_flip($adv));
 
                     if ($result != null) {
-                        $comNeg[$k][$m]['rating'] = intval($adv[current($result)]);
+                        $comNeg[$k][$m]['rating'] = floatval($adv[current($result)]);
                     } else {
-                        $comNeg[$k][$m]['rating'] = '3.5';
+                        $comNeg[$k][$m]['rating'] = 3.5;
                     }
+                    $comNeg[$k][$m]['name'] =
 
 
-                    $m++;
+                        $m++;
                 }
                 $nbWords++;
             }
+            $total1 = '';
+            $nb1 = 0;
+            $total2 = '';
+            $nb2 = 0;
+            $total3 = '';
+            $nb3 = 0;
+            $total4 = '';
+            $nb4 = 0;
+            $total5 = '';
+            $nb5 = 0;
+            $total6 = '';
+            $nb6 = 0;
+
+            for ($o = 0; $o <= count($comNeg[$k]); $o++) {
+                if ($comNeg[$k][$o]['cat'] == 1) {
+                    $total1 += floatval($comNeg[$k][$o]['rating']);
+                    $nb1++;
+                } elseif ($comNeg[$k][$o]['cat'] == 2) {
+                    $total2 += floatval($comNeg[$k][$o]['rating']);
+                    $nb2++;
+                } elseif ($comNeg[$k][$o]['cat'] == 3) {
+                    $total3 += floatval($comNeg[$k][$o]['rating']);
+                    $nb3++;
+                } elseif ($comNeg[$k][$o]['cat'] == 4) {
+                    $total4 += floatval($comNeg[$k][$o]['rating']);
+                    $nb4++;
+                } elseif ($comNeg[$k][$o]['cat'] == 5) {
+                    $total5 += floatval($comNeg[$k][$o]['rating']);
+                    $nb5++;
+                } elseif ($comNeg[$k][$o]['cat'] == 6) {
+                    $total6 += floatval($comNeg[$k][$o]['rating']);
+                    $nb6++;
+                }
+            }
+            if ($total1 != 0) {
+                $total1 = $total1 / $nb1;
+            } else {
+                $total1 = '5';
+            };
+            if ($total2 != 0) {
+                $total2 = $total2 / $nb2;
+            } else {
+                $total2 = '5';
+            };
+            if ($total3 != 0) {
+                $total3 = $total3 / $nb3;
+            } else {
+                $total3 = '5';
+            };
+            if ($total4 != 0) {
+                $total4 = $total4 / $nb4;
+            } else {
+                $total4 = '5';
+            };
+            if ($total5 != 0) {
+                $total5 = $total5 / $nb5;
+            } else {
+                $total5 = '5';
+            };
+            if ($total6 != 0) {
+                $total6 = $total6 / $nb6;
+            } else {
+                $total6 = '5';
+            };
+
+            $tag = '';
+            if (isset($comNeg[$k])) {
+                for ($p = 0; $p <= count($comNeg[$k]); $p++) {
+                    $tag .= $comNeg[$k][$p]['tag'] . ',';
+                }
+            }
+            $penality = 0;
+            if (count($comNeg[$k]) >= 4) {
+                $penality = 0.5;
+            }
+
+            $p1 = $p2 = $p3 = $p4 = $p5 = $p6 = 0;
+            if ($nb1 >= 2 AND $nb1 < 4) {
+                $p1 = 0.5;
+            } elseif ($nb1 >= 4 AND $nb1 < 6) {
+                $p1 = 1.0;
+            } elseif ($nb1 >= 6) {
+                $total1 = 0;
+            }
+
+            if ($nb2 >= 2 AND $nb2 < 4) {
+                $p2 = 0.5;
+            } elseif ($nb2 >= 4 AND $nb2 < 6) {
+                $p2 = 1.0;
+            } elseif ($nb2 >= 6) {
+                $total2 = 0;
+            }
+            if ($nb3 >= 2 AND $nb3 < 4) {
+                $p3 = 0.5;
+            } elseif ($nb3 >= 4 AND $nb3 < 6) {
+                $p3 = 1.0;
+            } elseif ($nb3 >= 6) {
+                $total3 = 0;
+            }
+            if ($nb4 >= 2 AND $nb4 < 4) {
+                $p4 = 0.5;
+            } elseif ($nb4 >= 4 AND $nb4 < 6) {
+                $p4 = 1.0;
+            } elseif ($nb4 >= 6) {
+                $total4 = 4;
+            }
+            if ($nb5 >= 2 AND $nb5 < 4) {
+                $p5 = 0.5;
+            } elseif ($nb5 >= 4 AND $nb5 < 6) {
+                $p5 = 1.0;
+            } elseif ($nb5 >= 6) {
+                $total5 = 0;
+            }
+            if ($nb6 >= 2 AND $nb6 < 4) {
+                $p6 = 0.5;
+            } elseif ($nb6 >= 4 AND $nb6 < 6) {
+                $p6 = 1.0;
+            } elseif ($nb6 >= 6) {
+                $total6 = 0;
+            }
+
+            $recap[$k] = [
+                'name' => $dataFR[$k]['name'],
+                'tag' => trim($tag,','),
+                1 => $total1 - $p1 - $penality,
+                2 => $total2 - $p2 - $penality,
+                3 => $total3 - $p3 - $penality,
+                4 => $total4 - $p4 - $penality,
+                5 => $total5 - $p5 - $penality,
+                6 => $total6 - $p6 - $penality,
+                'penality' => $penality,
+                'p1' => $p1,
+                'p2' => $p2,
+                'p3' => $p3,
+                'p4' => $p4,
+                'p5' => $p5,
+                'p6' => $p6,
+            ];
             $k++;
         }
 
+
+        $tot1 = 0;
+        $tot2 = 0;
+        $tot3 = 0;
+        $tot4 = 0;
+        $tot5 = 0;
+        $tot6 = 0;
+        for ($q = 0; $q < count($recap); $q++) {
+            $tot1 += $recap[$q][1];
+            $tot2 += $recap[$q][2];
+            $tot3 += $recap[$q][3];
+            $tot4 += $recap[$q][4];
+            $tot5 += $recap[$q][5];
+            $tot6 += $recap[$q][6];
+            $totaux = [
+                1 => $tot1 / count($recap),
+                2 => $tot2 / count($recap),
+                3 => $tot3 / count($recap),
+                4 => $tot4 / count($recap),
+                5 => $tot5 / count($recap),
+                6 => $tot6 / count($recap)
+            ];
+        }
+        var_dump($recap);
+        die();
+
         $nbNeg = count($comNeg);
         $ratioCom = ($nbNeg / $nbCom);
-var_dump($comNeg);
-die();
+        var_dump($comNeg);
+        die();
+
         // replace this example code with whatever you need
-        return $this->render('default/index.html.twig');
+        return $this->render('AppBundle::index.html.twig', ['comNeg' => $comNeg,]);
     }
 }

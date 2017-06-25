@@ -77,7 +77,7 @@ class DefaultController extends Controller
             $k++;
         }
 
-        var_dump($array);
+        var_dump($keywords);
         die();
         // replace this example code with whatever you need
         return $this->render('default/index.html.twig');

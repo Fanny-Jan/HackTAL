@@ -1,0 +1,2520 @@
+{
+    "productTitle": "rate_me",
+    "p_precision": "rate_me",
+    "nbReviews": 344,
+    "p_proprete": "rate_me",
+    "resume": "",
+    "p_arrivee": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_productTitle": "rate_me",
+    "reviews": [
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Isabelle",
+            "neg": [],
+            "text": "Appartement très agréable à la superbe décoration",
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Arnaud",
+            "neg": [],
+            "text": "Merci beaucoup Isabelle et au plaisir de vous héberger de nouveau.",
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Hayra",
+            "neg": [],
+            "text": "Un très bel et grand appartement dans un super quartier de Paris!",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Flo",
+            "neg": [],
+            "text": "Merci beaucoup Catherine et ravi que l'appartement vous ait beaucoup plu. Bien à vous. Bruno",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Tony",
+            "neg": [],
+            "text": "Merci beaucoup pour votre séjour et votre gentillesse. Bien à vous. Bruno",
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Control",
+            "neg": [],
+            "text": "Très bel appartement et accueil royal ! Merci Bruno",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Schwab",
+            "neg": [],
+            "text": "Merci beaucoup Pierre, c'est super sympa. Bien à vous. Bruno",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Maxime",
+            "neg": [],
+            "text": "L'appartement est vraiment superbe , soigné et fonctionnel. Nous sommes venus à 5 et nous avons passé un très bon moment. Le quartier est très sympa aussi. Merci encore à Bruno pour sa gentillesse.",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Jp",
+            "neg": [],
+            "text": "Merci beaucoup de ce commentaire et ravi que l'appartement vous ait beaucoup plus. Bruno",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Ludo",
+            "neg": [],
+            "text": "Un excellent accueil dans un magnifique appartement décoré avec goût. Bruno nous a reçu avec beaucoup de gentillesse Je recommande vraiment ce bel appartement qui est encore mieux en vrai qu'en photo. Un grand merci ! On y retournera",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Edith",
+            "neg": [],
+            "text": "Merci beaucoup Maxime ! C'est très gentil à vous. Au plaisir de vous accueillir de nouveau. Bruno",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Gaelle",
+            "neg": [],
+            "text": "Bruno est réellement très agréable et aux petits soins pour ses hôtes. Le petit déjeuner était prêt, ainsi que de nombreux petits détails, brosses a dents neuves. Brosse a cheveux neuve et j'en passe. Vrai petit boudoir très charmant !",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Valerie",
+            "neg": [],
+            "text": "Accueuil par un café et disponibilité de Bruno",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Sacha",
+            "neg": [],
+            "text": "Superbe appartement et très bon accueil de notre hôte. Merci pour tout. Je recommande ce lieu.",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Emmanuel",
+            "neg": [],
+            "text": "Merci beaucoup Sacha. Au plaisir de vous accueillir de nouveau.",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Simon",
+            "neg": [],
+            "text": "Très bon accueil dans cet appartement exquis",
+            "date": "mars 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Anne-Sophie",
+            "neg": [],
+            "text": "Merci beaucoup Emmanuel. Au plaisir de vous accueillir de nouveau. Bien à vous. Bruno",
+            "date": "mars 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Anne Sophie",
+            "neg": [],
+            "text": "Avec plaisir ! Merci encore pour le concert, c'était génial !!!",
+            "date": "février 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Edouard",
+            "neg": [],
+            "text": "Séjour Exquis ! Un accueil très amical et une disponibilité très agréable. Le lieu est aussi sympa qu'on se l'imagine, le plaisir du calme, du confort, et de l'ambiance cosy en plus. Proche du centre, du Metro, du quartier vivant d'Oberkampf... A choisir ou recommander sans aucun doute !",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Christophe",
+            "neg": [],
+            "text": "Merci beaucoup Edouard. C'est très sympa. Au plaisir de vous accueillir de nouveau. Bruno",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Olivier",
+            "neg": [],
+            "text": "Merci beaucoup Christophe, c'est très gentil à vous ! A bientôt. Bruno",
+            "date": "décembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Boldron",
+            "neg": [],
+            "text": "Très bel appartement fonctionnel et convivial. Même à cinq chacun trouve sa place. La décoration est soignée, peut être un manque de lumière pour la lecture. Je recommanderai la maison 122 a ma famille et mes amis.",
+            "date": "novembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Martin",
+            "neg": [],
+            "text": "Merci pour ce commentaire et heureux de voir que l'appartement vous a beaucoup plu. Nous avons prévu de changer les ampoules, plus puissantes, pour effectivement apporter plus de lumière pour la lecture. Ce sera fait d'ici la fin de la semaine.",
+            "date": "novembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "David",
+            "neg": [],
+            "text": "tout a fait conforme à la description, appartement remarquablement entretenu et charmant, meublé avec gout et en harmonie, fonctionnel et adapté à un séjour de caractère.. Et de plus, l'hôte est très accueillant, prévenant et d'une rare disponibilité.. Adresse exquise... Olivier",
+            "date": "octobre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Antoine",
+            "neg": [],
+            "text": "Merci à vous Marina et Irina. C'était un plaisir de vous avoir à l'appartement. Bruno",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Marielle",
+            "neg": [],
+            "text": "Un appartement et un hôte très agréable. A découvrir absolument",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Aurelie-Anne",
+            "neg": [],
+            "text": "Merci beaucoup Anthony. C'est très gentil à vous !",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Lola",
+            "neg": [],
+            "text": "Très beau séjour dans un appartement très bien situé et securitaire",
+            "date": "octobre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Liane",
+            "neg": [],
+            "text": "Cinq amies pour un séjour d'une nuit! Expérience parfaite : très bon accueil, appartement décoré avec soin et avec goût...chaque petit détail est harmonieusement bien pensé. Lits très confortables, très bonne asonorisation. La situation est top! Nous avons adoré!!!",
+            "date": "octobre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Jurij",
+            "neg": [],
+            "text": "Merci à vous et au plaisir de vous héberger une prochaine fois. Bruno",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "(EMAIL HIDDEN)",
+            "neg": [],
+            "text": "It was a very pleasant stay. we enjoyed a lot. great area and very well furnished apartment with everything you need.",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rohit",
+            "neg": [],
+            "text": "Thank you very much Jurij for these kind words. All the best. Bruno",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jessica",
+            "neg": [],
+            "text": "This was a delightful experience. Bruno was warm and charming, and had provided a welcome pack including nibbles and a bottle of wine. The apartment was clean and warm, it's style is arty and eclectic with a bias toward the oriental. There was a comfortable sofa, good kitchen and balcony over a lively avenue. The lift fits snugly into the spiral staircase. There are excellent local restaurants, and Bruno will recommend something to suit your taste. We loved L'Autre. The apartment is within walking distance of Pere Lachaise and Notre Dame, with nearby metro stations. It was so much nicer (and better value) than staying in a hotel. Thank you Bruno.",
+            "date": "décembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "John",
+            "neg": [],
+            "text": "That's a very lovely review, Lynne. Thank you so much. All the best and happy New Yeat to you and your family ! Bruno",
+            "date": "décembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Charmaine",
+            "neg": [],
+            "text": "Nice flat in a quiet location in Paris.",
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Simone",
+            "neg": [],
+            "text": "I confess that I traveled to many places using airbnb. I rented many apartments throughout Europe and South America, but Bruno's house is really beautiful, clean, comfortable and sophisticated. First of all I would like to thank the hospitality, say how much Bruno is friendly and personable. I felt very comfortable. Your flat is uniquely decorated! Everything is beautiful, everything is clean, everything is sophisticated. Highly recommended.",
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sarah",
+            "neg": [],
+            "text": "A beautiful apartment in a great location , bike hire in the street below and lots of good local places to eat .",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Adam",
+            "neg": [],
+            "text": "Thanks a lot Sarah and happy to see that you enjoy very much the flat nd the area. All the best to you and your family. Bruno",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lily",
+            "neg": [],
+            "text": "Bruno and his family are great hosts and we had a fantastic stay. The apartment was a great choice for our family of three.",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Theo",
+            "neg": [],
+            "text": "Bruno's appartment is breathtakingly beautiful. Typical French Boudoir style with orient touch. It locates on the 5th floor of an Haussmann building with a lovely balcony with view. It absolutely a dream place to stay for unltimate Paris experience.",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Marcus",
+            "neg": [],
+            "text": "Good to see that you had such a great stay and many thanks for this very nice review. All the best. Bruno",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Paul",
+            "neg": [],
+            "text": "What an incredibly interesting apartment. Tastefully decorated in true Paris style. We had drinks, snacks and breakfast on the balcony on the 4th floor. We had a wonderful time with our family and Bruno is was a real friendly and helpful host.",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sabrina",
+            "neg": [],
+            "text": "It was a beautifully decorated apartment in a very central location and many restaurants close by. The best part was our host Bruno who was so accommodating and allow us to store our luggages before checkin n after check out so that we can maximize our time in paris. He is a super host and even brought bread for us in the morning. We all loved Bruno collection of homewares n took lots of nice pictures while we stay there. Thank you so much Bruno and would highly recommend this place to others.",
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Misha",
+            "neg": [],
+            "text": "Thank you so much Sabrina and good to see that you had such a great stay. All the best to you and your lovely group. Bruno",
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Amalia",
+            "neg": [],
+            "text": "Bruno is great host.Flat looks much bigger on the pictures.But we had pleasant stay.Thank You again.",
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sharon",
+            "neg": [],
+            "text": "You're welcome Misha and thanks again for staying at the flat. All the best. Bruno",
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jane",
+            "neg": [],
+            "text": "Bruno and family made the stay very easy and pleasant. He was attentive as a host but not smothering at all. All around this was a wonderful place to stay on our fantastic trip to Paris!",
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kelly",
+            "neg": [],
+            "text": "Oh, thank you so much Amalia ! All the best. Bruno",
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Vanessa",
+            "neg": [],
+            "text": "What a gorgeous little place! Perfect for our stay and very very chic. Fantastic location too. We couldn't have asked for nicer, more accommodating hosts, Vanessa and Bruno thank you for everything!",
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "W Ilto N",
+            "neg": [],
+            "text": "The weekend from 10th till 12th February 2017, we stayed at Bruno’s place. We received the code for the door at the street and the second door by email. After the second door on the groundfloor, we could use an elevater to the fifth floor. Bruno lives at the right side, the appartment is on the left side. There are no other appartments on the fith floor. On the table, Bruno had given an information folder about shops, restaurants and metro/bus. You can also use citybikes, located in front of the appartment. The appartment was exactly as it was presented on internet. The only point to improve is the opportunity to see other tv-channels. Now, only French channels. In a scale of 1 to 10, I would give 9,5 to the appartment. The street Avenue Parmentier is a perfect start to visit Paris. There are four metrostations within 10 minutes walking. The bus stops in front of the door and available taxis are passing by all the time. All together, we had a great stay. I can recommend Bruno and the appartment highly.",
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Yu",
+            "neg": [],
+            "text": "Thank you so much, Wilton, for such a great review. All the best to you. Bruno",
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Farid",
+            "neg": [],
+            "text": "Convenient location, warm-hearted and friendly host, everything is easy, nice and comfortable!",
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Safa",
+            "neg": [],
+            "text": "Thank you so much. It is very kind of you. All the best. Bruno",
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Emma",
+            "neg": [],
+            "text": "Bruno is a lovely host very useful, patient and available! Double up thumps!",
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Debbie",
+            "neg": [],
+            "text": "Bruno was an amazing host who made us feel welcome. We had a difficult time booking our flat but he went through great extent to help us and we all appreciate his help!",
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alex",
+            "neg": [],
+            "text": "Bruno's place looks exactly as it is in the photos, and they were the reason we chose the apartment, so I was very pleased. Bruno is a fantastic host, who went above and beyond to make sure our stay was special. The flat is in a great location, and we were delighted with the wine on arrival and I even was given a birthday present - really kind and thoughtful. This weekend was really special thanks to Bruno and this beautifully designed comfortable yet stylish flat. Will definitely hope to return.",
+            "date": "janvier 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Laura",
+            "neg": [],
+            "text": "Bruno is a wonderful host. We stayed for a week over Christmas with our two children (age 9 and 11). There was plenty of room for us all. The apartment looks just like the pictures. The neighborhood has many restaurants nearby and a grocery store across the street. Great place overall!",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Trung",
+            "neg": [],
+            "text": "Thank you so much Laura. It was a pleasure to host you and your family for Christmas time. All the best. Bruno",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Hendra",
+            "neg": [],
+            "text": "We are a group of friends with interests in arts, especially paintings. One of us is a professional painter. We are impressed with Bruno's beautiful home. The unit is as described. It's centrally located. In fact I walked to most od places of interests but i am a fit and fast walker. Bruno is very hospitable and arranged a warm breakfast for us on the day that we arrived (morning) and allowed us to leave our luggage before check-in and after check-out (he lives just next door). What impressed us is also Bruno's love for arts. His home is full of beautiful objects. We all have exhanged contacts with Bruno to keep in touch with him in the future. My professional artist friend already wants to stay in Bruno's unit for one or two months in the future. Recommend anyone who wants to see Paris. If you're into arts, you have to stay here. You will come away not just with Paris experience but also with another interesting contact/friend/acquaintance.",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Soohan",
+            "neg": [],
+            "text": "Thanks a lot Trung ! It was a true pleasure to host such a lovely crowd. You are all very nice people. All the best. Bruno",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Katrin",
+            "neg": [],
+            "text": "Bruno is a model of a perfect host. He has been really helpful prior our arrival until right before we leave Paris where he woke up 4 in the morning and helped to lift our luggages in the frozen winter time. The house itself was a beautiful Parisien design which is not for the minimalist modern seeker, but it is where we took incredible pictures just inside the house. Bruno provided all amenities we needed and more, such as a bottle of juice, milk and water to welcome us plus some other snacks, nice thought indeed! And in his apartment you can find all information you need, and I mean ALL informations from subway, restaurant, and anything you cannot find Bruno would help to find out immediately. Paris city was extraordinarily beautiful, but it is Brunos place that make our stay in Paris perfect. Absolutely recommended for anyone who looks for a perfect place to stay with a perfect host. Excellent!!",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Erica",
+            "neg": [],
+            "text": "Thank you so much Hendra for such a lovely review and happy to see that you were able to take great pictures in the flat. All the best to you and your family. Bruno",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Joily",
+            "neg": [],
+            "text": "Bruno's flat was perfect for our paris trip. His flat's location is very comfortable and all room's are clean. Thank's for bruno, best host at paris oberkampf.",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Christopher",
+            "neg": [],
+            "text": "This is an absolutely beautiful and unique flat that will bring a huge smile to your face when you see it. The decor is very stylish and one of a kind (as you can see from the host's photos). It made my first ever Paris trip with my family truly special and memorable. The flat is large, convenient (with multiple metro stops nearby), close to groceries, bakeries, and restaurants. Location is a non-tourist neighborhood where you can eat and shop where locals do. Everyone is so friendly and patient. I only know a handful of French words and I had no problems buying bread, shopping at a nearby deli, and ordering at restaurants. What a wonderful experience. Bruno is a wonderful host and will make sure that you are comfortable with the flat before and during your stay. You can't miss on this one.",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jennifer",
+            "neg": [],
+            "text": "Thank you so much Christopher for this wonderful review and very happy to see that you and your family had such a great stay in Paris for your first time in the city. All the best. Bruno",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Amber",
+            "neg": [],
+            "text": "Bruno was incredibly welcoming, and I appreciate that he met us before the check-in time to store our luggage in his own flat. He let us choose from his array of travel guides/books and provided us with plenty of local eats and things to see. The apartment is very close to main bus and metro stations, so getting to the main sites was very easy and convenient. Thank you to Bruno for a great start to our Europe trip!",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tanya",
+            "neg": [],
+            "text": "Thanks a lot Jennifer. It was a true pleasure to host you and your family. All the best. Bruno",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jocelyn",
+            "neg": [],
+            "text": "Bruno is so kind and warm. We have three nice days in this beautiful flat. Highly recommend!",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Amanda",
+            "neg": [],
+            "text": "Thank you so much amber and thanks for recommending the flat. All the best. Bruno",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jennifer",
+            "neg": [],
+            "text": "Everything was spectacular, view, interior temperature, elevator, location, good water pressure, Wifi was dependably on what room you were in. communication, interiors and design were the most lovely I have ever seen. Quiet, Bruno lives across the hall And we had complete privacy or if we needed anything he was just a few feet away.",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kristof",
+            "neg": [],
+            "text": "We had a great time in Paris with the kids. Bruno was a great host. Everything in the apartment was as decribed. Very nice neigbourhood, a lot of restaurants, easy access to public transport. We certainly recommend this place!",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Katherine",
+            "neg": [],
+            "text": "Thank you so much Kristof for such a nice review. All the best. Bruno",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Megan",
+            "neg": [],
+            "text": "We (five of us) had a wonderful stay in Bruno's apartment. The beds, including the sofa bed, were comfy, and the amenities plenty (hairdryer, towels, everything you need for hosting a dinner, lots of literature about Paris, etc). It is located on the fifth floor, but easily accessible by the small lift, and in a nice part of town, sandwiched between two metros, opposite a supermarket, and close to a bakery and restaurants. The decor is the cherry on top. The place must be used for modelling shoots, it is stunning in its gothic style. At the heart of this review though I really want to thank Bruno for how great he was as a host. Communication was first rate, and we were welcomed with milk and juice and something for breakfast - travelling with my grandmother she really appreciated being able to make a cup of tea as soon as she got in! And he was so kind looking after our luggage while we explored the day of check out. It was a very short visit and his hospitality made all the difference so that we didn't have to waste a second. I have no hesitation in recommending this apartment for a memorable stay in Paris.",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Regina Eva",
+            "neg": [],
+            "text": "This is very kind of you for such a nice review, Katherine. All the best. Bruno",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rowena",
+            "neg": [],
+            "text": "Very nice host, great flat. The location is a short metro ride to everything Paris, but far enough from the tourist area to get a real Paris feel. Great restaurants within walking distance. Highly recommend, this is a great value.",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Bethan",
+            "neg": [],
+            "text": "The communication with bruno was easy, fast and very obliging. The flat is perfectly located and you have everything there, you could need for a perfekt stay. (Essentials in the kitchen, umbrella if it´s rainy, a comfortable sofa if you need a rest in-between your excursions, supermarket and bars downstairs, a lift, a drawer with tourist-informations etc.) Everything is like you can see it in the pictures. Bruno is a very kind and pleasant person who really tried to make our stay as comfortable as possible. He was very helpful and as he could not be there, when we checked out, his sister was a wonderful host too. I was there with my husband and two kids and we all loved this place. Just one information might help. The beds are not too long, so if you are very tall, you might find long covers but your feed overlap. But the flat might be worth it :-)",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rich",
+            "neg": [],
+            "text": "Thank you so much. It was a pleasure to host you and your lovely family. All the best. Bruno",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lucia",
+            "neg": [],
+            "text": "Loved our time in Paris mostly because of this wonderful space! Bruno was SO helpful and thoughtful before and during our stay there! The apt is everything the pictures show- stylish, comfortable, chic! He was so kind to welcome us with wine and juice and other refreshments.. the beds were delightful and he had a ton of pillow options! He was so accommodating with a whole booklet of how to get around, where to eat, and more and even called us taxis for our departure... I would most definitely stay here again! It was convenient and quaint and comfortable with an amazing host! Thank you!!",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Catherine",
+            "neg": [],
+            "text": "Oh, this is very kind of you Lucia. All the best to all of you. Bruno",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Dana",
+            "neg": [],
+            "text": "\"Superb\" is the best description for this appartment. It is a big, spacious apartment in the heart of Paris - yet peaceful and quiet inside despite being in a vibey area... perfect to make your base. The rooms were beautifully decorated and we were so sorry we only had one night there. Bruno was a fantastic host who communicated quickly and effectively and he and his family even stored our bags and allowed us into their home to change for our flight many hours after we had checked out. I strongly recommend this to anyone looking for a great place to stay in Paris.",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Eve",
+            "neg": [],
+            "text": "Thanks a lot, Catherine. It was a true pleasure to host you and your family. All the best. Bruno",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sarah",
+            "neg": [],
+            "text": "Bruno was absolutely amazing from the start. The flat is everything we had hoped for and more. The beds were super comfy and the neighborhood is quiet during the evening hours. Bruno was also sweet enough to bring us breakfast one morning. This was my first Airbnb stay and it won't be my last. Thank you Bruno for setting my standards high!",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jason",
+            "neg": [],
+            "text": "Thank you so much Dana and good to see that you loved your first Airbnb experience. All the best to you and your family. Bruno",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kimberly",
+            "neg": [],
+            "text": "I traveled with my husband and three children to this lovely Paris apartment. It was our first visit to this city. The apartment was well situated for our needs. It was located close to the Metro station and within walking distance of many great shops and restaurants. This apartment seemed very distant from the crowds of tourists (a good thing). Many of the people on the streets appeared to be locals heading to and from work. The accommodations were comfortable and met all of our needs. There were plenty of towels and bedding, spare toiletries and cleaning supplies, and dependable WiFi. For a few days I forgot I was a tourist.",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Philipp",
+            "neg": [],
+            "text": "100% recommend Bruno and his apartment to stay in! Really Great interior!",
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Zhi Yuan",
+            "neg": [],
+            "text": "Thank you so much Philipp. All the best to you. Bruno",
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Renée",
+            "neg": [],
+            "text": "The host, Bruno is very helpful, even allowing us to check-out slightly later. The decor is very beautiful and the unit is clean. The bathroom and toilet are tiny though.",
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jonathan",
+            "neg": [],
+            "text": "It is very kind of you and thanks again for staying at the flat. All the best. Bruno",
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "David",
+            "neg": [],
+            "text": "Bruno is the ideal airbnb host! He is so considerate and warm and goes the extra mile for his guests. The apartment was beautiful and clean with so much attention to design and comfort for guests. Internet is strongest in main living room and beds are quite comfortable! I would definitely stay here again and highly recommend this apartment to anyone looking for a quality stay in a very lively part of Paris.",
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Celine",
+            "neg": [],
+            "text": "Ah ah ! Thanks for your very kind word Renée. It was a pleasure to host you and your family. Bruno",
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Carla",
+            "neg": [],
+            "text": "Bruno is a superb host and has created such a memorable, beautiful flat in Paris. Ideal experience.",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Brendan",
+            "neg": [],
+            "text": "Bruno was so welcoming and his place was so well equipped and conveniently located for the area of Paris we were visiting. We would love to come back and stay here again should we be passing through.",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Seong Yeon",
+            "neg": [],
+            "text": "It was a true pleasure to host you, Brendan. Thanks for your kind words. All the best. Bruno",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Freyacj",
+            "neg": [],
+            "text": "It will be the most fantastic flat in Paris. Everything was perfect, clean, comfortable. If there is a chance to visit Paris again, i cannot but book this flat.",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Meredith",
+            "neg": [],
+            "text": "Ah ah ! I like the idea of the most fantastic flat in Paris. That's very kind of you. Thanks again for staying at the flat. Bruno",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mary-Ann",
+            "neg": [],
+            "text": "Bruno's house is very comfortable. Bruno is also kindly and favourable.",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Nathan",
+            "neg": [],
+            "text": "Thank you very much Freyacj. All the best to you. Bruno",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ma",
+            "neg": [],
+            "text": "Bruno's flat is sophisticated and comfortable. I stayed one night with my parents and three children. It's in a great location, close to top Parisian sights, restaurants and a metro station. He allowed us to store our bags before check in, and arranged for his housekeeper to show us around. The flat is on the fifth floor, reachable by lift or stairs. We didn't prepare meals there, but the kitchen is stocked with everything we'd need to cook. Bruno responded immediately to my questions. He's friendly, polite and an excellent host. I'd definitely stay at his place again.",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Roy",
+            "neg": [],
+            "text": "Lovely experience to stay in Bruno's house, great location, great house, highly recommended to everyone visit Paris, thank you for Bruno great attention to details and kindly support.",
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kate",
+            "neg": [],
+            "text": "Oh, thank you so much Roy. It was a true pleasure to host you and your group. All the best. Bruno",
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Zheng",
+            "neg": [],
+            "text": "Bruno was most welcoming before our arrival in Paris and throughout our stay, inquiring about ways he could assist us, and checking on our comfort and needs. His help and recommendations were flawless, and the apartment is as romantic and lovely as it appears in the photos. My family loved the vibrant neighborhood, with its lively bars and restaurants, and many interesting sites are accessible by walking (and metro).",
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Audry",
+            "neg": [],
+            "text": "Thanks a lot Kate and happy to see that you enjoyed very much the flat and the neighborhood. All the best to you and your family. Bruno",
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jose",
+            "neg": [],
+            "text": "Bruno made us very welcome and the area was very nice. The apartment was like in the photos.",
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mhairi",
+            "neg": [],
+            "text": "Thank you so much Zheng and happy to see that you enjoyend very much the flat and the area. All the best to you and your family. Bruno",
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Helen",
+            "neg": [],
+            "text": "Bruno was the perfect host and this flat is AMAZING!!! It has a very Parisian feel and is well appointed. The location is great with easy access to the Metro and fantastic patisseries. We had a rather eventful trip to Paris and Bruno was so accommodating and understanding and made sure that, even though he was out of town, we had easy access to the flat once we finally arrived in Paris. I could not say enough great things about this flat and its wonderful host, Bruno. Don't miss the opportunity to spend time out on the balcony watching the real Paris in action. Thank you Bruno for a memorable stay.",
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Elyssa",
+            "neg": [],
+            "text": "Bruno was amazing! He went out of his way to personally meet us and make sure we were comfortable with the apartment and all of the amenities in the neighborhood. When I had questions about a booked tour later in the week, Bruno was kind enough to help me find a resolution. This is an exceptional property with exceptional service and I highly recommend it.",
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Joseph",
+            "neg": [],
+            "text": "This is very kind of you Elyssa and of course it was my pleasure to help you ! All the best to all of you. Bruno",
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Thomas",
+            "neg": [],
+            "text": "My friends and I had a fantastic long weekend in Paris staying in this wonderful apartment. Bruno made everything so easy and was very flexible with our check-in/check-out (especially considering our very early flight home!) On arrival we had a tour and Bruno kindly provided us with a gift of drinks and snacks. The apartment is stylish, exactly as described and just what we needed. Personally, I loved the balcony view. The central location was great for getting around (and very handy for us as since we were in France for the Euros and needed to be close to transport links). Overall, I wouldn't hesitiate to stay again if I returned to Paris - which I very much hope to as a weekend just wasn't enough. Merci Bruno!",
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tony",
+            "neg": [],
+            "text": "Thank you so much Joseph and happy to see that you had a fantastic week end in Paris. All the best to you and your friends. Bruno",
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sean",
+            "neg": [],
+            "text": "Great stay in Bruno's beautiful flat right in the middle of all that is needed to feel the French lifestyle. Our family of 5 including 3 adult kids each had a bed to themselves so that we would be well rested for our daily sightseeing-Louvre, Arc, Tower, Notre Dame and Pere Lachaise cemetary all in 3 days. Thanks again for your book describing the various restaurants, etc. It made for some good dining. Looking forward to our next visit.......",
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Shantanu",
+            "neg": [],
+            "text": "Thanks a lot Thomas. It is very kind of you. All the best. Bruno",
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kait",
+            "neg": [],
+            "text": "Amazing flat in a great area of Paris ... Bruno was incredibly helpful; close to the Metro, tons of great restaurants close by. The flat is comfortable and had everything we needed... Would stay here again.",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jon&Masha",
+            "neg": [],
+            "text": "Oh, thank you so much Kait ! All the best. Bruno",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ankur",
+            "neg": [],
+            "text": "Fall in love with Paris again. In the city centre away from all the tourist attractions, you will see why people fall in love with Paris. The flat is fantastic, and Bruno is the perfect host; helpful, organised, available but unintrusive. The area is perfect - we walked through the Parisian streets, stopping off for coffees, lunch, crepes, down to the river, onto the island, along the banks all the way to the Eiffel Tower all in one day. We certainly fell in love with Paris again.",
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tonya",
+            "neg": [],
+            "text": "Thank you so much for this very nice review and happy to see that you had such a wonderful stay ! All the best. Bruno",
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Vic",
+            "neg": [],
+            "text": "Absolutely loved the flat. Everything in the apartment is very tastefully decorated. But what really makes the difference is Mr. Bruno who is incredibly helpful and very responsive. Very happy with the stay.",
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Patrick",
+            "neg": [],
+            "text": "It is very kind of you. I just try to do my best so that our guests have a great stay in Paris. All the best to you and your family. Bruno",
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jigar",
+            "neg": [],
+            "text": "We felt welcome from the moment we arrived....the apartment is in a perfect location....close to lots of interesting places, and the metro. When I plan my return trip to (URL HIDDEN) first point of contact will be Bruno!",
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Fredrick",
+            "neg": [],
+            "text": "Bruno was very helpful in all preparations for our stay. The appartment is perfectly located for a city holiday, and even though it is located on a busy street, we could hear no noise from the street at night. We will certainly come back to this place the next time we go to Paris.",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sarah",
+            "neg": [],
+            "text": "Thanks Fredricks for your kind words and thanks again for staying at the flat. All the best. Bruno",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alexis",
+            "neg": [],
+            "text": "Very welcoming. A great host! A fantastic spot in the centre of Paris. Well equipped and comfortable. A charming Parisienne hideaway!",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Yee Lei",
+            "neg": [],
+            "text": "We really enjoyed our stay in Bruno's flat. There were 4 of us and we found it to be thoughtfully furnished with a bohemian, eclectic edge. Although we brought our own toiletries he had included those thoughtful touches. Bruno was extremely thoughtful and prompt with his communication, offering an expert opinion on the local restaurant scene. The lift is small but quick and we preferred walking up 5 flights to work off all of the delicious bread we ate at the local restaurants. The area of Oberkampf is full of life and many restaurants. A cool part of Paris that will make you feel like a true local.",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Krishanthi",
+            "neg": [],
+            "text": "Thank you so much Alexis ! I like the idea bohemian edge and the true local experience. Thanks for your kind words and all the best to you. Bruno",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kit",
+            "neg": [],
+            "text": "Our host Mr Bruno is superb! Such a kind and nice gentleman, very helpful too! Very clear and easy instruction on checking in the property, personally give us a tour of his nicest Parisian apartment ever, provide us will all the necessary information about where to go what to see and what to eat around. Location is very convenient, just few minute walk to access to 2 metro station which connect to all major attraction. The apartment is very comfy and stylish, located on 5th floor but there is an elevator, so don't need to worry if you are carrying heavy luggages! And the interior decoration is just like how it show in the photos, it's amazing! a true gem that no one should ever miss. Highly recommend!",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Michael",
+            "neg": [],
+            "text": "Oh, thank you so much Yee Lei !!! I just try to do my best and I am very happy to see that you had such a great stay. All the best to all of you. Bruno",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Hanna",
+            "neg": [],
+            "text": "We had a great time in Paris and we are very thankful for Bruno and his family for making us feel welcome. The flat is exactly like it is the pictures: it is very clean, relaxed and comfortable. Highly recommend it to everyone.",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Fred",
+            "neg": [],
+            "text": "Thanks for your very nice review and thanks for recommending us ! This is very kind of you. All the best. Bruno",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Chase",
+            "neg": [],
+            "text": "We had a wonderful experience staying at Bruno's flat. Our expectations were exceeded . The flat was exactly as advertised. Great location with 2 metro stops close by, wonderful bakery and market just across the street. Several great restaurants within walking distant. Bruno was fantastic! He is one of the nicest person you will ever meet. He was extremely helpful not only with your needs at the flat but also with advice and help with our needs and questions on making the most of our activities in Paris and Normandy. Highly recommend this place if you visit Paris.",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lauren",
+            "neg": [],
+            "text": "Oh, thank you Fred for this fantastic review ! It was a true pleasure to host you and the rest of the group and I am really happy to see that you had such a gret time in Paris. All the best to all of you. Bruno",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rachel",
+            "neg": [],
+            "text": "Bruno was excellent. When we arrived we were warmly greeted and shown through the flat. Even prior to our arrival, he gave many great recommendations for places to visit and eat. As we left, he assisted us in getting a cab to the airport and making sure we were on our way before saying goodbye. The flat was great, very spacious and in a great location. We were able to hop onto the metro and be anywhere in no time. Would definitely recommend staying with Bruno and will definitely be back.",
+            "date": "janvier 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Gareth",
+            "neg": [],
+            "text": "Thanks for this very kind review, Chase. It was a real pleasure to host you and the rest of the team. All the best to you. Bruno",
+            "date": "janvier 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "James",
+            "neg": [],
+            "text": "Excellent experience in this Parisian flat. Access to host when needed and restaurant recommendations, directions left in flat. Wonderful design decor with tons of details. Very clean and spacious. Great location with children's school across the street, so more a neighborhood than a touristy area. Grocery also across street, as well as a close boulangerie, pattiserie, restaurants. 5 minute walk to the Metro station. I would highly recommend and would book again myself!",
+            "date": "janvier 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Amy",
+            "neg": [],
+            "text": "We had a wonderful stay at “Maison 122” during our recent trip to Paris. From the detailed and useful description and directions on the Air B&B website, to the very positive interaction with Bruno the owner, to the wonderful cozy and eclectic apartment itself – everything was great. There were snacks, champagne, and coffee awaiting us when we arrived late in the evening. Bruno supplied a wonderful “User Manual” for the apartment which gave us everything we need to know about the apartment, the surrounding area, transportation and restaurant options. He provided tour books and Metro maps. He checked in with us though out the stay to make sure all was OK and graciously allowed us to store our luggage in his own apartment while we toured on our last day. The apartment itself was eclectic and cozy – perfect for us and our two teenagers. The location is very easy access to the Paris Metro (200 meter walk) – which couldn’t be easier to get anywhere in town. Thank you Bruno for your warm hospitality!!!",
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Anna",
+            "neg": [],
+            "text": "That's a very nice review, Amy. Thank you so much for your kind words and happy to see that you really appreciated the \"User Manual\" ! All the best to you and your family. Bruno",
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Andrea",
+            "neg": [],
+            "text": "The apartment is great, exactly the way it looks in the pictures, and most of all, Bruno was incredibly welcoming and made everything possible to make us feel at home. Because you are near three different metro stops, the location is convenient to everything. We were a family of four (two kids ages 7 and 9) and the sleeping arrangement worked out great. Kids loved their beds and the house decor! We would definitely go back.",
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sarah",
+            "neg": [],
+            "text": "Thank you so much Anna ! Of course, you are very much welcome next time you come and visit Paris. All the best to you and your family. Bruno",
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Marguerite",
+            "neg": [],
+            "text": "Nice flat with all you need, comfortable and quiet. Very welcoming host who gives you any kind of info about the surroundings. I would recommend this cozy accomodation to anybody.",
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lila",
+            "neg": [],
+            "text": "Yes, we try to be as welcoming as possible ! Thanks for your kind review and all the best to you and your family. Bruno",
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Luiz Antonio",
+            "neg": [],
+            "text": "This apartment is a work of art! We came to paris on tour and our accommodations were terrible, I found this place and contacted Bruno in the middle of the night to see if it was availble. He got back to me within a couple of hours and was sooooo accommodating. The place was perfect and just as described. The location and value were perfect. Plenty of space for 4 people, and could fit up to 6 easily. I would definitely recommend this place to anyone passing thru paris. Just perfect.",
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Elsa",
+            "neg": [],
+            "text": "We booked on last minute but had luck - Bruno's place is lovely. It's clean, quiet, and has everything that one could ask for (like comfy sleeping conditions) plus the location is good, too. The unique style of the place makes your trip to Paris even more unforgettable. Bruno for sure is a great and welcoming host. Me and my friends recommend :)",
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Fay",
+            "neg": [],
+            "text": "Thanks for recommending the flat Elsa, and thanks for your very kind review. It was a pleasure to host you and your friends during your last minute trip to Paris. All the best to all of you. Bruno",
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rory",
+            "neg": [],
+            "text": "Great location! Bruno was very hospitable and friendly. We had a fab weekend. Great photo opportunity in the framed chair!! Had lots of fun with that! Slept well too!",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sonja",
+            "neg": [],
+            "text": "Good to see that you enjoyed the Frame Chair and had a great stay at the flat. All the best. Bruno",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Paul",
+            "neg": [],
+            "text": "Incredible apartment, great location and a very welcoming host. Allowed us to store bags in his personal apartment and even supplied us with juice, milk and some fresh pastries in the morning. Extremely clean and absolutely no noise from the streets below. Would definitely stay here again. Thank you, Bruno!",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Michele",
+            "neg": [],
+            "text": "This is very kind of you Rory ! Good luck for the latest collection and all the best to all of you. Bruno",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sharon",
+            "neg": [],
+            "text": "Merci à Bruno pour un excellent séjour à Paris!! We were a group of 4 friends and we had a wonderful stay I'm Bruno's beautiful apartment. It is situated in a lovely area of Paris. Recommended!!",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Anat",
+            "neg": [],
+            "text": "we were a family of 5 (with 3 teenager). The Flat was comfortable for us. The elevator didn't work and we had to go 5 floors by stairs. Bronu was very nice, he welcomed us, helped us with the suitcases and gave us all information that was needed . The neighborhood is nice and there are 2 metro stations in 5 minutes walk.",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Julian",
+            "neg": [],
+            "text": "Thanks for this kind review and sorry again for the lift which was repaired a few hours after you left. All the best to you and your family. Bruno",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alanna",
+            "neg": [],
+            "text": "Beautiful apartment, stylishly decorated with a friendly and helpful host. couldn't ask for anything more.",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Carolyn",
+            "neg": [],
+            "text": "Merci, merci ! Thanks very much Julian for this kind review. All the best to you and your family. Bruno",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Gilly",
+            "neg": [],
+            "text": "A lovely apartment and a fantastic host, thank you Bruno! The apartment itself is furnished to a high standard, with plenty of room and a beautiful view from the balcony. Perfectly located and within walking distance of two Metro stations, we had no problems getting around. Bruno himself could not have been more accommodating - from ensuring we were stocked with the basics (red wine, coffee and orange juice - perfect!), to providing pastries in the morning. We will be returning here next time we are in Paris.",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jon",
+            "neg": [],
+            "text": "Good to see that you had such a great time ! And thank for this very nice review. It is very kind of you. All the best. Bruno",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Francesca",
+            "neg": [],
+            "text": "From start to finish, our time at Maison 122 was just wonderful. Bruno was lovely and very helpful, even thinking to ask if we wanted him to bring us bread on the Sunday when most bakeries are shut and more than happy to sort a taxi for us to the station. We didn't meet Vanessa but she was very quick to reply to a pre-arrival query when Bruno was away, which was much appreciated. The flat lives up to the pictures and is well placed for hopping on the metro and getting around. While it can sleep 6, it may be a bit cosy if you were there for a week and in the flat a lot. For three (as we were) or four it is definitely plenty spacious enough. Already recommended the flat to some friends and would love to come back. Thank you!!",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Georgia",
+            "neg": [],
+            "text": "Lovely location and fantastic host, just a pity we were only there the one night. Would definitely stay again. Thank you Bruno.",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Charley",
+            "neg": [],
+            "text": "Thanks very much Georgia, and of course you are very much welcome should you want to stay longer next time you come to Paris. All the best. Bruno",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "April",
+            "neg": [],
+            "text": "What a brilliant find! The best airbnb property we've stayed in yet. Beautifully presented, clean, comfortable, everything you could need is provided for, the hosts are charming, and the neighbourhood is great. From booking, until the end of our stay, the whole experience was pleasant and stress free. Highly recommend this property for a truly \"Parisian\" experience and relaxing stay. Thank you to Bruno and Vanessa. We'll hopefully be coming back.",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kristin",
+            "neg": [],
+            "text": "Many thanks Charley, good to see that you enjoyed so much this Parisian experience ! :-) All the best to you and your family. Bruno",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alex",
+            "neg": [],
+            "text": "Good location, very nice host! My family love the house. :) It's exactly as same as the picture shown here.",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Nt",
+            "neg": [],
+            "text": "Good to see that your family loved the house. It was a pleasure to host all of you. All the best. Bruno",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tim",
+            "neg": [],
+            "text": "Where do I begin? Bruno was prompt and attentive from the moment we inquired about booking the flat, responding within the hour despite the time difference. He made sure all arrangements were organized weeks before our arrival by keeping in touch regularly. Bruno was on holiday when we arrived in Paria and we were greeted by his lovely wife Vanessa and their adorable daughter! The apartment is AMAZING!!! It is so stunning and Bruno and Vanessa have not overlooked a single detail. The decor is elegant, more amenities than any luxury hotel (soaps, linens, hair dryers, fans, irons, coffee maker, tea kettle......) fresh juice, water and snacks were waiting in the cupboard and a lovely note and bottle of wine to enjoy on the balcony at night! A guide with information about the apartment and neighborhood was also provided as well as maps, and books. Our first morning, Vanessa left fresh bread and pastries at our door! I could go on forever about this amazing flat and the incredible Bruno and Vanessa!! By the way, did I mention, this was in Paris?!?! We (my husband two children and I) spent a week in an incredible city that was made even more magical by this incredible \"home\" I just woke up in my own bed back in the USA and already miss coffee on the balcony. Bruno and Vanessa are not just hosts but have put their hearts and souls into creating an experience. Many people visit France but if you want to live it, smell it, experience it - look no further!!",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Liesa",
+            "neg": [],
+            "text": "Having booked all our accommodation through AirBnB on our recent trip around Europe I would have to say that not only was this apartment by far the best but our experience was enhanced by the very personal service provided by Bruno throughout the whole process. I can not rave about this apartment enough, it exceeded our expectations and then some! You really do feel like you are experiencing an authentic Parisian lifestyle. As described it is truly superb and the apartment is exactly as shown in the photos, anyone looking for a unique and memorable stay while in Paris should look no further. Bruno is a gentleman and deserving of his constant 5 star rating. Even though Bruno and his family live next door it is very private but reassuring to know he is accessible for anything we might need. We loved that the apartment was not in a main tourist area and as such we could enjoy the restaurants and shops visited by locals who we found very welcoming. We could walk a short distance to catch the hop-on-hop-off bus for visiting the tourist sights. As far as apartments go in Paris it was very spacious for our family of 6. We slept on the sofa bed which was extremely comfortable and easy to set up/put down each day. Kitchens & bathrooms are generally small in Paris but there is every imaginable item & gadget you might need here. The lift was a welcome sight for my elderly parents as it is located on the 5th floor but this lends to a lovely balcony where we enjoyed a glass or two of the complementary wine. Thank you Bruno for helping make our stay in Paris so fantastic, just wished we had booked for longer!",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lauren",
+            "neg": [],
+            "text": "Thank you so much Liesa for such a nice review. Very happy to see that you had a great stay. All the best to you and your family. Bruno",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Carolyn",
+            "neg": [],
+            "text": "Bruno's flat is exactly as described. My family and I had a great time and Bruno was a wonderful host. A good place to stay if you want to get a \"neighborhood\" feel. We look forward to returning!",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Maureen",
+            "neg": [],
+            "text": "Thank you so much Lauren ! It was a pleasure to host you and your lovely family. All the best. Bruno",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jeremy",
+            "neg": [],
+            "text": "We loved staying at Bruno's. He made us feel very welcome and the apartment was beautiful. The beds were very comfortable, even the pull out couch was impressive. We found the location worked well for us. Easy to find, close to the Metro and a nice neighbourhood. My brother recommended this apartment to me because he had stayed here previously. He wanted to make sure we stayed in a safe and comfortable place and also because Bruno is great.",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lizzy",
+            "neg": [],
+            "text": "Many many thanks Carolyn. This is very kind of you as it was very kind of your brother for recommending the flat. All the best. Bruno",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Cecilia",
+            "neg": [],
+            "text": "Bruno was the perfect host. He let us know in advance that a taxi strike was in place and what would be the easiest way to access the unit from Gare du Nord with no taxis available. The emailed directions to access the flat were also spot on and easy to follow. His presence on our arrival quickly made us feel at home and familiar with what the unit had to offer. He answered all our questions readily, some by email during our stay and others face-to -face and provided a large range of tourist pamphlets to help plan our visit. He arranged our transport to the airport..a real bonus with the taxi strike still hovering and made the effort to come and help with our departure. The unit was charming and true to the photos provided on airbnb. The tiny balconies added a touch of what we all believe to be truly Parisian....a bonus on a hot night! It was tastefully furnished and completed with fresh flowers, wine and nibbles to help us unwind. We were extremely grateful for the well-stocked, tiny kitchen (groceries not normally provided and utensils) and Its location suited us perfectly. Both the metro(line 11) and bus stop were close by and easy to use to access tourist sites but we found it attractive to be able to walk to Notre Dame under 30 minutes and see the Marais district en route. In 10 minutes, we could also walk to Republic and have access to a wider varieties of shops, cafes and numerous metro lines there. In fact Parmentier Avenue, our street, provided us with plenty of local life in terms of bakeries, supermarket& liquor stores, cafes & bistros, pharmacies & even dress shops. While the location was great, it was noisy when the windows were all opened at night to allow a cool breeze to flow through the apartment. Paris reached 28 to 33 degrees during each day of our visit and we did find the warm weather a trial even though a fan was provided. In a cooler month, this would not have been a problem for us or for people used to hot weather. The layout of the bedrooms probably would suit a family of 4 better than 2 adult couples since 1 bedroom contained 2 single (URL HIDDEN) quite small. However an alternative double bed was provided in the lounge room if we had wanted to use it but we preferred to keep it as a lounge. Overall, we made a great choice with our accomodation for 2 couples sharing and thoroughly enjoyed our stay while playing at being tourists.",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jennifer",
+            "neg": [],
+            "text": "The apartment was truly amazing for our family of six. The location was perfect, two minute walk to the subway. The apartment was beautiful, beds were so comfortable. Bruno was an amazing host and provided unlimited information and assistance to make our stay in Paris so wonderful. He went above and beyond what we would expect a host to do. I would score this apartment and experience as an 11 out of 10! Truly the best experience for all of us!",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Theresa",
+            "neg": [],
+            "text": "Oh, thank you so much Jennifer. It is such a great review !!!",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Stefanie",
+            "neg": [],
+            "text": "This was our first experience at an Airbnb. From the moment we arrived to the moment we left, we felt welcomed and well attended to. There were so many more amenities than we could never get in a regular hotel room. Bruno (and family) gave us a beautiful bottle of French wine and even delivered croissants and chocolate bread to our door for breakfast the first morning after our arrival. The location was superb. There were so many restaurants and pastry shops around and two metro stops. We were far enough away to feel as if we were living life through the eyes if a Parisian rather than a tourist but close enough to see it all. I would not hesitate to book through Bruno again and again. We will return!",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Paul",
+            "neg": [],
+            "text": "Great to see that you had such a nice first Airbnb experience and happy to see that you loved your stay at Maison 122. Thanks again for staying at the flat. All the best to you and your family. Bruno",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Philip",
+            "neg": [],
+            "text": "It was all perfect...communication, the flat, the district and Bruno made us feel more than welcome. Also delivered croissants to one day. That stay has been incredible and definitely more than expected.",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Karen",
+            "neg": [],
+            "text": "Thank you so much Stefanie. It is very kind of you. All the best. Bruno",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Henry",
+            "neg": [],
+            "text": "Simply, It's hard to imagine how our stay could have been made better. Not least the beautiful flat, but the untiring hospitality offered by Bruno and his family for the accommodation, the locality and Paris at large made this holiday not just a stay, but an experience. Bruno was happy to provide good advice on places to eat, see, transport etc. Our trip was made so much more enjoyable. This is a full lifestyle experience, and not just renting \"space\". It can't be recommended enough. Bravo Bruno (et famille)!",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rosie",
+            "neg": [],
+            "text": "We are a family of four, two teenage boys, and Bruno's apartment was excellent for our four day trip to Paris. Bruno helped us in advance and when we arrived and then let us get on with our holiday and we never really had to speak to Bruno again until we left because everything was just right. Bruno and his family were kind and helpful when we left and looked after our bags for us and called us a taxi for our airport journey. Everything in the apartment worked; the photos live up to expectations; the beds very comfortable; constant hot water; all kitchen utensils and gadgets were to hand; and a very nice area to stay in. We really enjoyed our stay in Bruno's apartment - thank you.",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Wei",
+            "neg": [],
+            "text": "Thank you very much Rosie and yes, we do our best so that the guests have eveything they may need ! Good to see that you had such a great stay at the flat and in Paris. All the best to you and your family. Bruno",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Gregory",
+            "neg": [],
+            "text": "Paris in springtime!!!! WOW...amazing trip...beautiful accommodations...wonderful host in Bruno. Apartment was beautiful, clean, great location and Bruno was a perfect host. We will definitely be back!!!",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Serena",
+            "neg": [],
+            "text": "Thank you so much Kris and yes, you should definitely be back ! All the best to you. Bruno",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jordan",
+            "neg": [],
+            "text": "Bruno was extremely warm and welcoming - a perfect host! he was incredibly helpful and obviously very knowledgeable about the local area. His advice on how to get around Paris made our stay all the more successful. The photos and description of the apartment do not do it justice! It is a wonderful, welcoming and beautiful flat with lovely whimsical details that truly make a stay very unique. Appreciate the detailed descriptions such as where to find pillows and where to find maps, books, pillows, outlets for electrics etc. The area is outstanding for anyone who wants to make the most of a visit to Paris. Delightfully quiet during the evening and convenient enough that you can be wherever you need to be inside of 10 minutes. The beds were very comfortable and the apartment, linens and amenities were all very clean and inviting. There were more than enough extras of everything. I could not give a stronger recommendation to anyone who is thinking of visiting Paris. Bruno extended his personal hospitality far beyond what we could possibly have anticipated.",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Peter",
+            "neg": [],
+            "text": "Oh, thank you so much for such a great review ! I'm so happy to see that you had such a great review. All the best to you and your family. Bruno",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Stephanie",
+            "neg": [],
+            "text": "Bruno is such a lovely host, he was so welcome and very helpful! Apartment is in central of Paris, transportation is so easy! The restaurant he recommended are all amazing! You have all you need in the apartment. Will definitely come back and stay again! Thank you :)",
+            "date": "mars 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rumiko",
+            "neg": [],
+            "text": "Thank you very much Stephanie and of course, you are very much welcome should you want to moce back. All the best to you. Bruno",
+            "date": "mars 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sue",
+            "neg": [],
+            "text": "The apartment is so amazing and parfect space. I had stay with my family. There are everything that I need. I could stay at his apartment in Paris,that I dreamed for a long time. I'm weak in English but thanks him for givin it in response to kindness by an email. Bruno is best host.",
+            "date": "mars 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Katie",
+            "neg": [],
+            "text": "Thank you so much for such a kind review. It was a pleasure to host you and your family at Maison 122. All the best to all of you. Bruno",
+            "date": "mars 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Carlo",
+            "neg": [],
+            "text": "We had a great stay in Paris. The apartment was very clean and exactly as portrayed from the description given. Bruno was very helpful from the initial booking through to our stay. The location was good with local shops and restaurants within a few minutes walk and the metro not much further. We would love to come back and would highly recommend staying in this beautiful apartment.",
+            "date": "février 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Arie-Jaap",
+            "neg": [],
+            "text": "Thank you very much Sue and happy to see that you had a great stay. Thanks for recommending the flat. All the best to you. Bruno",
+            "date": "février 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jacco",
+            "neg": [],
+            "text": "Beautiful apartment and extremely helpful host! Would definitely rent this apartment again when visiting Paris! Thank you for a great stay.",
+            "date": "février 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mark",
+            "neg": [],
+            "text": "My four friends and I had a fantastic time at Maison 122. The apartment is as great as it looks and it was very comfortable. Good location and Bruno was very helpful with checking in & tips etc! Don't hesitate to book this apartment.",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jodie",
+            "neg": [],
+            "text": "Stayed in this beautiful apartment with my family January 2015 , stunningly decorated & very comfortable ( 3 adults 3 kids ) . The local area is great , 5-10 mins walk to the metro , lovely local restaurants & cafés . Bruno was a wonderful host , very welcoming helped us find our way around Paris , bought us a welcoming pack with juice & coffee & wine !! This was so very nice & much appreciated . We recommend to any one who is looking for accommodation in Paris to look no further , this apartment is truly fantastic & I believe you will have a wonderful stay . Thank you Bruno & Vanessa we wish you all the very best & hope to stay at your beautiful Parisian apartment again in the future .",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Gerard",
+            "neg": [],
+            "text": "Thanks for your very kind comment and recommendation, Jodie. It was a pleasure to host. All the best to you and your family. Bruno",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kerstin",
+            "neg": [],
+            "text": "Our stay at Bruno's appartment for 6 nights was perfect for our family of four. The appartment was well appointed with a washing machine and kitchen. Bruno was excellent with all communication and on hand for any assistance if needed. The appartment is also in a good location with many attractions within walking distance. I would not hesitate to recommend this appartment and I would stay there again",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Trudi",
+            "neg": [],
+            "text": "Thank you so much Gerard and happy to see that all was fine and you had a great stay in Paris. All the best. Bruno",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Isabel",
+            "neg": [],
+            "text": "Dear Bruno, the stay at your apartment was perfect. Great location with easy access to Metro, a real parisian experience. A cute , comfortable place. Thanks so much. We highly recommend Maison 122.",
+            "date": "décembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Amber",
+            "neg": [],
+            "text": "Thank you very much Kerstin for your kind words and thanks for recommending Maison 122. All the best to you and your family. Bruno",
+            "date": "décembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lava",
+            "neg": [],
+            "text": "The 3 room flat was as beautiful as the pictures! Great location, ideally situated close to two metro stations. The street was quite yet people were still out and about into the night. We stayed here late November and had a wonderful experience. I would visit again and stay at the same apartment! Bruno is also a great host, he checked in on us daily and made suggestions as to things to do and see. I would highly recommend staying here.",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Laura",
+            "neg": [],
+            "text": "Great to see that you liked so much the flat. It was a pleasure to host you at Maison 122. All the best to you. Bruno",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Hayley",
+            "neg": [],
+            "text": "Bruno and his wife are great hosts. We dropped our luggage before the check in. After that we went into the city, from the apartment to the city centre is really easy with the metro. The apartment is great to stay with 5 people. We all had a really nice bed and everything was there to make our stay comfortable. Too bad we only had one night, but if we are going back to Paris, we will definitely stay here again. Thanks Bruno! It's a 5 star rating!",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sue",
+            "neg": [],
+            "text": "Thank so much Laura for this 5 star review ! Sure, you're very much welcome next time you come to Paris.",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Julia",
+            "neg": [],
+            "text": "Bruno was absolutely lovely and so welcoming! Took great care of us on Stovall and departure! The flat was great too, warm and quiet with a great balcony! The place was tidy and neat, beds very comfortable too! A* rating!!! Will return :)",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Amanda",
+            "neg": [],
+            "text": "Maison 122 is a lovely apartment in which to spend a few days in Paris. It is beautifully decorated with amazing attention to detail. There was everything we needed to make our stay a comfortable one. Far better than staying in a hotel. Bruno was an excellent host and was readily available to answer our queries. We went to several of the restaurants he recommended and thoroughly enjoyed each of them.",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lois",
+            "neg": [],
+            "text": "We stayed in Maison 122 for three days as a family of four and it was the perfect base for exploring Paris. The apartment is beautiful and light, and definitely made us feel like resident Parisians rather than tourists. Loved the Oberkampf/Parmentier area. Bruno was very friendly and helpful, and had good recommendations for places to eat nearby. We would absolutely stay here again next time we visit Paris!",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Carol",
+            "neg": [],
+            "text": "Staying at Maison 122 was a pure pleasure, Bruno is a great host! From the beginning of communications, check-in, staying in his beautiful flat, till the last minute of saying goodbye, everything was well taken off and correspondence have been swift. Our group is consist of members of different age and we all felt warm hospitality from Bruno and enjoyed our time in Maison 122. The apartment itself was tastefully decorated and very charming. Location wise we had at least three metro stations within walking distance. Eateries and grocery shopping spots around are a handful. We had freshly baked baguettes every morning. Superb convenient location. Bruno prepared a comprehensive folder of everything guests need to know. And in a corner bookshelf we felt like standing in front of tourist info centre, there were all the leaflets and brochure of museums, tours, and all. Bruno helped us with luggage upon greeting us in and out. (There's also a lift in the building so no worries) He helped booking pickup service for us and proactively sent us notice of street blockage due to parade on one day-- all these he went extra miles that one doesn't always expect from their host. I felt lucky coming across with Bruno's listing. Being responsible to book for my big family, one can imagine the pressure of \"what if the flat ends up...\" But Bruno and his flat went beyond my expectation and everyone in the group felt happy. Thank you very much Bruno. Wish you, Maison 122, and your family all the best.",
+            "date": "octobre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Elizabeth",
+            "neg": [],
+            "text": "Thanks so much Carol, so happy to see that you appreciated so much your stay at Maison 122. All the best to your and your family. Bruno",
+            "date": "octobre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rebecca",
+            "neg": [],
+            "text": "Burno and his wife are the most accommodating and lovely couple we came across during our journey to Europe. Bruno's apartment is simply adorable and classic French chic. The location is fantastic and we walked into Paris a couple of times, if you don't feel like doing that the metro is super close too. I couldn't recommend Bruno more, his apartment and his lovely nature was a welcome relief after some not so good accommodation before we arrived in Paris. Thank you so much Bruno :)",
+            "date": "octobre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Manfred",
+            "neg": [],
+            "text": "Thanks very much for your very kind words Elizabeth. All the best to you and your family. Bruno",
+            "date": "octobre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alexandra",
+            "neg": [],
+            "text": "We were very welcomed by Bruno, unfortunately we only had 12 hours in Paris this time, but we thoroughly enjoyed our time... Very clean and well presented . Thank you Bruno we look forward to coming back in the future to stay .",
+            "date": "septembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Askar",
+            "neg": [],
+            "text": "Thank you very much Rebecca. Hope you will have the possibility to stay longer next time you come to Paris. All the best to you. Bruno",
+            "date": "septembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sylvia",
+            "neg": [],
+            "text": "Bruno was the ultimate host, nothing was too much for him eventhough his wife just had a baby. Congratulations Bruno hope mother and child are doing well. The appartment was asuper Paris experience. Great location close to transport, lovely location. well done Bruno and thanks",
+            "date": "septembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Agnieszka",
+            "neg": [],
+            "text": "Hello Bruno, thanks a lot once again for all the help you gave us. The apartment was just like you describe, everything was fine and clean. Thank you for your gifts, we use all of them - it was very nice, an unexpected gift. The comuunication with you before our visit and during our stay was perfect. We and our kids were happy staying at you. We will recomend you to our friends. Thank you very much. Agnieszka",
+            "date": "août 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Nizam",
+            "neg": [],
+            "text": "So happy that you had such a great stay and thanks very much for recommending us ! It is so kind of you. All the best to you and your family. Bruno",
+            "date": "août 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Vinícius",
+            "neg": [],
+            "text": "It's our first time in Paris and Airbnb, so we don't really know what to expect. The main reason for selecting Bruno's apartment was the positive reviews and I am happy to say that we have a pleasant experience during our stay here. This is a nice cute quiet apartment in a good neighborhood. I believe we were the loudest group in the whole building!Although you can sleep 6 people, this apartment is ideal for 4 adults. We are a family of 6 with 4 grown children, so it's a bit cramp with luggages all over and challenging with bathroom logistics. We really appreciate the elevator, we have lots of luggages, and the wifi worked well to upload our photos and keep the children busy. I prefer if the apartment is more lighted but that's maybe more of a personal taste. A final note of reminder for visitors is that museums are closed on Tuesday, we didn't get to bring the children to see the Monalisa. Finally, we like to thank Bruno and Vanessa for their gracious hospitality and we will definitely recommend our friends to come here for their Parisienne experience. Merci et au revoir.",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Liam",
+            "neg": [],
+            "text": "Thanks for this very nice review Nizam. For your information, there are currently talks on opening the Louvre and other main museums 7/7. Merci beaucoup and all the best to you and your family. Bruno",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sarah",
+            "neg": [],
+            "text": "The apartment exceeded our expectations. Very comfortable, clean and welcoming, and very well equipped. We found on it all that was necessary in relation to household utensils and cleaning and hygiene supplies. Its location is excellent, easy access to places of interest such as bakeries, markets and pharmacies nearby. It is situated right next to a subway station. It was a perfect choice for our group. We recommend the apartment to everyone. Bruno and Vanessa were perfect hosts.",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Eirik",
+            "neg": [],
+            "text": "Thanks very much Vinicius, this is very kind of you ! Yes, we do our best to make sure that our guests will find everything they need. All the best to you and your family. Bruno",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jasmine",
+            "neg": [],
+            "text": "Bruno was the perfect host, he was very accommodating and went above and beyond our expectations. I recommend this apartment to anybody who is looking for a beautiful apartment close to all the sites of Paris.",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tracey",
+            "neg": [],
+            "text": "A truly lovely experience. It's very hard to review this apartment without starting with its owner. Bruno. He is the ultimate host. Not only for his talent in turning out an apartment that is both chic and welcoming, but also for his lovely, warm and welcoming manner. In our case Bruno really went above and beyond - helping us out enormously when my wallet was stolen to ensure we were safe and provided for. He also has a superb eye in terms of styling the apartment - which is small bit incredibly chic. Every possible amenity has been thoughtfully provided and helps set an intimate and tasteful environment. The location is extremely convenient - close to restaurants shops the metro and with a supermarket across the road. A very happy time for my three daughters and me. Thank you Bruno",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Euan",
+            "neg": [],
+            "text": "Wouah !!! Thank you so much, Tracey. It is so kind of you. All the best to the four of you and hope to see you again next year. Bruno",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Andy",
+            "neg": [],
+            "text": "Bruno's flat is lovely, cool in the heat, comfortable beds and well equipped. Sound proofing against the street noise is excellent too. The area's great for eating & drinking, we were there during fete de la musique which was a lot of fun. Bruno is a great host, even making a mercy dash to Gare d'Austerlitz with some clothes we'd left behind. Lots of handy tips about the area. Love to stay there again and happy to recommend to friends.",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Giles",
+            "neg": [],
+            "text": "Thanks for your kind words Andy and good to see that you could enjoy the Fête de la Musique ! All the best to all of you. Bruno",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "晴宜",
+            "neg": [],
+            "text": "The apartment was clean and comfortable, decorated very tastefully. The sofabed was surprisingly comfortable with a foam mattress. Bruno sees to every detail, including soft and hard (which I like) pillows. I really like the neighborhood, lots of good cafes and restaurants that are reasonably priced. We found the best macarons in the world (better than Laduree) in the bakery next to the Parmentier subway station. The street can be a little noisy, but once you close the double-paned windows the apartment is quiet. We had a fantastic time in Paris and must thank Bruno for providing us with all the help.",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Anna",
+            "neg": [],
+            "text": "Thank you so much for this very nice review, Andy and yes, the sofabed is very comfortable. It was very difficult to find but it really makes the job ! All the best to you and your family. Bruno",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Bev",
+            "neg": [],
+            "text": "It was our first visit to Paris. The flat was amazing, comfortable, tastefully decorated and welcoming. Bruno was an impeccable host. The beds were very comfortable and we appreciated the welcome pack! Also the location was great for the Gare du Nord and not too far from the centre.",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Louise",
+            "neg": [],
+            "text": "This was a very positive experience both for accommodation for over a week and as well a most accommodating host. Bruno went beyond our expectations in maintaining prompt email contact, providing travel assistance, and he is a genuinely kind person. The flat was bright, clean and beautifully decorated. It was great to experience a Paris neighbourhood rather than just staying in a hotel. We would highly recommend this accommodation and would love to return. Many thanks again Bruno!",
+            "date": "mai 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Claudia",
+            "neg": [],
+            "text": "Thanks very much Louise. It was a pleasure to host all of you at the flat. Really happy that you liked so much your trip to Paris (and Normandy as well) ! All the best to you. Bruno",
+            "date": "mai 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Amanda",
+            "neg": [],
+            "text": "We had a very nice stay over the 1st may weekend - at a really wonderful location. We loved this appartemant very much and Bruno was all time helpful. Thanks for all Bruno - we already told you, that we will be back !!! Claudia",
+            "date": "mai 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sandra Voltolini",
+            "neg": [],
+            "text": "Thanks very much Claudia, and yes, you're welcome any time ! All the best to you and your friends. Bruno",
+            "date": "mai 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jennifer",
+            "neg": [],
+            "text": "We had a fantastic stay in Paris at Bruno's lovey apartment. Bruno was so helpful in organising a taxi for the 5 of us - and all our luggage! The beds were all comfortable. The location is fantastic for getting out for sightseeing as there are metro stations really close to make for easy travelling. Thanks again Bruno Amanda",
+            "date": "mai 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Dean",
+            "neg": [],
+            "text": "Thanks very much Amanda for your kind review. I had such a great experience when I visited your country and therefore, I am really happy that you liked so much your stay in Paris. All the best to you and your family. Bruno",
+            "date": "mai 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mali",
+            "neg": [],
+            "text": "Our first airbnb experience couldn't have been better! Bruno is a very friendly,helpful and professional host, always avaliable and willing to make your stay the best possible. We went in 6 people (all adults) and there was plenty of space ( in case you're wondering, yes, the sofa bed is very comfortable! ). The location is great, (close to two subway stations,supermarkets, bakeries,cool restaurants and bars) and as it's not in area packed with tourists it allowed us to have a more authentic Parisian experience! The apartment is clean, pretty and had everything we needed (for the kitchen,bathroom,laundry,beds....),we felt truly at home! Also, maps ,tourist informations and tips about the area were provided , which we found very thoughtful. All the other guests and I highly recommend the apartment and would stay here again anytime!!! Merci Bruno, et a la prochaine! :)",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jessica",
+            "neg": [],
+            "text": "During the booking process, before, during and after, Bruno was the utmost attentive and caring host. He always replied to questions promptly and thoroughly. This was our first airbnb experience and our first visit to Paris! Bruno went above and beyond what we had imagined. The flat was just as expected. We had made our decision to stay at 122 Maison, based on the reviews that were shared at the time. I have to agree with 122 Maison's past guests. Apartment was clean, fully stocked, in a well central location. There was plenty of restaurants, grocery stores, metro stops, and a wide variety of other shops within easy walking distance. The main tourist attractions were very easy within the metro system. (The metro was amazing for us from Seattle!!) Thank you Bruno for all the kindness and travel advice you shared with us! We thoroughly enjoyed our stay, and we will definitely be back!",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ben And Vanna",
+            "neg": [],
+            "text": "Thanks very much for your kind words, Jessica and happy to see that you thoroughly enjoyed your stay at Maison 122. All the best. Bruno",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Maria",
+            "neg": [],
+            "text": "I would highly recommend staying in Bruno's apartment. After flying to Paris from Oklahoma, we were excited, exhausted and didn't know what to expect. Bruno was great, he ran down to meet us, and helped with our bags. The apartment looks just like it does in the photos. It's was perfect. A room for my mother and a room for my husband and a room for me. The windows are sound proof and we all slept really well. The shower was nice and hot and there were plenty of towels and blankets. We really liked staying in the 11th. There were plenty of restaurants to go to. It was also easy to call Uber and within a few moments be taken to anywhere in the city. Bruno was really good to us. We sent him a text and he helped us out with our Eiffel Tower tickets. He's kind and funny and knows how to make people feel right at home. We had an amazing 4 nights in Paris. The Parisians we met were so friendly, the weather was sunny and 70, the food was amazing and the sites were magnificent. I loved staying in the 122, I picked this airbnb because of the rave reviews and my experience was just as fantastic! Thank you Bruno!!!! Vanna Beckham",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Suzanne",
+            "neg": [],
+            "text": "Thanks very much Vanna for your kind words and thanks for recommending Maison 122. It was a pleasure to host you at the flat. You're welcome anytime ! All the best to the three of you. Bruno",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jeff",
+            "neg": [],
+            "text": "Five close friends and I stayed in Paris for a fantastic long weekend. The apartment was in the heart of Paris, quick to find from the Gare du Nord station, lots of lovely restaurants and bars close by and great transport access to get to the main sights in Paris quickly and easily. Bruno was the perfect host, very accomodating. The apartment was decorated beautifully, very clean and comfortable. Bruno had left a book detailing everything we needed to know about the apartment, where the best places to eat and drink were etc. He even welcomed us with a bottle of wine which was really nice and when we checked out he kept our bags for us so we didn't have to carry them around the city on our last day. When we come to Paris again we will definitely stay here, all of us highly recommend it! Thank you so much Bruno.",
+            "date": "mars 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Samantha",
+            "neg": [],
+            "text": "Good to see that you had such good time in the lovely bars and restaurants nearby. Yes, this is actually why I like so much the area. Thanks again for staying at the flat. All the best to you and your friends. Bruno",
+            "date": "mars 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "David",
+            "neg": [],
+            "text": "This apartment was gorgeous and perfect for our group of four singles. It had everything we needed, was quite comfy and beautifully decorated. Most importantly, it was in a great neighborhood, felt very safe and was close to the Metro. Bruno was very helpful to us in terms of recommending transportation and local venues. He was always accessible to us - before and during the trip. We all highly recommend this apartment.",
+            "date": "mars 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Eniola",
+            "neg": [],
+            "text": "Bruno's apartment was a nice place to stay in during our trip to Paris. We were there for a very short time so we didn't get to really enjoy the apartment. Bruno was a pleasant host, and excellent communicator, so we were well prepared before our arrival.",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Oana",
+            "neg": [],
+            "text": "Thanks very much Eniola ! Good to see you really enjoyed your stay in Paris. All the best. Bruno",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Adrian",
+            "neg": [],
+            "text": "Excellent value for money! The flat looks just like in the photos and Bruno is a very good host.",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Nicole",
+            "neg": [],
+            "text": "Thank you Oana ! It's very kind of you. All the best. Bruno",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Justin",
+            "neg": [],
+            "text": "we wish to give a special thank you to our host Bruno. we had a fantastic stay in this beautiful apartment. Comfortable warm and homely, easy access to all main attractions. we recommend anyone going to Paris stay at this apartment and enjoy.",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Angela",
+            "neg": [],
+            "text": "Thank you so much Adrian. It was a pleasure to host you and your family. All the best. Bruno",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Maureen",
+            "neg": [],
+            "text": "We thoroughly enjoyed our stay, the apartment had everything we needed, and Bruno was on hand if advice was needed. It was close to the metro, and there were some excellent local restaurant recommendations which we took full advantage of. Many thanks Bruno.",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tim",
+            "neg": [],
+            "text": "The apartment was lovely and was a joy to stay in. The only unfortunate thing was we were so busy that we didn't get to fully enjoy it! It's very wonderfully fit out artistically and utterly gave my wife sone new ideas! It's well located with the metro, supermarkets, restaurants etc very close. I'd highly recommend Bruno's apartment and Bruno himself was a very kind host. Merci Bruno.",
+            "date": "janvier 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "cherry",
+            "neg": [],
+            "text": "Merci à vous Tim and happy to see that you found the decoration so inspiring. My best wishes to you and your family ! Bruno",
+            "date": "janvier 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "John",
+            "neg": [],
+            "text": "We had such a great stay in this apartment. It was so beautifully furnished and the needs of the guests had been so carefully considered. Bruno was a very kind and thoughtful host!",
+            "date": "janvier 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "John",
+            "neg": [],
+            "text": "Thank you very much cherry. It was a pleasure to host you and your family ! All the best. Bruno",
+            "date": "janvier 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Patricia",
+            "neg": [],
+            "text": "Excellent apartment and location - great Parisian charm. Bruno is a very approachable and supportive host, and certainly makes everyone feel welcome and looked after. Totally recommended.",
+            "date": "janvier 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mary",
+            "neg": [],
+            "text": "Thanks very much, John. I like the idea to be a supportive host !!! All the best to you and your family. Bruno",
+            "date": "janvier 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mark",
+            "neg": [],
+            "text": "Our family consisting of 5 people and my sister stayed at 122 Rue Parmentier and we had a most comfortable and enjoyable stay. Leading up to our stay, Bruno was incredibly helpful and thorough in responding to all our email queries. As our family consists of young children, I wanted to know practicalities about whether there was a supermarket nearby, location of playgrounds, metro stations and just have an overview of the Oberkampf area and Bruno answered all my requests promptly and clearly. During our stay Bruno was always available but never intrusive. The apartment was very clean, very chic and we are grateful for the wine and other goodies Bruno provided upon our arrival. The apartment was beautifully furnished and generously supplied with ample towels and extra blankets. I appreciated the little touches like the provision of slippers and a generous supply of toilet rolls too! The location of the apartment in the Oberkampf area is fantastic too. There are plenty of great restaurants and cafes and the area is well-serviced by a few metro stations. Bruno was more than willing to let us leave our luggage with him on our last day and he was happy to organise a cab for us too. Bruno is completely professional yet strives to make your stay a comfortable homely one.",
+            "date": "décembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Chris",
+            "neg": [],
+            "text": "Great flat for families coming to Paris. It is close to metro stops and more importantly very quiet at night. We highly recommend staying here and Bruno is a great host.",
+            "date": "décembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Andrea",
+            "neg": [],
+            "text": "Thanks very much for staying at the flat Chris and thanks for recommending Maison 122. All the best to you and your family. Bruno",
+            "date": "décembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Nelia",
+            "neg": [],
+            "text": "We had a very nice stay at Maison 122. Bruno, you were the perfect host. It was nice to have clear information about the area and sites in Paris there in the flat. It was also extremely helpful that Bruno was so easily accessible via text and email to answer questions. Everything in the flat was comfortably arranged & beautifully decorated. The space is warm and so charming. I think that the complementary wine along with the fridge and pantry necessities was a very nice touch. The apartment was truly like a home away from home. I look forward to comin back. Thanks Bruno, Andrea",
+            "date": "novembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Audra",
+            "neg": [],
+            "text": "Many thanks Andrea, this idea of a \"home away from home\" is exactly what we have in mind and want the guests to enjoy. Thanks again to you and looking forward to welcoming you again at Maison 122. All the best to you and the rest of the team. Bruno",
+            "date": "novembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Richard",
+            "neg": [],
+            "text": "We had a wonderful experience! The booking and communication process was very efficient. Bruno always responded to e-mails very promptly. He provided a range of recommendations, some of which we managed to try out and were great. The apartment proved to be as lovely as the pictures you see. It is clean and had everything you would need for your trip. Bruno - Thank you very much for being such a professional, yet friendly host.",
+            "date": "novembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Angela",
+            "neg": [],
+            "text": "I'm really happy to see that you had such a great time in Paris as in the flat. Thanks again for staying at Maison 122. Hope to see you again. All the best. Bruno",
+            "date": "novembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Marc",
+            "neg": [],
+            "text": "Four of us gals enjoyed a girls weekend at Maison 122. We thought the apartment was very cozy and comfortable and there was plenty of space for all of us. Bruno was very helpful and always available to answer our questions and make suggestions. I highly recommend staying here. It was close to metro, rent-a-bike right out front, lots of restaurants and other great things. A great time had by all.",
+            "date": "novembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Hayley",
+            "neg": [],
+            "text": "We were over in Paris doing the Batimat Exhibition show for the week and we required a lovey place to be able to come back to after working very long hours and relax. I found Bruno's apartment which was so beautiful and had a lovely relaxing atmosphere. Myself and my two colleagues had a lovely stay and our hosts were perfect and i will most definitely stay there again whether it will be business or pleasure. Thank you Bruno.",
+            "date": "novembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lourdes",
+            "neg": [],
+            "text": "Of course, you are very much welcome next time you come to Paris. Thanks very much Hayley. All the best. Bruno",
+            "date": "novembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Micha",
+            "neg": [],
+            "text": "Bruno is an excellent host, quite attentive and helpful. He went above and beyond his role trying to help us with a problem we encountered with the Metro passes. He was always accessible and willing to assist us. He has all kinds of information and brochures. The apartment is lovely, handsomely furnished and the washroom and kitchen are very well equipped with anything you need. The location is excellent and the neighbourhood has all kinds of stores and restaurants around. We enjoyed very much our stay in Paris and Bruno's apartment played and important role in that result.",
+            "date": "octobre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Julia Marie",
+            "neg": [],
+            "text": "Thanks very much for your kind review Lourdes. That's actually part of my job to help you and try to make your stay even more enjoyable. Thanks again for staying at Maison 122. Bruno",
+            "date": "octobre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Amy",
+            "neg": [],
+            "text": "Great appartment with all needed. Comfortable beds and balcony, made our staying satisfied. The location is good also, close to everything. Special thanks to Bruno for his recommendations and great treatment.",
+            "date": "octobre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Monica Chang",
+            "neg": [],
+            "text": "Special thanks to you too Micha. All the best to you and your friends ! Bruno",
+            "date": "octobre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Merlijn",
+            "neg": [],
+            "text": "Bruno's appartment is the best place i've ever stayed! At first, Bruno is really a great host, he gave us any help and information we needed. The flat itself is really brilliant located, in the heart of Paris only one minute from the metro station. Furthermore the flat is beautiful, as you see on the picture, and really clean! We feeled like beeing home and the flat has any things you need to stay there and have a great time! We were so sad to leave this brilliant flat!! Thank you very much, Bruno!",
+            "date": "octobre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Nick",
+            "neg": [],
+            "text": "Had a great stay in Bruno's appartment. Lovely location, and Bruno was helpful.",
+            "date": "octobre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ismail Naci",
+            "neg": [],
+            "text": "Thanks a lot Nick ! It's very kind of you. All the best. Bruno",
+            "date": "octobre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lou",
+            "neg": [],
+            "text": "It was a perfect stay for me, my family and 3 of my friends. The house is very nicely planned and every corner is used. Modern and antique are blended together. It was very clear and hygienic. Bruno and Vanessa were very helpful and friendly indeed. They were always around when we needed something unplanned. If we come once more, we certainly would stay there. Easy transportation and nice surroundings. I strongly suggest indeed.... Naci & Oya",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Todd",
+            "neg": [],
+            "text": "Of course, you're more than welcome next time you come to Paris. Thanks again for staying at Maison 122. All the best. Bruno",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rachel",
+            "neg": [],
+            "text": "Fantastic apartment in a great location. Bruno was very helpful, I will stay here next time in Paris.",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Maria Lourdes",
+            "neg": [],
+            "text": "Thank you so much. Of course, you are more than welcome next time you are in Paris. All the best. Bruno",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alan",
+            "neg": [],
+            "text": "We had a great time here. the apartment was beautiful and everything was as it appeared in the listing. The location was great with the choice of 3 Metro stations close by, the closest only about 200 meters away. Bruno was a great host and went out of his way to help us get around Paris, even booking a taxi for us when we were leaving and coming down to make sure the taxi driver knew where to take us. I wouldn't hesitate to stay here again and have already recommended it to a friend who is traveling to Paris soon.",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Karen",
+            "neg": [],
+            "text": "We had a wonderful time in Paris and loved Bruno's apartment. The apartment is a blend of classic and contemporary styles and has such a Parisian feel. The apartment is in a great location with fabulous access to all areas of Paris. The local cafes, restaurants and supermarkets created a vibrant and convenient local environment. Thanks Bruno for the opportunity to stay, we hope to be back soon.",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Min",
+            "neg": [],
+            "text": "Thank you so much Karen, this was exactly the idea in terms of decoration. I'm really happy to see that you had such a great time in Paris and in the flat. Of course, you are more than welcome next time you come to Paris. Bruno",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Thomas",
+            "neg": [],
+            "text": "Bruno was an excellent host. Even before I booked the room, Bruno responded to my questions quickly and followed up as my reservation neared to make sure I had everything I needed. His apartment setup was very professional; he had a booklet with all the info I could need, clean towels and linens, etc. He even had some snacks ready! The best part is, if we needed anything, he was right there. The apartment itself was nice. This was my first airbnb experience so I was a little nervous, but staying in an apartment ended up being so much better than in a hotel! Originally it was just two of us, but when friends decided to join, we had plenty of room for them. It was nice to have a kitchen and a dining table, and a living room for everyone to hang out in - and the balcony was the best! The balcony with chairs and a table, which was perfect on the warm summer nights. Directly across from the balcony is a school or something, so in the evenings, on the balcony, it feels very private (since no one is across from you). The location was great - really close to the metro and close to lots of stores. I would definitely recommend staying at Bruno's place.",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Zanete",
+            "neg": [],
+            "text": "Thanks very much Min. Yes, this is a school on the other side of Avenue Parmentier. Good to see that you enjoyed so much the balcony and of course, you're very much welcome should you want to come back.",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Constanze",
+            "neg": [],
+            "text": "We had a very nice stay in the apartment. For my Korean family-in-law, it was the first time to travel to Paris, and they enjoyed it a lot. All accomodation that we needed was availabled, like kitchen, supplies, wireless internet, lots of tourist information, etc... also good beds, a nice little terrace and close to the metro. Thanks for the good stay!",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "James",
+            "neg": [],
+            "text": "Thanks Thomas. We do our best to provide the guests with everything they may need. Better more than not enough ! Thanks again for staying at Maison 122.",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sushma",
+            "neg": [],
+            "text": "This was not our first time in Paris, but this was the best accommodation we had and this will definitely be our first choice when we come to see Paris again. With its carefully selected interior the place gives you a perfect local feeling and the feeling grows as you step out on the famous french balcony. There are three rooms of a good size, with cozy beds and a nice place to have meals together. The place is well equipped with everything one might need - the tableware, cooking pans, towels, linen, hairdryer, washing machine etc. The place is well located - the metro station is 3 mins away and takes you straight to the top sights. Another alternative is to have a nice long walk - it took us about 20-30 mins to get the Notre Dame or Pere Lacaise cemetery. All you need is at hand - the boulangerie, a small, well packed supermarket is just across the street, pharmacy, nice restaurants etc. The host Bruno is very responsive and nice. Bruno provided us with all the necessary information and advice of getting to the apartment. We took a taxi that costs aprox 50 euros, so if you are a bunch of people traveling together this is a better solution than taking RER.",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Pedro",
+            "neg": [],
+            "text": "Our vacation in Paris was very good. The apartment is very central, very comfortable. It is just it shows in the pictures. Bruno is a great host, Friendly, always available and helpful.",
+            "date": "août 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Hanna",
+            "neg": [],
+            "text": "I'm really happy that you loved the flat and enjoyed your stay in Paris. You're more than welcome should you want to stay agaib at Maison 122",
+            "date": "août 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Dr. Natthapoj",
+            "neg": [],
+            "text": "Our stay in Bruno's apartment was nothing short of perfect. The apartment exceeded all our expectations by capturing the essence of Paris with perfection. The apartment exudes French style with its modern classic style. We always felt comfortably right at home...and still miss the classic Parisian balcony. The apartment is easy to access and has a very helpful elevator. The location in an ideal location close to the metro and located in a great area. As for our gracious host Bruno, we have never experienced such satisfying hospitality. Bruno had a outstanding answer for all questions, and a shirt of his back approach to all our requests. An incredible experience, and future plans to return for another unforgetable stay. Thanks again Bruno!",
+            "date": "juillet 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "David",
+            "neg": [],
+            "text": "Thanks very much Hanna! I'm really happy to see that you had such a nice time in Paris and in the flat. Of course you are very much welcome and even if it's not for a wedding. All the best. Bruno",
+            "date": "juillet 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Antonietta",
+            "neg": [],
+            "text": "My family and I (5 people altogether) stayed at Bruno's apartment in July 2013 for two nights and we absolutely loved it! In fact, when we arrived at the apartment, we dropped our bags by the door, and just spent the following 40 minutes just taking photos of us in various rooms and corners. The apartment and all the rooms are well furnished and decorated. The photos you see on the apartment's AirBnB profile page are very accurate. Bruno was away when we were there, but his friend, Vanessa, was there to help us. (She lives in the opposite flat) She was very professional, polite and friendly. She even let us borrowed her own cooler / fan when we mentioned how hot the weather was in Paris. In brief, we highly recommend Bruno and Vanessa's apartment!",
+            "date": "juillet 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Brittany",
+            "neg": [],
+            "text": "Thanks very much Vince. That's very kind of you. We do our best to make sure people do really appreciate their stay at the flat and we're happy to see that you really loved it. All the best. Bruno",
+            "date": "juillet 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Judy",
+            "neg": [],
+            "text": "My family of five recently stayed for four nights at Bruno's apartment Maison 122 in Paris. Bruno's flat had everything we could possibly need to make our stay very enjoyable, including a bottle of wine, juice and biscuits on our arrival! As Bruno was away, his partner Vanessa was able to show us all the things we needed to know. She was very welcoming and assisted us when necessary. The flat is well located close to three Metro stations, a supermarket, restaurants and other facilities. The apartment is the epitome of Parisian decor which is exactly what you want when visiting Paris. We all had a great time and highly recommend Maison 122! Many thanks, David and family",
+            "date": "juillet 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alice",
+            "neg": [],
+            "text": "Bruno was very accommodating and helpful! He has a whole binder of suggestions and information about the area. The apartment was beautiful and clean. It is also a bonus that he lives nearby to help with questions/problems. I would definitely like to return to this apartment again. My whole group enjoyed our stay very much. Thanks a bunch for welcoming us!!",
+            "date": "juillet 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Dona",
+            "neg": [],
+            "text": "Thank you so much Alice. Yes, I try to do my best to deal with questions and problems. Hope I also find solutions ! All the best. Bruno",
+            "date": "juillet 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Meiting",
+            "neg": [],
+            "text": "Our experience at Maison 122 was wonderful. The apartment was beautiful and comfortable for all 6 of us. The beds are comfortable, linens clean and fresh. The apartment was immaculate. Bruno was the perfect host and very helpful with all of our questions. It is an excellent location for cafes and restaurants as well as the metro. The perfect place to come home to after a day of sightseeing. Thanks for everything Bruno. I definitly recommend this apartment for the real Paris experience. Dona, Casey, Cate, Tara, Chloe and Tessa Canadian Girls Holiday",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "The Soo-Rae",
+            "neg": [],
+            "text": "Oh, thank you so much Dona. It is very kind of you. I wish you will have a wonderful time in the South of France. All the best. Bruno",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "David",
+            "neg": [],
+            "text": "Bruno was a very friendly host and did his best to make sure we're comfortable at his apartment. The apartment was very lovely, slept 5 of us comfortably. We've been to paris a few times and stayed in the hotels. This was definitely much better value than renting hotels in paris. The location is good (near to a few metro stations), with lots of cafes and restaurants within walking distance.",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kyle",
+            "neg": [],
+            "text": "Thanks very much Meiting, that's very kind of you ! All the best for you and your family. Bruno",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sebastian",
+            "neg": [],
+            "text": "This apartment was amazing...beautifully decorated and spacious and very close to Canal St Martin. 6 ladies stayed here to celebrate a friend's bridal party, and our jaws dropped when we got to the apartment. It is just gorgeous and very comfortable. Bruno was a wonderful host, and he provides all guests with a very thorough (written) guide to his favorite places in Paris, as well as tons of other tourist info and lots of assistance. If you get the chance, definitely stay at his place. It was made Paris a magical place.",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mark",
+            "neg": [],
+            "text": "The apartment was everything we were looking for, and Bruno is a wonderful host. The apartment easily catered for the 5 to 6 people in our family group, and the facilities are excellent. It would also be perfect for a couple looking for a little extra space. The weather was perfect whilst we were in Paris, so we used the balcony quite a bit for nibbles and champagne. Public transport access is super easy, and Bruno is very accommodating in providing information (in excellent english, unfortunately our french is negligible) on things to see and how to get there. We also really appreciated his advice on places to visit in the French countryside. In summary we highly recommend Maison 122. The bonus is a wonderful host who welcomed us, and was so helpful when we approached him for advice.",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ulises",
+            "neg": [],
+            "text": "Thanks very much Mark, this is very kind of you. I do my best in English but it is not perfect, far from it ! ;-)",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Julia",
+            "neg": [],
+            "text": "The flat is located in a very cool quarter in Paris, plenty of bars, restaurants and pubs. Everything was great and clean and Bruno gave us a welcome as he was from our family and helped us when whe needed (we were about to lose our flight and he even brought us our baggage) . The flat is AWESOME and it has everything you need and want. Very well decorated. Even the toilette paper is great!! Highly recomended, whenever I come back to Paris I will return to Maison 122.",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jim",
+            "neg": [],
+            "text": "Thanks very much Ulises. You're welcome any time. All the best. Bruno",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Yuri",
+            "neg": [],
+            "text": "We had a fantastic time with Bruno's flat! It was so cute and located in a good part of town. The metro was very close. Bruno was the best host and had maps and gave us directions to certain locations we needed. Highly recommend this flat. Bruno provided coffee and a bottle of wine for us. :) Absolutely rate this a 5 out of 5! The flat is on the 5th floor but has an elevator and that was very important for my 4 seniors I had with me. Apartment sleeps 5 to 6 very comfortably. Has a kitchen so you can have meals at the apartment since everything is expensive in Paris for long stays. Thank you Bruno!!! We will be back!!",
+            "date": "mai 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Pam",
+            "neg": [],
+            "text": "Thanks you so much Julie. That's very kind of you. Bruno",
+            "date": "mai 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Florentine & Lars",
+            "neg": [],
+            "text": "We loved our stay in this beautiful apartment! Bruno is a wonderful host. He was very helpful with all of our questions, and especially with our very late check in time. The decor of the apartment is very cute, exactly what we imagined for a Parisian apartment, we loved it! The location was perfect for us, very close to metro lines and easy to navigate the city from. Eveyrthing in the apartment is of very high quality, from the linens, comfortable beds and gorgeous mirrors and kitchen items. We highly recommend this apartment and would love to stay here again. Thanks Bruno!",
+            "date": "mai 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sophie",
+            "neg": [],
+            "text": "Bruno was an amazing host!! Everything was perfect when we arrived, we were much later than we excepted to be and we had bikes and lots of stuff. He helped us with everything and was extremely flexible!! Would definitely use again, the apartment was in a great location as well!! Thanks so much Bruno and Vanessa!!!",
+            "date": "mai 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "李",
+            "neg": [],
+            "text": "Thanks very much for your kind comment Sophie. Hope to see you again in Maison. You and your friends are very much welcome. Best. Bruno",
+            "date": "mai 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Dong",
+            "neg": [],
+            "text": "Thank you so much for this very nice review ! All the best. Bruno",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sophia",
+            "neg": [],
+            "text": "Vielen Dank für diesen sehr netten Kommentar. All the best to you. Bruno",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Yan",
+            "neg": [],
+            "text": "Thank you so much. This is very kind of you and yes, I love your country and culture. All the best. Bruno",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Nan",
+            "neg": [],
+            "text": "Thank you so much for such a kind review and thanks for recommending the flat. All the best to you and your family. Bruno",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Adriana",
+            "neg": [],
+            "text": "Thank you so much Yanan for this very nice review. All the best to you and your friends. Bruno",
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ayumu",
+            "neg": [],
+            "text": "Thank you so much Yuchen for this very nice review. All the best to the 5 of you. Bruno",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Yoon Jeung",
+            "neg": [],
+            "text": "Thank you so much Auyumu, it's very kind of you. All the best. Bruno",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Eva",
+            "neg": [],
+            "text": "Very happy that you liked the flat and had a great stay. Thanks again for staying with us. All the best to you. Bruno",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Qiqi",
+            "neg": [],
+            "text": "Great place to stay! 地理位置好 离地铁站近 而且属于安全地段 不怕购物晚回来被抢 网上照片会显得房间很大 但房间不大不小 6人住刚刚好 也很安静很干净 房东人也很热情 帮我们叫taxi去机场 存放行李 性价比很高 很推荐 赞赞嗒!",
+            "date": "décembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Hong",
+            "neg": [],
+            "text": "Thanks for this very kind review April and great to see that you had such a nice time in Paris and the flat in particular. Should you want to come back to Paris, I would be happy to host you again at Maison 122. All the best to all of you. Bruno",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Huang",
+            "neg": [],
+            "text": "Thanks very much for this very kind review. Yes, I've been to China many times and I really love your country. All the best to you. Bruno",
+            "date": "octobre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Pep",
+            "neg": [],
+            "text": "Grazie mille Debora. It was nice to hist you and your friends at Maison 122. All the best to you. Bruno",
+            "date": "septembre 2014"
+        }
+    ],
+    "p_emplacement": "rate_me",
+    "id": 4,
+    "p_qualite-prix": "rate_me",
+    "p_communication": "rate_me"
+}

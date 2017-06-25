@@ -1,0 +1,600 @@
+{
+    "productTitle": "rate_me",
+    "p_precision": "rate_me",
+    "nbReviews": 73,
+    "p_proprete": "rate_me",
+    "resume": "",
+    "p_arrivee": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_productTitle": "rate_me",
+    "reviews": [
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement calme dans un quartier récent et verdoyant. Profitez de la belle terrasse de l'appartement l'avant dernier étage. Acceuil sympathique et discret de Jeremy. C'est tout bien pour y revenir !",
+            "name": "Sylvie"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Tu as un appartement très agréable surtout avec ce temps magnifique que nous avons eu cette semaine. Bonne continuation.",
+            "name": "Amandine"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "L'appartement est calme et proche de la gare. Ne pas hésiter à réserver chez Jérémy.",
+            "name": "Florence"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Jérémy s'est montré sympathique et prévenant. La chambre est simple mais fonctionnelle et confortable : excellent rapport qualité/prix. Propreté impeccable et salle de bain agréable. Je recommande et y reviendrait avec plaisir à l'occasion des cours que je donne à Lyon (voyage professionnel).",
+            "name": "Matthieu"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Arrivé un dimanche et etre invite a une raclette, que dirr de plus... géniale! ! On est de suite mis a l'aise! ! Je recommande",
+            "name": "Matteo"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "L'appartement se situe dans un quartier nouveau. Avec le métro, il est pratique d'y accéder. Mais il n'a pas beaucoup de restaurants ni de magasins autour. Le salon et la terrasse de l'appartement sont bien équipés, par contre la chambre semble un peu simple.",
+            "name": "Jun"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Mon compagnon et moi avons passé un très agréable séjour chez Jérémy. Jérémy est une personne sociable et très entouré par ses amis. Belle prestation et bon rapport qualité-prix! nous recommandons vivement !!",
+            "name": "Rébecca"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "J'ai passé un très bon we chez Jérémy. Il s'est montré très acceuillant. Je me suis sentie comme chez moi et c'était très agréable. Le quartier est calme et bien situé. Très bon rapport qualité/prix.",
+            "name": "Christine"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "la tranquilité du nouveau quartier est très agréable. l'appartement est spacieux.",
+            "name": "Maxence"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Jérémy a été tres arrangeant, c'est un hôte très agréable et serviable. Appartement grand, spacieux agréable et literie confortable. Rien à redire .",
+            "name": "Pierre-Jean"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement ayant beaucoup d'espace et une terrasse magnifique... Jérémy est accueillant et très organisé pour accueillir des \"airbnb\"...",
+            "name": "Jean"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Le logement était bien conforme aux attentes. Appartement propre et calme, quartier agréable, l'hôte a parfaitement indiqué le lieu du séjour. J'ai donc pu m'orienter avec beaucoup de facilité.",
+            "name": "Vanessa"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Super logement très bien placé et Jérémy est un hote sympa et discret. Merci!",
+            "name": "Johan"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Jérémy est un super hôte ! Il a été très disponible et très discret. Le quartier est très bien déservi et très calme.",
+            "name": "Camille"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement très agréable, au calme et proche des transports. Idéal pour passer un week-end. En revanche, le frigo et les W.C. auraient pu bénéficier d'un brin de ménage supplémentaire. Mon seul point négatif concernerait donc la propreté des lieux, ce qui est bien dommage.",
+            "name": "Amandine"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Accueil en fonction des horaires décrits : 18h30. Une voisine m'a ouvert la porte d'entrée de l'immeuble. Jérémy a ouvert sa porte d'appartement. Il préparait ma chambre. Accueil sympathique.",
+            "name": "Laurent"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement sympa, mais personne dedans. Du coup, on ne se sent pas très à l'aise. La chambre manque aussi de lampe de chevet. Pas pratique pour lire le soir au plafonnier sans abat-jour.",
+            "name": "Olivier"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "L'appartement est superbe, grand, spacieux et que dire de Jérémy plein de vie et dynamique.",
+            "name": "Xavier"
+        },
+        {
+            "pos": [],
+            "date": "mars 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Bel appartement avec de beaux espaces. Jeremy, en déplacement lui-même, nous n'avons pas pu faire sa connaissance. Contact aisé par téléphone et bonne communication. Facilité d'accès.",
+            "name": "Stéphane"
+        },
+        {
+            "pos": [],
+            "date": "février 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Jérémy est un hôte accueillant, agréable et bien organisé. Il n'y a pas de surprise tout est bien respecté d'après les photos. Le quartier est calme, c'est appréciable. Merci",
+            "name": "Valérie"
+        },
+        {
+            "pos": [],
+            "date": "février 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Un grand merci à Jérémy de nous avoir accueillis chez lui. Malgré l'heure un peu tardive de notre arrivée, Jérémy a tout prévu pour que nous puissions nous installer sans encombre et c'est réussi. C'est un hôte discret, qui sait mettre à l'aise dans un appartement spacieux. Nous avons particulièrement apprécié l'accès direct de la chambre sur le grande terrasse et la tranquillité du lieu. Autre point positif, le stationnement très facile et gratuit dans le quartier. Bref, une adresse que nous recommandons vivement.\n+ Plus",
+            "name": "Chantal"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Super accueil, bel appartement et chambre conforme au descriptif. Ne pas hésiter",
+            "name": "Samir"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement très agréable. Bien situé et stationnement facile.",
+            "name": "Guillaume"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte sympathique avec appartement confortable et quartier sympa et calme.",
+            "name": "Yaëlle"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Superbe appartement, très accessible. Très grande terrasse (point bonus pour les fumeurs comme moi)! J'y reviendrais !",
+            "name": "Victoire"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement qui convient sans doute mieux à des jeunes moins exigeants de confort et de propreté.",
+            "name": "Eva"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement spacieux et conforme aux photos. Très belle terrasse, et grand séjour. On peut croiser d'autres visiteurs de passage, une sorte d'auberge espagnol. Bon contact à distance avec Jeremy. Les maniacs de la propreté vaut mieux s'abstenir.",
+            "name": "Edi"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Le quartier est neuf et sympa. Il est facile de se garer autour. L'appartement est neuf également, avec une jolie terrasse. Je n'ai pas rencontré Jeremy du fait de nos horaires decalés. Mais je suis plutôt décu de mon séjour pour une raison essentiellement : le manque de propreté du lit (draps souillés) et de la salle de bain (poils dans l'évier notamment). Au vu des commentaires précédents, c'est peut etre un coup de malchance mais je ne peux pas recommander cet hote après mon sejour... J'en suis désolé.",
+            "name": "Kamel"
+        },
+        {
+            "pos": [],
+            "date": "mars 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Notre séjour à Lyon s est bien passé, l'appartement est bien situé et très spacieux.",
+            "name": "Jennifer"
+        },
+        {
+            "pos": [],
+            "date": "mars 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Jeremy a été un hôte très accueillant et respectueux. On se sent comme chez soi à peine entrer dans l'appartement. Jeremy est de très bon conseil si vous souhaitez visiter Lyon. Je le recommande les yeux fermés.",
+            "name": "Florian"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Jérémy m'a très bien accueilli. Il est très disponible ou discret selon le cas. La chambre est agréable, l'appartement superbe avec une terrasse impressionnante. J'ai beaucoup apprécié l'emplacement, avec les commerces nécessaires autour et proche des transports ce qui permet un accès rapide à la ville. Enfin j'ai pu facilement garer ma voiture, chose appréciable à Lyon.",
+            "name": "Morgane"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement très bien situé et hôte très agréable. Wifi à dispo. Merci pour le séjour.",
+            "name": "Sébastien"
+        },
+        {
+            "pos": [],
+            "date": "février 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "J'ai très rapidement vu Jeremy mais il m'a paru sympathique. L'appartement est grand,propre et a une belle terrasse, tout est conforme aux photos",
+            "name": "Jeremy"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Jéméry est un homme très sympas et souriant et l'appartement est grand avec une terrasse magnifique, la chambre généreux. Fortement recommandé! Merci beaucoup pour un très agréeable sejour!",
+            "name": "Raphael"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon séjour. Jérémy est vraiment très agréable, et très discret. On est vraiment à son aise chez lui. Le quatier est vraiment très beau, calme et sécurisant. Au plaisir de se revoir.",
+            "name": "Brice"
+        },
+        {
+            "pos": [],
+            "date": "février 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Excellent hôte. Le quartier très agréable et très bel appartement .",
+            "name": "Miguel Fernando"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Super séjour! Un peu éloigné du centre, mais nous avons tout de même pu se déplacer à pied. Logement très grand et propre. Jérémy très sympathique, aidant et bien organisé pour recevoir des AirBnb!",
+            "name": "Mélodie"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "J'ai passe deux bonnes nuits chez Jeremy. On a pas beaucoup parle puisqu'il est occupe par son travail pourtant il est acceuillant. Merci bcp.",
+            "name": "文王"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Merci beaucoup Jeremy ! Nous aurions aimé te rencontrer ! Merci pour ton appartement génial, nous avons bien aimé notre expérience à Lyon ! Gabriel et Florence",
+            "name": "Florence"
+        },
+        {
+            "pos": [],
+            "date": "mai 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Séjour super bien passée, Je vous conseil Jeremy il est très sympa et toujours de bon humeur, son appartement et bien situe, grand et jolie",
+            "name": "Kokylo Bernardo"
+        },
+        {
+            "pos": [],
+            "date": "mars 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Bonjour, Lors de mon escapade à Lyon pour ma formation, j'ai passé un super moment avec Jérémy, son appartement était très propre et très convivial, et est situé près de toutes commodités. Je recommande à tout se qui lise mon commentaire de passer voir Jérémy et je n'y manquerais pas d'y retourner si je repasse par Lyon. :p Tehim",
+            "name": "Tehim"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "The host canceled this reservation the day before arrival. This is an automated posting.",
+            "name": "Victoria"
+        },
+        {
+            "pos": [],
+            "date": "avril 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "I had a great time at Jérémy's apartment. The location is really convenient to move in Lyon and Jérémy very available for my arrival ! He's a very kind host.",
+            "name": "Mélanie"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Jérémy's apartment is a great big space, and fully furnished. It was not as clean as the last two air bnb's we stayed at. There was food uncleaned on the table when we arrived which stayed for a couple of days as one expects in student housing. Our room also hadn't been cleaned in advance. There was no key waiting upon arrival but Jérémy quickly came after we phoned him. The location is in a very modern residential area, a tram/metro journey away to the city. The area seems incredibly safe however it was quite shocking to find after 10pm and very early in the morning, prostitutes waiting in vans for customers... Jérémy is a very friendly guy often working or having fun.\n+ Plus",
+            "name": "Jake"
+        },
+        {
+            "pos": [],
+            "date": "avril 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "I spent several days at Jeremy's place. The appartment is spacious, the kitchen perfect, the terrace huge and the location very convenient and quiet. The room itself is very simple and you have to bring your own linen and towels. It could have been cleaner too. Jerome is quite friendly but not communicative. Do not expect much human exchanges. Overall a nice, cheap place though.",
+            "name": "Nicolas"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Great stay. 10 minutes train ride to city center. 5 minutes walk to train station. Nice clean modern apartment. Jérémy made me feel welcomed at his apartment. The balcony was big and spacious! Safe area. i recommend staying here when in Lyon!!!",
+            "name": "Lynn"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Jeremy was Nice but the apartament could be cleaner.",
+            "name": "Clara"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Jérémy was super nice and even showed me how to get to the university and which places I could visit. The only disadvantage was that the the rooms and especially the bathroom were pretty dirty and full of dust.",
+            "name": "Nina"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Jeremy wasn't there when we arrived but texted us very straightforward instructions on how to get into the building and key to apartment. We actually ended up staying in his flat with another AirBnBer who we never really saw. The second night Jeremy was home and had dinner guests. We were pretty exhausted from all of the traveling, so we mostly kept to ourselves. Shower was full-sized with a tub and we were totally comfortable here. The bed is a little short. It was fine for me because I'm a small person, but my boyfriend couldn't fully stretch out. A taller person probably wouldn't be comfortable on this bed. Previous reviewers mentioned issues with cleanliness, but Jeremy had a Roomba running and provided clean sheets and towels for us even though we booked the night before.\n+ Plus",
+            "name": "Stacey"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Jérémy is a nice person and his place was amazing and comfortable. Me and my friend had a nice time there. :) probably would stay again if I have chance to come to Lyon in the future. :) thanks Jérémy. :)",
+            "name": "Sally"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Easy instructions to get in. Lovely neighborhood, lovely apartment.",
+            "name": "Henry"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "It was great, definitely recommend",
+            "name": "Joshua"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Jeremy was a wonderful host. The apartment was very nice and very clean. Big outdoor terrace that wrapped around. Location is safe and quite and only a short metro ride to historic and downtown areas",
+            "name": "Joseph"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Jérémy was a great host and his place is super cool! We didn't get to meet him the first day but the second day he gave us some great transit advice and my husband really enjoyed chatting with him. Would definitely reccomend this place and would definitely come back!",
+            "name": "Allison"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Jeremy's flat was nice and tidy. I really enjoyed my stay there and hopefully will be staying there again when I visit Lyon again.",
+            "name": "Segun"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "We actually didn't have a chance to meet Jeremy personally, but all the detailed information provided made our check in and out really easy experience. The place itself is a pretty cool bachelor pad with a giant terrace. Situated in a newly build neighbourhood with a walking distance to city centre or tram/metro stations. Rare find and a fantastic stay in a charming city - thanks Jeremy for the opportunity :)",
+            "name": "Tomasz"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "The flat was great. Great location near the metro b. Clean neighborhood, quiet and the flat itself looks quiet new. There is an elevator. We couldn't meet Jeremy but his friend helped us. The first day we stayed they had a party in the flat so it was quiet noisy but for the price it was acceptable.",
+            "name": "Ricky"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Nice room, very secure area and apartment, close to everything (public transport, supermarket)",
+            "name": "Caterina"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "This is more like a bachelor's cave. Everything is ready for party, but in everyday life you would notice that it's not clean enough, bath has no ventilation, so it has a strange smell. Kitchen is well-equipped, but it's not tenant-friendly (no special separate space in the fridge for example). The location is not far from city-center, but it's not a walking distance. So, there lot's of pros and cons.",
+            "name": "Maxim"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Close to the city, good wifi and good facilities",
+            "name": "Hanny"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "The arrival and stay went very smoothly when we stayed with Jeremy. You can arrive even when he isn't home so that was very convenient. We chitchatted a bit with him and he's very friendly and nice.",
+            "name": "Whitney"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "I had a great stay at Jeremy`s flat , the room is comfy , clean and has a huge terrace . It is close to the metro station . Jeremy was so helpful and nice . Thank you for everything .",
+            "name": "Lesly"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Jérémy is busy but we still met in one morning. He's a very nice person. And the room is a bit hot during summer but still clean,safe and good. And it's close to the Metro and there are many shops around within 5min. The environment is cool and silent.",
+            "name": "Danny"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Good instructions for getting to the apartment. The part of the town is really peaceful & modern. We really liked it!",
+            "name": "Joonas"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "very affordable accommodation, 8 minutes walk to station so easy to sight see and it is in a nice area so I felt safe walking home at night from the station, met some of Jeremy friends and they were really lovely",
+            "name": "Rosanne"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "The host used a clever system to let us into the apartment which was very nice, modern and secure. When we arrived he was not there however we had no problems contacting him for instructions to get into the listing. The apartment was fairly clean other than the sheets which may have needed to be cleaned. We were not offered towels, however it is possible the host has some. The home was close to a train station which was perfect. The host was very polite and talked to us about some interesting places to visit as well as our two cultures. He speaks great English and obviously French. Overall we had a fine time.\n+ Plus",
+            "name": "Lisa"
+        },
+        {
+            "pos": [],
+            "date": "avril 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Dear Jeremy. Thank you for your house, we really like it. We hope next time can come back to your house . Emily",
+            "name": "户(PHONE NUMBER HIDDEN)"
+        },
+        {
+            "pos": [],
+            "date": "avril 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "We didn't have the opportunity to meet Jérémy, but at his apartement we felt like home. Very confortable and nice.",
+            "name": "Víctor"
+        },
+        {
+            "pos": [],
+            "date": "mars 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Gerland is a good and quiet neighbourhood populated mostly by families with children. It is close to the metro station which is very useful for every kind of movement. The building is completely new and the house is beautiful and well-furnished. The bedroom is very small (maybe 6-7 squared meters) but it has access to the big terrace. In the room there is only a double bed (without sheets and pillowcases, you have to bring yours) but it has a big closet (one quarter of it was empty for our stuff). The bathroom is close the bedroom and shared with others guests. I barely see the host because he (and me too) were outside the house all the day. I can only complain about the cleaning of the bedroom and the bathroom. For the rest...quite good experience! Thanks Jeremy.\n+ Plus",
+            "name": "Silvia"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Great experience, the appartment is good, very clean and well-located. Jeremy is an awesome host, good communication, everything went well, the city is amazing, I highly recommend. Thanks!",
+            "name": "Lara"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "It was a very comfortable stay with a nice and quiet neighbourhood. The apartment was superb - cleanliness, modern and comfortable.",
+            "name": "Mervin"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "Jeremy and his brother are very nice, really enjoy my stay.",
+            "name": "Yuting"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "The neiborghood is very nice, you have restaurants, some shops, supermarket, very clean. The department it's incredible, super modern, good kitchen, very nice balcony. Everything perfect and clean.",
+            "name": "Ramiro"
+        }
+    ],
+    "p_emplacement": "rate_me",
+    "id": 52,
+    "p_qualite-prix": "rate_me",
+    "p_communication": "rate_me"
+}

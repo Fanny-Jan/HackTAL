@@ -1,0 +1,416 @@
+{
+    "productTitle": "rate_me",
+    "p_precision": "rate_me",
+    "nbReviews": 50,
+    "p_proprete": "rate_me",
+    "resume": "",
+    "p_arrivee": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_productTitle": "rate_me",
+    "reviews": [
+        {
+            "pos": [],
+            "date": "juin 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Bien ! Mais les communs sont à revoir",
+            "name": "Florent"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Merci à Corinne pour son accueil, sa disponibilité et tous ses bons conseils pour passer un agréable séjour à Marseille Le studio est très confortable et fidèle au descriptif. Très bien situé pour découvrir le centre de la ville, et les quartiers aux alentours (cours st julien, vieux port, le Panier...). Non loin de la gare St Charles, il est accessible à pied ou en transport. Je vous le conseille...",
+            "name": "Elise"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "appartement bien situé et propre mais immeuble et rue assez bruyante",
+            "name": "Alexis"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon accueil, très bien situé, fonctionnel et très propre, calme, recommandé ++",
+            "name": "Julien"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Merci Junior pour votre accueil. Nous avons apprecié le confort de l appartement et la decoration de tres bon gout. Seul bemol, le bruit... la nuit dans les parties communes de l immeuble qui j en conviens n est pas de votre fait. Merci bcp",
+            "name": "Aline"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Nous sommes ravis de l'accueil que Junior nous a réservé. Il a mis le logement à disposition dés notre arrivée a Marseille. Le studio est idéalement situé à 2 pas du port , de la gare, station de métro et transports en commun nous ne pouvions réver mieux. Très propre, literie confortable. Tout est nickel encore merci !!! Nous avons passé un agréable séjour dans cette magnifique ville !!!",
+            "name": "Marc"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Dans une rue calme et typique du centre marseillais, on se sent de suite imprégné par l'atmosphère cosmopolite de la ville. A deux pas de tout, le studio est idéalement situé pour les visites à pied et permet le repos comme à la maison avec un équipement complet. Une très bonne adresse!",
+            "name": "Bryce"
+        },
+        {
+            "pos": [],
+            "date": "février 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement très propre décoré avec soin. Literie impeccable. Très bien situé pour visiter le centre de Marseille et proche des transports en commun pour aller plus loin. Très bonne accueil de la part de notre hôte, soucieux du bon déroulement de notre séjour.",
+            "name": "Sophie"
+        },
+        {
+            "pos": [],
+            "date": "février 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Ce fut un très bon séjour pour nous. L'appartement est Comme sur les photos. Un peu surpris du quartier à notre arrivée mais finalement tranquille Et très bien placé. Je recommande ce logement",
+            "name": "Marine"
+        },
+        {
+            "pos": [],
+            "date": "février 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Super séjour dans cet appartement super bien aménagé . La localisation est idéale pour profiter du centre ville de Marseille .",
+            "name": "Salama"
+        },
+        {
+            "pos": [],
+            "date": "février 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Studio trés agréable , décoration cosy et moderne . L accueil et les conseils sont parfait , le lit est très confortable , on ne manque de rien , Le studio est trésor bien équipé et la situation dans le centre parfaite pour tout faire à pied . A noter , 15mn à pied de la gare st Charles . En rapport qualité prix , c est le meilleur que j ai trouvé à MRS centre .",
+            "name": "Laetitia"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "logement très bien situé pour découvrir Marseille sans prendre la voiture (en ce qui nous concerne). Quartier cosmopolite, les habitants sont super gentils, agréable!",
+            "name": "Titia"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "La situation du logement permet de facilement visiter la ville. Il est bien équipé et propre.",
+            "name": "Marie-Françoise"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très agréable séjour à Marseille. Appartement cosy et fonctionnel. Accueil très sympathique et bienveillant. Nous recommandons cette adresse sans hésitation.",
+            "name": "Michael"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement parfait en tous points: moderne et décoré avec beaucoup de goût, cuisine très bien équipée, belle salle de bains, couchages confortables et surtout très propre. Junior et sa compagne ont tout prévu pour que le séjour se passe pour le mieux avec de nombreux bons plans laissés à l'attention des voyageurs dans l'appartement. Bonne situation, proche du métro et du vieux port ce qui facilite les visites. A réserver sans hésitation, nous y retournerons volontiers si nous revenons à Marseille !",
+            "name": "Laetitia"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement très bien agencé, très design et très confortable, tout à fait conforme aux photos. Nous le recommandons vivement, il est très bien situé tout en étant très calme, et agréable. Junior et son amie se sont montrés très disponibles et accueillants. Nous avons passé un excellent séjour dans cette ville que nous aimons beaucoup, et où se trouve un petit appartement que maintenant nous aimons beaucoup également!",
+            "name": "Lauriane"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "j'ai aimer le style du studio moderne et propre et surtout l'accueil et la disponibilité de junior merci et à avec plaisir pour le prochain séjour.",
+            "name": "Boumediene"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Bon accueil par Junior dans un appartement en centre-ville permettant de visiter facilement Marseille.",
+            "name": "Gael"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement charmant, décoré avec soin, fonctionnel. Proche des rues commerçantes et du vieux port. Nos hôtes ont été arrangeants sur nos horaires d'arrivée et de départ. Merci.",
+            "name": "Marlène"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bonne expérience à Marseille dans cet appartement très propre et très bien situé, à deux pas du métro et de tous les sites qui nous intéressaient. Nos hôtes ont été super flexibles sur notre heure d'arrivée (tardive !). Nous sommes toutes les deux très satisfaites de ce séjour : votre logement est très bien équipé et parfait pour deux personnes !",
+            "name": "Farnaz"
+        },
+        {
+            "pos": [],
+            "date": "avril 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Ravis de ce séjour dans l'appartement de Corinne et Junior. Appartement très agréable à vivre, assez bien placé. Merci aux hôtes d'avoir mis à disposition des équipement bébé. On recommande!",
+            "name": "Flora"
+        },
+        {
+            "pos": [],
+            "date": "avril 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Nous avons passé un agréable sejour chez junior . Tout était conforme au descriptif et junior très acceuillant .le quartier peut en surprendre quelque uns car la population est cosmopolite mais nous avons été tres bien accueillis par tous les voisins et les commerçants du quartier de noaille",
+            "name": "Patrice"
+        },
+        {
+            "pos": [],
+            "date": "mars 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon séjour dans le studio de Junior. Très conforme aux photos, l'appartement est agréable, propre et plutôt bien situé. Je recommande !!",
+            "name": "Lizaïg"
+        },
+        {
+            "pos": [],
+            "date": "février 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Joli logement neuf, propre, calme et super bien équipé. Junior est sympathique et très arrangeant. Je recommande vivement.",
+            "name": "Renaud"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon séjour, l'appartement est neuf et très bien équipé. De plus Junior est très sympathique et arrangeant. Je recommande vivement.",
+            "name": "Renaud"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Nous avons passé un excellent séjour chez Junior et Corinne qui se sont montrés disponibles, sympathiques et attentionnés. L'appartement est charmant, impeccable et très bien situé. Nous recommandons chaleureusement!",
+            "name": "Alexandre"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement conforme aux photos, très bon acceuil de la conjointe de junior. Apparement situé à côté de tout commerce. Je recommandé junior.",
+            "name": "Jérémy"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bel accueil de son ami aussi bien à l'arrivée qu'au départ. Quartier cosmopolite. Appartement rénové avec beaucoup de gout.",
+            "name": "Helene"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Studio Bien placé ! ET décoré avec goût ! Déplacement à pied sans souci. Accueil +++ par Junior .",
+            "name": "Hina"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Vraiment super séjour et hôte très disponible. Appartement très propre et mise à disposition de nécessaire de cuisine ( sel, poivre, huile, etc). Appartement très bien placé ( 10 Minutes à pied de la gare et du port )",
+            "name": "Leanne"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Superbe appartement ! Idéalement situé à proximité de tout ! Quartier vivant ! Nous avons apprécié fortement la propreté de l'appartement et merci à la compagne de Monsieur Freitas de nous avoir reçu ! Nous revenons très vite !!! Nous ne manquerons pas de recommander votre appartement ! A très vite !",
+            "name": "Sarah"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Le contact avec junior est simple et professionnel. Tout était comme décrit. Le studio est très bien équipé et très confortable.Aucune reproche à faire et il y fait bon vivre. Le quartier est cosmopolite, à l'image de marseille. la situation géographique est bonne, le vieux port et la gare st charles sont à quelques minutes de marche. Je remercie junior et je recommande ce studio aux visiteurs de marseille.",
+            "name": "Slim"
+        },
+        {
+            "pos": [],
+            "date": "mars 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Nous avons passé un très bon longue weekend chez Junior. L'appartement était propre, moderne et bien situé (10 minutes du vieux port à pieds). Junior est très sympa et c'était très facile de communiquer avec lui. Nous le recommandons!",
+            "name": "Helena"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Excellent !!!! Junior est très sympathique et le studio est très confortable, avec toutes les commodités que l'on puisse imaginer. Notre séjour a été très agréable, je recommande fortement !! Junior a pensé à tous les détails, café, sucre, serviettes, etc. à disposition tout marchait à la perfection, le chauffage était mis quand nous sommes arrivés... bref, irréprochable !",
+            "name": "Violeta"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Pour une premiére réservation de studio, nous avons été agréablement surpris, nous avons été trés bien reçu par la campagne de junior, le studio était trés propre, bien équipé et trés confortable, nous n'hésiterons pas a y retourner lors de notre prochain séjour a marseille et nous le recommandons à tout le monde. bonne continuation Junior.",
+            "name": "Radja"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "beau studio renové dans le centre, junior a été extremement serviable et sympathique à toutes les étapes.",
+            "name": "Vanessa"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "I can't find fault with the apartment or Junior as a host. He was very welcoming and friendly. The apartment was spotlessly clean and one of the best equipped apartments I've stayed in for the price we paid. Thank you Junior!",
+            "name": "Greg"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "We had an easy time communicating with Junior. Any query, he replied within minutes. The apartment is exactly as shown in the pictures. Extremely clean and EXTREMELY WELL ORGANIZED. We were impressed with all the effort he had put in to make sure his guests are comfortable. From maps to shaving razors. Every detail was thought out. Although we did not get to meet Junior, we were welcomed by his girlfriend. She explained everything. The apartment is in a small road which was a little intimidating. The walls and all the doors on the road were covered in graffiti as is much of Marseille. Although safe, it wasn't something that we enjoyed much. Was a little strange at nights. Once you enter the apartment, you are in a different world. A perfect world. There is a nice talent center right below his apartment. The day that we were there, there was a nice jazz show. Check what is available on the day that you reach. Definitely recommend this listing. P.S. If you arrive at the train station and have heavy luggage like we did, it is easier to take the metro (1 stop away on line 2) it gets you closer to the apartment. The train station is on a hill. With light luggage it's an easy walk.\n+ Plus",
+            "name": "Aditya"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "Junior is a great host, he met us promptly for check in and his apartment was clean and comfortable.",
+            "name": "William"
+        },
+        {
+            "pos": [],
+            "date": "février 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "The host canceled this reservation 24 days before arrival. This is an automated posting.",
+            "name": "Jodi"
+        },
+        {
+            "pos": [],
+            "date": "février 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "Its a very confortable, very convenient, clean and cutely decorated apartment at the heart of the city, literally walking distance to everything interesting. Beds are comfortable, bathroom is renovated and beautiful, kitchen is very well provided, and the apartment is properly isolated and silent by night, despite being on a crowded street! Linen and towels are provided as well.",
+            "name": "Guille"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "We were met at the apartment even though we took a late train in. The couple who met us was very nice and showed us around the studio. It is very easy to get to this apartment from the train station using the metro which is only one stop away. The studio is very nice and perfect for a couple. The location is good for exploring Old Port but while the street is safe it is in a poor neighborhood so that is something to consider. We felt very safe and bought a delicious meal from the amazing Noilles market. Look it up! Amazing fresh produce and meat and fish. We thoroughly enjoyed our time at this studio! Would recommend.\n+ Plus",
+            "name": "Taylor & Scott"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "This was an amazing suite. Very clean, with all the amenities you need, located in a central location. Junior is a fantastic host, very kind and helpful. He graciously waited outside the suite to greet us when we arrived. He shared some very helpful tips around the area and was extremely accessible. The location is in a busy area however so expect some street noise at night. Other than that, this was a perfect experience and Junior is an exceptional host. Would highly recommend!",
+            "name": "Arash"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Nice place in a lively neighborhood. Our check in and check out were smooth and easy. Clean and within walking distance of lots of cool sights and restaurants.",
+            "name": "Sam"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Nice studio flat few minutes away from the Vieux-Port. The flat was clean with all expected modern amenities located on a small reasonably quiet street. Junior was very quick to answer messages / requests as well as very helpful in all matters.",
+            "name": "Ben"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Junior was nice, informative and spoke English well. Reliable and timely with check-in and check-out. Very vibrant, colorful neighborhood that is central to just about everything - close to the old port, right next to the metro, markets, restaurants, etc. Very nice kitchen and bathroom. Everything is as advertised.",
+            "name": "Rob"
+        },
+        {
+            "pos": [],
+            "date": "avril 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Such a nice house. The host was so kind and helpful! You definitely to reserve this stunning room. I loved it",
+            "name": "Seungho"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "We really enjoyed Junior's flat, it has a very good position in the city. It's very clean e calm and it has everything you need.",
+            "name": "Elisa"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "The apartment was beautifully appointed, very clean, walking distance to everything and Junior was a very welcoming host providing a bottle of wine from the region that he highly recommended. Fantastic!",
+            "name": "Bonnie"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Junior and his partner Corinne welcomed me at the studio and I was their first guest :) The studio is located in lively neighbourhood- not far from the old harbour - the Canebière and St Charles train station. The studio has everything you would need. It's nicely decorated and everything is new. I enjoyed my time there- I am sure you will too.",
+            "name": "Elkhansaa"
+        }
+    ],
+    "p_emplacement": "rate_me",
+    "id": 38,
+    "p_qualite-prix": "rate_me",
+    "p_communication": "rate_me"
+}

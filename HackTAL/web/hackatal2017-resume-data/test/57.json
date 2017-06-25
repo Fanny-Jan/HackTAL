@@ -1,0 +1,664 @@
+{
+    "productTitle": "rate_me",
+    "p_precision": "rate_me",
+    "nbReviews": 81,
+    "p_proprete": "rate_me",
+    "resume": "",
+    "p_arrivee": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_productTitle": "rate_me",
+    "reviews": [
+        {
+            "pos": [],
+            "date": "juin 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Tout s'est bien passé. Hôte accueillant, bon logement. Je recommande.",
+            "name": "Florian"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Mes parents et moi avons passés un bon séjour au sein de son logement avec, à proximité un Casino (supermarché), boulangerie, tabac, transports en commun... De plus, nous avons eu un très bon accueil d'Olivier.",
+            "name": "Manon"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Nous avons bien aimé le séjour à Toulon. Olivier est aimable, disponible, de bon conseil. Le seul gros défaut est le ménage de l'appartement. Avec nos deux enfants 2 et 5 ans ça a été on tous eu notre place pour dormir. Merci Olivier.",
+            "name": "Stephanie"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement confortable et facile d'accès, hôte disponible et très accueillant ! Bon rapport qualité /prix !",
+            "name": "Alexandra"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Dommage qu'il ni avait pas de chaise",
+            "name": "Damien"
+        },
+        {
+            "pos": [],
+            "date": "février 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement propre et très agréable, hôte aimable et accueillant! Parfait sejour",
+            "name": "Sarah"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "L'appartement dégage une atmosphère agréable malgré le manque de rangement et de propreté. Nous avons tout de même passé un bon séjour car pour quatre personnes le rapport qualité prix restait satisfaisant. L'hôte était de plus totalement disponible et arrangeant quand à notre heure de départ.",
+            "name": "Marion"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte très accueillant et très disponible malgré notre arrivée tardive (23h15). Logement conforme aux attentes. Cependant stationnement difficile dans le quartier.",
+            "name": "Benoît"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "L'appartement est super, bien placé, calme, et très pratique. Je recommande.",
+            "name": "Coralie"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Olivier est une personne très agréable et très serviable. Merci.",
+            "name": "Steven"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Accueillant souriant, aimable, Olivier à été un super hôte, l'appartement était exactement comme décrit. Efficace et précis, Olivier donne les indications à savoir tout en mettant à l'aise. Première expérience Airbnb très satisfaisante.",
+            "name": "Pierre"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bien...conforme à la réservation",
+            "name": "Nicolas"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement correct pour une nuit. Il n'est pas forcément adapté pour une (SENSITIVE CONTENTS HIDDEN) 'mille avec des enfants en bas âge. Pour y dormir , c'est largement suffisant.",
+            "name": "Benjamin"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte très (très) disponible et très agréable. Appartement de belle qualité même si un peu en périphérie. Le rapport qualité prix est très bon. Je recommande chaudement",
+            "name": "Benjamin"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "propreté super douteuse !!! hôte très gentil!!! dommage !!!",
+            "name": "Christelle"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Merci à Olivier pour son accueil et sa disponibilité Séjour parfait pour départ en corse tôt le matin.",
+            "name": "Frédéric"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Olivier a été facile à joindre par texto pour préparer notre arrivée. Pas facile de stationner en fin d'après-midi. Logement conforme à la description. Cependant compliqué pour dîner à 4 personnes, une seule chaise de bar et la table basse n'est pas stable. Mais pour une nuit, ça passe, et pratique pour prendre le ferry ensuite. Nous avons apprécié le climatiseur. Mais maniaques s'abstenir!",
+            "name": "Fabienne"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon accueil de la part d'Olivier qui est arrangeant. Logement conforme à la description, nous avons trouvé une place de stationnement facilement dans la rue. Idéal pour embarquer au port de Toulon de bonne heure.",
+            "name": "Erwan"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "On y a passé une nuit pour se diriger vers la Corse. On s'y arrête également au retour. C'est très bien situé pour aller embarquer rapidement. A mon avis le logement n'est pas tres adapté pour une famille avec des enfants en bas âge comme nous car il y a un lit en hauteur et un canapé lit. Pour une nuit on s'adapte. L'accueil était bien, l'hôte discret et à notre disposition.",
+            "name": "Benjamin"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Olivier et un bon hôte merci pour se séjour.",
+            "name": "Perle"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Bon logement, bien situé dans toulon. A 10min de la gare maritime, idéal pour des departs tres tot. Personne disponible. Merci",
+            "name": "Aurelie"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Je remercie Olivier pour la disponibilité et la rapidité de la réservation (jai réservé 6h avant et je suis arrivé 30minutes en avance). Logement conforme à la description et Olivier est très sympathique, je recommande",
+            "name": "Guillaume"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Nous avons passer un excellent week-end chez Olivier. Nous étions quatre. Olivier nous a très bien accueilli et répond au téléphone immédiatement quand vous l'appelez. Le lit 2 places est très confortable. Le seul souci, qui n'est pas un reproche, c'est que le canapé n'était lui pas confortable du tout. Mais pour tout le reste nickel, je conseille fortement.",
+            "name": "Samira"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Accueil sympa par la maman de l'hôte. Niveau appartement c'est moins sympa... Propreté douteuse (wc odorant + brosse wc immonde, poils + crasse dans sdb, sol sdb qui colle, verres rangés sales), éléments en mauvais état (canapé lit cassé, tabouret bar cassé, pomme de douche qui fuit), pas de volet à la cuisine donc réveillé à 6h du mat ... L'hôte vit dans l'appartement quand il n'a pas d'invités et a tous ses éléments perso dedans, y compris les chaussures dans l'entrée... A 55e on espérait mieux qu'un formule 1 !",
+            "name": "Héloïse"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon accueil. Très arrangeant sur l'heure de récupération des clés comme pour les rendre. Appartement très agréable.",
+            "name": "Karima"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte très disponible et accueillant, appartement calme et spacieux, quartier calme, difficultés pour se garer mais l'hôte nous a gracieusement laissé sa place, séjour sympa",
+            "name": "Célia"
+        },
+        {
+            "pos": [],
+            "date": "février 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon accueil, Olivier a fait en sorte d'être prêt pour notre arrivée. Toujours disponible au tél au cas où. Par contre le lit-divan est vraiment très peu confortable vu qu'une partie est sur roulette et s'écarte au moindre mouvement. Pas de housse de couette ni de drap adéquat pour ce lit et un seul drap de bain à l'odeur de cigarette...Très bonne douche chaude par contre, super!.Endroit facile pour se garer. Appartement spacieux pour passer une petite soirée tranquille!",
+            "name": "Mireille"
+        },
+        {
+            "pos": [],
+            "date": "février 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Jolie appartement, Olivier très sympa. Je le recommande",
+            "name": "Yasmine"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Super séjour comme d'habitude",
+            "name": "Youssef"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Accueil agréable malgré notre heure d'arrivée tardive. Appartement agréable, bien que trop éclairé la nuit par les réverbères - pas loin du terminal ferry (notre but). A améliorer : le couchage du salon, canapé extrêmement inconfortable (mais le lit, occupé par une amie, est confortable). Fournir des oreillers. Mettre à disposition un petit sac poubelle (rien dans la cuisine ni dans la SDB). Obligée de déjeuner debout, un des sièges/bar étant cassé.",
+            "name": "Françoise"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Bien reçu, bien placé, quartier calme Equipements de l'appartement insuffisants et/ou en mauvais état (mobilier, linge de lit...)",
+            "name": "Claire"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Olivier nous a super bien accueilli et il est super sympathique et très accessible . L appartement est totalement conforme à l annonce et très confortable grâce à sa déco. À refaire sans problème. Merci encore.",
+            "name": "Farid"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Le logement correspond exactement au photo, nous avons été tres bien accueilli, le quartier est sympa, c'est un quartier calme",
+            "name": "Fadoi"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "C est un cadeau que j'avais fait à mes amis Mais vu leur discours tout était bien , ils ont été ravis de Mr Gilbert, de l accueil, de l'appartement Enfin tout",
+            "name": "Maurice Renee"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Accueilli par un parent de mon hôte qui m à bien reçu et donner les renseignements sur les bus directs pour me rendre à mon rendez vous",
+            "name": "Michele"
+        },
+        {
+            "pos": [],
+            "date": "mai 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Chouette logement, idéal pour deux personnes! Quartier très calme.",
+            "name": "Fanny"
+        },
+        {
+            "pos": [],
+            "date": "mai 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Bonne accueil et flexible au niveau de l'heure d'arrivée ! L'appartement est comme sur les photos mais le ménage reste douteux ... Il manquait des ampoules (surtout dans les toilettes), la salle de bain et cuisine n'étaient sales et pour les draps on ne sais pas trop s'ils étaient propres..",
+            "name": "Lea"
+        },
+        {
+            "pos": [],
+            "date": "mai 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Olivier est très sympa et arrangeant .. Appartement correct !",
+            "name": "Alexandre"
+        },
+        {
+            "pos": [],
+            "date": "mai 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Le logement est comme dans la description, l hôte est vraiment agréable et très sympathique. Je vous conseille ce logement si vous êtes un couple ou un groupe d'amis en road trip.",
+            "name": "Rayan"
+        },
+        {
+            "pos": [],
+            "date": "mars 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Toujours aussi bien que mes anciens séjours, hôte très arrangeant et toujours aussi sympathique.",
+            "name": "Aline"
+        },
+        {
+            "pos": [],
+            "date": "février 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "nous avons été accueilli par un parent de notre hôte qui nous a très bien accueilli, l'appart très agréable et spacieux , idéal pour un couple ou jeunes en viré ;)",
+            "name": "Vincent"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Accueil agréable, Olivier a su tout de suite me mettre à l'aise en me renseignant un maximum. Il a un appartement très proper, soigné, aux styles modernes...",
+            "name": "Michael"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon accueil, appartement spacieux, agréable et calme. L'appartement a tout l'équipement nécessaire et la terrasse véranda est très bien venue ! Bref un super séjour :-) Merci Olivier !",
+            "name": "Marc"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte super sympa, l'appartement est cool. Merci c'est très bien",
+            "name": "Krystel"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Accueil fait par la maman de l'hôte, très gentille et très serviable. Très bel appartement propre, spacieux, une chambre très originale et un lit qui mérite d'être testé. Situé à côté de l'arrêt de bus, très pratique. Très bon contact avec l'hôte même si je ne l'ai pas rencontré. A recommander vivement. Merci.",
+            "name": "Aline"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Accueil très chaleureux d'Oliver. Très bel appartement et confortable. Merci beaucoup. Sabine",
+            "name": "Sabine"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Olivier a été très accueillant et flexible quant à nos horaires d'arrivée et de départ. L'appartement est fonctionnel et correspond parfaitement aux photos de l'annonce. Il y a une boulangerie, un supermarché et une station service à 2 minutes à pied du logement. Nous n'avons eu aucun problème à trouver une place de stationnement.",
+            "name": "Pauline"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Tout d'abord Olivier est un hôte comme on en croise peu : infiniment attentionné et disponible au vu de notre arrivée très tardive pour cause de ferry en retard, il fut aux petits soins et prévenant. Son appartement est adorable : à notre arrivée tous les lits étaient faits! Propre, range, calme et agréable, c'est une adresse que nous retiendrons pour nos futurs haltes à Toulon! Encore merci Olivier pour tout.... Bien à vous, toute la famille",
+            "name": "Isabelle"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte sympathique et attentionné. Appartement propre et bien arrangé. Très bonne adresse à Toulon ouest.",
+            "name": "Fadi"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Olivier est très disponible et arrangeant. Il nous a réservé un accueil efficace et sympathique. L'appartement est très agréable à vivre, lumineux et spacieux, un bonheur ! Ce n'est pas tout prêt du centre ville mais nous le savions et cela reste tout de même accessible en bus, et surtout il y a tout un tas de commerces juste à côté :)",
+            "name": "Lola"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte très accueillant. Merci",
+            "name": "Fred"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "olivier ,est une personne très accueillante, pour 2 nuits l'appart convenait pour 4 adultes mais une semaine serait trop longue ,le lit confortable mais le canapé pas génial,pour manger la table de salon n'est pas très (URL HIDDEN) y a un climatiseur ce qui est bien quand il fait chaud ,parcontre le logement n'est pas trop propre a mon gout... sinon le quartier il y a tous ce qu'il faut grande surface, boulangerie ect pour se garer on a trouvé une place facilement et sommes a 5 min en voiture de la ville....fabienne",
+            "name": "Fabienne"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Le logement correspond tout à fait à l'annonce, et son propriétaire reste disponible.",
+            "name": "Rémi"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "merci encore d avoir attendu. tout très bien pour le reste. merci beaucoup Olivier",
+            "name": "Sam"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon accueil et l'appart est très bien situé. Merci pour la flexibilité",
+            "name": "Florence"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Olivier a été très accueillant. C'est un hôte super et l'appartement est cosy.",
+            "name": "Raimonda"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Olivier est très aimable et disponible pour ses hôtes. Appartement répondant aux photos dans quartier calme près de toutes commodités... Nous avons passé un agréable séjour dans cet appartement...",
+            "name": "Séverine"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "The host canceled this reservation 5 days before arrival. This is an automated posting.",
+            "name": "Safaa"
+        },
+        {
+            "pos": [],
+            "date": "avril 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte accueillant. Appartement tout à fait conforme à ce qui était annoncé. Rien ne manquait. Merci Olivier.",
+            "name": "Séverine"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Good location, well equipped, I'll return.",
+            "name": "Cristin"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Everything was alright - Olivier was very friendly and showed us all important things in the apartment!",
+            "name": "Haro"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Olivier was a gracious host. He welcomed us to the apartment and answered all of our questions. Although we were unable to stay longer, it was an adequate place to spend one evening.",
+            "name": "Doug"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Every thing was perfect. Oliver was very helpfull.",
+            "name": "Péter"
+        },
+        {
+            "pos": [],
+            "date": "février 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Second time at Oliver appart our stay here was great! It is clean and fantastic. Would definitely recommend.",
+            "name": "Razvan"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Olivier has a nice apartment,The apartment was clean and he left towells and sheets. We recomend it.",
+            "name": "Razvan"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "We arrived later than arranged and couldn't get in contact with Olivier because of connections on our end but he was very understanding and welcomed us to his place, really good host!place had everything we wanted and neighbourhood seemed nice too!",
+            "name": "Lauren"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Very cool to chill out. The bed is really confortable!",
+            "name": "Elia"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Olivier was super nice and kind. We booked at the very last minute and he arrange everything in time to welcome us in his nice apartment. Thank you so much Olivier.",
+            "name": "Silvia"
+        },
+        {
+            "pos": [],
+            "date": "mai 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Gilbert was really polite and helpful. He waited for us in the apartment till we get there at 01:30 am from the Montpelier Airport. As we got there, he explained to us everything about the kitchen, bathroom, surroundings, supermarket...",
+            "name": "Alexandre"
+        },
+        {
+            "pos": [],
+            "date": "avril 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "host is nice but the room is not so clean",
+            "name": "Charlene"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "Olivier was waiting for us when we arrived by train quite a bit later than expected. He was very nice. Unfortunately, we had very little time in which to enjoy his apartment or see any sites in Toulon. His apartment was as described; clean but the shower and sink drained quite slowly. There was a nice balcony with a nice breeze coming in. I was quite frazzled at this point in the trip (lots of traveling by train and not enough time to relax) and just needed a place to sleep for a while. We were in and out so fast that there was only time to shower and sleep and get up and go the next day.\n+ Plus",
+            "name": "Debra"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "Good experience. Olivier has a nice apartment, close to a supermarket and a cheap gas station. It has easy parking in the street. The apartment was clean and he left towells and sheets. We recomend it.",
+            "name": "Irene"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "Oliver has been nice and essential with us, showing the house. Photos shows really the flat, but Oliver didn't vacuum and clean the floor and balcony since at least a month, we found dust and hair everywhere, even the cooker was dirty. Unfortunally the flat is located in a area far 2 km from the centre of Toulon and i won't recommend to go out alone in the night.",
+            "name": "Enrico"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "Our 2 days experience in the apartment of Oliver were the worst of our holiday trip. The Host is very Kind and helpful But his house is very very dirty. You could bearly Cook in the kitchen since i think no one has ever really washed plates, pots and dishes. And by the Way, sheets were of the previous guest (long hair on the pillow). I Will never suggest this location!!!!!!!",
+            "name": "Verdiana"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "It was a pleasure to stay in Olivier Gilbert apartment. Everything is the same as on photo.",
+            "name": "Emerson"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "The appartment was big and very easy to find and the parking was free in the street (which is rare in the big cities of France) Although the appartment wasn't very clean and tidy when you looked closely, but the general impression of it was nice. It didn't have any air conditioner nor a fan, just a balcony, where we heard some people talking very loud all night. Olivier was very friendly and flexible with the check-in and check out times. Provided us with clean towels and good information about the neighborhood.",
+            "name": "Kusti"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "Olivier is nice. He helped us a lot. When we asked him question, he replied at once. His house is also big and beautful.",
+            "name": "Freeman"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "Oliver is nice and friendly. Apartment is big enough.",
+            "name": "Mitch"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "The apartment is big and the bed is very comfortable. The neighbourhood is good, it wasn't too difficult to find where to park. Olivier was very nice and help us when we need it.",
+            "name": "Lydia"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "This was a fun place to stay and Oliver was very helpful and kind.",
+            "name": "Mary Ann"
+        },
+        {
+            "pos": [],
+            "date": "juin 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "The experience at Olivier`s place was perfect!Not far from the center, very good and calm neighborhood! Close to boulangerie and fruit market, also Casino supermarche ,so everything you need arround! The internet was pretty good also and the app just like in the pics! ;) Olivier is an wonderful host very positive and smiling and his app will make you feel like home! We really enjoyed the stay! Thank you for everything Olivier!",
+            "name": "Claudia"
+        }
+    ],
+    "p_emplacement": "rate_me",
+    "id": 57,
+    "p_qualite-prix": "rate_me",
+    "p_communication": "rate_me"
+}

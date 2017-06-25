@@ -1,0 +1,120 @@
+{
+    "productTitle": "rate_me",
+    "p_precision": "rate_me",
+    "nbReviews": 13,
+    "p_proprete": "rate_me",
+    "resume": "",
+    "p_arrivee": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_productTitle": "rate_me",
+    "reviews": [
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Tres bon acceuil. Logement ideal. je recommande. Très bon rapport qualite prix.",
+            "name": "Alexandre"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "l'appart est idéalement placé, près de la gare et des transports en commun. De plus, il y un super lieu de culture à côté: l'Art Déco ( cirque, théâtre...)",
+            "name": "Sebastien"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Bon séjour, Medine est souriant et agréable. À l'écoute et compréhensif, il renseigne ce qu'on lui demande. À part, le problème des Wc et le velux qui ferme mal dans la chambre, RAS. On se sent comme chez soi, et pour le prix, on y dort et on y mange comme à la maison ou presque.",
+            "name": "Valentin"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Le séjour s'est très bien passé. L'appartement était bien situé et je n'ai pas eu des problèmes en particulier. Médi a été très accessible et disponible, hôte très sympa.",
+            "name": "Dany"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Médi nous a averti des petits inconvénients que pouvaient présenter son appartement afin que nous ne soyons pas déçus, il s'est montré prévenant et à l'écoute, personne très sympatique !",
+            "name": "Severine"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Medi a annulé je jour même de ma venue à 4h du matin ! Et sans avoir prévenu airbnb. Résultat j'ai payé mon séjour !!!",
+            "name": "Emma"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "The host canceled this reservation 2 days before arrival. This is an automated posting.",
+            "name": "Leïla"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Un gar super cool. This man is cool. 梅迪很热情,强烈推荐哦。",
+            "name": "Siyao"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "The host canceled this reservation 3 days before arrival. This is an automated posting.",
+            "name": "Wilfried"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Médi is not responsible host, it is difficult to contact him. Unfortunately, I was forced to look for another accommodation, because he didn't organized access to his place during more than 12 hours.",
+            "name": "Alena"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "It was a good experience in living here. The location is excellent, it's close to the Gare de Troyes, centre ville de Troyes, and many supermarkets. There is a bus stop of line 1 nearby which can access the biggest outlet in Troyes where existing the Ouibus stop. The host is easygoing, but he is very busy. There are lots of tiny weakness in this apartment, but finally I can solve them by myself, so I don't care of them. If you want to find a room with a good location, economic price, normal size space, very basic equipments, here's a perfect one.",
+            "name": "Terry"
+        },
+        {
+            "pos": [],
+            "date": "février 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "very kind but that's all",
+            "name": "William"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "Medi is a freindly guy who was responsive prior to our arrival. His listing is exactly what is advertised, small 1 bed apartment. Very basic, everything you need to survive. Nothing luxury but we were not promised luxury. If you want to save some money and visit historic Troyes and St Savine give it a go. Good for travelers or students. (Toilet wouldn't flush!)",
+            "name": "Edward"
+        }
+    ],
+    "p_emplacement": "rate_me",
+    "id": 72,
+    "p_qualite-prix": "rate_me",
+    "p_communication": "rate_me"
+}

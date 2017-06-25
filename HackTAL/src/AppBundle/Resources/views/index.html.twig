@@ -4,22 +4,57 @@
 
 <div class="container-fluid">
 
-    <h2>AirBn Blame</h2>
+    <div class="row">
+        <div class="col-xs-12 text-center">
+            <div class="separation"></div>
+                <h1>AirBn Blame</h1>
+            <div class="separation"></div>
 
-    <div class="row col-lg-5">
-
-        <input type="text" class="form-control" placeholder="Text input">
-        <input type="submit" class="btn btn-default" value="Submit">
-
+    <div class="row">
+        <div class="col-xs-5 col-xs-offset-3 text-center carte">
+            <form method="post" action="" class="form-horizontal">
+                <label for="json">Choississez votre fichier :</label>
+                <select id="json">
+                    {% for selectValue in selectValues %}
+                        <option value="{{ selectValue }}">{{ selectValue }}</option>
+                    {% endfor %}
+                </select>
+                <input type="submit" class="btn btn-default" value="Submit">
+            </form>
+        </div>
     </div>
 
     <div class="row">
-        <p> % ou nbr de commentaires positifs/neutres/negatifs</p>
+        <div class="col-xs-12 text-center ">
+            <h3> % ou nbr de commentaires positifs/neutres/negatifs</h3>
+        </div>
     </div>
 
-    <div class="row col-md-offset-1">
-        <section class=" col-lg-5">
-            <h5>Points Négatifs</h5>
+    {#<div class="row text-center">#}
+        {#<p>Résumé Lorem ipsum</p>#}
+
+    {#</div>#}
+
+    <div class="row moyenne">
+        <div class="col-xs-4 col-xs-offset-2 text-center carte" style="">
+            <ul>
+                <li>Propreté : 5</li>
+                <li>Communication : 5</li>
+                <li>Emplacement : 5</li>
+            </ul>
+        </div>
+
+        <div class="col-xs-4 text-center carte">
+            <ul>
+                <li>Arrivée : 5</li>
+                <li>Qualité - Prix : 5</li>
+                <li>Precision : 5</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="row moyenne">
+        <div class="col-xs-12 text-center">
             <ul>
                 {% for comneg in comNeg%}
                     {% for com in comneg %}
@@ -27,32 +62,16 @@
                     {% endfor %}
                 {% endfor %}
             </ul>
-        </section>
-
-        <section class="col-lg-5">
-            <h5>Points Positifs</h5>
-            <ul>
-                <li> liste points positifs</li>
-            </ul>
-        </section>
-
+        </div>
     </div>
 
-    <div class="row col-md-offset-5">
-
-        <section>
-            <h5>Moyenne</h5>
-            <ul>
-                <li>Propreté : 5</li>
-                <li>Communication : 5</li>
-                <li>Emplacement : 5</li>
-                <li>Arrivée : 5</li>
-                <li>Qualité - Prix : 5</li>
-                <li>Precision : 5</li>
-            </ul>
-        </section>
-
+    <div class="row moyenne">
+        <div class="col-xs-12 text-center">
+            <button class="btn btn-default" download="w3logo">Télécherger les resultats</button>
+        </div>
     </div>
+
+
 
 </div>
 

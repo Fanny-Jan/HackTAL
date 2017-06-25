@@ -1,0 +1,344 @@
+{
+    "productTitle": "rate_me",
+    "p_precision": "rate_me",
+    "nbReviews": 41,
+    "p_proprete": "rate_me",
+    "resume": "",
+    "p_arrivee": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_productTitle": "rate_me",
+    "reviews": [
+        {
+            "pos": [],
+            "date": "juin 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Tout c'est bien passé, l'appartement est sympa et bien placé!",
+            "name": "Jean-Paul"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Super accueil et logement très bien placé.",
+            "name": "Romain"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Bon séjour chez Jamila, emplacement central DAns un quartier très sympathique ! On regrette: l'absence de rideaux / volets et l absence de vaisselle adéquat pr la cuisine / ménage pas impeccable ! Malgré tout BOn séjour et propriétaire sympathique !",
+            "name": "Blandine"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Je ne conseille pas.. l'accueil était malgré tout super sympathique, mais cela ne suffit pas. La propreté, c'est la base d'un logement je pensais que les commentaires étaient abusés mais il s'est passé exactement la même chose que ce qui est cité dans les commentaires. Si qqun veut tester pas de soucis, le seul \"bon\" point c'est qu'il est assez proche de la gare à pied. Très mauvaise expérience.",
+            "name": "Antoine"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Les plus du logement : très bien situé, très propre, calme car dans rue piétonne, lumineux, lit confortable, peu cher. Améliorations possibles : volets aux fenêtres, et un peu plus d'équipements. Attention, serviettes non fournies et wifi de la ville.",
+            "name": "Hélène"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Décevant",
+            "name": "Bernard"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement bien équipé, spacieux et très lumineux. Quelques bruits durant la nuit (en centre ville rien de surprenant).",
+            "name": "Laurianne"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Peu recommandable, plus qu'un simple mauvais moment,",
+            "name": "Majid"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Quelque peu bruyant le Vendredi et Samedi soir. Réveillé par le jour par manque de volets. Salle de Bain vieillotte. Mais propre et bien placé.",
+            "name": "Félicien"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement bien situé. J encourage la propriétaire a renforcé le nettoyage. Le wifi pose également problème.",
+            "name": "Guilbaud"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Un super studio très lumineux et bien situé. Ménage moyen, difficulté à entrer en contact avec Jamila pour finaliser l'arrivée dans les lieux, mais tout s'est bien passé au final!",
+            "name": "Soliane"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Cet appartement est un bon rapport qualité prix. En plein centre et à côté du tram il est très bien pour une courte période. Par contre le Wi-Fi public ne fonctionne que quand il à envie, ce qui pose parfois des problèmes.",
+            "name": "Simon"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "studio avec équipement plus que rudimentaire évier et torchons sales",
+            "name": "Susanne"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "L'appartement en lui même est très fonctionnel. Cependant je suis extrêmement déçue du service, 2h d'attente (sans nouvelles) avant de récupérer les clés. Arrivée dans un appartement pas chauffé et sans électricité, rebelote 2h avant que quelqu'un daigne vous répondre... Bref une nuit affreuse, une poubelle déjà pleine, je n'ai même pas osé prendre une douche ! Au vu des précédents commentaires j'espère que c'est une erreur de parcours, ressaisissez-vous car là c'est inadmissible ! AirBnb c'est avant tout un partage, non un business !\n+ Plus",
+            "name": "Louise Marie"
+        },
+        {
+            "pos": [],
+            "date": "février 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Studio cosy bien situé au cœur du centre ville et calme.",
+            "name": "Nathalie"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Un séjour très cosy et calme dans ce bel appartement en centre ville d'Angers àvec des hôtes disponibles et accueillants. Encore merci",
+            "name": "Ernesto"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Tout s'est bien passé, le logement très bien placé en plein centre ville d'Angers.",
+            "name": "Yuezhang"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Beau séjour passé sans cet appartement hôte disponible et à l écoute .jolie studio lumineux je serai ravie d y retourner",
+            "name": "Reine"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement bien situé mais prestations extrêmement limitées pour un prix trop élevé. Nous avons connu beaucoup mieux à Angers.",
+            "name": "Isabelle"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Studio très très bien placé en plein cœurs du centre piéton de la ville: tout Angers est accessible à pieds ou par les tramway, qui sont à 100m de l'appartement. Rapport qualité/prix indiscutable: il faut comprendre que c'est pas le grand luxe, mais c'est largement compensé par un emplacement idéal. Néanmoins, tout est mis à votre disposition pour que vous ne manquiez de rien! L'appartement est sous comble, on a donc l'impression qu'il est très grand avec, au centre une belle hauteur sous plafond. J'y suis resté 3 mois, tout s'est extrêmement bien passé, mon hôte répondant rapidement à toutes questions.\n+ Plus",
+            "name": "Julie"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Tout s'est bien passé, Jamila répond rapidement aux messages",
+            "name": "Laura"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Tt s'est bien passé",
+            "name": "Melissa"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Mon séjour a été très court, une seule nuit, mais très agréable. Très bien situé, le logement très calme correspond tout à fait à sa description.",
+            "name": "Philippe"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très agréable séjour chez Jamila. Appartement conforme à la description et aux photos. Emplacement idéal en centre ville. Jamila a par ailleurs été très facile à contacter et réactive à la moindre question.",
+            "name": "Camille"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Le logement est correct en plein centre ville d'Angers. C'est parfait.",
+            "name": "Marion"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement exceptionnel en plein coeur de la ville, très spacieux. Idéal pour un week-end ou une semaine sur Angers",
+            "name": "Angélique"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Super studio en plein centre d'Angers. Très spacieux, accueillant et bien équipé. Jamila est très agréable et nous reviendrons avec plaisir dans ce studio :-)",
+            "name": "Elisabeth"
+        },
+        {
+            "pos": [],
+            "date": "mars 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement pratique, bien placé et accueil parfait . Je recommanderais à des collègues .",
+            "name": "Gerome"
+        },
+        {
+            "pos": [],
+            "date": "mars 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bel appartement lumineux, hôte très accueillante ! Très belle expérience",
+            "name": "Maylis"
+        },
+        {
+            "pos": [],
+            "date": "mars 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Studio très central, spacieux et fonctionnel (sauf pour la cuisine, la gazinière ne fonctionne pas). Accueil sympathique et arrangeant, à part quelques difficultés de communication avant l'arrivée.",
+            "name": "Isabelle"
+        },
+        {
+            "pos": [],
+            "date": "mars 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte agréable et gentil, appartement bien situé et agréable à vivre bien que la cuisine (gazinière ne soit pas très fonctionnelle). merci je recommande !",
+            "name": "Alix"
+        },
+        {
+            "pos": [],
+            "date": "février 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Quelle chance d'avoir pu rencontrer des personnes aussi avenantes et sympathiques que sont Jamila et son fils. Un grand grand merci pour tout; Ce sera avec plaisir que je vous retrouverai prochainement. Toute ma sympathie et mes salutations chaleureuses depuis Strasbourg!! Appartement agréable, bien situé, dans une rue calme..que demander de plus??",
+            "name": "Marcel"
+        },
+        {
+            "pos": [],
+            "date": "février 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Notre séjour à Angers sest tres bien passé, l'appartement est agréable et bien situé, Ét le fils de Jamila qui nous a accueillis est très sympathique. Il manque tout de même quelques basiques dans l'appartement ( du papier toilette en plus, du sel, de l'huile pour la cuisine ou meme 2 oreillers pour 2 personnes) mais notre séjour à tout de même été très réussi dans cet appartement ! Merci éncore !",
+            "name": "Salomé"
+        },
+        {
+            "pos": [],
+            "date": "février 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Le studio est spacieux,lumineux et trés bien situé J'ai du attendre un peu le fils de Jamila à l'arrivée, mais il s'est montré tellement gentil et serviable que cela m'a vite fait oublier ce désagrément",
+            "name": "Christine"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "J'ai beaucoup apprécié le studio sur St-Aubin. J'y suis resté pendant un mois. On ne peut pas demander mieux comme emplacement. Jamila et son fils sont vraiment très sympathiques et généreux. Ce sont sincèrement des gens de confiance. Ce fut une expérience hors du commun, et je recommande fortement.",
+            "name": "Real"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "The host canceled this reservation the day before arrival. This is an automated posting.",
+            "name": "Driss"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "This is the best place I could find in Angers. It's right in the heart of the city centre, close to everything (castle, train station and night life) and the host is reachable for any problem. I have nothing to complain about! And for the ones that complained about the noise... it's a studio (pretty rare) in the heart of Angers' city centre, of course it's not completely silent as if you were in the countryside, but you can't blame it on the host. The position, the studio, no bad surprises: it was perfect.",
+            "name": "Martina"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "The studio is very charming and in a very convenient location. M.me Jamila was available to solve any problem!",
+            "name": "Francesca"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "The apartment is located on the 4th floor, which is quite a hike. The apartment is as pictured. We had a lot of issues with the Wifi as it was a free sign up.",
+            "name": "Anu"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "Good place, good apartment and kindly host.",
+            "name": "태혁"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Good studio flat in the centre of town, Sami was very helpful and I felt at home! Great stay thanks very much.",
+            "name": "Damien"
+        }
+    ],
+    "p_emplacement": "rate_me",
+    "id": 71,
+    "p_qualite-prix": "rate_me",
+    "p_communication": "rate_me"
+}

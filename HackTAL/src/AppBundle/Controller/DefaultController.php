@@ -134,6 +134,45 @@ class DefaultController extends Controller
             'onereux' => 5,
             'exorbitant' => 5,
             'inabordable' => 5,
+            'glauque' => 3,
+            'abime' => 1,
+            'fissure' => 1,
+            'lugubre' => 3,
+            'friable' => 1,
+            'erreur' => 6,
+            'mauvais' => 1,
+            'humidite' => 1,
+            'correcte' => 3,
+            'correct' => 3,
+            'immonde' => 1,
+            'malpropre' => 1,
+            'laid' => 3,
+            'repugant' => 1,
+            'saccage' => 3,
+            'desagrable' => 2,
+            'chaud' => 3,
+            'inhabitable' => 3,
+            'indecent' => 3,
+            'insalubre' => 1,
+            'degrade' => 1,
+            'defectueux' => 1,
+            'defectueuse' => 1,
+            'dangereuse' => 3,
+            'dangereux' => 3,
+            'inutilisable' => 3,
+            'bruyante' => 3,
+        ];
+
+        $negatifNom =[
+            'infiltration',
+            'moisissure',
+            'insecte',
+            'cafard',
+            'hygiene',
+            'fume',
+            'fumeur',
+
+
         ];
 
         $j = 0;

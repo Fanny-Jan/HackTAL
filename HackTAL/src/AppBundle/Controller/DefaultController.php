@@ -16,7 +16,7 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         //séparation des comments
-        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/75.json';
+        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/77.json';
         $save = file_get_contents($path);
         $savedData = json_decode($save, true);
         $clean = new Regex();
@@ -124,7 +124,7 @@ class DefaultController extends Controller
             'vulgaire' => 2,
             'delabre' => 3,
             'climatise' => 3,
-            'vieux' => 3,
+//            'vieux' => 3,
             'humide' => 3,
             'degoutant' => 1,
             'vetuste' => 3,
@@ -134,6 +134,82 @@ class DefaultController extends Controller
             'onereux' => 5,
             'exorbitant' => 5,
             'inabordable' => 5,
+            'glauque' => 3,
+            'abime' => 1,
+            'fissure' => 1,
+            'lugubre' => 3,
+            'friable' => 1,
+            'erreur' => 6,
+            'mauvais' => 1,
+            'humidite' => 1,
+            'correcte' => 3,
+            'correct' => 3,
+            'immonde' => 1,
+            'malpropre' => 1,
+            'laid' => 3,
+            'repugant' => 1,
+            'saccage' => 3,
+            'desagrable' => 2,
+            'chaud' => 3,
+            'inhabitable' => 3,
+            'indecent' => 3,
+            'insalubre' => 1,
+            'degrade' => 1,
+            'defectueux' => 1,
+            'defectueuse' => 1,
+            'dangereuse' => 3,
+            'dangereux' => 3,
+            'inutilisable' => 3,
+            'bruyante' => 3,
+            'degueux' => 1,
+        ];
+
+        $negatifNom = [
+            'infiltration',
+            'moisissure',
+            'insecte',
+            'cafard',
+            'hygiene',
+            'fumee',
+            'fumeur',
+            'odeur',
+            'tabac',
+            'saleté',
+            'poussiere',
+            'ordure',
+            'fuite',
+            'bruit',
+            'wifi',
+            'wi-fi',
+            'humidite',
+            'hygiene',
+            'insalubrite',
+
+
+        ];
+
+        $adv = [
+            'absolument' => '',
+            'assez' => '',
+            'beaucoup' => '',
+            'completement' => '',
+            'extremement' => '',
+            'fort' => '',
+            'grandement' => '',
+            'passablement' => '',
+            'peu' => '',
+            'plus' => '',
+            'plutot' => '',
+            'presque' => '',
+            'quasi' => '',
+            'quasiment' => '',
+            'quelque' => '',
+            'tellement' => '',
+            'terriblement' => '',
+            'totalement' => '',
+            'tout' => '',
+            'tres' => '',
+            'trop' => ''
         ];
 
         $type = 0;
@@ -144,12 +220,12 @@ class DefaultController extends Controller
                 $dataFR[$type]['date'] = $savedData['reviews'][$word]['date'];
                 $type++;
             }
-            if ($savedData['reviews'][$word]['lang'] == 'english') {
-                $dataEN[$type]['text'] = str_replace($prep, ' ', $savedData['reviews'][$word]['text']);
-                $dataEN[$type]['name'] = $savedData['reviews'][$word]['name'];
-                $dataEN[$type]['date'] = $savedData['reviews'][$word]['date'];
-                $type++;
-            }
+//            if ($savedData['reviews'][$word]['lang'] == 'english') {
+//                $dataEN[$type]['text'] = str_replace($prep, ' ', $savedData['reviews'][$word]['text']);
+//                $dataEN[$type]['name'] = $savedData['reviews'][$word]['name'];
+//                $dataEN[$type]['date'] = $savedData['reviews'][$word]['date'];
+//                $type++;
+//            }
         }
 
         $pos = new POSTagger();
@@ -170,7 +246,7 @@ class DefaultController extends Controller
                 $array[$k][$nbWords][0] = $values[$type];
                 $array[$k][$nbWords][1] = $clean->grandNettoyage($values[$word]);
 
-                if ($values[$type] == 'ADJ' && array_key_exists($values[$word], $negatif)) {
+                if (array_key_exists($values[$word], $negatif) || in_array($values[$word], $negatifNom)) {
                     $array[$k][$nbWords][2] = $values[$word];
 
                     for ($l = 2; $l <= 4; $l = $l + 2) {
@@ -184,19 +260,21 @@ class DefaultController extends Controller
                         $typePrev = $type - $l;
                         $wordPrev = $typePrev - 1;
                         $wordNext = $typeNext - 1;
+                        // Analyse des mot précédent le tag
                         if ($values[$typePrev] == 'N' || $values[$typePrev] == 'NC'
                             || $values[$typePrev] == 'NPP' || $values[$typePrev] == 'VINF'
                             || $values[$typePrev] == 'V' || $values[$typePrev] == 'ADV'
                         ) {
                             $array[$k][$nbWords][2] = $values[$wordPrev] . ' ' . $array[$k][$nbWords][2];
                         }
-                        if ($values[$typeNext] == 'N' || $values[$typeNext] == 'NC'
-                            || $values[$typeNext] == 'NPP' || $values[$typeNext] == 'VINF'
-                            || $values[$typeNext] == 'V' || $values[$typeNext] == 'ADV'
-                        ) {
 
-                            $array[$k][$nbWords][2] .= ' ' . $values[$wordNext];
-                        }
+                        // Analyse des mots suivant le tag
+//                        if ($values[$typeNext] == 'N' || $values[$typeNext] == 'NC'
+//                            || $values[$typeNext] == 'NPP' || $values[$typeNext] == 'VINF'
+//                            || $values[$typeNext] == 'V' || $values[$typeNext] == 'ADV'
+//                        ) {
+//                            $array[$k][$nbWords][2] .= ' ' . $values[$wordNext];
+//                        }
                     }
                     $comNeg[$k][$m] = $array[$k][$nbWords][2];
                     $m++;

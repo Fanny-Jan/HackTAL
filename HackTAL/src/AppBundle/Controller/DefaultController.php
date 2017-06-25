@@ -196,6 +196,7 @@ class DefaultController extends Controller
             'extremement' => '',
             'fort' => '',
             'grandement' => '',
+            'moins' => '',
             'passablement' => '',
             'peu' => '',
             'plus' => '',
@@ -248,7 +249,6 @@ class DefaultController extends Controller
 
                 if (array_key_exists($values[$word], $negatif) || in_array($values[$word], $negatifNom)) {
                     $array[$k][$nbWords][2] = $values[$word];
-
                     for ($l = 2; $l <= 4; $l = $l + 2) {
                         if ($word == count($values) - 2) {
                             $typeNext = $word + 1;
@@ -276,7 +276,13 @@ class DefaultController extends Controller
 //                            $array[$k][$nbWords][2] .= ' ' . $values[$wordNext];
 //                        }
                     }
-                    $comNeg[$k][$m] = $array[$k][$nbWords][2];
+                    $comNeg[$k][$m][0] = $array[$k][$nbWords][2];
+                    if (isset($negatif[$values[$word]])) {
+                        $comNeg[$k][$m][1] = $negatif[$values[$word]];
+                    } else {
+                        $comNeg[$k][$m][1] = $negatifNom[$values[$word]];
+                    }
+
                     $m++;
                 }
                 $nbWords++;

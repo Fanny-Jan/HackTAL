@@ -16,7 +16,7 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         //séparation des comments
-        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/77.json';
+        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/test.json';
         $save = file_get_contents($path);
         $savedData = json_decode($save, true);
         $clean = new Regex();
@@ -44,35 +44,26 @@ class DefaultController extends Controller
         $negatif = [
             'accro' => 2,
             'accusateur' => 2,
-            'acerbe' => 2,
             'agressif' => 2,
-            'aigri' => 2,
             'amateur' => 2,
-            'amorphe' => 2,
             'angoisse' => 2,
-            'anxieux' => 2,
             'arrogant' => 2,
             'associable' => 2,
             'asocial' => 2,
             'assiste' => 2,
             'autoritaire' => 2,
             'avare' => 2,
-            'bagarreur' => 2,
             'baratineur' => 2,
             'bavard' => 2,
             'blase' => 2,
             'blessant' => 2,
             'borne' => 2,
-            'boudeur' => 2,
-            'brouillon' => 6,
             'brute' => 2,
             'bruyant' => 3,
             'cachottier' => 2,
             'calculateur' => 2,
             'capricieux' => 2,
-            'caracteriel' => 2,
             'caricatural' => 6,
-            'carrieriste' => 2,
             'cassant' => 2,
             'casse' => 2,
             'catastrophiste' => 1,
@@ -173,7 +164,7 @@ class DefaultController extends Controller
             'fumeur' => 1,
             'odeur' => 1,
             'tabac' => 1,
-            'saleté' => 1,
+            'salete' => 1,
             'poussiere' => 1,
             'ordure' => 1,
             'fuite' => 1,
@@ -184,32 +175,88 @@ class DefaultController extends Controller
             'insalubrite' => 1,
             'cheveux' => 1,
             'poils' => 1,
-            'insalubrite' => 1,
        ];
 
+        $positif = [
+            'lumineux' => 3,
+            'lumineuse' => 3,
+            'degagee' => 3,
+            'spacieux' => 3,
+            'spacieuse' => 3,
+            'eclaire' => 3,
+            'eclairee' => 3,
+            'agreable' => 3,
+            'confortable' => 3,
+            'pratique' => 3,
+            'impeccable' => 3,
+            'tranquille' => 3,
+            'calme' => 3,
+            'irreprochable' => 1,
+            'raffine' => 3,
+            'raffinee' => 3,
+            'ensoleille' => 3,
+            'illumine' => 3,
+            'radieux' => 3,
+            'grand' => 3,
+            'immense' => 3,
+            'doux' => 3,
+            'douce' => 3,
+            'clair' => 3,
+            'claire' => 3,
+            'conforme' => 6,
+            'accueillant' => 2,
+            'accueillante' => 2,
+            'serviable' => 2,
+            'arrangeant' => 2,
+            'incroyable' => 3,
+            'gentille' => 2,
+            'gentil' => 2,
+            'communicant' => 2,
+            'silencieux' => 3,
+            'silencieuse' => 3,
+            'disponible' => 2,
+            'parfait' => 3,
+            'fonctionnel' => 3,
+            'fonctionnelle' => 3,
+            'satisfaisant' => 3,
+            'aeree' => 3,
+            'aere' => 3,
+        ];
+
+        $double = [
+            'cher' => 5,
+            'chere' => 5,
+            'propre' => 1,
+            'agencee' => 3,
+            'agence' => 3,
+            'structure' => 3,
+            'structuree' => 3,
+        ];
+
         $adv = [
-            'absolument' => '',
-            'assez' => '',
-            'beaucoup' => '',
-            'completement' => '',
-            'extremement' => '',
-            'fort' => '',
-            'grandement' => '',
-            'moins' => '',
-            'passablement' => '',
-            'peu' => '',
-            'plus' => '',
-            'plutot' => '',
-            'presque' => '',
-            'quasi' => '',
-            'quasiment' => '',
-            'quelque' => '',
-            'tellement' => '',
-            'terriblement' => '',
-            'totalement' => '',
-            'tout' => '',
-            'tres' => '',
-            'trop' => ''
+            'absolument' => 2,
+            'assez' => 4,
+            'beaucoup' => 3,
+            'completement' => 2,
+            'extremement' => 1,
+            'fort' => 3,
+            'fortement' => 2,
+            'grandement' => 2,
+            'moins' => 4,
+            'passablement' => 3,
+            'peu' => 3,
+            'plus' => 3,
+            'plutot' => 4,
+            'presque' => 4,
+            'quasi' => 4,
+            'quasiment' => 4,
+            'quelque' => 4,
+            'tellement' => 3,
+            'terriblement' => 2,
+            'totalement' => 2,
+            'tout' => 3,
+            'tres' => 3,
+            'trop' => 2
         ];
 
         $type = 0;
@@ -288,9 +335,11 @@ class DefaultController extends Controller
             }
             $k++;
         }
-        var_dump($comNeg);
-        die();
+//        var_dump($comNeg);
+//        die();
         // replace this example code with whatever you need
-        return $this->render('default/index.html.twig');
+        return $this->render('AppBundle::index.html.twig', [
+            'comNeg' => $comNeg,
+        ]);
     }
 }

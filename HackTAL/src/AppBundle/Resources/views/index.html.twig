@@ -4,7 +4,9 @@
 
 <div class="container-fluid">
 
-    <div class="row">
+    <h2>AirBn Blame</h2>
+
+    <div class="row col-lg-5">
 
         <input type="text" class="form-control" placeholder="Text input">
         <input type="submit" class="btn btn-default" value="Submit">
@@ -15,27 +17,41 @@
         <p> % ou nbr de commentaires positifs/neutres/negatifs</p>
     </div>
 
-    <div class="row">
-        <ul class="text-center">
-            <li> liste points negatifs</li>
-        </ul>
+    <div class="row col-md-offset-1">
+        <section class=" col-lg-5">
+            <h5>Points Négatifs</h5>
+            <ul>
+                {% for comneg in comNeg%}
+                    {% for com in comneg %}
+                        <li>{{ com.0 }}</li>
+                    {% endfor %}
+                {% endfor %}
+            </ul>
+        </section>
 
-        <ul class="text-center">
-            <li> liste points positifs</li>
-        </ul>
+        <section class="col-lg-5">
+            <h5>Points Positifs</h5>
+            <ul>
+                <li> liste points positifs</li>
+            </ul>
+        </section>
+
     </div>
 
-    <div class="row">
-        <p>Moyenne</p>
+    <div class="row col-md-offset-5">
 
-        <ul>
-            <li>Propreté :</li>
-            <li>Communication :</li>
-            <li>Emplacement :</li>
-            <li>Arrivée :</li>
-            <li>Qualité - Prix :</li>
-            <li>Precision :</li>
-        </ul>
+        <section>
+            <h5>Moyenne</h5>
+            <ul>
+                <li>Propreté : 5</li>
+                <li>Communication : 5</li>
+                <li>Emplacement : 5</li>
+                <li>Arrivée : 5</li>
+                <li>Qualité - Prix : 5</li>
+                <li>Precision : 5</li>
+            </ul>
+        </section>
+
     </div>
 
 </div>

@@ -170,14 +170,15 @@ class DefaultController extends Controller
 
 
                 if ($values[$j] == "ADJ" AND in_array($values[$i],$negatif)) {
-//                    var_dump($values[$i]);
-//                    die();
+                    var_dump($values[$i]);
+                    die();
                 }
             }
             $k++;
         }
 
-        // replace this example code with whatever you need
-        return $this->render('default/index.html.twig');
+        return $this->render('AppBundle::index.html.twig', [
+
+        ]);
     }
 }

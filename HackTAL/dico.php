@@ -1,0 +1,48 @@
+<?php
+$negatifNom = [
+    'infiltration' => 1,
+    'moisissure' => 1,
+    'insecte' => 1,
+    'cafard' => 1,
+    'hygiene' => 1,
+    'fumee' => 1,
+    'fumeur' => 1,
+    'odeur' => 1,
+    'tabac' => 1,
+    'saleté' => 1,
+    'poussiere' => 1,
+    'ordure' => 1,
+    'fuite' => 1,
+    'bruit' => 3,
+    'wifi' => 3,
+    'wi-fi' => 3,
+    'humidite' => 1,
+    'insalubrite' => 1,
+    'cheveux' => 1,
+    'poils' => 1
+];
+
+$adv = [
+    'absolument' => '',
+    'assez' => '',
+    'beaucoup' => '',
+    'completement' => '',
+    'extremement' => '',
+    'fort' => '',
+    'grandement' => '',
+    'moins' => '',
+    'passablement' => '',
+    'peu' => '',
+    'plus' => '',
+    'plutot' => '',
+    'presque' => '',
+    'quasi' => '',
+    'quasiment' => '',
+    'quelque' => '',
+    'tellement' => '',
+    'terriblement' => '',
+    'totalement' => '',
+    'tout' => '',
+    'tres' => '',
+    'trop' => ''
+];

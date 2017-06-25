@@ -1,0 +1,576 @@
+{
+    "productTitle": "rate_me",
+    "p_precision": "rate_me",
+    "nbReviews": 70,
+    "p_proprete": "rate_me",
+    "resume": "",
+    "p_arrivee": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_productTitle": "rate_me",
+    "reviews": [
+        {
+            "pos": [],
+            "date": "juin 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Je ne pouvais pas trouver mieux!!!! Super accueil, une chouette petite guesthouse dans un quartier calme et convivial de Marseille. Jean et Ghislaine sont à vos petits soin, l'emplacement est parfait, un bus toutes les 5 min qui en 15 min vous emmène soit dans le centre de Marseille, soit dans les calanques!!!! Le super bon plan!!!!! Que demander de plus à ce prix là? Moi je ne vois pas!!!",
+            "name": "Anne Laure"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Points positifs: Jean et ses amis étaient très charmants et très accueillants, je me suis sentie à l'aise. Jean est très généreux et arrangeant, si vous êtes dans le besoin vous sentez qu'il est prêt à vous aider. Le quartier de Mazargues est facile d'accès et les transports pour aller en ville ou vers les calanques sont très pratiques et réguliers... Le lieu aménagé est très mignon. Les lieux communs étaient propres et le matelas était super confortable, j'avais à disposition couvertures draps et serviette propres. La salle de bain était nickel et tout confort. Points négatifs: Ce n'est pas une chambre privée comme stipuler dans l'annonce mais un dortoir aménagé dans une mezzanine donnant sur la cuisine, mitoyen au salon. J'étais seule donc je n'étais pas dérangée par des voisins de lit potentiels (les matelas sont très proches sur la mezzanine). Par contre il était difficile de dormir et j'étais systématiquement réveillée tôt le matin (bruits de la cuisine ou du salon). Cela conviendra à ceux et celles qui n'ont pas le sommeil léger comme moi, qui n'ont pas de souci pour partager leur intimité, et qui supportent la cigarette. Si vous vous êtes reconnu, vous passerez un très bon séjour chez Jean, qui encore une fois a été très charmant!\n+ Plus",
+            "name": "Eva"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "L'emplacement est idéal, à proximité de Marseille, les chambres confortables, l'accueil chaleureux, la visite de Marseille en scooter top. Un séjour trop court, et des soirées au coin du feu.",
+            "name": "Eléa"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement plutôt bien placé, notamment lorsqu'on veut visiter les calanques. Jean est très convivial et nous a bien conseillé.",
+            "name": "Loic"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Accueil très sympathique et à l'écoute... Logement propre, idéal pour jeune couple ou personne seule... Une chambre au RdC et quelques matelas en mezzanine...",
+            "name": "Nabil"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Super moment chez Jean!! Merci beaucoup ! Du passage, de la vie et des gens généreux dans tous les sens du termes. Bref je reviendrai. Le logement est bien situé, pas très loin des transports en commun, pas loin des calanques. Je recommande La cigale et la fourmi ;)",
+            "name": "Laurie"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Jean est un hôte parfait. Sa maison est très bien située (commerces, plage, parcs à proximité). N'hésitez pas à aller y passer quelques jours, semaines, il saura vous guider parfaitement.",
+            "name": "Nathalie"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Notre hôte a été très chaleureux et nous a directement fait sentir comme chez nous. Toujours disponible, il nous a beaucoup conseillé sur toutes les possibilités de visites et de tourisme à Marseille. Il nous a parlé de Marseille de son point de vue de Marseillais et c'était très intéressant de découvrir la ville sous cet angle.",
+            "name": "Camille"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Experience chez Jean. Un grand merci pour l'accueil.",
+            "name": "Limou"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Super accueil chez Jean, je me suis tout de suite sentie à l'aise et entourée. Très bonne ambiance, je recommande vivement!",
+            "name": "Jeanne"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Excellent séjour chez Jean! Logement fidèle à sa présentation, Quartier idéalement situé entre les calanques et le centre. Très bonne ambiance! De précieux conseils pour bien explorer les calanques (merci Nico) A refaire!!!",
+            "name": "Jérôme"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Une auberge conviviale et animée ! Si vous voulez rencontrez des vrais habitants de la ville de Marseille c'est un bon spot.",
+            "name": "Yassine"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Nous avons passé une semaine chez Jean qui fut très agréable . Jean est trés gentil et il nous a beaucoup aidé pour visiter marseille . Le quartier est très calme , les voisins sont sympathique . L'auberge est tres bien située , l'accès aux bus y est facile . Nous reviendrons chez jean sans hésité et j'espère tres bientot .",
+            "name": "Cassiy"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Superbe auberge ! Très conviviale, merci pour votre hospitalité :) si vous avez besoin d'une quelconque information, vous pourrez compter sur Jean. Je serai volontiers restée plus longtemps tant l'on s'y sent bien. De plus, elle est très bien située afin d'explorer les calanques ou encore la ville. N'hésitez pas à réserver, vous ne serez en aucun cas deçu !",
+            "name": "Rébecca-Alexie"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Tarifs attractifs, accueil très sympa; jean nous avait gardé une place de parking, nous a offert le café. L'auberge est petite et confinée mais pittoresque et surtout très bien située -5min en voiture de la calanque de Sormiou, proche de toutes commodités.",
+            "name": "Julien"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "l'endroit est parfait et bien situé pour un petit passage sur marseille! super accueil de jean qui n'hésitera pas une seconde à vous guider pour profiter au maximum de votre séjour. bonne continuation ;)",
+            "name": "Mathieu"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "J'ai passé un séjour plus qu'agréable. L'accueil était convivial, chaleureux. Les bons conseils de Tom :) m'ont permis d'en voir un maximum en peu de temps et d'avoir l'envie de revenir. Merci. J'ai apprécié la facilité d'accès aux calanques (il faut marcher et ça fait partie du paysage).",
+            "name": "Florence"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Une guest house comme on les aime... et qui donne envie de revenir à Marseille. Pour la qualité de l'hébergement, bien sûr, mais aussi pour l'accueil, les bons conseils de notre hôte et la sympathie du voisinage (très communicatif !). Le tout dans un \"quartier-village\" qui rompt complètement avec l'atmosphère du centre-ville, sans pour autant en être déconnecté : ce ne sont pas les transports en commun qui manquent et pour les marcheurs, c'est un plaisir de remonter par le parc Borély, puis les plages et les corniches. C'est pas mal non plus dans l'autre sens, direction les calanques. Cerise sur le gâteau, les horaires d'accueil sont très flexibles. Il y a beaucoup de va-et-vient alors forcément, on fait de belles rencontres, y compris lors des apéros organisés de temps à autre entre les voisins. En un mot comme en cent : merci pour cette expérience. Ah, et aussi ce prix qui défie (presque) toute concurrence au vu de la prestation offerte.\n+ Plus",
+            "name": "Clément"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bonne ambiance, Jean est très sympa. Idéalement situé le quartier est calme et permet même de faire un BBQ en plein air.",
+            "name": "Yakoub"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Jean est super sympa et accueillant. L'ambiance est très chouette.",
+            "name": "Cristina"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Jean est serviable et gentil. La cuisine est bien équipée et l'ensemble est propre. Mazargues est bien placé pour bouger autour de Marseille. Non fumeur s'abstenir. les matelas sont bons même si l'endroit est exigu. Jean est un bon guide.",
+            "name": "Bes"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon accueil, Tom est de compagnie agréable, et le voisinage aussi, en plus d'avoir été de très bon conseils pour mon séjour. Nous avons accès à la cuisine, le quartier est calme avec le supermarché juste à côté. Le confort reste sommaire car la maison est petite avec un dortoir à 1 mètre environ sous le plafond mais les matelas sont confortables, et ça permet de partager avec les autres locataires (jusqu'à 10). Personnellement, je suis ravi d'avoir rencontré un autre jeune homme pour partir en randonnée dans les calanques dés le lendemain de mon arrivée. Bien localisé, avec accès par bus en 15 minutes aux calanques (luminy), à la plage ou au centre ville, c'est idéal pour découvrir Marseille dans la bonne humeur et faire pourquoi pas un barbecue avec Tom et les compagnons du moment, je recommande ce site! (mais inaccessible aux personnes à mobilité réduite).\n+ Plus",
+            "name": "Daniel"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Super accueil, on s'y sent chez soit, le prix est super intéressant et l'ambiance décontractée, je recommande !",
+            "name": "Corentin"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Attention le plafond est bas mais l'accueil est à la hauteur",
+            "name": "Olivier"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Bien situé et très bonne ambiance.",
+            "name": "Hamza"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Un voyage dans le voyage... même sans aller loin en ce qui nous concerne, ce petit pied à terre marseillais nous a permis de nous régaler tous le week-end dans les calanques entre Cassis et Marseille... Hébergement basique, c'est ce qu'on cherchait ! Échanges et discussions entre les voyageurs ... dialogue ouvert où tous les avis se rencontrent !",
+            "name": "Julie"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "L'hôte est très sympathique et vous vous sentez très rapidement à l'aise dans ce merveilleux quartier de Mazargues. Les conseils de Tom sont appropriés et précis. Les autres visiteurs sont également très amicaux. Je recommande.",
+            "name": "Philippe"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "french",
+            "neg": [],
+            "text": "Nous avons été très bien accueillis, avec un barbecue dans la rue en prime! Nous avons pu croiser des personnes de tous horizons, ce fut très enrichissant, et tellement simple... Une adresse à retenir!",
+            "name": "Julie"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Des personnes chaleureuses et accueillantes. Un logement près des transports. Jean nous a bien renseigner sur les moyens de transports et surtout pour les Calanques. Je recommande fortement ce logement.",
+            "name": "Mahana"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bel endroit chaleureux et accueillant entièrement rénové et agrandi. Je vous le recommande!",
+            "name": "Dimitri"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Merci beaucoup pour tout, J'ai été très bien accueilli même si j'arrivais à 6h AM. Ils m' ont aidé à comprendre les trajets d'autobus pour me rendre à mes activités. Je conseil vraiment cet endroit.",
+            "name": "Charlène"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "A tout les claustrophobes: ceci n'est pas un endroit pour vous. c'est un petit garage aménagée en mini studio. Je pense que le tout fait max 20m², avec un demi étage ou l'on retrouve 5 matelas pour 12 personnes. Une fois couché, vous prenez un grand risque pour vous relevez, car le plafond est a 10cm de votre tête. Cette pièce est dégueulasse, sans parler de la douche qui fait 1m². Heureusement que j'étais accompagné que de mecs, car ramener une femme la, c'est un CRIME!",
+            "name": "Betim"
+        },
+        {
+            "pos": [],
+            "date": "avril 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Jean et son petit Hostel sont genial!!! Nous sommes restées là pour le week-end et il nous a aidé à planner nos excursions à Cassis et les Calanques. On a un environnement calme avec beaucoup de voisins gentilles, je me sent vraiment comme en France. Nous avons bien profité notre sejour! MERCI :)",
+            "name": "Luisa"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Tout c'etait bon aux Jean :) C'est trés petit mais pour dormir, ca fait! Jean a toutes les infomartions pour visiter les calanques ou les bonnes places en Marseille! Merci beaucoup.",
+            "name": "Robert"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "french",
+            "neg": [],
+            "text": "Je me suis senti le bienvenue et les gars sont très gentils. C'est un endroit ou plusieurs amis viennent jaser tout en prenant un café.",
+            "name": "Jacques"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "The host canceled this reservation 2 days before arrival. This is an automated posting.",
+            "name": "Bernd"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "The host was very kind and helpful, He was always ready to help when you needed him. The place description was misleading though ,it was not a private room - its a dorm and somewhat congested.",
+            "name": "Mohamed"
+        },
+        {
+            "pos": [],
+            "date": "avril 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "The host canceled this reservation 64 days before arrival. This is an automated posting.",
+            "name": "Caroline"
+        },
+        {
+            "pos": [],
+            "date": "mars 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "The host canceled this reservation 81 days before arrival. This is an automated posting.",
+            "name": "Mathieu"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "The host canceled this reservation the day before arrival. This is an automated posting.",
+            "name": "Herve-Greg"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "english",
+            "neg": [],
+            "text": "Jean is so kind and helpful. speaks english very well. Kitchen and shower room have pretty good condition. But staffs smoke indoor. That's only one fault. I recommand Jeans house strongly! 영어 소통이 가능하며 매우 친절합니다. 숙소의 주방과 샤워시설도 훌륭합니다. 하지만 가족과 스탭들이 실내에서 담배를 피운다는게 아쉽죠. 그래도 강력 추천!",
+            "name": "YoungWoo"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "I was in Marseille for a short while of which most time was spent sight-seeing and thus I mainly wanted a place for sleeping. From this point of view I found Jean's place quite nice. It is certainly not for people travelling with family or expecting 3+ star facilities but it is cosy and most importantly the people there were very warm, friendly and willing to help. For the short time that I was there I felt comfortable. Thanks for all the help. Recommended for backpackers especially if travelling alone or in small groups.",
+            "name": "Sunil"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Jean was incredibly helpful when it came to telling me about good hiking places, and generally friendly. The hostel in general had a friendly, chatty atmosphere. The location is very good for hikes and swims in the Calanques. It has direct access by bus to Luminy, a college which is the trailhead for a number of different trails. Late-night bar trips in Marseilles might be difficult, as the buses tend to shut down past midnight. However, the direct bus to/from this hostel stops only a ~15 minute walk (with 40kg of luggage) from the station. This stop, Castellane, is decent for walking to all of the major sightseeing places (Musee Cantini, Bas. Notre Dame, the port). Other reviewers are generally correct in regards to the sleeping accommodations. The beds are about 2 feet away from each other, but it was still easy to sleep. As I arrived in late September, I cannot comment on whether or not it will be hot. Basically, if you're here to hike and be out for most of the day, but still want to cook and chat in the evening, this place is excellent.\n+ Plus",
+            "name": "Spencer"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "I totally recommend this hostel! It's a cosy place to stay and to meet some interesting people. Jean is welcoming person and really can help (how to go somewhere in Marseille or questions inside the house).",
+            "name": "Olga"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Jean was a super host! Alwas friendly, helpful and alwas trying to feel you like home. I recommend it to you!",
+            "name": "Alexander"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "The hostel is in a small part of marseille that used to be a village. For that the streets are small and quiet and nice. Really close by the is a big park where you can go to the lake. It's a small house but you'll have everything you need and it's batter then to stay in the center. Jean is a wonderful person. He'll do everything so you would feel at home and he is this kind of person that will make you feel at home. He has 2 sons but the don't know English so I didn't had contact with them. There are bag packers coming from all over the world and the hostel fits only this kind of people because it small and you'll have minimum privacy. I highly recomend this place!\n+ Plus",
+            "name": "Lula"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Great host! Generous and knowledgeable about things to do/see in Marseille. Kind of far from the city center but there is a bus that can take you all the way!",
+            "name": "Nathan"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Jean's place is pretty nice to bread and breakfast, near to Calanques and you can easily take a bus to other beaches. He's great helping the tourists! If you like to meet people's around the globe, the house is fully of coming and go travellers. I do recommend Jean's and the visit to Calanques (: He can make it better: The room is a little bit hot and sultry.",
+            "name": "Danielle"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Saved my life cause it was the only hostel I found. Jean was super nice and went look for me cause I was lost. Everyone was very nice and helped me out with everything. The first night was extremely hot, another fan would be good.",
+            "name": "Pamela"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Nicolas and Jean were very friendly and helpful. I had the three Best Days in my life. Nicolas and me made a Daytrip to the beautiful nationalepark calanques - overwhelming! The Host is clean and simple. It is perfect for staying a few days in Marseille.",
+            "name": "Lena"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Jean is a wonderful man! He let us arrive for check in at around 1 am even though he likes to go to bed early. He also provided us with a map and some tips on places to see and avoid. His neighbour, Nicolas, also took me and my friend to see the cliffs and was truly a gentleman (definitely would have got lost without him). The place itself is very simple, and I imagine unbearably hot in the summer. Don't expect anything fancy in terms of accommodations, but it was clean and in a nice neighbourhood with plenty of bakeries and shops. It is also close to both the park and the city so good for those who want to see both.\n+ Plus",
+            "name": "Jacinta"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Thank you for hosting me at your place and for your friend's assistance with our challenging communication.",
+            "name": "Steven"
+        },
+        {
+            "pos": [],
+            "date": "avril 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "It was a great stay and Jean certainly is a great person. He is really kind and helpful towards everybody. He knows really well wherw the hotspots are. I would definitely stay at his place again if I were to revisit Marseille.",
+            "name": "Richard"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "I had a great time and enjoyed staying. The sleeping situation: It is a mixed dorm, but the mattresses are big enough. The neighborhood is very calm (and luckily, so were my dorm-mates), was save and easily accessible by bus. The City Centre as well as the Calanques are in the vicinity. If you want privacy this is not the place for you, but if you don't mind sleeping in a dorm, this is the place for you. It was clean and Jean is a great host (he even took me on his scooter to the city centre).",
+            "name": "Julia"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Tom is the kind of man who makes you feel at home quite easily. I felt quickly connected to the place and It was a big joyful and homy honor to experience him and his neigbours. Thank you Gerard, Nicola, Nabil, Alain and all you for making me feel at home. I will definitly be back again. Tom, you are a funny man. I appriciate and respect you for being you!!!",
+            "name": "Marie-Lydie"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Host was fine. Stay was awful: the dormitory was small, crowded and a bit dirty. We leaved one day before !!!",
+            "name": "Bruno"
+        },
+        {
+            "pos": [],
+            "date": "août 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "The host was very nice and welcoming! He gave me maps for Marseille and the national park and offered a lot of tips what to do and see. He also let me to wash my laundry in the washing machine. The neighbourhood is nice and quiet and you can easily access both city center (bus + metro) and national park (bus). The place was quite crowded during my stay, I think there was total of 17 people staying there at the time. The mattresses were in 1-1,5 meter high spaces above the rooms and it can get very hot in july. However, the mattress were comfy and clean as was the rest of the apartment.\n+ Plus",
+            "name": "Sini"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "I had a fantastic 3 nights at Jean's. There is a great atmosphere, very relaxed. Les calanques close by are magnificent, and spending the evenings outside sharing wine with Jean's neighbours is something you dont get in a big hostel. Jean good luck with the Philippines, maybe I'll see you there!",
+            "name": "Kendall"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Tom was realy welcoming, friendly and helpfull. But the \"room\" was no good at all. It was extremely tiny, hot an it had no window. This \"hostel\" is in fact a narrow garage/kitchen, with 8 beds on small \"mezanines\". There is no privacy at all. Our \"room\" was build on top of the bathroom. I would never recommend this place.",
+            "name": "Magy"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Tom is a great host. He welcomed us into his home and prepared a beautiful meal for us. The only complaint I have is the rooms were very hot but it was the middle of July in the south of France.",
+            "name": "Ciara"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Nice price! Place situated in good district, quite near to beach (20-40 minut by foot), many shops near. Very hot, too loud, too many people in one \"room\"( actually it is not really rooms, it is 1,5 meter in height places, with mattress on floor).",
+            "name": "Yutushui"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "I wish we stayed longer!! We only had one night here and our host showed us so many things we could have stayed a week like many other travelers were doing. Very welcoming, clean and friendly. Host offered to pick up and drop off. Really just good people. Would recommend to anyone.",
+            "name": "Mike"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "La girelle is a great little spot slightly out of the hustle of marseille. Very friendly and informative host. The set up of his place allows for great social interaction. Definitly would recommend anyone to visit small hostel la girelle!",
+            "name": "Skalk"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Tom is very welcoming as a host. He is knowledgeable about the area and was extremely flexible with our schedules (check in and check out). He really wants his guests to have a good time. The hostel itself is simple. The common areas were clean. One has to be mindful that the ceilings are low in the rooms, so you literally have to crawl into bed at night.",
+            "name": "Sangita"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Very friendly and sweet hosts - quiet part of the city with access to everything by bus and metro. Enjoyable stay!",
+            "name": "Raechl"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "Tom made us feel very welcome in his funny loft space in town 15 mins from marseille center and 15 mins from the calanque hike. great if you want to do both! also great if you have a car",
+            "name": "Liz"
+        },
+        {
+            "pos": [],
+            "date": "juin 2015",
+            "lang": "english",
+            "neg": [],
+            "text": "great location close to the city as well as tourist attractions (calanque,beaches) . great host very acommodating and helpful would come back again",
+            "name": "Serlou"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "Great time at Jean's place. Great people and atmosphere",
+            "name": "Robert"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "it was really great to stay at toms place. its a small, cozy and clean hostel with a very familiar atmosphere. i would definitely recommend you to stay at this place",
+            "name": "Bastian"
+        },
+        {
+            "pos": [],
+            "date": "août 2014",
+            "lang": "english",
+            "neg": [],
+            "text": "I think La Girelle is one of the best place you can go in order to discover Marseille in different way. This is a calm and clean place with a beautiful beach which is not far. The atmosphere in the house is quite relaxing and very home like. Another thing is the people who are usually very interesting personalities including the owner of the house!",
+            "name": "Jane"
+        }
+    ],
+    "p_emplacement": "rate_me",
+    "id": 55,
+    "p_qualite-prix": "rate_me",
+    "p_communication": "rate_me"
+}

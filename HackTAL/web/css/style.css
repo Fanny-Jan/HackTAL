@@ -1,3 +1,32 @@
 body{
-    padding-top: 30px;
+    padding-top: 15px;
+    --couleur : #D42A36;
+    background-color: #fafafa;
+}
+
+div.separation {
+    margin: 20px 0px;
+    width: 100%;
+    height: 4px;
+    background-color: var(--couleur);
+}
+
+.btn .btn-default {
+    border-color: var(--couleur);
+}
+
+li {
+    font-size: 18px;
+    list-style-type: none;
+}
+
+.moyenne {
+    margin-top: 30px;
+}
+
+.carte {
+    /*height: 410px;*/
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);
+    background-color: white;
+    padding: 7px;
 }

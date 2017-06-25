@@ -1,0 +1,944 @@
+{
+    "productTitle": "rate_me",
+    "p_precision": "rate_me",
+    "nbReviews": 121,
+    "p_proprete": "rate_me",
+    "resume": "",
+    "p_arrivee": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_productTitle": "rate_me",
+    "reviews": [
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Patricia",
+            "neg": [],
+            "text": "cher Charles: nous avons passé de jours merveilleux a votre appartement, il est vraiment un lieu special, tres confortable, tres bien equipé, avec une vue magnifique de la tour Eiffel et bien situé. Je vous remercie pour tout, specialement a votre mere qui est une personne charmente est tres aimable. Ma mere dit qu'elle pourrait vivre a votre appartement parfaitment, elle etait comme a la maison. J'espere pouvoir aller dans une autre ocasion a votre lieu. A bientot, Bien a vous Patricia",
+            "date": "septembre 2011"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Barbara",
+            "neg": [],
+            "text": "Don't hesitate to book this apartment if it is available! It is an incredible apartment, in a perfect location. The view of the Eiffel Tower is priceless. We were greeted very warmly by Marie and Pierre, who were selflessly accommodating our entire trip. Their suggestions on sites, navigating the city and dining were so helpful and exceeded our expectations. It made our experience unforgettable. You won't regret a thing!",
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Daniel",
+            "neg": [],
+            "text": "Wonderful apartment , close enough to transit , and of course very close to the Eiffel Tower , but along with comes a lot of tourists and noise ,but overall a great place to stay",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Olivia",
+            "neg": [],
+            "text": "Charles' place was better than expected. You can't even begin to imagine how beautiful and extraordinary his home is. Not only did we pick the perfect place to rent but Marie and Pierre (Charles' parents) were extremely helpful leading up to our arrival and during our stay. I felt more than prepared to arrive to just enjoy the trip without any worries. The view during sunrise was probably one of the prettiest sites I've ever seen. If you go to Paris and want a true Parisian visit with a great view, Charles' place is the one for you!",
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Grace & Kevin",
+            "neg": [],
+            "text": "I cannot rave enough about this little gem in Paris! First of all, the view of the Eiffel tower is magnificent and you can pretty much see it from every part of the apartment due to all the mirrors placed throughout. We loved laying in bed at night and watch the twinkling light show on the hour! Wow! The location is in a more residential part of Paris, so we really got a feel of local culture away from the tourist bustle, but we are still close enough to be apart of it if we wanted to. People watching from the apartment and from the balcony was great! Since we are in the city, there will be some street noise at night and during the day, but we found that authentic and charming. Metro stations are close by and a bus station right outside the apartment's main door made getting around very convenient. The neighborhood has small wine, cheese, pastry and food stores for easy shopping. The apartment was FULLY stocked! Marie and Charles are excellent hosts and communication was great. Each and every one of our concerns and questions throughout our planning process were addressed quickly and informatively. Although we didn't cook while we were there, you definitely could as the kitchen was fully equipped. Marie and Charles went above and beyond in stocking the apartment with so much essentials that made us feel right at home and we felt so worry free. Our week staying at the apt. really made us feel like we were living in Paris! We were sad to leave! The bathroom is updated and the shower is really awesome! The steam shower is a great way to end a day having been on our feet sight seeing and walking around the city. Unfortunately, we were not able to meet Marie in person, but we got to meet Charles. Such a pleasant and personable person and gave us lots of insight into his city and his insider tips to bakeries and shops. He even brought us croissants in the morning! I cannot stress how easy and wonderful our experience was as first timers in Paris! Marie & Charles love what they do and it shows! We hope to come back to Paris soon and we will definitely try to book this place again, if it is available. Thank you Marie & Charles! You have made our experience unforgettable! Merci Beaucoup!",
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Joshua",
+            "neg": [],
+            "text": "Charles's apartment is truly fantastic. The obvious: the view really is that good. In fact, it's probably better than you think it is. There are enormous windows along the entire balcony, and there are mirrors throughout the apartment so that you can watch the Eiffel tower twinkle at night; there's a great view of the grand palais and the sacre coeur off the balcony as well. It's a breathtaking view when its cloudy, rainy, sunny or nighttime. The apartment facilities are also quite lovely. Everything was clean and in working order. The kitchen has a nice induction range that is great for cooking eggs, and a nespresso machine. The fridge is spacious. There is a dishwasher, washing machine and dryer that helped us save time and packing space. The shower is fantastic, with good water pressure; it has handheld, rainfall and waterfall shower heads as well as a built in steam shower. The bed is comfortable and the common areas are very open feeling. There is a (small) elevator that efficiently takes you up to the eighth floor, and there are key-fob activated security gates at every entrance to the building. The location is also great for a visitor to Paris. You are right on the border of the 7th arr (highly touristy with the Eiffel Tower, Rodin museum and Napoleon's tomb) and the 15th arr (much more residential, with great fromageries, boulangeries and a fantastic farmers market twice a week). It is a short walk to the metro stops at Champ de Mars, Bir Hakeim and La Motte-Picquette-Grenelle. There are also many useful (and scenic) bus lines that leave right below the apartment's balcony (including the #69 which makes an excellent self-guided bus tour--see Rick Steves's Paris book). Marie (Charles's mom) was a lovely host, and she and her husband spent a lot of time helping us get settled and checked in with us every few days to make sure things were going well. All in all we couldn't recommend our stay at Charles's apartment more highly.",
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Yunier",
+            "neg": [],
+            "text": "It is a spacious, modern flat with fantastic views over Paris from most of the flat. We loved watching the light show on the Eiffel Tower from our living room. Shops and restaurants are only minutes away. We were very happy with everything that we wanted in the flat. Marie is very helpful too and meets you on arrival.",
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Robert",
+            "neg": [],
+            "text": "This is an amazing rental. The flat and the hosts combine to make your stay in Paris incredible. Recommend staying here.",
+            "date": "février 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Glennys",
+            "neg": [],
+            "text": "Don't hesitate. Just book this amazing apartment. It will exceed all and any expectations. The view of the Eiffel Tower and gardens and views back to Sacre Couer dazzle. The location has awesome access to transport, restaurants, food, wine, cheese and local markets. Most of all you will truly appreciate the genuine and caring welcome extended by the hosts. It shines through. Merci beaucoup Charles, Marie and Pierre. We will be back. Glennys and Wayne. Australia",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "David",
+            "neg": [],
+            "text": "Words cannot express how marvelous this property is!!! If you want to experience the real Paris & Eiffel tower, this apartment is a must. We have so enjoyed meeting and getting to know Pierre & Marie, they are a true Parisian joy!!!! Whatever you need, whether its shopping, dining, sightseeing or just having a glass of wine together they are there to assist you. The apartment is immaculate and well appointed with beautiful linens. The bed is very comfortable along with the best steam shower. After a day of sightseeing soaking up all of what Paris has to offer you come back to the apartment, pop a bottle of champagne sit back and wait for the Eiffel Tower to sparkle welcoming you home...then comes the steam shower...ooh-la-la! Enjoy my fellow travelers...",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Joshua",
+            "neg": [],
+            "text": "The description and pictures are perfectly accurate, but what they don't provide a sense for, are the magnificient hosts, Marie and Pierre (who was at the door step when we arrived, and gave us the warmest welcome), insisted that they help with our luggage, and provided fantastic recommendations around the city. The location is perfect, with city bus lines 42, 69 and 82 that will fulfill most, if not all transportation needs for the typical tourist - taking a bus is one of the best choices we've made staying there, all the sights minus any safety concerns ... I initially had some reservations about staying in the 7th/15th arrondisement but my concerns quickly dissipated once I discovered how convenient and easy it is to get groceries and food/restaurants (Vin & Maree just steps away is a must do !). Thanks Marie for your kind hosting, and I look forward to returning in the future !",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Glenn",
+            "neg": [],
+            "text": "This apartment (and the entire experience) was above and beyond our exceptions. We were welcomed like family and felt completely at home. The apartment had wonderful amenities and was stocked with everything we could possibly need. We hope to return soon and spend more time in this fabulous location! The view of the Eiffel tower was so beautiful, and our hosts were so helpful with all sorts of advice and resources to make sure that our stay was absolutely perfect.",
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Racquel",
+            "neg": [],
+            "text": "We use Airbnb every year for trips & this by far has been our favorite. Not only did it exceed our expectations but the graciousness of Marie, Pierre and Charles was far beyond what we expected. From the first time I contacted Marie to inquire about the property to the night before we left she made every effort to provide information regularly and to check in to inquire of our plans (that way she could offer suggestions if needed--car service, suggestions for sights to see, restaurant suggestion, answering questions not only about the property but also responding to requests such as for help for the best way to go to see the Tour de France (yes, we were lucky enough to be in town at the end of it!) and helping us plan for our son to travel from Paris the day we arrived to Tigne France where it was another 3 1/2 hour train ride and a three hour shuttle ride to get there. All within 1 hour of arriving from the USA. We were lucky enough to meet Charles who was in town for business (and who is every bit as lovely as his parents!) He contacted us the evening prior to arrival to make sure everything would flow smoothly and he was waiting outside the flat when we arrived. He then gave us a quick tour and demonstrated how everything in the flat worked and then helped us call a cab to take our son to Gar de Lyon as we were on a super tight schedule. Upon arriving back at the flat we had a more leisurely chance to enjoy the view, all the lovely amenities and the treats left (macaroons and champagne) as well as being grateful for the basics left in the fridge. Milk, beer, water, coke, etc. Our favorite things about the flat..the view, the view, the view. As if you could touch the Tour Eiffel. Enjoyed it in the morning drinking coffee on the lovely outdoor patio (espresso maker and plenty of pods in the flat!), and loving it as the sun set and at night when she twinkled. The steam shower! Having a spa experience every day in your own home for free. Heaven! And the pictures for the bath do NOT do it justice. The comfortable bed and EVERY amenity you could need or forgot to bring there for you. What I have not liked about some of our past Airbnb experiences was that they left barely any toilet paper, one bar of soap, no paper towels or laundry soap etc. Marie had EVERYTHING stocked with plenty for the duration of our stay as well as extra in the vanity (perfume, bandaids, lotion, lovely body wash and shampoo in the shower) etc. It was if you were staying somewhere where they really liked or loved you and they wanted to make sure you had absolutely everything you could want...Merci beacoup, dieu tu benisse dear Charles family!",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Wright",
+            "neg": [],
+            "text": "This place could not be any better. Many airbnb places have carefully curated photos to make it seem better; if anything, this is nearly the opposite. It is a beautiful modern place with a great kitchen and steam shower ... and the view is spectacular. I cannot recommend this place high enough -- and the kindness of Charles and his family is twice as important as the view and the apartment.",
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Glen",
+            "neg": [],
+            "text": "A take your breathe away apartment in the city of light. We have stayed at Air BnB's in NYC, London, Scotland, Ireland, Vancouver Canada, New Orleans, Montana, and Charles place is in the top \"2\". Location and view are the tops. The apartments has a super kitchen, nice bedroom, an over the top bathroom and plenty of space for a couple. The \"cherry\" on the top of sundae is the warm and thoughtful greeting and interactions with Marie and Pierre. They turn a normal stay in an \"Air BnB Bonus\" stay. The pre arrival emails and information along with the arrival briefing and the continued \"check in's\" assisted in making our stay in Paris a superior vacation.",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Chris",
+            "neg": [],
+            "text": "Outstanding experience! Charles' apartment lived up to every photo and every expectation we had of it. Great location with easy access to the Métro, RER and bus; amazing view of the Eiffel Tower and Sacre Coeur. The apartment has all the amenities (and then some) -- dishwasher, washer/dryer and very nice kitchen; steam shower; stereo, satellite TV and fast Internet. More than anything, though, we felt so well taken care of by Marie and Pierre. They greeted us upon arrival and explained every detail (providing great recommendations in the neighborhood) and then checked in on us during our stay to make sure everything was going well. Thank you so much!",
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Janine",
+            "neg": [],
+            "text": "Our hosts, Marie and Pierre made us feel as if we were welcomed friends from abroad! Every detail from apartment amenities to thoughtful flowers, delicious maccarrons and chocolate, and special champagne put us in the mood to enjoy Paris immediately. The detailed maps with recommendations for sights and restaurants were spot on and made for confident daily excursions. Marie truely went out of her way to make our stay so special. We cannot wait to return!",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Michael",
+            "neg": [],
+            "text": "Charles' apartment is gorgeous with a modern touch and a cozy feeling. Features like the steamer, walkout balcony and washer/dryer helped make our honeymoon extra special. The location of the apartment is perfect, with a perfect view of the eiffel tower (Oh, and mirrors inside that let you see the tower from all rooms), and access to the busses and Metro right outside. Having the bus stops outside the door made seeing Paris a breeze. For our honeymoon, Charles went all out, leaving champagne, macaroons, and rose petals for our arrival. There is also an awesome binder full of suggestions for restaurants and sites. Words don't do justice for how amazing the apartment is and how lucky we were to get Charles' apartment.",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Summer",
+            "neg": [],
+            "text": "Just came back from Paris. My husband and I stayed in Charles’ apartment for ten days. It was perfect. The location is quite convenient, close to everything. Within 10 mins walk, you can get RER C, Metro 6 and Metro 8, 3 lines can take you to every popular spot in the city. There is a supermarket right next to the building, a great place for daily supply shopping. Plenty of dining choices in walking distance. The view from the room is fabulous. Having breakfast in PJs with Tour Eiffel is quite an extraordinary experience. Marie is attentive, welcoming and resourceful. Marie and Pierre gave us the warmest welcome upon arrival. The first greeting was “Welcome home” I am so touched… They introduced the room and a lot of useful information to getting around. You can find everything you need in the apartment. It really feels like home. Do not hesitate to book this apartment! Can not wait to have my next stay.",
+            "date": "janvier 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "John",
+            "neg": [],
+            "text": "My wife and I had the pleasure of ringing in 2016 in this truly fantastic property. Marie and Pierre gave us the warmest welcome upon our arrival and were in continues contact with us throughout our stay. They really do want you to have an enjoyable stay and the best possible time while in Paris. They really are just The Best hosts and all around great people. Some of the highlights for us were: -The Welcome macaroons and champagne that you see in the photos-it really is waiting when you get there! -The book cabinet. It was great seeing all the Paris guide books from different authors, along with maps and other city information right there to thumb through. Even though we had done plenty of research before coming, it was great to have additional information. -The view and the balcony. Let's be real: that view is what all of our Paris dreams are made of. And with the huge balcony and unobstructed view, it really doesn't get any better. -The bathroom. Words cannot describe how AMAZING this bathroom is. That steam shower. Oh my gosh. Just the best. We used it every single day of our trip. Coming back after a day running around, especially if it had been damp and dreary, this was like a slice of heaven. And with all the wonderful rain and waterfall shower heads. I'm telling you, it was like a spa and worth every penny of the rental fee. Additionally, the apartment is in a really nice area and is generally pretty quite after dark, which we enjoyed. The Champ de Mars RER and the Bir-Hakeim Metro stops were both a little more than five minutes walk away and really did connect you to anything in the city. We found all the appliances we used, including the washer, dryer, oven, Nespresso and microwave all worked and were great to have on hand. Staying at in this apartment felt like we were staying in the most luxurious penthouse in Paris. Thanks again to Marie, Pierre and Charles and for giving us a New Year we will always remember.",
+            "date": "janvier 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Roxi",
+            "neg": [],
+            "text": "Marie and Pierre were fabulous hosts. And the apartment was simply divine. We truly enjoyed the comforts of home, shopping the local markets and so much more. We just couldn't get enough of the amazing view, day and night. And, we are sure to return again!",
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kritshya",
+            "neg": [],
+            "text": "We just got back home after spending a week in Charles's apartment. It was a perfect honeymoon. Thanks to Mari, our super host, she was very caring and also very professional. The location is safe and convenient, with lots of restaurants around. Best of all is the view of the Eiffel tower which is magnificent from the bedroom to the living room's balcony, even from the kitchen. We had such a wonderful time. The apartment is a mix of modern feel and a touch of some antique pieces. It is very Parisian. Everything in the apartment is very tidy. Mari did a very good job by fulfilling all little details. There were plenty of linens and towels and lots of bathroom amenities. The kitchen is lovely with all the things you need for cooking. We went to some places that was recommended by Mari and it was very local like the morning market. We will definitely return.",
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "David",
+            "neg": [],
+            "text": "Well, what can I say...this apartment surpassed all expectations!!! This is our first stay at this apartment & it was spectacular!!!! Marie & Pierre are 2 of the most kind, helpful and loving people...oh, may I also say professional. They greeted us at the apt with a big hug and those wonderful \"French\" kisses on both cheeks. They welcomed us with a bottle of chilled\"French\" champagne also 1 doz. bon-bons with a beautiful bouquet of flowers. The views are spectacular, we felt we on top of the Eiffel Tower. This apt is spotlessly clean with beautiful linens & big fluffy robes. We are very fussy about the beds. This bed was wonderful!!! The steam shower was such a treat... We are looking forward to our visit next year... A big French \"Merci\" to Charles, Marie & Pierre David & Nancy",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Maureen",
+            "neg": [],
+            "text": "We had the opportunity to stay in Charles's lovely apartment for a month during September this year. What a wonderful experience this was! In Charles absence, his mother Marie handles the rental of his apartment for him, and what a lovely job she does - we were welcomed with champagne, macaroons, fresh roses and a very charming hostess. This apartment is as lovely as it looks on the airbnb site, and the view of the Eiffel Tower is indeed, magnificent. It is quite well outfitted with plenty of linens, dishes, basic food supplies, and is nice and roomy for two people. The balcony allows you to leave doors open and enjoy the activity of the Champs du Mars. My husband and I can enthusiastically recommend this experience to anyone!",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Joni",
+            "neg": [],
+            "text": "My husband and I just returned from our wonderful 8 night stay in this Eiffel Tower apartment. We had been to Paris twice before but this trip will always be the most memorable! Upon arrival, we were greeted by Marie, Charles' mother. She was personable, warm, charming and had so much information to share - it helped to make this a very special vacation. As others have mentioned, we were greeted with champagne, macarons and fresh flowers! The apartment is exactly as it looks in the photos - spacious, homey, very inviting and with that fabulous Eiffel Tower view! There are very few places in the apartment where you can't see the Eiffel Tower out the windows, or a reflection of the Eiffel Tower in one of the many mirrored walls. C'est magnifique!!! The bed was so comfortable, and the bathroom is very modern and up to date. The kitchen had everything we needed to make dinner there a few nights. The neighborhood is very nice, safe, and has many shops close by. A very short walk will take you to a bakery, restaurants, groceries, fresh flowers, wine, etc. We were also close to a bus stop which made getting around town so easy and fun. Marie has compiled 2 notebooks with all the information you will need to have a wonderful time. We shared a few emails with Marie while there, and she always responded promptly to all of our questions. It really was a perfect vacation and vacation spot - one we will gladly return to!",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Geeta",
+            "neg": [],
+            "text": "Thank you Marie & Pierre for making us feel so very welcome. The apartment is amazing and we couldn't get enough of the view. The apartment is well located with public transportation on the doorstep. Shopping for necessities is only steps away. The neighborhood is safe and we felt comfortable strolling out quite late in the evening with our little one in tow.",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Carolina",
+            "neg": [],
+            "text": "When I knew I would visit Paris again I didn’t hesitate to return to Charles apartment, is the most beautiful view of Paris, the Eiffel Tower is almost INSIDE the apartment (it feels like you can touch the tower), and the view of Sacre Coeur and the Eiffel so close is amazing. As my second time in the apartment I can say the improvement is more than LUXURIOUS, the bathroom is a dream, there are no words to describe. Every detail is amazing, the lights, the showers, the sauna…I can assure you will feel very spoiled. The apartment has everything to feel comfortable and relaxed. The neighborhood is beautiful. The hosts very attentive to all our needs. One more time, Thanks for everything, as always, staying in Charles apartment it makes me feel like a queen for a couple of days. Merci, merci, merci!!!",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Frederico",
+            "neg": [],
+            "text": "Everything was perfect. Marie made us feel at homr. Thank you very much for everything. We will be coming back for sure. We highly recommend the apartment. Everything in perfect shape, air conditioning works perfectly, and the neighbourhood is wonderful everything walking distance!!!",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Luke",
+            "neg": [],
+            "text": "Marie & Pierre were the perfect hosts, very welcoming and advised of all that was needed. The apartment is ideal, the Eiffel Tower is literally across the road! Would absolutely recommend this apartment, but please look after it - I want to return.",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "John",
+            "neg": [],
+            "text": "I am recently retired and my wife and I got to spend our 39th anniversary in this wonderful place. Our host, Marie, was the most welcoming host I have ever encountered in our travels. She was attentive, gracious and incredibly helpful with our in-country travel plans, locations of places of interests and local markets and restaurants. The flat was just perfect! Clean, super location, great view from the balcony, plenty of room and amenities. We want to go back to Paris soon and would definitely stay there at this apartment again.",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sam",
+            "neg": [],
+            "text": "To begin this review we would like to say Marie and Pierre are extraordinary hosts. If Airbnb has an award for hosts (and I believe they do) they shouldn't just give it to Marie and Pierre, they should name the award in their honor. The apartment is in the best location in Paris. We were in Paris for eight days and we went everywhere in the city, and I can say with certainty there is no better location. Just a few steps from the front door is a bakery, fruit stand, groceries, butcher shop, cheese shop and restaurants. The two best bus lines (42, 69) are right out the front door and the most convenient metro station in Paris is a few minutes away. On Sunday I walked to the Louvre, Orsay and Notre Dame along the Seine River, which is just a ten minute walk from the apartment. And finally there is the Eiffel Tower, which you can almost reach out and touch from every room in the apartment. The apartment itself is perfect . Look at the photos in the listing, which are amazing, then realize when you arrive the apartment will exceed your expectations in every way. Spending time in Paris in this apartment with Marie and Pierre as your hosts is the experience of a lifetime.",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Afoma",
+            "neg": [],
+            "text": "This was perfect! Marie and Pierre were wonderful, extremely thorough, and always available to help. Charles' apartment was better than as described. Words cannot capture the magic of this apartment... You'll have to stay here to experience it for yourself. Close proximity to everything....restaurants, shops, buses, metro... you name it! You can't find a better location from which to truly explore Paris!",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Anthony",
+            "neg": [],
+            "text": "Charles and Marie were perfect hosts. The apartment was magical, lovely and roomy for the two of us. We especially loved seeing the Eiffel Tower twinkle at night. We felt at home the moment we entered. Every detail on what a guest might need or like was considered. We were treated like friends. How wonderful is that? Marie, as others have mentioned, was perfection -- charming and thoughtful. She let us know months in advance to get our Eiffel Tower ticket to avoid the long lines and provided early information on museum passes. She clearly thinks on her feet. I left her contact information with a store manager forgetting to tell her she might be called. Marie understood the situation and resolved it for us. I now have a fabulous dress for my son's wedding. We loved it that Marie uses technology. We communicated by text! P.s. The apartment has a new state of the art bathroom. Absolutely gorgeous. Thank you Charles and Marie for an unforgettable experience. Stayed in May 2015.",
+            "date": "mai 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Thomas",
+            "neg": [],
+            "text": "Much as I'd like to come up with some nitpicking deficiency, just to prove I'm discerning and alert, the fact is that this apartment ranks among the very best accommodations we've rented -- ever -- and that covers a lot of territory. There is literally nothing about this place that requires improvement. From the spectacular view to the well-equipped kitchen; from the welcoming gestures to the kind and knowledgeable help we received from Marie, Charles' mother; from the comfortable bed to the gloriously imagined bathroom, the apartment was practically a destination in itself. There are very few Paris apartments that sport a 40 foot balcony, loads of light (and complete darkness when you want it), mirrors that accentuate and reflect the grand vistas this place affords some nine stories up and a location that is second to none. My wife and I love to rent apartments instead of hotel rooms, and this place is a perfect example of why it makes sense.",
+            "date": "mai 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Roger",
+            "neg": [],
+            "text": "Excellent hosting by Marie, Charles's mother. Prior to arrival she promptly and efficiently responded to emails and supplied all the information (and more) one could want. Marie waited in the apartment for our arrival and personally showed us how everything worked, and then again a few days later checked that everything was ok.(it was!) The apartment was well furnished and had the amazing views of the Eiffel Tower. It was very well equipped and stocked like a home with plenty of crockery, cutlery, utensils, linen etc, even with non perishable foodstuffs in the kitchen. A nice touch to have macaroons, champagne and a giant vase of flowers welcoming us. Access to the apartment was easy and felt secure. The rental was not cheap but still represented good value for money. We very much enjoyed quiet use of the apartment. I suspect that if renters were used to a noisy lifestyle then maybe there might be complaints from neighbours.",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sherry",
+            "neg": [],
+            "text": "You will feel comfy with great apartment, great location and gorgeous tower view. Maris is a very nice people and take care about everything we need, as we can't speak French, she really help a lot!! And call the Uber for us! We keep in touch all the time, nothing can worry when we stay there. We highly recommend Charles' apartment !!",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Leila",
+            "neg": [],
+            "text": "Our dream trip to paris was made Perfect by staying in Charles apartment. Upon arrival Marie and Pierre welcomed us like we were old friends. What a delightful couple! Marie was so helpful with recommendations, Information, and travel details. The apartment was even better than pictured, and so well equipped that we felt at home immediately. I am home now, but My heart is still on the balcony Watching that amazing view. Thank you so much for a wonderful stay!",
+            "date": "septembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Michael",
+            "neg": [],
+            "text": "This was our first trip to Paris and was to celebrate our 40th wedding anniversary. We wanted the trip to be extra special and memorable. We also decided that we wanted to spent our two weeks exploring Paris and experiencing a little slice of Parisienne life rather than running ourselves ragged like many a tourist. We fell in love with Charles' apartment from the moment we first discovered it on Airbnb. Without exception, the apartment was as pictured and as promised. The way that Charles' mother Marie and father Pierre attended to our needs was truly extraordinary. They made us feel like we were a part of the family! What can we say about the amazing view of the Eiffel Tower? Equally as impressive was the \"Central Park-like\" view of looking over the park called Champs de Mars, the distant view of the Basilica Sacre' Coure on Montmartre and the expansive view of the north and western portions of the city. There are plenty of great places to eat in the neighborhood, an amazing cheese shop just around the corner and a very nice wine shop too. Local markets are close by, making it convenient to stock up for a home cooked meal or several. The apartment is perfectly suited for walkers like us. We logged 10-15 miles per day exploring most parts of the city from our \"home\" base. While we did not travel by bus, you could catch a bus to anywhere just by stepping out the door. A Metro station, which we did use a few times, is a short 5 minute walk down the street. At first we were concerned that the apartment would be very noisy at night but with the sliding windows and curtains closed, it was not noisy at all. It helped that the bedroom and living room have air conditioning, especially since it was quite warm the two weeks we were there. In a nutshell, we highly recommend this great apartment and especially appreciate the gracious hospitality shown to us by Marie and Pierre.",
+            "date": "septembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Suzanne",
+            "neg": [],
+            "text": "Did you ever wonder what it was like in Heaven??? I am pretty sure that it is a lot like Charles' apartment in Paris! Oh, what a week! Every morning when I woke up, I looked outside to see if the Eiffel Tower was still there or if it had only been a dream...and every morning, it was still there, every bit as impressive as the first time we saw it off the terrace with Marie and Pierre at sunrise that first morning. They were such gracious hosts! And the apartment had everything we needed and more. We loved the proximity to the busses, subway, restaurants and many stores. But I think that what we enjoyed the most was being so close to the Tower, so that every night after dinner, we mixed with the crowd, watched the locals just laying on the lawn of the Champs de Mars, with a bottle of wine, enjoying the art if doing nothing... We were in an elegant neighborhood and felt very safe even after dark. If you are reading this review trying to decide if you should rent Charles' place, by all means do it if you are lucky enough to have the opportunity. You will enjoy coming \"home\" to it at the end of every day as we did and will not regret your decision. And you will have two new friends in Marie and Pierre that were always SO willing to help us. If we ever go back to Paris, that will be our home away from home again, no doubt!!!",
+            "date": "septembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lysa",
+            "neg": [],
+            "text": "Charles apartment was perfect. From the time I booked the stay to the very end. Marie and Charles made my dream vacation a perfect memory. What you see in the photos of the place is that and more. I was a local at the marche and bakery. Just wow all the little touches help with everything taxi, shuttle and restaurant from Marie. I would come back in a heartbeat! Lysa",
+            "date": "août 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Debra",
+            "neg": [],
+            "text": "My husband and I just spent a most wonderful week in Paris. We chose Charles apartment because of the excellent feedback given by previous guests and were in no way disappointed. What a truly special location. We never got tired of looking out to see the Eiffel Tower in all it's glory any time of the day or night. We were met at the apartment by our very gracious hosts Marie and her husband who could not do enough for us. The apartment provided us with everything we needed for our stay and more. The luxury of getting up,making our own breakfast and enjoying it on the balcony in full view of the Eiffel Tower (all in the comfort of our PJ's) was fabulous. Staying in the apartment made us feel a little like a local, exploring the markets on Rue Cler or heading to the local boulangerie for our daily baguette. All amenities you would have in your own home have been provided as well as multiple maps, brochures and books about Paris. We highly recommend this apartment if you are looking to escape the blandness of standard hotel rooms and enjoy a real Paris experience. Thanks for having us!",
+            "date": "août 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alexandra",
+            "neg": [],
+            "text": "It is my great pleasure to leave a review for Charles's wonderful apartment and his even more wonderful parents Marie and Pierre! We stayed for a week in Charles's apartment in July 2014 and it was a very special experience and one which we will always remember with joy. The apartment is exactly as advertised with a literally breathtaking view. The view was in fact our main reason for staying at the apartment and we had previously considered 5-star hotels in Paris which boast a similar view. It was my 40th birthday while in Paris and I wanted a memorable view with which to begin and end each day. We booked Charles's apartment as a very affordable way to have this view and we were not disappointed. If this is something that is important to you also, then go ahead and stay here because it is awe-inspiring. The apartment is situated in what feels like a very safe quartier of Paris and of course exceptionally close to the Eiffel Tower (perhaps a 3 minute walk). There are many shops and amenities close by, however we did find that a few had closed down for the summer but this is to be expected. We discovered an absolute gem in the restaurant Casse Noix and wish we had had the opportunity to eat here more often! We have no hesitation in recommending this restaurant which is situated a 2 minute walk from the rear exit of the apartment building. The apartment itself is lovingly maintained by Charles's gracious mother Marie and her attention to detail is evident in every room of the apartment. The bed was clean and comfortable, an essential to any stay away from home! Having a washing machine and fridge was very convenient and they were new and clean. Marie had left champagne and macarons for us on our arrival which is so kind and very thoughtful. Which brings me to the real benefit of staying at this apartment; Marie and Pierre. You cannot overestimate the value of having such generous and welcoming hosts on arrival to a foreign country, and both Marie and Pierre made us feel as if we were treasured and most welcome guests in their home. Their kindness will always remain as one of our favourite memories of Paris. À bientôt Paris!",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Annmarie",
+            "neg": [],
+            "text": "The listing was so much more than we expected. The apartment was beautiful, modern and clean. As for the view, it was magnificent!! The view of the Eiffel Tower from the balcony is unmatched to any. The neighborhood was upscale, close to all transportation and had easy access to all attractions. Marie and Pierre were helpful, friendly and supportive. Immediately made us feel at home. Marie welcomed us with a \"nice \" bottle of champagne and wine along with a tray of macaroons! Both stayed in touch with us throughout the trip helping us with transportation and reservations to any and all events. They provided us with insiders information that was priceless! I would recommend using this listing to anyone looking for a spectacular time in Paris. Thank you !!!",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Cathy",
+            "neg": [],
+            "text": "Wow! What an amazing time we had in the apartment! It is more beautiful than you can imagine. The view does NOT disappoint! It is well equipped, and the hosts are wonderful, inviting, accessible, and helpful. There was plenty of space to relax. Everything you need is right in the neighborhood, plenty of cafés, bakeries, restaurants, fresh fruits and vegetables, supermarket. The location is fabulous as far as getting around the city as well, very close to metro, bus routes, and RER. It was great to have free wifi included, as well as telephone. But what you really want to stay here for is the view of the Eiffel Tower lighting up each night!",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Stan",
+            "neg": [],
+            "text": "This is a very nice apartment. It is very comfortable and the location is second to none. All of your transpiration needs are right outside the door. You can go any were in the city just by walking down to the street and choosing a bus or taking a short walk to the metro.We especially enjoyed the views of the tower at night. It was great to be able to walk to the park and people watch when we were tired. Maria and Pierre were very helpful and accommodating. Thank you Maria.",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Isitri",
+            "neg": [],
+            "text": "There are not enough words to say how much we enjoyed the place. The view of the Eiffel Tower was stunning. Outside of the view their are many restaurants, bolangeries, wine shop, cheese shops nearby. The apartment is easily accesible to both metro and bus. Marie was a wonderful host and accomodated our needs. She was easily accessible and we always felt that if we needed help we could call or text her. We will always try to stay here when we are in Paris. 5 stars",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lisa",
+            "neg": [],
+            "text": "This is the best apartment and view in Paris. My host/hostess was so amiable and helpful...really gracious. The trains were on strike and Charles helped us rebook and get to our destination. My husband uses a cane and sometimes a wheelchair..everyone was so helpful. We were able to take buses from right outside our building and the view off the Eiffel Tower with sparkling lights was incredible. Sitting on the balcony having breakfast or just watching the world go by was magnified! This was our third time there.",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Heather",
+            "neg": [],
+            "text": "I can't say enough about our first airbnb experience and Charles' apartment in Paris! The apartment truly lived up to and exceeded our expectations - location and view and host - superb! Marie was the consummate host - meeting us at the apartment upon our arrival from the airport, providing recommendations for chees and wine shops, a great local patisserie, restaurants, you name it! She really made us feel right at home. Also great to have - the binder with bus and metro routes, among other city info. Brasserie Suffren was a great local option for dinner when you were not up to making a trek to dinner. I am afraid we are truly spoiled by Marie and Charles' apartment. Doubt our next airbnb experience can top this ;-)",
+            "date": "mai 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Michael",
+            "neg": [],
+            "text": "Charles and his mother Marie combined to make this stay in Paris one of the most satisfying times I've experienced, either in Paris or any other European country. Their cumulative advice made our stay as easy and comfortable as home. The location is perfect, the ease of getting around (using the bus system) was extraordinary, and the view was, as advertised, stunning.",
+            "date": "mai 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tara",
+            "neg": [],
+            "text": "Wow what an incredible apartment! The view left me speechless every day and how special it was to view the hourly Eiffel Tower lightshow every night from bed! Located in the 7th, from this apartment everything is at your fingertips. Wine, cheese, groceries, beautiful pastries and flowers are all very close by. We found it very easy to get around from here (and also finding our way back), with many bus stops just downstairs and a major metro station just a short walk away. The apartment is equipped with everything you'd ever need for self-catering, and all of the small details have been thought of, right down to a picnic basket for spending lazy afternoons down at the Champ de Mars. There is even a well-stocked bookcase with many helpful tourist guides, maps and brochures for inspiration on things to do in Paris. Thank you to our wonderful host Marie who was very helpful with information about the area in the lead up to our stay, as well as giving us a very warm welcome on our arrival to Paris. We will definitely be back!",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Elisa",
+            "neg": [],
+            "text": "We have just come back from Paris, where we had a wonderful week in Charles' apartment. Everything was perfect, from the spectacular view, to the care that Marie takes to welcome her guests. The apartment has everything you need, a fully equipped kitchen, a nice dining area, living room and very comfortable room, with a great bed. All with a view of Paris, the Sacré Coeur basilica, and, of course, the Eiffel tower. In addition, Marie goes above and beyond, giving information, offering help and preparing a nice welcome with champagne and lovely macaroons. The location is excellent, with easy access to the metro, but above all to the buses, which are much more pleasant than the subway. It was easy to get to anywhere in the city, and even outside, as the line to Versailles is just a 5-10 minute walk away. There are an abundance of shops and restaurants nearby, and at least 3 great boulangeries for our morning croissants. I strongly recommend the apartment and wish all visitors have as good a time as we did. It was the perfect Paris welcome to my children.",
+            "date": "mars 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Juan Pablo",
+            "neg": [],
+            "text": "The apartment is incredible! It´s very confortable and its view of the tower is amazing. Additionally the owner is a very kind person that did everything to help us. Thanks Marie! I completely recommend this apartment if you want to have an unforgettable experience in Paris. We hope we can return very soon! Regards,",
+            "date": "mars 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sheri",
+            "neg": [],
+            "text": "I and my bf just returned yesterday from Paris after an 8 day stay at Charles' lovely apt. directly by the Champs de Mars and Eiffel Tower. Naturally, we immediately took notice of the spectacular view from the terrace, and also the tremendous comfort of the bedroom mattress! We slept beautifully. It was a treat seeing the iconic Eiffel Tower lit up every night from the apt. window. The apartment is both cozy and stylish, and fully stocked with amenities; towels, blankets, umbrellas, dishes, cookware, toiletries, universal adaptors for your electronics, and even basic foods such as coffee, jams, water and sundry condiments! The kitchen comes complete with a dishwasher and washer/dryer. There is plenty of hot water for showering. Charles' parents were very accommodating and generous. They welcomed us with flowers champagne and delicious fresh macaroons, and made sure our taxi for the airport was set when we had to depart. There are plenty of maps and travel books available, and personal suggestions from Charles and his parents as to where to dine, etc. The free wi-fi also enabled us to use our laptop and have easy access to any info. we were seeking. The 7th arrondissement is an elegant and wonderful place to stay. It is quite safe, residential, and very convenient. It reminded us of Recoleta in Buenos Aries. There are wonderful boulangeries, frommageries, wine shops, brasseries, and upscale restaurants within walking distance. The post office, ATM's, metros and buses are also in walking distance, if not directly in front of the residence. Just pick up a carnet of 10 tickets and you're set to go. Take the 69 bus across the street to see the major sites and to go directly to the beautiful Pere Lachaise cemetery to Gambetta (last stop). You can take the nearby metro/line 6 at the Bir-Hakeim station (towards Nation) or the 8/10 line @ La Motte-Picquet – Grenelle and change for the 12 line @ to Montmartre. Be sure to check out Espace Dali in Montmartre (11 rue Poulbot)! Restaurants in the area we loved: Mariette on 24 rue Bosquet, Au Petit Sud Ouest (unbelievable duck and fried foie gras!) on 46 avenue Bourdonnais, Le P'tit Troquet on 28 rue Exposition. and Vin et Maree right on Suffren for delicious seafood. Overall- this apt and location. is a safe bet on all accounts and highly recommended if you are visiting Paris.",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "(EMAIL HIDDEN)",
+            "neg": [],
+            "text": "Great place. Having a computer and phone was a great help for figuring our way around Paris. Marie was a ton of help and made sure we had everything we needed. Would definitely go back. Thanks",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Klausner",
+            "neg": [],
+            "text": "I have been at Charles apartment toguether with my family, wife and two children. The apartment is extremely confortable, clean and very well equiped. We had everything needed for a perfect stay in Paris. Marie, the Charles' mother, is owesome. She was extremely kind and provided us all support needed. The apartment view is fabolous and the bilding is calm and organized. For those coming to Paris I definitively recomend Charles' appartment. Marie, Pierre and Charles, thanks a lot.",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Glen",
+            "neg": [],
+            "text": "After seeing the photos of the apartment and reading the fantastic reviews our expectations for the apartment were high and I have to say they were actually exceeded. From the outset Marie's emails and directions were outstanding and to finally meet her was an honour. She gave us a complete orientation of the apartment and left us with a plate of macarons and a bottle of champagne which coupled with the awesome view set the scene for an amazing week in Charles' apartment. The apartment is beautifully laid out, the beds are very comfortable and the kitchen has everything you need to cook some great meals. When you stay in the apartment you don't feel like you are staying in someone else's home. It definitely feels like a 5 star hotel with beautiful linen, plenty of beautiful towels and of course Marie's wonderful tips and advice, better than any concierge I have ever met. I would have no hesitation in recommending Charles' apartment to anyone who enjoys and appreciates quality. After being away for a month and then to finish up with a week in Paris in Charles' apartment was pure bliss, and I am envious of all who stay there. We are already starting to plan for our next visit, To experience Paris from so close to the Eiffel Tower and to see that sparkling light show every evening was simply breathtaking. Coupled with Marie and Charles' ( though we did not meet Charles) eye for detail and concern that their guests have a great holiday, this was surely the highlight of a wonderful trip.",
+            "date": "janvier 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kat",
+            "neg": [],
+            "text": "Fabulous view, lovely appartment... warm, bed was comfortable and lots of hot water. The bathroom is a bit dated but everything was clean and worked ! Marie greeted us and was extremely friendly and welcoming.",
+            "date": "janvier 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Dan",
+            "neg": [],
+            "text": "Dear Marie et Pierre! I want to thank you very much for hosting me welcome! It was a fabulous 1.5 weeks in Paris. Your care, attention, kindness, compassion, impressed me. The first time I met such amazing wonderful people like you! Paris is definitely a gem in Europe, well, you - real diamonds! Thank you very much getting to know you became for me this Christmas present! Really looking forward to your visit to St. Petersburg! I will be very glad to see you! Thank you for your invitation! I'll be glad to use them in the future! Really want to meet with Charles in Brazil and with your wonderful daughter in California! I want to hug you all! Now about the suites: About them I can talk endlessly, as it best apartments in Paris! The terrace view like in the movies! charmingly and stunning, fascinating! Bright and spacious apartment has everything you need and even more. Staying in these suites becomes ongoing tale! The Eiffel Tower is so close that it seems possible to touch a hand! Absorb its lights - is not that fantastic? You will be expected to clean, comfortable, spacious apartment with stunning terrace! I was very pleasantly surprised that there was water, food, tea, coffee, lots of towels and bed linen. Caring hosts makes the stay is simply awesome! Strongly recommened to all, if you go to Paris, then select only these apartments for your stay!",
+            "date": "janvier 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sharon",
+            "neg": [],
+            "text": "We stayed here in mid December 2013. The apartment is in an excellent location where all the public transports are within walking distance. There are numerous restaurants and bakeries nearby too. And THE VIEW of the Eiffel Tower.... It's stupendous!!! The iconic steel frame is just literally a few steps outside your front door. It's so mesmerizing especially at night that you just want to rush back by 6 everyday just so you can stare at it all night. But what makes this place even more special is MARIE (Charles's mom). She will probably be one of the loveliest person you will ever meet. She will tell you where the good restaurants are and explain which buses go where. She even wanted to help us with our luggage!!? She is SO warm and you can almost feel her positive energy rubbing off on you (exactly what you need to start your vacation!) It was certainly a privilege to have met her. Merci Beaucoup Marie!!",
+            "date": "décembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Michael",
+            "neg": [],
+            "text": "Marie is la creme de la creme, a host exceptionnelle. There are great hosts, who take care of all your needs, and there are great hosts who truly care about their guests. Marie is both! She is one of the most caring people I have met. The view is unbelievably breathtaking. No better location in the city. The bed is very comfortable. There is a full kitchen with all the amenities you could ask for, even a breadbox! The heater works very well and can make the apartment very warm. The entrance has a security gate and security door to building. There is also a security camera above your apartment door and night watchmen, so you feel safe. The apartment has two umbrellas. There are two comfy and very warm robes, even two pairs of slippers (I wear size 10.5 USA, they were an inch short for me). There were too many amenities to list them all but a few of them were; shampoo, conditioner, body wash, hand lotion, hairdryer, big box of Kleenex for apartment, two small travel packs of Kleenex to carry while sightseeing, The only downside. It's an old building. Marie, in her caring and considerate nature, lets you know that the neighbor next door can hear you if you're loud or slam the front door, and that the neighbor below hears you if you wear shoes at night (wooden floors). Marie is a wonderful landlord, who tries to make sure her neighbors aren't bothered by renters. She goes out of her way to caution you, so I hope none of her neighbors bug her about renters, because there is another side to the story: the noise goes both ways. In the bedroom at 7:30pm, you hear voices (tv or people) from a neighboring apartment. When you're in bedroom and a neighbor slides open their wooden closet door or moves a chair along the wooden floor (we couldn't tell which), you hear it as if it was in the next room. Neighbor noise began around 630pm (home from work?) and we heard things until a little after 8pm. We fell asleep at 9pm and noise was never a problem at night (the residents seem to know it's a noisy building, and they all agree to be quiet). At least one neighbor has Marie's phone number, if not all of them, so you will want to be quiet because you will love Marie so much after meeting her that you won't want her to be bothered by complaining neighbors. One person/teenager on the extra cot would be fine, but two would probably be uncomfortable. However, the couch is gigantic and very comfortable. The couch would be a great sleeping alternative and has a great view of the Eiffel Tower. For food, Monoprix is an easy walk, probably 5mins, and they have everything you need. Franprix is more of a corner convenience store and is almost next door. There are plenty of restaurants in the area both near the...",
+            "date": "décembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Syl",
+            "neg": [],
+            "text": "\" My husband and I have decided to spend our birthdays in Paris, and since we have opted to try \"apartment living like a local\" instead of the usual \"hotel with free breakfast vacation\", a thorough search had to be done. We checked out dozens of ads from different websites, and we felt comfortable in dealing with AirBnB because of its policies. Of the few apartments that came as our \"finalists\", Charles' unit met most of our basic criteria : a SHORT walk to the Eiffel Tower, bakeries, restaurants, and groceries/markets. The reviews of those who have stayed in this apartment are as accurate as can be, so I will no longer touch on this. But we tip our hats to Marie and Pierre, Charles' parents whom we have personally met a few times, for the superb care that they have given us. One of the reviewers have precisely described them as our \"guardian angels in Paris\". We have found our \"home\" in Paris, and looking forward to our 2014 visit. LOVE IT !! Really a five star! \"",
+            "date": "décembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Demetra",
+            "neg": [],
+            "text": "I wanted to thank Marie and her husband for making our stay in Paris better than we could ever imagine! My husband, 1 1/2 year old son and I stayed in Charles' amazing apartment for a week. Our flight arrived sooner than expected and Marie was extremely accommodating in getting us into the apartment and settled for our stay. Not only was she reachable during our entire stay, but she also ensured that there was a crib for my son. The photos of the apartment say it all - the views of the Eiffel Tower are breathtaking, especially at night when the lights \"twinkle\". Everything we needed for our stay was within walking distance - bakery, pastry shop, cheese shop, wine shop, small grocery store and of course and abundance of cafes and restaurants. Public transportation was also very convenient - the buses ran right in front of the building and there was a metro station just 7 minutes away. We were able to experience Paris more as locals than tourists because of our decision to stay at Charles' apartment. Thank you again!!!",
+            "date": "novembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kristen",
+            "neg": [],
+            "text": "I just wanted to thank you Charles for letting us stay in your beautiful apartment. The views were amazing the place spacious clean and comfortable. The location was so convenient bus stops right out front and train and batoboat just down the street. My husband and I stayed here with our 4 year old son and it was a great place to stay with kids. We played at the Champs de Mar everyday had a picnic dinner and rode the carousels. You and your mom and dad were so attentive and went beyond the call of a good host!!! Marie is so thoughtful and caring. Thanks again for letting us stay at your place and we hope to again someday soon.",
+            "date": "octobre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Gale",
+            "neg": [],
+            "text": "We had a wonderful stay in Paris - thanks in a large part to our experience with our host Charles and his mother Marie and their fantastic apartment. From the first contact with them we were warmly welcomed and given all the information we could possibly need. Marie, who welcomes you to the apartment, kindly waited three hours for us to arrive as our plane was late. She is an incredibly genuine and friendly person and her concern for our well-being was like that of a friend. I was travelling with my 15 year old son but with no other adults and I felt that I could call on Marie for assistance and advice. The area around the apartment is residential and feels completely safe. There are all the shops you could need in the street including chemists, small supermarkets, bakeries and restaurants within a short walk as well as parks and transport. Buses leave from right outside the door and it is only a short walk to the RER or Metro. There is wonderful shopping in nearby areas. The apartment itself is exactly as described - the view is incredible and the apartment has lovely antique and modern furniture and a great kitchen. It has everything you could need including washing machine and dryer, an iron and all cooking needs. There is only one thing to consider which is that being a residential apartment block it is very important to consider your neighbours who are probably going to work while you are on holiday and this apartment would not be suited to people who would want to be very noisy late at night. Otherwise it is a wonderful opportunity to experience living like a Parisian. Highly recommended!",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rya",
+            "neg": [],
+            "text": "There have been 54 excellent reviews that speak for itself. However, after staying in Charles' apartment for 15 days, we can attest that the in-person treatment and experience have been even more phenomenal. The apartment itself is located in a very desirable area because of its convenience and proximity to all modes of transportation necessary to get around Paris as well as day trips outside of Paris. The cleanliness of the apartment is par to a 5 star hotel plus the additional amenities such as the washer dryer, a heated table on the balcony, and the undeniable space that makes your stay much more comfortable. The views are what first initially attracted us to this apartment -- they are even more magical in person and seen from every part of the apartment. But having shared all that from a slightly obsessive and germaphobic couple, you're only skimming the surface of what this apartment can offer. The true value of this place lies behind the family who runs it and the integrity behind each of them. Charles, from the very beginning, has instantly welcomed us first as a guest, and second as a renter. His responsiveness is very respectable and his sheer generosity admirable. He is a genuine person. Pierre is Charles' brilliant father who is a doctor you can call should you need anything medical. This alone brings peace of mind. The heart of this apartment continues with Charles' amazing mother, Marie. You will instantly gravitate towards her warmth, sincerity and irresistible pleasantness. She is the most gracious and knowledgeable hostess, who is also your personal concierge, your good friend, your local insider, and your proud crusader who makes herself tirelessly available to ensure all your needs are met. She is invaluable. This apartment under-promises and over-delivers on all counts: location, views, service and overall experience. They embrace the fact that not every guest gets many chances to go to Paris, so they fight hard to make sure you get an unforgettable experience and the most value that go beyond the actual currency paid. If you're a perfectionist with a distinct eye for those who go the extra mile for your time, money, and loved ones, it would be a mistake to not grab this place if you find an opening on their calendar. Needless to say we were more than impressed. We are very selective on our recommendations to others and this place ranks high on our list. After two wonderful weeks of twinkling lights, we are not staying anywhere else in Paris that does not involve Charles, Pierre and Marie. We still fondly talk about them till this day!",
+            "date": "septembre 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ian",
+            "neg": [],
+            "text": "We have all enjoyed the stay at Charles Place. It is a very nice apartment and the location is fantastic. Marie is wonderful, helpful and very thoughtful. We have been to Paris several times before and this is our best stay in Paris so far. We will recommend this apartment to those who want to have a memorable and enjoyable stay in Paris. Ian and Pauline",
+            "date": "août 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Carolina",
+            "neg": [],
+            "text": "There are no words to describe the beautiful apartment and the view is indescribable. The apartment has all the amenities, it is impossible to ask for more. The neighborhood is beautiful. With lots of buses and metro to get in. I could not meet Charles but his parents were incredibly fantastic with us. They were greeted us with champagne and snacks, complemented by the view of the department was like being in a movie. Marie (Charles mother) was very sweet, friendly and attentive. Thanks Marie for everything we do not have words to thank you. Definitely the best place to stay in Paris. Merci beaucoup Marie and family for everything.",
+            "date": "juillet 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Laura",
+            "neg": [],
+            "text": "We had a wonderful time in Charles' apartment. Charles' mother was extremely helpful and always there to answer any questions. She even checked up on us while she was on vacation. The view and location are amazing. You are litterally steps from the Eiffel Tower and the RER and metro stations. You can lay in bed at night and watch the tower twinkle every hour. There is a bakery a block and a half away that has ths most amazing croissants. :-) We were there for la fete nationale and were able to see an amazing fireworks show right from the balcony. We were sad to leave. I would definitely recommend staying in this apartment!!!",
+            "date": "juillet 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kathryn",
+            "neg": [],
+            "text": "My husband and I recently returned from an incredible first trip to Paris. We were so impressed with Charles and Marie (his mother, who acted as hostess) from the beginning of the planning process. Both were quick to respond to any questions before and during our trip and were incredibly helpful in booking everything from taxis to dinner reservations and making recommendations. The apartment itself is absolutely incredible--very clean, spacious, comfortable, and of course the view! I actually teared up a bit when I first walked in and saw how beautiful it all was. We started and ended every day on the terrace enjoying coffee or a bottle of wine overlooking the city. The neighborhood is fantastic--we felt very safe and comfortable. There are plenty of grocery stores, wine and cheese shops, and of course restaurants within walking distance. Public transportation was also very easily accessible for getting around the city. The apartment helped to make our vacation absolutely perfect and I would recommend it to anyone looking for a beautiful place to stay to make their visit to Paris extra special.",
+            "date": "juillet 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jennifer",
+            "neg": [],
+            "text": "Thankyou Marie and Charles.A written review cannot fully capture the pleasure of staying in this perfect Parisian apartment. It was all that we had hoped for and more. Marie is a most welcoming and helpful host and we felt like we were visiting relatives. We had all that we needed and much more. Home made cakes and Champange on arrival were delicous and appreciated by all of us. The apartment has the most amazing view. It was our first time in Paris and being able to soak in the Eiffel Tower all times of the day and night was unforgetable. It was breathtaking and so exciting for the children-7 and 11 years- waiting with anticipation and then marvelling at the hourly 10minute extra sparkly light shows from 9pm (thanks for the special remote Charles ; xx)) The neighboorhood was great for us too. Within a block was all the Parisian speciality food shops we could have hoped for. We got very accustomed to popping downstairs to pick up pain au chocolat for breakfast and bagettes for our lunch. Marie and Charles gave us lots of information about getting around Paris. The buses are right out front of the apartment and became our favourite mode of transport. Thanks again for Marie's advice about getting the ticket books that were valid for the metro too which we also used a couple of times. The apartment was big enough for our family and was clean with plenty of extras like beautiful toilettries and fluffy white towels as well as robes. As our stay came to an end Marie responded again to our request for help and recommended a great restaurant within a near neighbourhood filled with locals. We enjoyed fabulous escargot and duck and soaked in the atsmosphere of Paris both at the restaurant and on the walk home. Thanks to Marie our last night was spot on and concluded with our last Eiffel Tower light show, for this trip anyway. We wouldn't want to stay anywhere else in Paris and as a previous reviewer said the only downside was leaving. Thankyou again Marie and Charles for a just perfect stay in our Parisian home for a week.",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Susan",
+            "neg": [],
+            "text": "Charles's apartment is spectacularly located with a lovely terrace overlooking the Eiffel Tower. Marie, his mother, greeted us and served as a friendly and extremely informative host throughout, easy to reach and very responsive. The apartment was immaculate. It had everything we needed and was the perfect size for our family with two boys. We would love to stay there again.",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Philip",
+            "neg": [],
+            "text": "What a gem? A luxury, romantic and incredibly well equipped 8th Floor, air conditioned one bed (4 adults + 1 child) apartment (with lift). Plenty of Wow factor with terrific views of the Eiffel Tower, Sacre Coeur and even the Monparnasse Tower through stunning full floor to ceiling opening windows which lead out on to a 10 metre long terrace with seating for 4 people. Marie and Pierre (Charles’ parents) will give you a wonderfully warm welcome and are brilliant and speedy at answering all questions and provide excellent advice and will even book a restaurant for a special occasion. So if you want a special luxury apartment fully equipped for family living in a fantastically romantic setting in Paris – make this your holiday treat - you’ll be delighted throughout your stay.",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Khiem",
+            "neg": [],
+            "text": "My wife and I celebrated our honeymoon at this apartment and couldn't have been happier. Thank you Charles and Marie (Charles Mother) for allowing us to stay at your apartment. When we arrived, Marie was there to give us the keys to the apartment. She decorated the place with flowers and gave us chocolate, orange juice, and a Champaign bottle to celebrate our honeymoon. She even had rose petals on the bed. The place was elegant and decorated wonderfully. This beautiful apartment is located right in the heart of Paris right across the street from the Eiffel tower. The view is stunning and the apartment would put any 5-Star hotel to shame. You have several restaurants and bakeries below the apartment. Everything was in walking distance. Marie is like your own personal concierge. She replies to all emails promptly and gives you hint and advice about anything Paris. She was very helpful and once of the nicest people I've met. Overall we would rate this as one of the best places we've ever stayed at. Thank you so much Charles and Marie.",
+            "date": "juin 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tony",
+            "neg": [],
+            "text": "The location is superb and our hosts did everything to ensure a wonderful vacation in Paris",
+            "date": "mai 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lisa",
+            "neg": [],
+            "text": "This apartment is so special..wonderful view, great accomodations, exceptional owners and so close to busses. This was our second time and we plan to go back as often as we can. Being next to the Eiffel Tower, watching the lights flicker at night...you are so close you feel you could touch it! It is near the Rue Cler market and good restaurants...fabulous....",
+            "date": "mai 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mark",
+            "neg": [],
+            "text": "Wow! I don't even know where to start! What an amazing apartment! As Charles was out of town, we were greeted by his mother Marie on our arrival. She is so lovely and explained all the details we needed to know about the apartment, the surrounding area (bakeries, restaurants, etc.), and the transportation options. She left us her phone number and email and was in constant contact whenever we needed her. The location is magnificent, where else can you see such an incredible view of the Eiffel Tower from your bed without having to pay exorbitant hotel rates? The apartment was stocked with everything we needed and we were welcomed with champagne and macaroons! There were plenty of towels, cleaning supplies, spices, condiments. There were maps and books and binders full of area sites, restaurant and sightseeing recommendations and how best to make our way around the city. The apartment is secure, in a great neighborhood, and close to bus, metro, and RER stops so it's easy to get anywhere in the city from here. Eating on the balcony or the breakfast nook almost in the shadow of the Eiffel Tower was like something out of a dream! If you're heading to Paris, do yourself a favor and stay at this incredible apartment - you won't be disappointed!!",
+            "date": "avril 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Brian",
+            "neg": [],
+            "text": "Beautiful apartment and gracious hosts! We absolutely loved our stay, the view of the Eiffel tower is stunning but equally important we had everything to make our stay easy - plenty of towels, sheets, even a guide to the neighborhood complete with phone numbers to call a taxi!! Marie and Charles were wonderful, not only helping out my husband with an anniversary surprise but also checking in throughout to make sure we had everything we needed. We couldn't be happier.",
+            "date": "avril 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Barbara",
+            "neg": [],
+            "text": "only negative about the apartment is leaving, it has a wonderful view and host charles and his mother marie were great to work with and very kind would recommend the apartment to anyone who wants a great eiffel view with shops,stores and good restaurants all very close",
+            "date": "avril 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Martha",
+            "neg": [],
+            "text": "The pictures do not lie. The view is incredible. The apartment is spacious and very comfortable. Charles' mother Marie was very helpful, meeting our 24 year old son who arrived before us and giving him lots of suggestions for eating and shopping. It was so helpful to have the washer and dryer. The cafes, restaurants and stores nearby helped us to have plenty to eat. Some evenings we would just sit on the couch and stare and the beautiful Tower. Charles and Marie were in contact via email a few times and made us feel so comfortable and welcome. We have told all our friends about airbnb and this apartment. Can't wait to come back.",
+            "date": "mars 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Laura",
+            "neg": [],
+            "text": "After staying at the apartment in February 2013 for 10 days I can tell you the apartment is everything and more that it says in the description. It was perfect for us. The views are even better than in the write up. Totally clean, wonderful towels and comfortable beds. Ideal location. Although we didn't meet the owner we did meet his parents and they could not of been more helpful. If you are looking for the perfect location have no doubt about it...this is it... Thank you again for a wonderful stay, we hope to be back very soon....",
+            "date": "février 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Fe",
+            "neg": [],
+            "text": "This was our first trip to Paris, and we are so glad we found Charles' apartment! It could not have been more perfect. There was plenty of room for the 4 of us, and everything that we possibly needed was there. It was warm, quiet, comfortable, and spacious. Best of all was the location: the Eiffel Tower view is the best anywhere - even locals told us how lucky we were! The balcony is great for photos, especially during the nightly light show. Also, lots of shops and restaurants are right downstairs, making it easy to grab a quick pain au chocolat for breakfast, or an easy dinner before heading home for the night. Finally, Marie made sure we had many special touches to greet us: a Christmas tree, chocolates for our kids, and champagne for New Year's Eve. It was incredible, and we truly appreciated this VIP treatment. Thank you Marie, Charles, and Soizic!",
+            "date": "janvier 2013"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Andrew",
+            "neg": [],
+            "text": "In short: what a fantastic apartment. While Charles' photos do it some justice, it's far better in person. Beyond the spectacular view of the Eiffel Tower, another iconic view is that of Sacre Coeur, a few miles in the distance. Charles' mother, Marie, was warm, friendly, and helpful on arrival, providing lots of useful advice on the neighbourhood. This was my first time using airbnb, and both she and Charles made it very easy. The apartment itself is very comfortable and matches if not exceeds the photos. It's surprisingly quiet at night, and well served by a bakery, bottle shop (wine store/negociant), cheese shop, greengrocer, and two convenience stores, all within 50m. There's plenty of restaurants nearby. It's close to the RER (overland) and two metro stations, though the best bet to get into the centre of Paris with minimal line changes is La Motte-Picquet - Grenelle, about a five minute walk away. To cut a long story short, I couldn't recommend this apartment highly enough. It's extremely comfortable, perfectly located, has a great view, and friendly hosts. Merci, Charles and Marie.",
+            "date": "décembre 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ayesha & Chris",
+            "neg": [],
+            "text": "Our stay at Charles apartment was wonderful, the pictures do not do the apartment or the views you get justice, they were both amazing. The apartment was fully equipped and extremely comfortable and very clean. Marie (Charles mother) greeted us and was more than helpful in providing details of the area and making us feel at home. We could not recommend this apartment more , we didn't want to leave!",
+            "date": "novembre 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kyle",
+            "neg": [],
+            "text": "Our stay at Charles-Henri's Eiffel Tower apartment was perfect for our first family vacation in Europe. Charle's mother, Marie, was a wonderful hostess, making sure that all of our needs and questions were met both before and during our stay in Paris. The apartment has an incredible view of the Eiffel Tower and is only a 4 minute walk from the apartment. The apartment is fitted with all of the amenities needed for a comfortable stay. With two small children we felt safe in the quaint neighborhood and secure with the gated entry at the front of the building. We had easy access to parks & playgrounds as well as convenient transportation to all the major sites around the city. Near the apartment there are several great restaurants, a market for fresh fruit and a nice bakery. The only negative we encountered was with parking. During the weekend, street parking is free, however, during the week public parking is nearby but a bit pricey (30/euro per 24 hrs). We would highly recommend this apartment for your stay in Paris and look forward to staying here again in the future.",
+            "date": "octobre 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Madeline",
+            "neg": [],
+            "text": "I have been dreaming about Paris since I was 5 years old, this was my first time being there. Charles-Henri's apartment could not have been a better place to start. Charles-Henri's mother Marie was warm and kind and easily reachable. She greeted me and my sister with a bottle of champaign and through directions for getting around Paris, wether you want to take the metro, bus, or a taxi, Marie has all the information laid out for you. For someone who had never been to Paris to have your nearest landmark be the eiffel tower, makes exploring Paris on foot a joy with out worry of getting lost. Words don't describe how beautiful it is all light up at night with a twinkle show every hour. The apartment is clean spacious and beautiful, just as advertised, with a priceless view of the most iconic landmark in Paris!!! It was so much more enjoyable than any experience in a hotel, I would recommend this place to absolutely everyone.",
+            "date": "octobre 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Fiona",
+            "neg": [],
+            "text": "This apartment is absolutely beautiful! Our group was my husband and myself, our 8yo daughter and my Mother. There was enough room for all of us and the view has to be seen to be believed. Marie was so helpful and friendly and gave us all the information we would need for our stay, she even helped me with taxi bookings, and the chocolates and wine given on our arrival was wonderful. The apartment is very clean, all the amenities are excellent and the furnishings are of high quality and very beautiful. I cannot explain how magnificent the view of the Eiffel Tower is from the apartment - every night we would site on the balcony and watch the light display. I would definitely stay at Charles' apartment again if we ever come back to Paris (and we plan to!)",
+            "date": "octobre 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sharon & Glenn",
+            "neg": [],
+            "text": "My husband, teenage daughter and I had the most wonderful time in Paris and this was largely because of Charles-Henri's apartment. We were greeted by Charles' parents who made us feel immediately at home in the apartment and went through information provided from bus or metro routes to restaurants and taxi's. They truly just want people to enjoy the apartment and spectacular views - they are a real treasure! The location is just amazing with a view from the bedroom, lounge room and kitchen like in the photos. The photos really do not do it justice it is so much more, especially at night when the light show happens on the hour every hour - breathtaking view. There is even a heated table on the balcony so you can keep warm at night watching the light show or having breakfast. The apartment itself is just immaculate with lovely leather furniture, timber floors and crisp white linen and towels and has a washing machine and clothes dryer which was great. Everything is supplied in the apartment including dishwasher & Laundry powder, tea coffee sugar even cooking oils to name a few. We highly recommend staying in Charles' apartment. From our first contact we knew we made the right decision as this was the first time we had used AIRBNB. Charles kept in contact and then just before we left Australia we were in contact with Marie his mother who looks after the apartment for him, and confirmed she was expecting us and gave us advice on how to get to the apartment. I would have to say you are unlikely to get a better location in Paris as it is literally opposite the park that leads up to the Eiffel tower at an intersection with unobstructed views. We will definitely be returning to Paris and will book Charles' apartment again.",
+            "date": "octobre 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Trevor",
+            "neg": [],
+            "text": "We really enjoyed our time in Paris and a big part of this was staying in Charles-Henri's apartment. The Eiffel really is right in front of you and the view is beautiful by day and night (the Eiffel light show is something to see particularly when it's just outside your window!) The apartment was very clean when we arrived and we loved some of the antique furnishings, the linen provided and other lovely touches from Charles-Henri's Mum, Marie, who helps him manage the apartment. It was our first time in Paris and we had no problems getting to transport, cafe's, restaurants/shops - all nearby and easy walking distance. Based on our experience, we honestly have no negatives to provide here. The L's are excellent hosts and we highly recommend this apartment to all.",
+            "date": "octobre 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Arlene",
+            "neg": [],
+            "text": "The apartment was even better than we had expected -- the view spectacular, the location ideal, and the hosts very helpful! We could not have asked for a nicer place to stay for our 25th wedding anniversary trip to Paris and would highly recommend this apartment to anyone! Thank you again to both Charles and Marie!",
+            "date": "septembre 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mike",
+            "neg": [],
+            "text": "Amazing view and location, and the hosts were great. Thank you!",
+            "date": "août 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "JoAnne",
+            "neg": [],
+            "text": "This apartment was wonderful! The owner's mother who manages the place was gracious and helpful. A great location with a most wonderful view. I would eagerly rent the place again . A++++",
+            "date": "juillet 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lisa",
+            "neg": [],
+            "text": "Incredible...and what a lovely hostess...Could not have been a better location. This was the fIrst trip to Paris for my daughter and grandaughter and the memories made will last us a lifetime. Breakfast on the balcony, watching the twinkling lights on the Eiffel Tower...absolutely supreme! Lisa",
+            "date": "juin 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alex",
+            "neg": [],
+            "text": "The apartment is amazing. Big, great location, very confortable and well equiped. The beds are very good to sleep after a day walking. The view is something else. Have your private view of the eiffel tower is speechless. Charlie and Marie are great hosts and make everithing to assure the best experience during your stay. They are really nice people and you feel very secure before and while you are staying. I've never rented an apartment for vacation before, so i was a little afraid. But the real experience prove even better of what i was expecting. Stay in paris, in charlie's apartment, give paris a new look and provided a new experience. In the end, the only bad thing was to go away. My wife kept insisting to change our plans and stay more time. If you are looking an apartment, this one must be your choice! Stop looking!",
+            "date": "juin 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Semion",
+            "neg": [],
+            "text": "Wonderful apartment,great location,when we come back to Paris we would love to stay here again.",
+            "date": "juin 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Olga",
+            "neg": [],
+            "text": "We arrived after a long trip from Australia, and could not have had a warmer welcome than the one Marie gave us. This beautiful French lady greeted us as if we were family. Marie showed us through the apartment, had instructions manuals for everything, from bus routes to restaurants, to operating wi-fi etc.... And of course, a beautiful bunch of roses on the table, a bottle of champagne and in the fridge a quiche for our first dinner in Paris. Perfect!! The apartment has everything needed for a very comfortable stay. From a very parisien decor to a very good bed in the master room as well as a comfortable sofa bed which was perfect for our 17 year old. Plenty hot water. Everything worked perfectly. Really appreciated coming home late at night to a nicely heated apartment with such postcard views. It is so central we actually nearly walked everywhere. But the metro is just 5 min walk, the bus 1 min walk. There are Cafes, restaurants, pattisseries, boulangeries, convenience shops just outside the door. Of course, most unique of all, is the view....I have taken hundred of photos of the Eiffel Tower, day, night, sunrise, sunset, while half hidden by mist, in the rain, during a storm all from the balcony, and every single one deserving to stay in my album. Not deleting any. Amazing view.....thank you Charles and Marie for making it available to travelers. We will come back, and we could not imagine staying anywhere else! A bientot!",
+            "date": "mai 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Don",
+            "neg": [],
+            "text": "In our wildest dreams we did not anticipate how perfect this stay in Paris would be. The info. provided by Charles=Henri, the apartment, the care taken to make our stay so memorable.... all brilliant, We have already told 4 friends who intend to book it next year. no more 5 star hotels for us if this is the quality air bnb can offer.",
+            "date": "mai 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rebekah",
+            "neg": [],
+            "text": "Words cannot describe how extraordinary this apartment is. The location, the views, the amenities, the comfy bed, the bottle of champagne waiting for you upon arrival. This is Paris at its best. You could stay in a hotel, but I would highly recommend this apartment instead. Charles and Marie are beyond hospitable. They are helpful, thoughtful, gracious, and very responsive. Again, I'm not even sure we could put a price on the experience. If we ever return to Paris, this is where we will stay.",
+            "date": "avril 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Torhild",
+            "neg": [],
+            "text": "This place in pure magic! Marias warm welcome and helpfullness, the apartment is lovely and the view is stunning. I could have spent the hole stay in Paris in the apartment! - just watching the view. Paris in rain...we really did not mind... There is no way anyone can be disapointed in this wonderful place!",
+            "date": "avril 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Steve",
+            "neg": [],
+            "text": "Charles, Our first experience in Paris was very memorable while staying at Charles place. The view from his apartment was exquisite. Marie (Charles mother) warmly greeted us during our arrival with a ready made flat that was perfect for the four of us. Accommodations included fresh breakfast foods and Parisian coffee. We enjoyed the red book of recommendations and found ourselves being right at home after our long days of seeing the sights of Paris. We used the easily accessible metro and bus lines. The restaurants in the area are all very good. I would highly recommend this flat for your vacation stay in Paris.",
+            "date": "avril 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Michael",
+            "neg": [],
+            "text": "What an amazing apartment! Bright and sunny with amazing views of the beautiful city of Paris. You are so close to the Eiffel Tower that it feels as if you can touch it. Charles' description of the apartment here on AirBnB is perfectly accurate. The apartment is beautifully furnished and the kitchen is very well stocked with every cooking utensil you could need. Our favorite spot was the terrace where we enjoyed many breakfasts and cocktails. Marie gave us a very warm welcome on the morning of our arrival and gave us a detailed tour of the apartment, explained how to use everything and then followed up the next day to make sure everything was OK. Marie was great - providing us with email instructions and text messages. We all felt instantly at home in the apartment and it was a great way to experience Paris as a Parisian. Thank you Charles and Marie for your hospitality, I hope to return soon!",
+            "date": "mars 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Meribeth",
+            "neg": [],
+            "text": "What a fantastic apartment! The photos do not do it justice. Charles' mother greeted us and was very kind and full of useful information. The location was very convenient, close to the metro, bus routes and the train to Versailles. Rue Cler is a very easy walk away. The view of the Eiffel Tower is indeed a highlight! Next time we come back to Paris, we definitley hope to stay here again.",
+            "date": "mars 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Harold",
+            "neg": [],
+            "text": "This is my 3rd time renting an apartment in Paris and the saying that the third time is a charm is so very true here. The apartment was everything we expected and more. The location could not be any better. The apartment had everything you could ever use. It was a truly wonderful experience having this apartment in Paris. Charles and his mother were as gracious as anybody could be. Charles knew it was my birthday and had a very special bottle of Armagnac waiting for me as a gift. I highly recommend this rental for all who are looking to stay in paris.",
+            "date": "mars 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jennifur",
+            "neg": [],
+            "text": "Our family of four just returned from a week long visit to Paris. We were thrilled with our visit and already miss our view. When visiting a city, it is great to have a constant landmark guiding your travels and the Eiffel Tower fills that role nicely. Wherever we were, we would always comment that \"our\" apartment was \"there.\" Marie met us at the apartment and provided information ahead of time to enhance our visit. The view is stunning and the hourly blinking of the tower was met with joy by our children (and us as well!) We really appreciate the kindness and generosity of the hosts.",
+            "date": "février 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Dustin",
+            "neg": [],
+            "text": "WOW! What an apartment! The Eiffel Tower literally looms over you as you stand on the balcony, sit in the living room or lay in bed. You have to see it to believe it as the pictures cannot do it justice. Charles' mother had champagne, Perrier and chocolates laid out for us when we arrived and was always available if we needed anything. Just an unbelievable host. From the apartment we walked to the Louvre, Musee D'Orsay, Le Cordon Bleu Cooking School, Notre Dame and of course the Eiffel Tower. It is such a great location that you can just grab a map and walk to many of the main sites Paris has to offer. We have absolutely no complaints as everything was above and beyond our wildest expectations. Thanks Charles for the amazing apartment and whenever we go back to Paris this is wear we will stay. We are also recommending this apartment to all of our friends and family.",
+            "date": "février 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Chenchen",
+            "neg": [],
+            "text": "Me and my sister`s family stayed in Charles` place for a week for or Chinese New Year. The place is astonishingly wonderful. Apart from amazing view of Eiffel Tower, the apartment is tidy, clean and cozy. At night, we enjoyed every dinner with the beautiful view of Eiffel Tower.Marie is such a nice and helpful lady. She left drink and snack for us for our New Year. She was always willing to help no matter how late it was and always asked if we needed help. we had such a wonderful time there. Thank you so much. merci beaucoup. 我和我姐姐一家在charles的公寓住了一个礼拜为过春节。公寓地段非常好,早餐和晚餐都有铁塔相伴。公寓也整洁干净。Charles的妈妈Marie非常热情好客。她随时都准备帮助我们不管多晚,也会随时联系问我们需不需要帮忙。非常温暖。我们度过了一个愉快的春节。非常感激。Merci beaucoup.",
+            "date": "janvier 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Brett",
+            "neg": [],
+            "text": "Wow - what an amazing apartment and location , communication , check in , beds , showers were all fantastic. We have travelled around Europe for the last eight weeks and stayed at 8 airbnb places ad this was the best. If you are staying in Paris - stay here !",
+            "date": "janvier 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Steve",
+            "neg": [],
+            "text": "The apartment was wonderful, clean and modern with the great view as advertised. We were close to restaurants, shops and the subway. Marie, Charles' mother, was extremely helpful with getting us settled in. We hated to leave!",
+            "date": "janvier 2012"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jamieson",
+            "neg": [],
+            "text": "Beautiful views in a nice, quite area. It was magical to see the Eiffel Tower sparkle from our bed each evening (though the curtains could keep the light out if desired). The Christmas Eve key swap was a bit tricky, but Charles and his mom made sure we were able to get in even with a late arrival. We were so happy with our reservation, and we hope to be back again!",
+            "date": "décembre 2011"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Fitri",
+            "neg": [],
+            "text": "Beautiful apartment that fit my family (2 adult and 2 child) perfectly, situated in a very secure building with lift. It is very easy to find; facing Champs De Mars with the Eiffel Tower to the left. Fantastic shops all around with many supermarkets along your way to the RER which was just 5 mins away. Bus stop is just in front of the building too. Apartment was very clean with all the appliance working fine. We made use of the very new fridge, washing machine, dryer and dish washer throughout our stay without any glitches. All necessary washing liquid / detergent was also available. Strong wifi allows us to plan our itinerary when we were there and the heater kept us warm and toasty in the cold December. As Charles was away, we were greeted by his mom, Marie, a very nice and helpful lady. Communication with her, via email, went very well before we arrive and even while we were there. She recommended a good shop for us to buy a new luggage and help obtain information on transfer cost to Disneyland. Oh, did we mention the view? The eiffel tower was the last thing we see everytime we go to bed during our stay. The huge mirror in the living area, where our children slept on the comfy sofa bed, allowed them to share the same experience. We enjoyed having breakfast in the kitchen with the tower looking down on us. Excellent stay! Will definitely come back! Highly recommended!",
+            "date": "décembre 2011"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Anita",
+            "neg": [],
+            "text": "My stay at this apartment was absolutely brilliant. Charles and his mother Marie, were the most amazing hosts - from before we arrived until the moment we left. This was my first time using this site and I feel so blessed to have found such an incredible place with such trustworthy hosts. There are so many apartments listed for Paris, but they are apartments you can find anywhere in the world. The spectacular view and wonderful facilities of this apartment ensures that you always remember that you are in the stunning Paris. You don't want to miss any opportunity to have to stay here - I promise you, you won't regret it! Memories for a lifetime.",
+            "date": "décembre 2011"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Annie",
+            "neg": [],
+            "text": "We did enjoy our stay in Charles’s apartment, with excellent view of la Tour Eiffel and your friendly, enthusiastic greetings and concerns throughout our stay. We just regret not to stay longer ! On y reviendra à bientôt !",
+            "date": "décembre 2011"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Giancarlo",
+            "neg": [],
+            "text": "Charles responded very quickly to all our communication. He arranged for his mother to receive us at the apartment, and everything worked smoothly. Both Charles and his mother were very attentive and went out of their way to make sure we were comfortable. The apartment is great. Its in a modern building, and has a large elevator (for Paris). Kitchen is ample and well equipped. The bathroom has an American style shower with curtain (not the French style open tub/shower). My brother (6'4\") slept in the convertible sofa comfortably. Location is also very convenient. There is a small supermarket one block away, and very good restaurants in the area. Several bus lines pass through the Champ de Mars, and three metro stations are very close by. Definitely recommended.",
+            "date": "octobre 2011"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Matt",
+            "neg": [],
+            "text": "My boyfriend and I spent a lovely week at Charles’s apartment in Paris. The apartment is spacious, clean, well outfitted, and the view is simply amazing. Since the building is right on the Champ de Mars, you can gaze all the way across the city to Sacre Coeur and the Eiffel Tower is right outside your window (we loved watching it sparkle at night as we lay in bed or relaxed on the balcony). Marie, Charles’s mother, met us when we arrived and she could not have been more kind, she also checked in with us throughout the week to see how we were doing and if we needed anything. There are many dining options in the area and easy access to the RER, Metro, and buses to get you anywhere in the city you’d like to go. We could not recommend this apartment more highly. Thank you, Charles and Marie for an amazing stay in Paris!",
+            "date": "octobre 2011"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "David",
+            "neg": [],
+            "text": "It was a pleasure getting to use Charles’ apartment during our week in Paris. We were two couples from Oregon visiting Paris for a few days this fall. The location of the apartment was ideal, with easy access to the metro, buses, restaurants, shops and a very short walk from the Eiffel Tower. While Charles was traveling on business, his mother Marie was there to receive us. She quickly showed us around the apartment as well as had picked up a few things we needed in advance of our arrival. The apartment has all of the conveniences one needs for a good visit to Paris. A well-furnished kitchen, laundry, utensils and very clean linens. Charles had left lots of instructions and information on things to do and how to get around. The elevator turned the 9th. floor into a great advantage with no drawbacks. The view was magnificent and so were the people we rented from. Marie was always accessible and willing to help. Even in the last day, when we weren’t able to get a taxi, she was kind enough to call and book one for us. This will definitely be where we’ll stay during our next visit to Paris.",
+            "date": "septembre 2011"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Lisa",
+            "neg": [],
+            "text": "Classy! We had ten fabulous days of music, museums, starry nights and Eiffel tower lights. From the balcony, the spaciousness of the skyline and view was divine, after a long day walking the streets of Paris, as was dining on wine and cheese overlooking the trees at sunset. Truly magical. Famed Bus 69 begins its scenic route practically at our doorstep, and delivered us to many popular destinations while enjoying the city sights above ground. We'll return soon! Thanks Charles!",
+            "date": "août 2011"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jeffrey And Jacqueline",
+            "neg": [],
+            "text": "Wow!!! The description for Charles' apt was totally accurate. It was exceptional and the view was even more stunning than the pictures. My fiancé and I went to Paris to celebrate our engagement and this was the perfect space for a week in the city. The apartment is just over a block away from the Eiffel Tower. The metro was less than a five minute walk and the residential area was full of dinning options. The building is not much to look at from the outside, but was clean, safe, and quiet. The only thing better than the location and aesthetics of the apartment was Charles as the owner. He went above and beyond to make our stay fantastic. The aptment was clean, all the linens were new, and were greeted by fresh flowers and wine. Between Charles and his very charming mother, any need we had (which were few) was attended to promptly and in a spirit of hospitality. The next time we are in Paris we know where we will stay. You can't go wrong staying here.",
+            "date": "juin 2011"
+        }
+    ],
+    "p_emplacement": "rate_me",
+    "id": 1,
+    "p_qualite-prix": "rate_me",
+    "p_communication": "rate_me"
+}

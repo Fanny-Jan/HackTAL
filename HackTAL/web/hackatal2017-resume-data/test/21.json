@@ -1,0 +1,952 @@
+{
+    "productTitle": "rate_me",
+    "p_precision": "rate_me",
+    "nbReviews": 126,
+    "p_proprete": "rate_me",
+    "resume": "",
+    "p_arrivee": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_productTitle": "rate_me",
+    "reviews": [
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Cyrille",
+            "neg": [],
+            "text": "L'appartement de Welly est très agréable, propre, fonctionnel et bien situé. Welly a très bien géré mon acceuil.",
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Aurelien",
+            "neg": [],
+            "text": "Appartement nickel!! Vraiment bien situé!! Welly nickel tout été prêt à notre arrivée et le ménage impek. Je recommande cet appartement!",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Moreau",
+            "neg": [],
+            "text": "L'appartement correspond aux photos : il est très agréable, propre, décoré avec soin, et fonctionnel. De plus, il est très bien situé dans Paris et se trouve proche de petits commerces. Welly a été soucieux du bon déroulement de notre séjour et très prévenant. Je recommande cet appartement et j'y reviendrai pour passer quelques jours à Paris sans souci !",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Christopher",
+            "neg": [],
+            "text": "Appartement très sympathique et bien situé. Il correspond parfaitement aux photos et à la description. L'hôte est également très accueillant et toujours disponible. Je recommande vivement ! !",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Samir",
+            "neg": [],
+            "text": "L'appartement est lumineux calme est agréable. Idéalement située dans le 9emme arrondissement a 10 minutes de la gare saint Lazare et a 3 minutes de la place de Clichy, donc très bien desservie par les transports en commun. Le quartier est vivant avec bcp de bons restos, Bar...",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Martin",
+            "neg": [],
+            "text": "J'ai passé un excellent séjour dans l'appartement de Welly. L'appartement est très agréable, bien situé dans le 9eme, les photos sont fidèles à la réalité. Bref je reviendrai !",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Christian",
+            "neg": [],
+            "text": "WELLY a été d'une extrême gentillesse et a été très disponible. Son appartement est vraiment très bien et a un niveau de confort élevé. Rien ne manque et les prestations sont à la hauteur de l'attente des gens exigeants. La propreté est remarquable et appréciable. Je recommande absolument l'appartement de WELLY",
+            "date": "février 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Didier",
+            "neg": [],
+            "text": "Welly était présent dès notre arrivée et nous a donné tous les renseignements nécessaires à notre séjour de quatre nuits. L'appartement au 3° étage avec vue bien dégagée sur une rue venant perpendiculairement, est comme décrit sur les photos. Il est traversant, spacieux, moderne, propre. J'ai découvert un quartier animé, sécurisé, bien fréquenté, à 10 minutes à pied du Bd Haussmann/ Opéra et ses grands magasins. Un supermarché au rez de chaussée est ouvert jusqu'à 22H. Le métro Place de Clichy est à 150 m.",
+            "date": "janvier 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Hugo",
+            "neg": [],
+            "text": "Appartement propre, avec tout le confort nécessaire à un bon séjour. Il n'y a pas de bruit côté chambre, la déco est soignée et moderne, je vous conseille vivement cet appartement. De plus Welly est très sympathique et attentionné, un hôte au top.",
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Christophe",
+            "neg": [],
+            "text": "J'ai passé une semaine très agréable (même si c'était pour le travail…). Welly est un hôte très sympathique, accueillant et soucieux du bien être de ses hôtes, il était là pour m'accueillir. L'appartement est très bien aménagé, calme, parfaitement équipé. De plus, il est très bien insonorisé et le lit est très confortable. La propreté y est irréprochable. Je n'hésiterai pas à y retourner au mois de mars",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Arnaud",
+            "neg": [],
+            "text": "Hôte très sympathique. L'appartement est très agréable (idéalement situé, entièrement équipé, déco récente). Tout est à disposition pour passer un agréable séjour sur Paris. Merci Welly",
+            "date": "décembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Tom",
+            "neg": [],
+            "text": "Je recommande ce super appartement au cœur de Paris vous ne le regretterez pas! Welly est génial",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Maxime",
+            "neg": [],
+            "text": "Apartement agréable et idéalement situé. Tres bon séjour.",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Diego",
+            "neg": [],
+            "text": "L appartement de Welly est parfait pour toutes personnes voulant passer un excellent moment à Paris. Proche de tout, il permet de faire un maximum de choses à pieds et est à proximité du métro pour de plus long déplacements. Juste parfait!",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Nicolas",
+            "neg": [],
+            "text": "Appartement très cosy, agréable, propre et fonctionnel tout à fait conforme aux photos. Welly a été très accueillant et soucieux du bon déroulement de mon séjour. Je ne peux que vivement recommander cet appartement.",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Beatrice",
+            "neg": [],
+            "text": "Très bon séjour chez Welly. L'appartement est très bien, neuf, propre et lumineux. Le canapé lit est fantastique! Le quartier est très bien désservi par métro et bus et il y a plein de commerces juste en bas. Merci encore Welly et si on revient à Paris on pensera à vous.",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Élisabeth",
+            "neg": [],
+            "text": "Après quelques quiproquos, tout a été parfait, notre hôte très gentil, l'appartement tout à fait adéquat, propre, un peu haut au début avec des valises et le décalage, très bien situé., confortable, bref, notre séjour a été super.",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "french",
+            "name": "Mariepier",
+            "neg": [],
+            "text": "L'appartement était parfait en tout point. Il était bien situé, propre et fonctionnel. Merci Welly!",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Camille",
+            "neg": [],
+            "text": "Staying at Welly's flat was really nice. It's a pretty spacious space and Welly was very welcoming and available. The bedroom was quiet and the flat was clean. I used the washing machine and it worked really well. The only tiny detail was the lack of toaster! :) overall a great experience. Will definitely come back.",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Luper",
+            "neg": [],
+            "text": "Welly's apartment is brand new, ideally located, clean and well equipped. The bedroom is on the courtyard side and is very quiet. Welly made everything possible for me to have a nice stay, and even offered me a full basket of fresh fruits at my arrival. Definitely recommended!",
+            "date": "février 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Shelley",
+            "neg": [],
+            "text": "Welly's place was perfect for our stay in Paris. A good space with natural light and a beautiful view of the picturesque Parisian buildings. It was just as it appeared in the pictures. The location was great - a short walk to several Metro stations, Montmartre, the Opera. Welly was a great host and gave us all the information we needed for check-in and for our stay. Would definitely stay here again!",
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mistral",
+            "neg": [],
+            "text": "This apartment is super well located, very clean and very comfortable. It has a beautiful view down classic Parisian streets, is a few steps from the metro, and a lovely walk to Sacré Coeur, Saint Lazare train station, and lots of restaurants and shops. The other reviewers who say that the shower is small and it's up a lot of stairs -- this is Europe! Lots of places have small showers and no elevators. This was perfectly manageable for us, and we found the place very well outfitted with the amenities we needed. The only complaint I had -- which was NOT the fault of this Airbnb owner -- was that the neighbor smokes, and the smell comes into this apartment a little bit. If you are very sensitive to smoke, then this may not be the place for you. But if you are sensitive to smoke, then Paris may not be the city for you... :) A wonderful stay overall, looking forward to coming back!",
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sarah",
+            "neg": [],
+            "text": "Welly's apartment was perfect! The location could not be better in beautiful Montmartre. An amazing bakery is right next door! He was so helpful and accommodating with check in. Really felt like home :)",
+            "date": "mai 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Øistein",
+            "neg": [],
+            "text": "Welly was a great host! He communicated well and replied fast to any question/wishes we had. Welly was very open minded regarding late checkout, which we really appreciated! The apartment was very well equipped and the location is very good! We are a family of 4, children 13 and 16 and the apartment fitted us well. I would warmly recommend Wellys place!",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Dan",
+            "neg": [],
+            "text": "As others have stated, don't be deterred by the peeling paint and condition of the stairs heading to Welly's apartment. When you open the door, the apartment is open, has fantastic natural light, and a fantastic view of a lively neighborhood. It was a perfect base for our Paris explorations.",
+            "date": "avril 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Anna Luiza",
+            "neg": [],
+            "text": "Welly is super attentive, a nice guy that will do everything in his power for you to have a nice stay. The apartment is super cute, had no problems with cold waters or heaters which is something common in paris apartments. My stay was excellent and will gladly come back in the future :)",
+            "date": "mars 2017"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kevin",
+            "neg": [],
+            "text": "Welly is an excellent host. We requested some extra towels and soap and they were there in hours. We also requested an early arrival and he took care of us. Very nice after a long flight from the US. The room is bright, cozy and clean with a nice view of the street below. Very nice location. You are a 3 minute walk from the metro trains, or you can walk to shopping district in 15 mins or Notre Dame in 25 mins. Given great host and unit, we would definitely stay here again and recommend it to others. Some tips: 1. It is very quiet in the bedroom, which is at the back, but the street noise is higher in the living room which may affect those sleeping on the pull-out sofa if they are light sleepers. I'm a light sleeper and had to move, but my kids had no problem. 2. The shower is quite small: 2 feet by 2 feet floor, so if you're larger, this will likely be an issue. 3. When you first come in from the street level door and must walk up 3 floors, the stairwell is not well maintained (large slabs of peeling paint etc.), but don't let it throw you off. The apartment is very nice!",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ebru",
+            "neg": [],
+            "text": "Welly is a great host, he kept our communication live during our stay. The house's location is very good, and there's many restaurants and supermarkets around.",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Janet",
+            "neg": [],
+            "text": "My husband loved Welly's place! Was well-located, charming, comfortable, just 4-min walk to the subway, 15-min walk to Montmarte. Perfect and would love to stay again.",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Andy",
+            "neg": [],
+            "text": "Great location, clean apartment, Welly was very accommodating and a cool dude.",
+            "date": "décembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Wouter",
+            "neg": [],
+            "text": "My stay at Welly's appartment was great!! Will definatly recommend it.",
+            "date": "novembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sergey",
+            "neg": [],
+            "text": "It was a pleasure to stay at Welly’s apartment. Welly is a nice person to have a conversation and was a great host as well. The apartment looked exactly as pictured, clean, cozy and with amazing view from the windows. Perfect location is also a good point to stay there. I would definitely recommend to stay with Welly if you’re coming to Paris.",
+            "date": "octobre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "盈和",
+            "neg": [],
+            "text": "It's an amazing apartment. We had a great time in Paris. We would definitely come back again next year. Welly is so good and helpful. Apartment is in a good spot. With good food around and safe. Nice bars downstairs. Love it! June",
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jessica",
+            "neg": [],
+            "text": "I had a wonderful experience at Welly's apartment. I stayed in Paris for two weeks and I was very comfortable the entire time. Welly greeted me when I arrived, helped me with my luggage and checked in on me a few times throughout the trip to make sure everything was ok. He was helpful with recommendations. The apartment was very clean and had everything I needed. Although the building is quite old and the stairs are a bit hard to climb with luggage, the unit itself is exactly like you see in photos (nicely renovated and bright). I never felt unsafe in the area and it is close to everything you need (grocery, bakery, public transport). I did a lot of walking too! It can be a bit loud with the windows open but overall it was fine. The sofa bed in the living room might be a bit small for 2 people (it slept one person comfortably) and the shower is quite small, but overall I had a great stay and would definitely stay here again when I return to Paris. Highly recommended!",
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alejandro",
+            "neg": [],
+            "text": "The apartment was very nice and looked exactly as pictured. Welly was a great host! He checked on us throughout our stay to make sure we always felt comfortable. This was specially helpful at the beginning of our stay when we arrived very late at night and didn't get the best first impression of the building (it's quite old, like most buildings in Paris) and the neighborhood (streets were a bit dark and isolated, except for a couple of bars across from the building). Welly assured us that we had nothing to worry about and throughout our stay we saw how calm and nice the neighborhood actually was. It was also centrally located and close to the metro station. It made moving through Paris very easy.",
+            "date": "septembre 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Gerardo",
+            "neg": [],
+            "text": "Welly is a very nice guy and tries hard but this place is not for families or people carrying large suitcases. Your legs will pay for it.",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Amanda",
+            "neg": [],
+            "text": "Since two years i had many families and they all loved the flat (120 reviews ) Paris is Paris with his history, old and smalls streets, old buildings and three floors with no lift is very common. I hope you had a good and had a good flight to L.A.",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Anne",
+            "neg": [],
+            "text": "The flat was very clean and spacious, in a great location. Our host, Welly, was very helpful and accommodating. I would stay here again if ever I'm in Paris.",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ruby",
+            "neg": [],
+            "text": "Great stay and great area. Very accessible. Also loved waking up to the smell of freshly baked croissants from the bakery in the building!",
+            "date": "août 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Dave",
+            "neg": [],
+            "text": "Welly was excellent! He followed up repeatedly. I would most certainly recommend him to any guests. He made the stay and the trip worthwhile.",
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ivan",
+            "neg": [],
+            "text": "Our time in Paris was made even more exceptional by Welly's wonderful apartment! We didn't get a chance to meet Welly upon checking in, but he provided us with comprehensive instructions for how to find, and get into the apartment, which wasn't an issue! The apartment is very well situated within the Montmartre district of Paris, and is located well within walking distance of Boulangerie's, restaurants, and a wealth of sights to see! If you are looking for somewhere to stay in Montmartre, don't hesitate to stay in Welly's apartment!",
+            "date": "juillet 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Josh",
+            "neg": [],
+            "text": "Welly was great, the location is awesome, and he was super helpful with our arrival.",
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Colin",
+            "neg": [],
+            "text": "This apartment was great for our time in Paris. It was very spacious and clean, and the location is fantastic. It's a short walk to the metro and there are lots of restaurants and a few bars nearby. Welly was very communicative throughout our stay. I would definitely stay here again the next time I'm in Paris.",
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Thang",
+            "neg": [],
+            "text": "Love this place, and Welly is so easy going and great! I highly recommend it.",
+            "date": "juin 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Katie",
+            "neg": [],
+            "text": "Welly's apartment was in a perfect location right in Montmartre. There were excellent boulangerie's nearby to buy bread and croissants. Also towards the sacre coeur just past the Moulin Rouge were boutique clothes stores and fromagerie's. Versailles by train was only 40 minutes. All the other tourist sights were in walking distance from Welly's. Welly's place was perfect for my mum and I. Mum took the main room whilst Welly fixed up the sofa for me. The shower was lovely and warm. Welly was alway at hand to answer questions and was a very good host. I thoroughly recommend if your coming to Paris to stay with Welly.",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Philip",
+            "neg": [],
+            "text": "Welly was an exceptional host. He was there at the check-in and anticipated any questions. The flat is smart, well-kept and exceptionally well-placed to experience the different sides of Paris within a short walk. I would highly recommend it for a stay. Great experience.",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tony",
+            "neg": [],
+            "text": "Welly is a tremendous host! He helped us a lot during our stay and provided everything a person need in Paris. The flat is accurate to the description: there were three of us staying in the apartment and there was enough space, so, grab a friend if you come here. The location is perfect! 20 minutes on foot to Louvre, 10 minutes to Grand Opera.",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Steven",
+            "neg": [],
+            "text": "We loved staying at Welly's apartment in Paris. It was clean, and Welly was a welcoming and responsive host, and it was a great home base for our 5 days in Paris. It has easy access to the metro via Liege, Place de Clichy or a quick walk to Gare St. Lazarre. There's a market right next to the apartment, great bars, and Bistros. We'd stay there again in a heartbeat.",
+            "date": "mai 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tracey",
+            "neg": [],
+            "text": "The description was accurate and the location was fantastic. Welly was very helpful and kind",
+            "date": "avril 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Johnny",
+            "neg": [],
+            "text": "Thanks welly for hosting us in your nice flat on clichy! Great area for us to visit the rest of Paris. Close to many metros and great restaurants and sites. Very clean and welly was a great host. Merci!",
+            "date": "mars 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mihovil",
+            "neg": [],
+            "text": "Welly is very kind and friendly, you will feel welcome even before you come to his apartment. The apartment itself is very cosy and bright. It is also very conveniently located, shops, cafes and restaurants are indeed very close by. The neighbourhood is very lively yet the apartment is quiet and peaceful. Overall a great and authentic place to stay in Paris.",
+            "date": "janvier 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kim",
+            "neg": [],
+            "text": "We had an amazing experience in Welly's apartment. Welly was so friendly and helpful and accommodated a late check out to connect with our flights. We travelled with our 2 kids aged 6 and 8 and the apartment was a great fit for us with plenty of room. Location of the apartment was so close to everything and an Uber ride to main attractions less than $10euro for family of 4. Neighbourhood is great with walking distance to everything you need. Loved it and will be back.",
+            "date": "janvier 2016"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kurtis",
+            "neg": [],
+            "text": "Our stay at the apartment was incredible! Welly was very friendly, helpful and accommodating. He had the wifi password in a frame, easy to access, he recommended places we could see and the best places to eat in the area and his English was amazing which was very helpful for us. PROS: Location – amazing views of the city streets. We felt like we were in the heart of Paris. We were just steps away from awesome restaurants, bars and cool places like the Moulin Rouge. Spacious and clean – The apartment was huge, clean and wonderful. We loved having a separate bedroom on the less busy/noisy side of the apartment facing a quiet courtyard and that the livingroom had big windows with a lot of light and a great view. CONS: Small shower – The shower is VERY small so if you are either bigger or very tall, you wouldn’t like the shower very much. There is also a large step to get in and out of the shower as well. No elevator - For us, it was fine because we are both fit people, but for anyone who has trouble with stairs (3 flights up and they are very narrow, old steps) this apartment may not be the best choice for you. Overall, our stay was amazing and we’d stay here again! 5/5 rating, for sure! Thank you, Welly for your hospitality and for allowing us to stay in your beautiful apartment!",
+            "date": "décembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Emmett",
+            "neg": [],
+            "text": "Welly was a very accommodating host. He was waiting for us when we arrived! Very friendly and approachable. His place was very comfortable and neat. Shops all around from supermarket to coffee shops and restaurants are just a few steps away. It is also near the metro station and if you like walking, I definitely recommend this place. It's only a few minutes walk to the Opera and Galleries Lafayette, and if you like show like \"Cats\" Théâtre Mogador is just down the block. All in all I had a great time in his place. One thing though, the shower is a bit small but I am a small person so I didn't mind.",
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jowita",
+            "neg": [],
+            "text": "Highly recommend! Very good care from the owners side. Flat very well equipped, very true with the description and in a very good place. It's probably everything that you need for a lovely stay in Paris :)",
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ruby",
+            "neg": [],
+            "text": "The plat is great, only 5 mins walking from the metro. The area is very convenient with 2 supermarkets open until 10pm. There are many restaurants downstair as well. The flat is newly renovated with modern appliance and furniture. The sofa bed in the living room is extremely comfortable. The host has gone beyond to help us renting a cushion for the extra guest. We truly appreciate this. The host also allow us to check out late so we have time to explore the city again in the morning before departure. Overall the best airbnb experience we have had. Thanks Welly for your hospitality. We will definitely come back!",
+            "date": "novembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Joseph",
+            "neg": [],
+            "text": "We loved our stay at Welly's flat! The area is good, baker, carefour and shops just seconds from the flat. Metro few minutes walk, close to Moulin Rouge, Sacre Coeur and bars. The entrance into the building isn't very nice but after climbing 3 floors up you are welcomed to the delightful flat! It is very comfortable, light and bright and nicely decorated. Both bed and sleeping couch very comfortable. Bathroom small, shower even smaller......all very clean! Everything you need is there, complete kitchen to make breakfast or small meal. I am very picky for staying at places but I can highly recommend Wally's flat! Enjoy!",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jay",
+            "neg": [],
+            "text": "Thanks a lot Joseph and sorry I could meet you. welly",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alex",
+            "neg": [],
+            "text": "Welly was great. He met my son and I at the apartment. He let us in early to accommodate our flight which was amazing. The apartment was clean. There was plenty of room for both me and my son. The bed was very comfortable. My son slept on the couch and he said it was vey comfortable. The apartment is very close to Montmartre. Good bistros within a ten minute walk. All in all, a great place and a great host.",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Darrell",
+            "neg": [],
+            "text": "The apartment is well depicted in the description and photos. It is a nice apartment centrally located near the opera house and a metro line. It was very clean. The only complaint is that the shower is quite small and a person that is 100kg+ will have problems fitting in the shower. Otherwise, the home was lovely. Welly communicated well. We did not meet as his cleaner let us in but Welly offered to come by and check on us but we were out in the town. We did have a bit of difficulty getting into the apartment initially but I think The problem was Welly's cleaner not communicating well and not Welly's fault. Overall we had a great time and would stay here again.",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kari",
+            "neg": [],
+            "text": "We really enjoyed our stay in Paris and the apartment was great. Welly gave us very good directions from the airport and it was super easy to get around on the Metro. He was very helpful and we had no problems getting information about the area.",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Alejandra",
+            "neg": [],
+            "text": "Despite a flight delay, Welly went out of his way to ensure we arrived safely and could access the flat. The flat was clean, compact, and modern. The bed was quite comfortable. The location was great with a train station nearby and easy access to all areas of Paris. We had a wonderful trip.",
+            "date": "octobre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mark",
+            "neg": [],
+            "text": "Welly was traveling and had someone greet us for him. She was very nice, and showed us everything we needed to know about his flat.",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Karen",
+            "neg": [],
+            "text": "The appartment is just what it is said in the description and more. Was supplied with basic need to start the trip.In a fantastic location, close to transport and local shop. Highly recommended.",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Simon",
+            "neg": [],
+            "text": "Welly was a great host, he welcomed us at the apartment and any questions we had he was happy to help us out. I couldn't fault Welly or the apartment or the area. Was a great lovely place. Very clean and homely like. Would highly recommend!!!:)",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kelli",
+            "neg": [],
+            "text": "Welly was a great host. Even though we never met him personally, he was always making himself available and offered help. The place is absolutely amazing! It is so charming that you will never want to leave. The view of the window is exactly what is shown in the pictures. We fell in love with it! You can feel the Parisian vibe and life. I definitely recommend this place. It is very well located and you can get buses and metro withing walking distance!",
+            "date": "septembre 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Marisol",
+            "neg": [],
+            "text": "We had an amazing time in Paris! The flat was nice and clean, like in the pictures, and situated in a great area with lots of bars and restaurants! We didn't meet Welly, but he was always looking after us asking if everything was ok. I would definitely recomend staying in Wellys flat! :)",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rudolf",
+            "neg": [],
+            "text": "I was very pleased, flat was beatiful and clean, not far from city centre, nice part of city, I have no bad points, i would definately go there again",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Desiree",
+            "neg": [],
+            "text": "You are more than welcome .",
+            "date": "août 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rajpal",
+            "neg": [],
+            "text": "The apartment was not exactly like it was shown on the web, the bathroom was very small especially the shower area was jus(URL HIDDEN)feet and very difficult to have a bath. Also as per the contract we were told if we cancelled atleast 1 week before the date we would be refunded 50% of the money. I had made a mistake of booking 4 nights instead of 3 nights and requested for refund for just 1 night a whole month before the arrival date but was not given a cent. Airbnb said it was a matter between me & host. I would not recommend at all to book this flat.",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Steven",
+            "neg": [],
+            "text": "Dear Sir, I am deeply sorry that the fact you hadn' been able to cancel the last night had major consequences on your stay in my apartment. This is the first negative comment I ever had; the 50 others clients who wrote a note looked absolutly pleased. As clearly written in the contract, I am only renting the flat for 4 nights minimum for that period and that any cancellation should be announced 2 months before. I hope this incident didn't affect your trip in the beautiful Paris at the end. Best . Welly",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Yu-I",
+            "neg": [],
+            "text": "The host had told me everything we want to know. Everything is good except there is no air conditioning.",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sihui",
+            "neg": [],
+            "text": "It's really nice place, just nearby the metro and so easy buy the foods or anything you want. And the apartment is cleanly and comfortable, I went there with other three friend, it's totally suit for this apartment! After we check in the place, Welly also check again if we are well in apartment! Thanks so much! I highly recommend this place!!!!! 相信很多第一次在巴黎自助旅行的朋友會擔心巴黎的安全問題,這個地方靠近市區,生活機能很好,公寓樓下就有麵包店、超市及家樂福,附近也有許多咖啡店,營業時間到很晚,所以基本上也不必擔心被搶劫,公寓內部整修的很完善,空間很乾淨,住起來非常舒服,離地鐵站又近,到許多巴黎的主要景點都非常方便,如果來巴黎,很推薦這個地方!",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Christina",
+            "neg": [],
+            "text": "This place is lovely. The location is just a couple blocks away from Metro with bars, pharmacies and supermarkets within reach. La Fayelle is within walking distance of about 15 mins. The apartment was exactly like pictures - clean and cosy. Paris is a very warm right now; despite having no ac, the area is windy enough to keep the apartment cool at night. The flight of stairs up was a little unmanageable with our heavy luggages, but otherwise fine with just light shopping. Welly was a great and warm host - showed us the apartment and ensured we were familiar with its surroundings. He was also very kind to arrange transport for us to catch our (extremely) early flight out.",
+            "date": "juillet 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jorge",
+            "neg": [],
+            "text": "Welly is great host and I'm sure I'll stay there again at next holiday there.",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Bharat",
+            "neg": [],
+            "text": "Very nice place, good location....Supermarket and excellent bakery close by. Walking distance from centre of Paris with access to many good bistros and restaurants, metro station just few blocks away.",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Luke",
+            "neg": [],
+            "text": "Welly was very helpful and his place is great. It's perfectly located-- there is an amazing bakery and a great British-style pub right outside. Welly is very professional and I would recommend him to anyone looking to stay in Paris.",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mehdi",
+            "neg": [],
+            "text": "Except the flight of 65 spiral staircase this place is really amazing. Location rooms were ideals. A few block from Mullen rouge and wonderful neighborhood. Though I did not meet my host he left o do about paris in the nice folder I wished he would have provided some very good restaurant on his neighborhood. I would consider this place like my own flat in Paris. If you need a shower more than 2x2 you should not consider this place.",
+            "date": "juin 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Trung",
+            "neg": [],
+            "text": "Welly was not at his apartment when we arrived but his cleaner was there with detail instruction. Although we have small misunderstanding but it was resolved quickly. The house is exactly the one in the picture with convenience to access metro station as well as supermarket and other necessary utilities.",
+            "date": "mai 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Zooey",
+            "neg": [],
+            "text": "Very nice apartment and very kind host, near the metro and convenient!",
+            "date": "mai 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Katie",
+            "neg": [],
+            "text": "Perfect apartment in an adorable neighborhood. The apartment was a lot bigger than we thought it would be. It is steps away from multiple cafes, bakeries and the metro. A short walk to Moulin Rouge and markets (boulangerie, fromagerie, flower shop). Typical sized bathroom (smaller than what you're used to if you're from the US). Excellent sized couch! Welly was very accommodating and even recommended some spots in the neighborhood to check out. We will definitely stay here again.",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Michelle",
+            "neg": [],
+            "text": "Great apartment, very clean and organized, fantastic area, nice bars and restaurants very close by, supermarket a few doors away, easy to get around Paris as the metro is 3 minutes away. I highly recommend this apartment and will definitely go back there next time I'm in Paris",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Diana",
+            "neg": [],
+            "text": "Welly's flat was extremely cozy, clean, and well-situated for myself and two girlfriends. The pictures and descriptions are on-point. It was a nice location and beautiful view with the perfect amount of noise and night-life. Transportation was extremely easy, since the nearest metro was a straight-shot and less than 5 walking minutes away. We didn't need to communicate with Welly much since everything was straight-forward, but he definitely made himself available if we needed anything. I would definitely come back!",
+            "date": "avril 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Eric",
+            "neg": [],
+            "text": "Very positive experience , Welly try's very hard to accommodate . The location is superb relative to the downtown core. For me , I wish the bathroom was bigger.",
+            "date": "février 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mayin",
+            "neg": [],
+            "text": "The flat is very cosy and comfortable, it had everything that we needed. We found it very convenient to travel as it is so centrally located. The Metro station is about 5 mins walk away and below the flat are a grocery, convenience and bakery shops and places to eat. A couple of minutes down the road is a nice Patiesserie where we had breakfast with fresh croissants. The flat is on the third floor and there is no lift in the building. But Welly was there to welcome us and he came down to help us carry the luggage upstairs. He was very friendly and showed us around the flat. Welly was very accommodating too and allowed us to check in a few hours early and also check out late. He also responded to any messages very quickly. I would definitely recommend Welly's place to anyone and I would not hesitate to stay there again. MC",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Anna",
+            "neg": [],
+            "text": "I spend my vacation with my family in January, Welly greeted us very warmly , the apartment looks just like the photo . It was clear and comfortable for three people, the apartment is located in a very convenient location, near is a metro station, shops, restaurants, nice bakery. The apartment was warm, bed was (URL HIDDEN) I want come back soon and will advise it to my friends !!!",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Evelyn",
+            "neg": [],
+            "text": "Excellent. Thank you welly for your hospitality.",
+            "date": "janvier 2015"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jessica",
+            "neg": [],
+            "text": "We really enjoyed our stay in Welly's apartment. It is in a great location close to the Metro and restaurants, cafes and shops. Welly was a very friendly and welcoming host and he was there to meet us when we arrived. The apartment was small but there is plenty of space for 3 people and a lot of storage space in the wardrobe and bathroom which is helpful when traveling. There is a supermarket downstairs which was great. The only issue is the stairs are very steep and the apartment is on the 3rd floor. There is no elevator so I wouldn't recommend staying here if you are unable to carry heavy luggage up and down the stairs. I would definitely stay here again, it was perfect for our stay in Paris.",
+            "date": "décembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Stephen",
+            "neg": [],
+            "text": "All I can say is we had amazing time is paris welly, was really helpfully the apt was amazing and really easy to find close to every thing we needed and more to get around. Amazing thanks for every thing",
+            "date": "décembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Deborah",
+            "neg": [],
+            "text": "I really enjoyed my stay at this bright flat in November. It is the perfect setup with the living room/kitchen facing the street and the bedroom facing a quiet courtyard. The bed is comfortably firm and I slept very well on it. All the appliances work well, including the towel warmer. The heaters kept the flat cozy when the weather got cool. The location is convenient with a two-line metro station just two blocks away though I ended up walking quite a bit. It was about a 15 minute walk to the Montmarte area and maybe 20 minutes to the Seine. Restaurants, cafes, patisseries, and grocery stores within a block and many more in the surrounding area. There is an organic farmer's market, Marche des Batignolles, on Saturdays from 9:00 to 2:00 which is about five blocks from the flat. There is also a Starbuck's across the street from the metro station. Welly was out of town when I arrived so his nice friend Georges met me at the flat. Welly stopped by a few days later to meet me and spent time answering my questions and showing me a few tricks, like how to change some TV programs from French to English. He is a very friendly, accommodating host. I would happily stay here again.",
+            "date": "novembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Grace",
+            "neg": [],
+            "text": "Welly's place is lovely ,clean,and comfortable. You will find everything you need in the (URL HIDDEN) is comfortable as you have a another home in Paris.The location is very good and easy to everywhere in Paris.The most important is Welly and his friend -Georges are very kindly and reliable.They help me a lot.My friends and I really enjoyed in stay here.This is my first time to book in airbnb. It did a wonderful experience . I am highly recommend a stay in his place.Merci beaucoup .Grace",
+            "date": "octobre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jillian",
+            "neg": [],
+            "text": "The apartment is compact, clean and bright, in-between and close to Metro stops Liege and Place de Clichy, an easy walk to the Montmartre, and a one-stop Metro change to the sights of central Paris. It is well-placed to walk to Gare St Lazare for the early train to Vernon (for Monet's house and garden at Giverney). We were welcomed by Welly’s friend who was looking out for us when we missed the entrance door to the building. Welly had confirmed the address with us as 65 Rue de Clichy, not Rue Blanche as listed. He kept in contact with us regarding our expected arrival time. Welly is a concerned host who went out of his way to assist us with a travel query. The front of the apartment overlooks Rue de Clichy, relatively busy at peak times, with a view down the Rue de Vintimille where we found a great restaurant. The bedroom at the back of the apartment is quiet - you may be lucky enough to wake to the homely fragrance of baking bread! A supermarket, greengrocer, good suburban restaurants and excellent patisseries are close by. It was great to be in a residential suburb of Paris yet close enough to the sights of the city. The apartment is on the 3rd floor, without a lift; travelling light, we found this to be no problem. We’d happily return, thanks for everything, Welly.",
+            "date": "septembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Thatri",
+            "neg": [],
+            "text": "Dear Welly, I come back to BKK already. It was a great time in Paris and stay at your apartment. It's easier to find things and get Metro, RER, Bus to go to anywhere in Paris. Your apartment have a good view, comfortable, convenience. I liked the Vietnamese Restaurant \"Pho20\" near your place very much. Although the pub opposite your place was noisy every night but it was OK I think it is a parisian living. Best Regards, Thatri",
+            "date": "septembre 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Jennifer",
+            "neg": [],
+            "text": "Welly's place was lovely and well placed in Paris. It was central and easy access to the Metro and mainstream Paris itself. Welly gave us good local info and was generous with his time. We would highly recommend a stay in his apartment. Jenny and Judith",
+            "date": "août 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kai",
+            "neg": [],
+            "text": "Well, Welly was one of bis kind: open-minded, flexible, reliable and so kind. Just briefly: the perfect host in Paris! Although coming from a far distance trip himself, he waited for us in the flat and gave us the perfect welcome to the city. Not to forget his apartment. Forget all those posh, over expensive hotel rooms in the neighbourhood. Wellys flat is THE spot to stay and enjoy Parisiane life. Five stars and thumbs up!!!!! Merci beaucoup. Kai & Simon",
+            "date": "août 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Susannah",
+            "neg": [],
+            "text": "Everything was wonderful about our stay. Welly was our first AirBNB. He was very responsive and helpful. He greeted us and helped us up with our luggage. The apartment was very clean and quiet. We had everything we needed. The location was great and close to trains and shops. I would def recommend his place to couples and a family of 3/4. We had our two young daughters and felt comfortable and safe! Hot water was great, internet strong and everything comfortable.",
+            "date": "août 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Fallon",
+            "neg": [],
+            "text": "The apartment has been done up quite well, and the area has everything you need. We've stayed around Place de Clichy and Batignolles a few times now and have found it to be slightly less touristy, and therefore a welcome relief from the madness that can be Paris as a tourist. It is close to 2-3 metro stations on different lines, so getting to and from major sites is quite easy. Welly wasn't there for check-in, but his friend was really easy to communicate with and showed us how everything works, so we felt comfortable. It is up 3 flights of stairs, which are a bit narrow like many Paris buildings - so people with bad knees/mobility issues should be mindful of that. We were a group of three people (one being my mum), so two of us shared the sofa bed which was one of the comfiest we've slept on! Everything was clean and seemed new, especially the bathroom which is important. The road can be quite noisy when you have the window open, but we found the fan was enough overnight so we could shut the windows and therefore most of the sound. Overall, we had a great 4-night stay in the apartment and would recommend it to anyone.",
+            "date": "août 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Mi",
+            "neg": [],
+            "text": "Welly was a great host , thank you so much~",
+            "date": "août 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ariana",
+            "neg": [],
+            "text": "Welly was an excellent host. He was out of town when we had to check in and had a very reliable friend for us to contact when we arrived. Both Welly and his friend had great communication, they always responded to any messages or phone calls quickly and spoke English very well. The apartment was clean and had all amenities as listed in the description. Important to note that the stairs to the apartment are small and not ideal for large/heavy baggage. There is no elevator. The shower is also very small. If you are a larger/taller person (over 200 lbs), you won't be able to manoeuvre in the shower. The shower is a bit bigger than 2' x 2'. Those are the only 2 points that must be considered when booking. Everything else was fantastic, location is great, very close to the train. It felt very safe in the apartment because of the 3 locks on the door and the key code to get into the building. Although the streets were very busy, the apartment was surprisingly quiet when the front windows were closed. Keep the bedroom window open for a breeze and a fan is provided to keep the place cool. Also note that for Westerners visiting, who are used to ground floor being \"1\", Welly's apartment would be considered 4th floor. This was my first airbnb trip and it was a very positive experience. I will definitely stay here again when visiting Paris.",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Ji Won",
+            "neg": [],
+            "text": "We had a wonderful stay in Welly's. Welly made us comfortable to feel like home and gave some good tips about the area. Regarding a property, we actually felt we are in a local area in Paris, in which we loved to stay. Not too busy, not too quite, the location is great to get around. Buses go to the center of Paris, and many local bakeries and restaurants. The interior of the house is very modern and new as it looks in the picture, and all the kitchen essentials were there for us, including microwave oven! The only minor downside was the stairs which we had to lift our luggage by foot upto the 3rd floor, on check-in and check-out, but Welly actually helped. Thanks Welly! Having no lift was the least concern on our trip. Plenty other good things have paid off!",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Cynthia",
+            "neg": [],
+            "text": "Our stay at Welly's apartment was amazing. We didn't get to meet Welly but met his friend George who was fantastic. The apartment was the perfect for the 3 of us. The bed in the bedroom was super comfy, as was the sofa bed. Down the road in opposite directions were 2 smallish supermarkets. But if you head up towards Place de Clichy metro there is a much larger supermarket on the left past a few restaurants. There is also a McDonald's and KFC around the corner. There is a really fantastic bakery on a corner eith a light grey awning with Maison and another word which I have forgotten. For coffee lovers I would recommend the cafe éclair. We got our baguettes here for breakfast and toasted them in Welly's oven. We often walked to the major sights, Lourve, d'Orsay and Notre Dame with no problems. Taking the metro was no issue either. I had hesitations about the area but it was perfectly safe. For those of you who shop, Zara and other high street stores are just around the corner, as well as Galleries Lafayette is not far either. We would definitely come back fo future stays.",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Rebecca",
+            "neg": [],
+            "text": "It s ver Shame i didnt meet You . Thanks for the détails, i ve learned fews thinks .. See You Welly",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Doobee",
+            "neg": [],
+            "text": "We had a lovely stay in Welly's gorgeous apartment. The view is beautiful, and we loved leaving the windows open to look out on the streets. This apartment is very well situated, with easy access to the metro, but also we found there was a bus [81] one street away that takes you all the way to the Louvre, via the Opera. For a quick 20 minute ride this is fabulous! La Marotte is a lovely little eatery around the corner on Rue de Parme - a good local eatery! among many others. Pigalle and Anvers were a stroll away. Welly was very pleasant and offered his assistance readily. The apartment was clean and cosy and the three of us managed well. The shower is petit, and the stairs are 'good excersize' so for any larger souls these might prove a challenge, but we found them to be fine. Thank you Welly for a great stay!",
+            "date": "juillet 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Irena",
+            "neg": [],
+            "text": "Welly, Thank you very much, everything was fine. The apartment is fully consistent with the description and photos. Very clean and cozy. Very convenient location. I love Opera district and this apartment is ideal for location. Welly showed us the maximum respect.",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Erin",
+            "neg": [],
+            "text": "We thoroughly enjoyed our stay at Welly's flat! The apartment was exactly as described. It was very clean, comfortable, and spacious for two guests. We had everything we could need in the flat and the location was perfect with a metro stop, cafe, bars, launderette, bakery, and market all within a minutes walk. Welly was the perfect host, very friendly and professional. He was incredibly accommodating and helpful, allowing us to leave our bags in the flat when we arrived early, answering our questions, and giving us recommendations. We highly recommend this apartment and Welly, and we will be back in the future!",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Bonnie",
+            "neg": [],
+            "text": "The room looks the same as picture. The location is easy to find and very near the metro station. Also there are supermaket and restaurants nearby We have a great time here and Welly is very nice and helpful. Thanks to his help we can go to airport on time. Highly recomment to live here when you stay in Paris.",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Kanishk",
+            "neg": [],
+            "text": "Welly was very welcoming and accommodative. We were arriving very late in Paris yet he met us at the apartment to personally hand over the keys and explain everything. The apartment is nice and cosy and situated a nice part of town, close to quite a few metro lines. I would definitely recommend this apartment to others. Thanks Welly.",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Niina",
+            "neg": [],
+            "text": "The flat was great, just like in the pictures. Me and my two friends had a wonderful stay in Welly's place and he was very accomodating and friendly. Would definately stay here another time. Thanks again!",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Nanette",
+            "neg": [],
+            "text": "Welly's apartment is perfect for a stay in Paris. I was there for 6 weeks and found it to be very clean and well equipped. It provided all that was necessary for a very comfortable stay. The double window in the living room with view of street was great and bedroom on the courtyard side surprisingly quiet. I felt very safe and secure when in the apartment and and competely comfortable in the area generally. Plenty of convenience stores and restaurants or anything else that might be required. Easy walk into St. Lazare and shops. Welly very gracious host and would definitely look for his apartment when I return to Paris.",
+            "date": "juin 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Tobie",
+            "neg": [],
+            "text": "Welly was a wonderful host! His apartment is clean, modern and spacious and very near the Metro and a grocery store. Welly made sure we had everything we needed to be comfortable and I would absolutely stay here again. Thank you Welly!",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Edvinas",
+            "neg": [],
+            "text": "We (4 people) spent 5 nights at Welly's apartment. Welly is very nice and friendly person. Always instant response ready with any help. Apartment is fully furnished, clean and nice. House is 100m distance from few small shops with everything you need, and it is 5min away from the main street where metro station is. Highly recommended!",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Therese",
+            "neg": [],
+            "text": "Welly is serviceminded and the flat is in a nice area near Place Clichy and Moulin Rouge. We hade an excellent stay. With two children we really enjoyed our trip and Wellys flat. Comfortable sofa-bed and bed. Everything spotless as described in pictures and had all we could wish for. We highly recommend this!",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Svetlana",
+            "neg": [],
+            "text": "   Our family,  including two adults, two teenagers and one baby, were stayng in Wеlly's apartment on holidays. The flat is not too large but very cosy. There was all stuff  we needed: ware, a kettle, a fridge, and a coffee-machine.     The apartment is located in a good place near Moulin Rouge and Montmartre‎. Also it is located not far from  the Underground Station where two lines are crossed. A very nice madam works at the bakery downstairs. We have tried all kinds of  pastry there. There is a supermarket near the apartment. We were  pleased  much. Welly who is a very hospitable and careful master impressed us favourably.    ",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "William",
+            "neg": [],
+            "text": "You are welcome. I m 'Happy you had à good Time.. Maybe see you in St. Pétersbourg.",
+            "date": "avril 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Monika",
+            "neg": [],
+            "text": "Welly's place is perfect for one or two people. It is well-lit and clean, and close to metro, Montmartre, various bars. Welly himself was super-nice and professional. I can't recommend this more highly!",
+            "date": "mars 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Sofia",
+            "neg": [],
+            "text": "We spent 4 nights at Welly's apt. He is very nice and friendly person. He answered all my questions that I had before coming to Paris. His apt is exactly how the photos show - very clean, nice, close to main street where buses and metro are. We truly loved the area with nice bars and coffee shops ;) Highly reccomended!",
+            "date": "mars 2014"
+        },
+        {
+            "pos": [],
+            "lang": "english",
+            "name": "Nacho",
+            "neg": [],
+            "text": "Nuestro viaje a París ha sido genial, y si no hubiera sido por la ayuda y hospitalidad de Welly, no habría sido lo mismo. Todo limpio, accesible y muy cómodo, recomendamos absolutamente que durmáis en el piso de Welly cuando vengais a la Ciudad de la Luz. -------- Our stay in Paris has been awesome. Welly has been there everytime we've asked for help. The flat was absolutely clean, well located and really comfortable. We do recommend you to choose this apartment if you're looking for a magic stay in the City of Light!",
+            "date": "janvier 2016"
+        }
+    ],
+    "p_emplacement": "rate_me",
+    "id": 21,
+    "p_qualite-prix": "rate_me",
+    "p_communication": "rate_me"
+}

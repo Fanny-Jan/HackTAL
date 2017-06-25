@@ -89,12 +89,15 @@ class DefaultController extends Controller
             'negatif' => 1,
             'negligeant' => 1,
             'poussiereux' => 1,
+            'poussiereuses' => 1,
+            'poussiereuse' => 1,
             'radin' => 2,
             'raleur' => 2,
             'renferme' => 1,
             'rigide' => 3,
             'ringard' => 3,
             'sale' => 1,
+            'sales' => 1,
             'sombre' => 3,
             'superficiel' => 1,
             'approximatif' => 6,
@@ -139,7 +142,7 @@ class DefaultController extends Controller
             'laid' => 3,
             'repugant' => 1,
             'saccage' => 3,
-            'desagrable' => 2,
+            'desagreable' => 2,
             'chaud' => 3,
             'inhabitable' => 3,
             'indecent' => 3,
@@ -152,6 +155,10 @@ class DefaultController extends Controller
             'inutilisable' => 3,
             'bruyante' => 3,
             'degueux' => 1,
+            'dechire' => 1,
+            'crasseux' => 1,
+            'crasseuses' => 1,
+            'crasseuse' => 1,
         ];
 
         $negatifNom =[
@@ -175,6 +182,7 @@ class DefaultController extends Controller
             'insalubrite' => 1,
             'cheveux' => 1,
             'poils' => 1,
+            'taches' => 1,
        ];
 
         $positif = [
@@ -335,11 +343,27 @@ class DefaultController extends Controller
             }
             $k++;
         }
+
+        $dossier = '../web/hackatal2017-resume-data/test/';
+        $dir = opendir($dossier);
+
+//        $select_values[] = '';
+
+        while($file = readdir($dir))
+        {
+            if($file != '.' && $file != '..' && !is_dir($dossier.$file))
+            {
+                $selectValues[] = $file;
+            }
+        }
+
+
 //        var_dump($comNeg);
 //        die();
-        // replace this example code with whatever you need
+
         return $this->render('AppBundle::index.html.twig', [
             'comNeg' => $comNeg,
+            'selectValues' => $selectValues,
         ]);
     }
 }

@@ -1,0 +1,432 @@
+{
+    "productTitle": "rate_me",
+    "p_precision": "rate_me",
+    "nbReviews": 52,
+    "p_proprete": "rate_me",
+    "resume": "",
+    "p_arrivee": "rate_me",
+    "p_averageRanking": "rate_me",
+    "p_productTitle": "rate_me",
+    "reviews": [
+        {
+            "pos": [],
+            "date": "juin 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement très pratique pour une nuit. Appartement donnant sur la rue : beaucoup de bruits. Propreté moyenne.",
+            "name": "Marie-Alvina"
+        },
+        {
+            "pos": [],
+            "date": "mai 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Le lit est un clic clac en mauvais état, trop petit pour deux adultes, il ne se \"déroule\" pas comme on pourrais le croire mais s'abaisse en deux parties. Le reste est minimaliste, un peu de bruit dehors mais ça passe pour une nuit",
+            "name": "Héloïse"
+        },
+        {
+            "pos": [],
+            "date": "avril 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement bruyant (en angle de rue) mais moderne. Le hic: ménage non effectué malgré les frais demandés (poubelle PLEINE, déchets dans le fond de l'évier,..). Peut être parce que le neveu d'Emmanuel (qui gère la remise des clés) est arrivé en retard! Emmanuel (qui n'a géré ni appel ni accueil) a été de mauvaise foi en annonçant que les frais sont pour \"la sortie\" et non \"l'entrée\" dans le logement. (il faudra qu'on m'explique comment un appartement peut être sale à l'arrivée si le ménage est fait à chaque sortie!!!)",
+            "name": "Marie"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Petit studio, conforme à la description. Strict nécessaire pour y dormir. Attention toutefois au bruit, les voisins et la route passante n'aident pas à avoir un bon sommeil. Environ 20-25 minutes à pied du centre ville de Troye. Pour le reste rien à en redire !",
+            "name": "Lo"
+        },
+        {
+            "pos": [],
+            "date": "mars 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Le canapé lit est HS. On ne doit pas louer un studio avec un minimum de confort. Télévision en panne les 3 semaines de mon séjour, pas de dépannage. Douche bouché avec odeur.",
+            "name": "Michel"
+        },
+        {
+            "pos": [],
+            "date": "janvier 2017",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement conforme à la description. Cependant un peu bruyant et assez humide. Le sol est très froid il vaut mieux prévoir des chaussons. Le ménage quand à lui laisse un peu à désirer le sol est aspiré mais pas lavé et le tapis est limité. Cependant bon séjour malgré le television qui ne fonctionnait pas ( imprévu fonctionne normalement). Bien pour une nuit un peu juste pour plus.",
+            "name": "Raphael"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Bon logement bien équipé. Route passante et un peu bruyante mais pas de problème la nuit très calme.",
+            "name": "Djamel"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte à l'écoute disponible meme quand j'ai eu un soucis dans l'appartement elle a été réactivé. Appartement bien équipé. Petit hic: le clic clac commence à être un peu dur!",
+            "name": "Djamel"
+        },
+        {
+            "pos": [],
+            "date": "décembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement pratique propre ac un tres bon rapport qualite prix. Je vous le recommande",
+            "name": "Lucie"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Appartement propre, bien équipé. Les seules remarques que nous pouvons faire sont au niveau de la propreté des draps et serviettes, qui n'étaient pas niquel. De plus l'appartement étant au bord de la route, il est assez bruyant (surtout le matin) mais nous étions prévenus. Sinon, c'est un très bon rapport qualité/prix. Arnaud & Léa",
+            "name": "Arnaud"
+        },
+        {
+            "pos": [],
+            "date": "novembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Studio proche du centre de Troyes avec arrêt de bus juste à côté a 10 mns de l'hôtel de ville. Très pratique.",
+            "name": "Cedric"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Assez arrangent et diplomate ,très sympathique .",
+            "name": "Dominique"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bon séjour à Troyes, le logement est à une vingtaine de minutes à pieds du centre ville ! On s'y sent chez soi :)",
+            "name": "Morgane"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Bon rapport qualité-prix. Studio agréable, fonctionnel et propre. L hôte n'est pas présent mais joignable facilement. Seuls bémols : les échanges de clefs (absence dû propriétaire), le clic clac ( très inconfortable et trop petit pour 2) et surtout la route (juste devant la porte d'entrée bruyante la nuit). Malgré ces petits désagréments, nous avons passé un bon séjour.",
+            "name": "Alexandrine"
+        },
+        {
+            "pos": [],
+            "date": "octobre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement propre, avec une cafetière électrique :-) super... Un peu trop bruyant pour moi..",
+            "name": "Ophelie"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "c'est la deuxième fois que je le louais et j'ai été déçu sur la propreté et l'obtention des clés.",
+            "name": "Aurelie"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Super emplacement, studio propre, organisation au top... Emmanuel, change le clic clac",
+            "name": "Benjamin"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Le logement est très propre, bien situé et l'hôte nous a grandement facilité les choses pour les clés (nous sommes arrivé tard).",
+            "name": "Nelson"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Bau studio dans quartier relativement calme, près d'un hypermarché et non loin du centre ville",
+            "name": "Aurelie"
+        },
+        {
+            "pos": [],
+            "date": "septembre 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "L'hôte très disponible avec une grande facilité de contact je me suis senti chez moi",
+            "name": "Gaelly"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Super pratique, exactement ce qu'on cherchait. Le contact avant le 1er jour de location a été un peu compliqué, mais pas d'inquiétude à se faire, ce sont des personnes sérieuses. Le lieu est certes un peu bruyant à cause de la route, mais très agréable, frigo, micro-ondes, aspirateur, fer à repasser disponibles, et la douche est impec'. Je recommande !",
+            "name": "Jonathan"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "il n'y pas d'internet; si non le logement est conforme à l'annonce le mobilier est neuf et agréable; j'ai regretté le clic clac pas vraiment confortable et le manque de vaisselle: assiettes à soupe, récipient pouvant aller dans le micro onde, bols. Le bruit de la rue m'a été très supportable, l'isolation de la fenêtre et de la porte sont de qualité.",
+            "name": "Denis"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Le Proprietaire n'est pas visible il faut aller chercher les clefs chez d'autres pas d'état des lieux ni sortie ni entrée il faut même laisser les clefs dans une boîte aux lettre !! Un peu étrange mais logement propre et bien tenu. seul bémol la localisation pas du tout en centre ville !! Il faut corriger ça dans l'annonce et le canapé est juste rincer il faut le changer",
+            "name": "Delphine"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Hôte arrangeant avec les heures d'arrivée et de départ. Appart conforme à l'annonce !",
+            "name": "Alice"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Aménagement du studio agréable et nous l'avons trouvé impeccablement propre. Toutefois, son emplacement rend le vécu désagréable. Seul une climatisation de l'espace pourrait en améliorer le vécu.",
+            "name": "Léon"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "En effet le studio est neuf et moderne, fonctionnel, on peut se rendre à pieds au centre ville si on est bon marcheur, le seul bémol c'est le bruit, mais nous avions prévu. Le propriétaire est difficilement joignable mais la personne qui s'en occupe est disponible pour répondre aux questions et vous donner les clés.",
+            "name": "Isabelle"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Un peu excentré, plus pratique si vous êtes motorisé. L'appartement est très propre, la remise des clefs sans problème. En revanche, on entend un peu les voitures, ce qui ne nous a pas empêché bien dormir ! :)",
+            "name": "Ann"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Petit studio agréable, propre, bien agencé ; juste un peu bruyant la nuit ...",
+            "name": "Fabienne"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Le studio était bien, il manque une table ou une table basse pour manger. L'accueil a été rapide et pas très sympathique de prime abord, même si par la suite tout a été fait pour arranger le séjour. Au final c'est un petit studio sympathique pour un séjour rapide.",
+            "name": "Manon"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Les propriétaires ont fait tout leur possible pour nous arranger sur les horaires d'arrivée et de départ, tout en étant très disponibles par téléphone au long du séjour. L'appartement d'Emmanuel est vraiment propre et correspond bien à la description. C'est réellement un bon rapport qualité/prix pour un court séjour à Troyes.",
+            "name": "Hélène"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement très propre, dans un quartier sans charme mais très bien situé si l'on n'a pas peur de marcher un peu. Le centre historique est à seulement un bon quart d'heure à pied et des transports en communs restent disponibles à proximité. Logement très bien équipé et aménagé, excellent rapport qualité/prix. Je recommande.",
+            "name": "Gaetan"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Bien équipé, hôte disponible, et vraiment économique. Effectivement on entend la circulation car le studio se trouve à un croisement mais c'est supportable. Le ballon d'eau chaude est un peu juste pour deux personnes. Mais franchement, en tenant compte du prix c'est le top. Je recommande.",
+            "name": "David"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Bien que la localisation du studio ne soit pas idéale. Celui ci est propre et la cuisine comme la salle de bain sont bien équipée. Draps comme serviette étaient fournis. Néanmoins, il faut s'habituer au fait que le studio soit situé en angle de rue au RDC ce qui le rend un peu bruyant. De plus le clic clac est de piètre qualité. (Ce qui est dommage vu la qualité de l'aménagement du studio.)",
+            "name": "Stephen"
+        },
+        {
+            "pos": [],
+            "date": "août 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Emmanuel a fait en sorte que l'on ait un interlocuteur joignable facilement, ce qui a été le cas, que ce soit pour toute question ou pour la remise des clés. Les équipements étaient conformes à la description et très pratiques (serviettes, draps, tv, réfrigérateur, micro-ondes, grille-pain,...). Le studio est très agréable car neuf et suffisamment spacieux pour deux personnes (de corpulence moyenne par contre pour la douche car très étroite!). Les produits de base sont à disposition. Le ménage a été fait approximativement avant notre arrivée. Seul point négatif : l'appartement est au rdc, on entend donc bien le passage des voitures le matin mais il suffit de se munir de ses boules quiès pour régler le problème ! Excellent rapport qualité prix pour ce coquet appartement troyen très bien situé (15 min à pieds du centre ville).\n+ Plus",
+            "name": "Frederique"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Belle expérience à Troyes; Petit studio bien placé (à 15 min. environ du centre-ville à pied) et très propre. Nous avons dormi sur le clic-clac qui se déplie. Kitchenette et salle de bain avec tous les équipements nécessaires. Hôte disponible pour obtenir les clés.",
+            "name": "Jeremie"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Séjour décevant. ...le propriétaire étant absent pour raisons personnelles ce fût une autre personne qui gère la réservation. ..gérer est un bien grand mot.Cette personne après nous avoir eu par contact SMS nous dit qu'il faut venir récupérer les clés à un endroit différent d'où se trouve le logement.Donc détour. ...pour au final ne trouver personne pour nous remettre les clés en main propre...elles étaient dans un sac accroché au portail.Pour l'accueil on repassera...Mais le pire c'est lorsque l'on est arrivé au logement....Mal situé, parking petit,mal entretenu et difficile d'accès. Rue très bruyante car beaucoup de passage.Interieur du logement propre mais qui ne correspond pas à la description car il manque les serviettes qui devaient être fournies.Gros problème car nous n'en n'avons pas....nous appelons la personne qui gère l'appartement en l'absence du propriétaire pour lui signaler ce problème pour qu'il soit résolu. Mais celle ci nous répond qu'elle ne peut rien faire car elle est loin de Troyes. Cette même personne nous passe donc une autre personne qui se présente comme la loueuse de l'appartement. C'est une femme alors que le propriétaire est un (URL HIDDEN) vous passe les détails mais c'est vrai que je m'énerve un peu quand je me rends compte que celle ci ne compte pas du tout régler mon problème et surtout charge la faute sur les précédents voyageurs en nous disant qu'ils ont dû prendre toutes les serviettes. ...car nous avons effectivement trouvé un sac de linge sale.Mais ça veut donc dire qu'entre les voyageurs et nous personne n'est passé vérifié si le logement était conforme.....Nous avons eu droit à des menaces d'expulsions à 22h le soir après avoir roulé 4h non stop pour arriver à l'heure que souhaitait la première personne pour au final trouver personne!La seconde personne ne pouvant pas se déplacer aussi voulait nous envoyer une autre personne pour récupérer les clés et nous mettre dehors alors qu'il aurait été plus simple d'envoyer cette personne pour nous donner des serviettes et il n'y aurait pas eu de soucis!En fait nous avons eu à faire à 3 personnes différentes qu'on a même pas vues!! Ensuite lit pas fait et petit pour deux (URL HIDDEN) vmc très bruyante nous avons eu beaucoup de mal à nous endormir. Et l'annonce dit ''idéal pour les familles''mais c'est faux. Trop petit pour une famille.Nous vous déconseillons fortement ce logement ! !\n+ Plus",
+            "name": "Manu"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "quand nous sommes arrivés a l'heure du RDV une dame faisait le ménage nous avons du attendre une demie heure avant dr pouvoir prendre possession des lieu. habitation le long de la rue très bruyant il faudrait mettre à disposition un ventilateur en cas de fortes chaleur pour le prix nous ne sommes pas trop déçu",
+            "name": "Franck"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Notre hôte était très disponible et réactif à nos demandes. L'appartement est propre et conforme à la description. Il est adapté pour passer un agréable séjour en couple.",
+            "name": "Youness"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "L'appartement est conforme à l'annonce et agréable ! Par contre, il est vraiment bruyant car situé le long d'une route assez passante.",
+            "name": "Fanny"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Bel appartement propre et agréable. Emmanuel est facilement accessible, je le recommande.",
+            "name": "Elodie"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "J'étais un peu réticente à louer en raison des commentaires précédent mais le problème est réglé. L'appartement est très bien équipé il est vraiment très propre. Nous avons eu une personne disponible tous le long de notre séjour. Je vous recommande vraiment cet appartement car le rapport qualité prix est imbatable.",
+            "name": "Lexane"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Je viens de séjourner juste une nuit dans ce logement, c’était propre et confortable mais un peu bruyant (route face à la porte) et y avait pas de Wifi ce sera bien de l’indiquer dans l’annonce, mais à part ça le séjour était pas mal.",
+            "name": "Dalia"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bien, photos conforme, hôte disponible par message même si on ne s'est pas rencontré et sa personne de contact très sympathique, et flexibilité heure de départ. Merci",
+            "name": "Pamela & Julie"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Nous avons passé une nuit, mon compagnon et moi-même, dans l'appartement de Emmanuel. C'est un appartement refait à neuf, bien équipé. Malheureusement, au niveau de la propreté, nous avons été très déçu. Pleins de saleté au sol, des cheveux dans la salle de bain des anciens voyageurs, ainsi que leurs serviettes (entrain de sécher sur le radiateur). Les draps du lit idem utilisé par les anciens voyageurs. La poubelle pleine de déchets (toujours des anciens voyageurs. Les toilettes avec plein de traces et nous n'avions pas de papiers toilette. C'est simple nous avons eu le logement tel quel après le départ des anciens voyageurs sans aucun nettoyage. Nous n'avions ni de serviettes propres, ni de draps propres, ni de toilette propre... ni de papier toilette. De plus, l'appartement est au bord d'une route très fréquenté. Donc à 6h du matin, attendez vous à la circulation des bus et voitures.\n+ Plus",
+            "name": "Christine"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Nous venons de séjourner une nuit dans ce logement. Pas terrible car manque d'organisation, logement sale et bruyant (route face à la porte) et lit pas du tout confortable. Malheureusement nous n'y retournerons pas.",
+            "name": "Laura"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Logement refait à neuf et fonctionnel, il n'y avait cependant que 1 oreillers et nous étions deux. Le propriétaire: absent ! Répondait juste à mes questions en me renvoyant vers sa soeur pour l'accueil et le depart \"voyez avec elle\".",
+            "name": "Laurine"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "Très bonne communication avec le propriétaire, le logement correspondait parfaitement à la description et tout était disponible et prévu pour passer un agréable séjour.",
+            "name": "Cyril"
+        },
+        {
+            "pos": [],
+            "date": "mai 2016",
+            "lang": "french",
+            "neg": [],
+            "text": "L'appartement est propre et agréable. Le seul point négatif était qu'il n'y avait pas de papier toilette.",
+            "name": "Tiffany"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "The studio is exactly 20 min from center. The neighbourhood is quite, but as the door and the only window go to the street, you have to decide between noise and stuffiness. There is no kettle inside, but a small stove exist. There is no wifi, and host does not speak english at all:( It will be a good option for tourists with car, but for sightseeng on foot it does not cost its money",
+            "name": "Polly"
+        },
+        {
+            "pos": [],
+            "date": "juillet 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "small apartment in the outskirts of troyes",
+            "name": "Henry"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "Emmanuel's apartment is modern however basic amenities such as toilet paper was missing. The sofa bed is quite small for two people to sleep on. The apartment is on ground level located on the corner of a busy street, so as soon as you step out of the apartment you are on the pavement which can be noisy at times, and can feel like there is not much privacy. I met Emmanuel's sister at the apartment who I wasn't aware I would be meeting. She spoke no english, there is no wifi and parking is available on the side street if you're lucky.\n+ Plus",
+            "name": "Roxanne"
+        },
+        {
+            "pos": [],
+            "date": "juin 2016",
+            "lang": "english",
+            "neg": [],
+            "text": "The place is new, and cozy. Towels and sheets were clean but still damp/wet. Otherwise everything was as in photos. Perhaps due to language barrier, I had a difficult time communicating with the host. We didn't have information for key pickup until very close to arrival and we were arranged to meet at his sisters home. She was very kind and clarified how to get to and access the suite. The suite has no wifi, which we overlooked and really needed to have in order to communicate for key return, which was also instructed quite last minute. I think we are all quite new to airbnb so this will improve with time.\n+ Plus",
+            "name": "Regina"
+        }
+    ],
+    "p_emplacement": "rate_me",
+    "id": 73,
+    "p_qualite-prix": "rate_me",
+    "p_communication": "rate_me"
+}

@@ -16,7 +16,7 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         //séparation des comments
-        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/train/39.json';
+        $path = $this->get('kernel')->getRootDir() . '/../web/hackatal2017-resume-data/validation/68.json';
 
         $save = file_get_contents($path);
         $savedData = json_decode($save, true);
@@ -60,7 +60,9 @@ class DefaultController extends Controller
             'blessant' => 2,
             'borne' => 2,
             'brute' => 2,
-            'bruyant' => 3,
+            'bruyant' => 5,
+            'bruyante' => 5,
+            'bruyantes' => 5,
             'cachottier' => 2,
             'calculateur' => 2,
             'capricieux' => 2,
@@ -121,6 +123,7 @@ class DefaultController extends Controller
             'delabre' => 3,
             'climatise' => 3,
 //            'vieux' => 3,
+            'vieilles' => 6,
             'humide' => 3,
             'degoutant' => 1,
             'vetuste' => 3,
@@ -154,12 +157,14 @@ class DefaultController extends Controller
             'dangereuse' => 3,
             'dangereux' => 3,
             'inutilisable' => 3,
-            'bruyante' => 3,
             'degueux' => 1,
             'dechire' => 1,
             'crasseux' => 1,
             'crasseuses' => 1,
             'crasseuse' => 1,
+            'déconseille' => 5,
+            'reveille' => 5,
+            'probleme' => 6
         ];
 
         $negatifNom = [
@@ -176,8 +181,8 @@ class DefaultController extends Controller
             'poussiere' => 1,
             'ordure' => 1,
             'fuite' => 1,
-            'bruit' => 3,
-            'wifi' => 3,
+            'bruit' => 5,
+            'wifi' => 5,
             'wi-fi' => 3,
             'humidite' => 1,
             'insalubrite' => 1,
@@ -243,28 +248,28 @@ class DefaultController extends Controller
 
         $adv = [
             'absolument' => 2,
-            'assez' => 4,
-            'beaucoup' => 3,
+            'assez' => 3,
+            'beaucoup' => 2,
             'completement' => 2,
             'extremement' => 1,
-            'fort' => 3,
-            'fortement' => 2,
-            'grandement' => 2,
-            'moins' => 4,
-            'passablement' => 3,
+            'fort' => 1,
+            'fortement' => 1,
+            'grandement' => 1,
+            'moins' => 2,
+            'passablement' => 2,
             'peu' => 3,
-            'plus' => 3,
-            'plutot' => 4,
-            'presque' => 4,
-            'quasi' => 4,
-            'quasiment' => 4,
-            'quelque' => 4,
-            'tellement' => 3,
+            'plus' => 2,
+            'plutot' => 3,
+            'presque' => 3,
+            'quasi' => 3,
+            'quasiment' => 3,
+            'quelque' => 3,
+            'tellement' => 2,
             'terriblement' => 2,
             'totalement' => 2,
             'tout' => 3,
-            'tres' => 3,
-            'trop' => 2
+            'tres' => 1,
+            'trop' => 1
         ];
         $categories = [
             1 => 'propreté',
@@ -308,7 +313,8 @@ class DefaultController extends Controller
             for ($word = 0; $word <= count($values) - 1; $word = $word + 2) {
                 $type = $word + 1;
                 $array[$k][$nbWords][0] = $values[$type];
-                $array[$k][$nbWords][1] = $clean->grandNettoyage($values[$word]);
+                $values[$word] = $clean->grandNettoyage($values[$word]);
+                $array[$k][$nbWords][1] = $values[$word];
 
                 if (array_key_exists($clean->grandNettoyage($values[$word]), $negatif)
                     || array_key_exists($clean->grandNettoyage($values[$word]), $negatifNom)
@@ -348,10 +354,11 @@ class DefaultController extends Controller
                         $comNeg[$k][$m]['cat'] = $negatifNom[$values[$word]];
                     }
 
-                    $expl = explode(' ', $comNeg[$k][$m]['tag']);
-                    $result = array_intersect($expl, array_flip($adv));
+                    $expl = array_flip(explode(' ', $comNeg[$k][$m]['tag']));
+                    $result = array_intersect_key($expl, $adv);
 
                     if ($result != null) {
+                        $result = array_flip($result);
                         $comNeg[$k][$m]['rating'] = floatval($adv[current($result)]);
                     } else {
                         $comNeg[$k][$m]['rating'] = 3.5;
@@ -374,6 +381,7 @@ class DefaultController extends Controller
             $total6 = '';
             $nb6 = 0;
 
+
             for ($o = 0; $o <= count($comNeg[$k]); $o++) {
                 if ($comNeg[$k][$o]['cat'] == 1) {
                     $total1 += floatval($comNeg[$k][$o]['rating']);
@@ -395,8 +403,9 @@ class DefaultController extends Controller
                     $nb6++;
                 }
             }
+
             if ($total1 != 0) {
-                $total1 = $total1 / $nb1;
+                $total1 = ($total1 / $nb1);
             } else {
                 $total1 = '5';
             };
@@ -441,17 +450,17 @@ class DefaultController extends Controller
 
             $p1 = $p2 = $p3 = $p4 = $p5 = $p6 = 0;
             if ($nb1 >= 2 AND $nb1 < 4) {
-                $p1 = 0.5;
+                $p1 = 1;
             } elseif ($nb1 >= 4 AND $nb1 < 6) {
-                $p1 = 1.0;
+                $p1 = 1.5;
             } elseif ($nb1 >= 6) {
                 $total1 = 0;
             }
 
             if ($nb2 >= 2 AND $nb2 < 4) {
-                $p2 = 0.5;
+                $p2 = 1;
             } elseif ($nb2 >= 4 AND $nb2 < 6) {
-                $p2 = 1.0;
+                $p2 = 1.5;
             } elseif ($nb2 >= 6) {
                 $total2 = 0;
             }
@@ -501,25 +510,50 @@ class DefaultController extends Controller
             } elseif ($nb6 >= 6) {
                 $total6 = 0;
             }
-
-            $recap[$k] = [
-                'name' => $dataFR[$k]['name'],
-                'tag' => trim($tag, ','),
-                1 => $total1 - $p1 - $penality,
-                2 => $total2 - $p2 - $penality,
-                3 => $total3 - $p3 - $penality,
-                4 => $total4 - $p4 - $penality,
-                5 => $total5 - $p5,
-                6 => $total6 - $p6 - $penality,
-                'penality' => $penality,
-                'p1' => $p1,
-                'p2' => $p2,
-                'p3' => $p3,
-                'p4' => $p4,
-                'p5' => $p5,
-                'p6' => $p6,
-            ];
-            $k++;
+            $prop = 6;
+            if ($tag != '') {
+                for ($pr = 0; $pr <= $prop; $pr++) {
+                    $kk = $k - $pr;
+                    $recap[$k] = [
+                        'id' => $comNeg[$k],
+                        'name' => $dataFR[$kk]['name'],
+                        'tag' => trim($tag, ','),
+                        1 => $total1 - $p1 - $penality,
+                        2 => $total2 - $p2 - $penality,
+                        3 => $total3 - $p3 - $penality,
+                        4 => $total4 - $p4 - $penality,
+                        5 => $total5 - $p5,
+                        6 => $total6 - $p6 - $penality,
+                        'penality' => $penality,
+                        'p1' => $p1,
+                        'p2' => $p2,
+                        'p3' => $p3,
+                        'p4' => $p4,
+                        'p5' => $p5,
+                        'p6' => $p6,
+                    ];
+                    $k++;
+                }
+            } else {
+                $recap[$k] = [
+                    'name' => $dataFR[$k]['name'],
+                    'tag' => trim($tag, ','),
+                    1 => $total1 - $p1 - $penality,
+                    2 => $total2 - $p2 - $penality,
+                    3 => $total3 - $p3 - $penality,
+                    4 => $total4 - $p4 - $penality,
+                    5 => $total5 - $p5,
+                    6 => $total6 - $p6 - $penality,
+                    'penality' => $penality,
+                    'p1' => $p1,
+                    'p2' => $p2,
+                    'p3' => $p3,
+                    'p4' => $p4,
+                    'p5' => $p5,
+                    'p6' => $p6,
+                ];
+                $k++;
+            }
         }
 
         $tot1 = 0;
@@ -547,11 +581,11 @@ class DefaultController extends Controller
 
         var_dump($totaux);
         die();
-
         $nbNeg = count($comNeg);
         $ratioCom = ($nbNeg / $nbCom);
-        var_dump($comNeg);
-        die();
+
+//        $json = new json();
+//        $json->createJson($totaux,);
 
         $dossier = '../web/hackatal2017-resume-data/test/';
         $dir = opendir($dossier);
